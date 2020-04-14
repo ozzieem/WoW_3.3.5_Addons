@@ -1,0 +1,541 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<!-- Mirrored from auctioneeraddon.com/ by HTTrack Website Copier/3.x [XR&CO'2008], Thu, 29 Oct 2009 13:58:11 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+<title>Auctioneer addon for World of Warcraft</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="http://media.auctioneeraddon.com/style/base.css">
+</head>
+<body>
+<div>
+<div id="wowhead">Item data provided by:<br/><a href="http://wowhead.com/"><img src="http://www.wowhead.com/images/badge_120x60.png" width="120" height="60"/></a></div>
+<img src="http://media.auctioneeraddon.com/images/header.png" width="512" height="129"/>
+</div>
+<div id="content">
+<div id="menu">
+<a href="http://auctioneeraddon.com/?p=home">Home</a>
+<a href="http://auctioneeraddon.com/?p=screen">Screenshots</a>
+<a href="http://norganna.org/wiki/">Documentation</a>
+<a href="http://auctioneeraddon.com/dl">Download</a>
+<a href="http://norganna.org/irc/">Chat</a>
+<a href="http://norganna.org/discuss/">Forums</a>
+<a href="http://jira.norganna.org/">JIRA</a>
+<a href="http://fisheye.norganna.org/">Source</a>
+</div>
+<div id="paypal_header">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<!-- Using HTTPS here causes issues with IE -->
+<input type="image" src="http://www.paypal.com/en_US/i/btn/x-click-but04.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="http://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIHoAYJKoZIhvcNAQcEoIIHkTCCB40CAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYBbp7kzFKCkvDaRZSGl8E0CzRVERdMPqCLUx3Slu+pydm4Yumm7zVU5MGNtUJJ8nHtpYcobuB4vsMf9AE6Cu3Buih32zU1ZWsXoqk/QBArH6/tBJ0MbdR4MTRTcxT1AX9nx5Yd+SVFn8tRcKREcwMoXqklZgDe67Fa0/IUCV967EzELMAkGBSsOAwIaBQAwggEcBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECJhLrLwNBTSVgIH4ChoyphbSD+KDn/VzJZfze6LOmRgOWRN+AvS0uPhm8Cy/41rKdHxoMIMIaz1Vbsms7uf/qzGuTc9gbgEZdFFRoyQ0z84M49lGPi1TmIdpc2ETBpzVHdATBHbOdKNqAkCUV098Deym+Jp9vaR0nZH8FJDGwO6Nef5xmCExPLDwOPhifnVVWpThsWj94K2MAFfKfpRwrRPLNArq6IfszhbunLGYYDfyxmZiroDzwWZBdj2u6YCbKZ2uHgawg3USfR0w4+dbUsJDBmff9h21h0/x9DrlVvtR1Qo9X2ewCJNxpVuHwt0EynsEn5kr0M75bQwKCPgoWnMQIEegggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0wNjA5MjcwMDAwMTJaMCMGCSqGSIb3DQEJBDEWBBQJBGxK1dI9fv+/PIetzC1TbeXvdzANBgkqhkiG9w0BAQEFAASBgGGIBNxcVqGlNMGEV0YBxnsDTdiiEAIXlW8yfJMMKbiTdJxQ5fHrW6/cg/nDIAQh6NIKCQMSxKGfBiGkyQVl5Bzev+IFrS2ze8OAn5gllJRf0cqPzrvz0EkDz/+cOp8MwVtH4OhIupWEno5Uk20yl0Y2TsJyJaXjH3GJXRhZB/sG-----END PKCS7-----
+">
+</form>
+</div>
+<h2>Forum news:</h2>
+
+<div id="news">
+<!-- Cache retrieved: 2009-10-29 09:58:08 -->
+<!-- Cache entered: 2009-10-29 09:57:51 -->
+<style>
+.wowfix {
+	font-size: 10px;
+	float: right;
+	width: 180px;
+	background: #fff2f2;
+	border: 1px solid #ffdada;
+	padding: 5px;
+}
+.wowfix a {
+	text-decoration: none;
+	font-weight: normal;
+	color: 7f6262;
+}
+.wowfix div {
+	padding: 3px;
+	margin: 2px;
+}
+.wowfix .news {
+	background: #d19696;
+	border: 1px solid #d18888;
+}
+.wowfix .news a {
+	color: #844040;
+}
+.wowfix .blue {
+	background: #a4b6cf;
+	border: 1px solid #a4a8c0;
+}
+.wowfix .blue a {
+	color: #576078;
+}
+.wowfix .daily {
+	background: #bda4b6;
+	border: 1px solid #bd96a7;
+}
+.wowfix .daily a {
+	color: #704e5f;
+}
+li.impro {
+	margin-left: 1em;
+}
+</style><div class='wowfix'><a href='http://wowfix.com/'><b>WOWFix.com Headlines:</b></a>
+<div class='news'><a href='http://www.wowfix.com/article-39321'>Breakfast Topic: How do you feel about the new LFG system?</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39320'>Queen Lana'thel, Icecrown Citadel, Blue posts</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39319'>Patch 3.3 PTR: Gunship battle impressions</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39318'>The Top 10 (Murphyâ€™s) Laws of WoW Trading</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39317'>Gunship Airbattle US PTR Testing</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39316'>Win Grunty by answering 10 Escapist questions</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39315'>Drama Mamas: Of crime and crossdressing</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39314'>The Daily Quest: Automatic Points</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39313'>Enter to win your own Creative WoW Wireless headset</a></div>
+<div class='news'><a href='http://www.wowfix.com/article-39312'>Guildwatch: More common than you think</a></div>
+<a href='http://wowfix.com/' style='font-size: 9px;'><img align=right src='http://auctioneeraddon.com/images/wowfixbutton.png' width=80 height=32>Got your Warcraft fix?</a>
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/11187">Auctioneer's and AuctioneerDb's future.</a>
+<div class="byline">Norganna - 2009-10-02 20:21:52:</div>
+<div class="article">
+As you may know, for the past few months I have been taking a break from the daily grind of being &quot;norganna&quot;. I have actually been involved in some of my other projects for this time, and I'm finally ready to come back and have a good look at the future of Auctioneer.<br />
+<br />
+The current state of affairs is that we have 4 servers running. One of which is reasonably expensive and for all intents and purposed is dedicated to running AuctioneerDb.<br />
+<br />
+The remaining 3 other servers, are for the Auctioneer development, issue tracking, wikis, forums, email etc.<br />
+<br />
+Just a bit of background. AuctioneerDb was meant to be a collaborative price database. It was something that many people doggedly asked for over the life of the Auctioneer project, and I have sunk quite a bit of my own time and money (2 years of my spare time, and around $5000 of my own money at this point) into the project to find out that almost nobody is going to use it. We got during the peak of it's use about 100 visitors/day.<br />
+<br />
+It's a terrible shame to me, thinking that I'm going to have to shut it down and admit failure. Worse, I feel foolish for even taking on this project to start with, which is something that I've been coming to terms with over the last several months.<br />
+<br />
+I've decided to put out the decision to you guys. If enough of you make a commitment to use it, tell people about it, make donations so that we can continue it, then I'll make a commitment to bring it up to date, get everything back up and running and fund it for the next 6 months even if it is partially coming out of my own pocket to pay for the servers. At the end of the 6 months, we should have enough traffic and data, that with a proportion of the user base as subscribers to the service can cover at least the cost of the servers. <br />
+<br />
+If not, then I will simply have to face the fact that it's a failure. Sometimes you just can't see things objectively from the inside.<br />
+<br />
+If you want to pledge your support, make a post in this article and tell some other people you know about what's going on.<br />
+<br />
+Thanks, norganna.
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/11040">AuctioneerDB Status</a>
+<div class="byline">Nechckn - 2009-08-27 22:50:46:</div>
+<div class="article">
+Auctioneeros,<br />
+<br />
+There have been some recurring questions about AuctioneerDB, http://AuctioneerDB.Com , so here is an even more prominent discussion, in addition to those already on the AucDB-specific forums.<br />
+<br />
+The service has been down for a bit and, although initially planned to be brought back up immediately, there simply has not been the time to address the issues.<br />
+<br />
+What it comes down to is financial and resource availability.  Both the servers and connectivity cost a decent amount, but the other thing is the manpower to keep the service not only functioning and updated, but progressing - all at a level with which we are confident meets our high standards.<br />
+<br />
+For the time being, do not expect to be able to upload data, but you can still run the AddOn portion in the back ground on your local installation to continue gathering information, so that new data is ready to go when/if the service is brought back on line.<br />
+<br />
+Please keep an eye here for any status information, which we will provide once it is available.<br />
+<br />
+As always, we appreciate everyone's support of our endeavors over the years, and look forward to providing more such innovative AddOns and services into the future.<br />
+<br />
+Happy Sales,<br />
+<br />
+Nikk  :shades:
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/11034">Auctioneer and Auctioneer Suite 5.6.4424 Released</a>
+<div class="byline">Nechckn - 2009-08-27 02:38:33:</div>
+<div class="article">
+Auctioneeros, <br />
+<br />
+We are pleased to release Auctioneer 5.6, which is fully compatible with World of Warcraft 3.2.x.<br />
+<br />
+<u>Installation Notes:</u><br />
+<li class="impro">Adds workarounds for some Blizzard bugs in WoW 3.2 which impact Auctioneer.  Please make sure Auc-Util-FixAH is enabled in your Addon list to employ these temporary fixes.<br /></li><li class="impro">Please be sure to read and follow http://Wiki.Norganna.Org/Installing when upgrading your installation. <br /></li><br />
+<u>Major new features implemented since version 5.5:</u><br />
+<li class="impro">Massive speed improvements to searches in the SearchUI, particularly for non-resale searches<br /></li><li class="impro">Improvements in posting speed from Appraiser, both for single items and batch posting<br /></li><li class="impro">Lots of behind the scenes optimization and code tweaking to implement better caching and get better performance throughout Auctioneer<br /></li><li class="impro">Profile enhancements now allow for copying profiles and resetting back to defaults<br /></li><li class="impro">Tooltip configuration now possible from a single configuration location<br /></li><li class="impro">Enhanced Auctioneer's ability to manage and report statistics for multiple realms and factions<br /></li><li class="impro">Searchers can now individually select the price model they should use in their calculations<br /></li><li class="impro">Snatch searcher now allows for pricing as a percentage of current market price, rather than just static prices<br /></li><li class="impro">Default sort order now remembered properly in SearchUI and BeanCounter<br /></li><li class="impro">BeanCounter now reports profit and loss for all searches<br /></li><li class="impro">BeanCounter bugfixes and database maintenance updates<br /></li><li class="impro">External BeanCounter window can now be resized wider<br /></li><li class="impro">Appraiser price reported should now be consistent across all modules, including all relevant matching<br /></li><li class="impro">Filtered auctions are still ignored by statistics, but are now included in the current AH snapshot and will display in Appraiser competition frames<br /></li><li class="impro">Corrects issues with the Appraiser Refresh button sometimes not refreshing all competition<br /></li><li class="impro">Updates to Enchantrix for new disenchanting, prospecting, and milling reagents and skill levels<br /></li><li class="impro">Additional options and filters available for auto-disenchanting in Enchantrix<br /></li><li class="impro">We now use Blizzard provided vendor sell values<br /></li><li class="impro">Includes all the latest localizations available.  <br /></li><br />
+For a complete, detailed inventory of our changes, see the complete Change Log at http://fisheye.norganna.org/browse/Auctioneer .<br />
+<br />
+<u>Request for Localization Help:</u><br />
+<li class="impro">Please, if you have any sort of decent grasp of any of the languages in use by various WoW locales, we are in need of help localizing Auctioneer, Informant, and the other AddOns listed at http://Localizer.Norganna.Org . <br /></li><li class="impro">Registering takes only moments and you can be on your way... it is quite simple. Even if you only have the time/inclination to help with a few translations, that will be better than what we have now for some of the locales. <br /></li><li class="impro">Before starting, kindly take a look at http://forums.norganna.org/discussion/9517/translation-format/ for some basic thoughts.<br /></li><br />
+Happy Auctioneering,<br />
+<br />
+Nikk and the rest of the family at Norganna's AddOns<br />
+<br />
+<u>Current commits (changes, enhancements, fixes):</u><br />
+Revision: 4424  Tagging 5.6 Release<br />
+Revision: 4423  Create 5.7 Branch to allow for work on next release.<br />
+Revision: 4422  Merge of recent fix of typo in BCNT.<br />
+Revision: 4421  How did this code ever work previously like this? *BOGGLE* Fix <a href="http://jira.norganna.org/browse/BCNT-277">BCNT-277</a><br />
+Revision: 4420  Merge of recent changes including the reintroduction of the paging fix for the AH, which, apparently was changed during a hotfix or &quot;something&quot;.  Also fix to scandata to ensure it displays, along with the stack size, whenever it is loaded.  Change to allow the BCNT frame to show when the AH is opened and to allow it to be resized.  Some modifications to ENX localization framework, such as strings.<br />
+Revision: 4419  Reintroduce the PageOneReturn.lua since, it is quite apparent that the AH has returned to the old, broken behavior.  Also, commented out the auto-disable code so that a new release is not needed for each build.<br />
+Revision: 4418  Reintroduce the PageOneReturn.lua since, it is quite apparent that the AH has returned to the old, broken behavior.  Also, commented out the auto-disable code so that a new release is not needed for each build.<br />
+Revision: 4417  Fixes [<a href="http://jira.norganna.org/browse/BCNT-276">BCNT-276</a>] The External BeanCounter search window now has a small button in the bottom right that allows the user to drag the window making it wider.<br />
+Revision: 4416  Fixes [<a href="http://jira.norganna.org/browse/ADV-94">ADV-94</a>] Auctioneer Classic has been decommissioned.  Interaction between advanced and classic is no longer an issue.  Command interface enhanced to show help according to which slash command triggered it, and to act upon auctioneer slash command.<br />
+Revision: 4415  Fixes [<a href="http://jira.norganna.org/browse/ADV-152">ADV-152</a>] All code to routines found by GetAllModules are wrapped in pcall.  Those places that looked at function outputs now will log to nlog the failure, the other locations just silently ignore the error.<br />
+Revision: 4414  <a href="http://jira.norganna.org/browse/ENX-118">ENX-118</a>, <a href="http://jira.norganna.org/browse/ENX-110">ENX-110</a> - update enchantrix constants and baselines for 3.2, update translation strings<br />
+Revision: 4413  Fixes [<a href="http://jira.norganna.org/browse/SPRG-8">SPRG-8</a>] Adds percentage calculation to display.  Thanks to Gregity for the code fix for this and <a href="http://jira.norganna.org/browse/SPRG-3">SPRG-3</a>.<br />
+Revision: 4412  Fixes [<a href="http://jira.norganna.org/browse/SPRG-3">SPRG-3</a>] Modifies time left to &quot;Done&quot; once scan is complete.<br />
+Revision: 4411  Implements [<a href="http://jira.norganna.org/browse/SDAT-6">SDAT-6</a>].  Stack size breakdown now always displayed.  The old code tried to check for there being only a single stack size listed in the snapshot.  If so, it would not display the stack size breakdown.  Unfortunately, the dist.stack table is sparse, and so the return of #(dist.stack) actually returns the size until the first non-existant stack (e.g. a 0 if there is no 1 stack, a 3 if stacks are (1,2,3,10,20), a 5 if they are (1,2,3,4,5,19), etc.).<br />
+Since there is no easy, clean way to count the table size for sparse tables, for the moment I've just removed the check altogether.  If saving that one line becomes important down the road, we can add it another table iteration to do a count first.<br />
+Revision: 4410  Starts [<a href="http://jira.norganna.org/browse/ASER-244">ASER-244</a>] The searchUI manifest window will now remember the sort direction and any column order movements the user has mad across sessions.<br />
+The columns can be moved by right clicking and dragging the header frame. ALT+Right click to resize a column<br />
+Revision: 4409  Merge of recent changes, including workaround in ENX to avoid tooltip issue, fix to tooltip from scandata, and fix so that purchases remove items from snapshot just after purchase.<br />
+Revision: 4408  Fixes [<a href="http://jira.norganna.org/browse/SDAT-15">SDAT-15</a>], corrects copy/paste error so that suffix and base totals are reported which match the PriceLevel breakdowns.<br />
+Revision: 4407  [<a href="http://jira.norganna.org/browse/ENX-120">ENX-120</a>] - work around nil links coming into the Enchantrix tooltip handlers for now, leave them as separate tests so we can debug it once we have a reproduceable case<br />
+Revision: 4406  Fixes [<a href="http://jira.norganna.org/browse/ADV-477">ADV-477</a>]  Returns treating very small result sets as a getAll.  Also moved parameterized commit function to a private function as improper calling could corrupt/taint the scan data.<br />
+Revision: 4405  Fixes [<a href="http://jira.norganna.org/browse/APPR-277">APPR-277</a>]  Reverses direction of slider movement in Duration slider when using scrollwheel.<br />
+Revision: 4404  Merge of recent changes; BCNT change to allow use of external BCNT window while the AH is opened, removal of the paging fix in FixAH, and change to the disable code.<br />
+Revision: 4403  Removes the pageone fix as no longer needed. <br />
+Revision: 4402  Removes the pageone fix as no longer needed. <br />
+Revision: 4401  Update AH Page One Search fix for Live realm client version 10314<br />
+Revision: 4400  Adds [<a href="http://jira.norganna.org/browse/BCNT-274">BCNT-274</a>] BeanCounter's External search window will be usable at the same time as the AuctionHouse window. It will only hide if the user selects the BeanCounter tab on the AuctionHouse.<br />
+Revision: 4399  Merge of recent change to BCNT to help in the recording of &quot;failed&quot; auctions.<br />
+Revision: 4398  Fixes [<a href="http://jira.norganna.org/browse/BCNT-272">BCNT-272</a>]  Should make failed auctions record more reliably.  Expands time window failed auctions will be matched against from 20 minutes to 4 hours. So we search 2 hours before and 2 hours after estimated posting time. Comments out a lot if debug code, debug will now ONLY report when a mail FAILS to record.<br />
+Revision: 4397  Merge of recent changes to help with BCNT's APPR integration and column sorting.  Also change to ensure the setting to integrate/remove the SearchUI from the AH frame functions as expected.<br />
+Revision: 4396  Once more, with properties defined.<br />
+Revision: 4395  Adding in appropriate revision code for ##Revision.<br />
+Revision: 4394 Update Glypher TOC metadata<br />
+Revision: 4393  Fixes [<a href="http://jira.norganna.org/browse/BCNT-269">BCNT-269</a>]  If user has rearranged the BeanCounter column order, the users last selected column to sort by and sort direction, will be properly applied next across play sessions.<br />
+Revision: 4392  Fixes [<a href="http://jira.norganna.org/browse/BCNT-268">BCNT-268</a>]  Automated searches of BeanCounter while browsing the AH will display all checked filter options.  The players current filter options will be used for API queries that lack the settings filter table.<br />
+Revision: 4391  Fixes [<a href="http://jira.norganna.org/browse/BCNT-270">BCNT-270</a>]  Adds check to make sure we have a valid item before attempting to :match()  when running the 2.09 bit of DB upgrade code. Would error if the itemIDName array was empty.<br />
+Revision: 4390  Fixes [<a href="http://jira.norganna.org/browse/ASER-241">ASER-241</a>] The setting to disable SearchUI's integrated &quot;Search&quot; tab on the Auctionhouse should now work properly<br />
+Revision: 4389  Merge of recent changes, including change to INF to use new vendor sales price from the API, fix to ENX to display TT information correctly, and strings from localizer.<br />
+Revision: 4388  [<a href="http://jira.norganna.org/browse/ENX-119">ENX-119</a>] - fix the link decoding to handle spell and enchant links<br />
+Revision: 4387  [<a href="http://jira.norganna.org/browse/INF-68">INF-68</a>] This replaces the database value with the Blizz-supplied value at the time of lookup.  Still need to remove references to our database value, probably should also remove the display from the extra tooltip, which is now redundant.  Finally, will need to remove the sell-to-vendor value from the database and change the updater script not to look for it, and notify Wowhead we don't need them to supply it any more.<br />
+Revision: 4386  Completes [<a href="http://jira.norganna.org/browse/MISC-58">MISC-58</a>] Update of strings from Localizer for AUC, BCNT, ENX, ENXBRK, and INF.<br />
+Revision: 4385  Merge of addition to FixAH to help deal with recent API issue, introduced along with 3.2 patch.  message() API has a bad frame reference. This will override with the proper frame reference.<br />
+Revision: 4384  Adds fix for Blizzards message API bug introduced in patch 3.2 message()  API has a bad frame reference. This will override with the proper frame reference.<br />
+Revision: 4383  Merge of changes to include TOCs and clean up to help reduce chance of posting issues from APPR.<br />
+<br />
+The above includes only the 50 most recent changes.  For a complete, detailed inventory of our changes, see the complete Change Log at http://fisheye.norganna.org/browse/Auctioneer .
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10728">AuctioneerDb released.</a>
+<div class="byline">Norganna - 2009-06-22 19:55:29:</div>
+<div class="article">
+I am proud to announce that <a href="http://auctioneerdb.com/">AuctioneerDb</a> has now reached the general availability stage (GA) and is ready for consumption by the wider internet audience.<br/><br/>
+
+We do of course plan to continue fixing any bugs that are found, adding new features, especially the premium functionality that I know a lot of you are waiting for, and more importantly listening and being responsive to our users comments and requests.<br/><br/>
+
+Being accessible to our users is a big part of what we do here at Norganna's AddOns. We like to assist our users with any requests they have, and we're not just a one man show. We have a dedicated team of support personnel, developers, quality assurance and a burning desire to keep our users as happy as we can. You can be confident when using our products that if you have any problems, we will do our utmost to assist you.<br/><br/> 
+
+Above all, I would like to thank everyone who has helped out with the development, testing and regional localization work thus far, we couldn't have made it here without you!
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10535">Auctioneer and Auctioneer Suite 5.5.4270 Released!</a>
+<div class="byline">Nechckn - 2009-05-19 23:10:31:</div>
+<div class="article">
+Auctioneeros,<br />
+<br />
+We are pleased to release Auctioneer 5.5, which is fully compatible with World of Warcraft 3.1.x.<br />
+<br />
+Roughly 60 changes this time, including saving column movement and sorting in BeanCounter and Appraiser, with more modules on the way.  We have also created a special module to help our users deal with the issue where searches on the “Browse” frame do not automatically show the first page of results.  Also, a major change to allow Outliers to display in the Appraiser frame has been implemented.  This always caused some confusion, so the decision was made to allow those outliers to display but keep them from affecting the statistics, as always.  This way, folks can see all of the competition but not have to worry about them poisoning their data.<br />
+<br />
+Some other highlights include:<br />
+<li class="impro">Auctioneer:  Corrected a number of pop-up tooltip items, including adding them to Localizer.  Completed the background changes needed to allow serverKey to function as intended.  This clears the way for eventual cross-faction pricing to, optionally, be shown in the tooltip, et cetera.<br /></li>** SearchUI:  The “Reset” button, that clears all Searcher settings will now require users to hold CTRL+Shift+Alt to help ensure that they realize they will be resetting all SearchUI settings.  Also, implement the code to allow Searchers to select a given Statistics module, the individual Searchers will have access to the code in the next release.  Fixed some outstanding issues that were causing errors.  The permanent “ignore” function should now function appropriately as far as stack size/price is concerned.  Revamped the interface of the Snatch Searcher to make it a bit easier to use, some additional changes will be coming in the next release.<br />
+<li class="impro">BeanCounter:  Changes to help BeanCounter better track failed auctions.  Note: There appears to be some server issues that result in the necessary information not being reliably sent all the time, we will watch the situation and update the next release with any needed changes.*  Corrected an incompatibility due to a function change in Altoholic.<br /></li><li class="impro">Enchantrix:  Added an option to show or hide reagent information.  Fixed an issue due to the recent changes by Blizzard that resulted in bank bags appearing like any other and causing the AutoDE feature to sometimes recommend items for processing numerous times.<br /></li><li class="impro">Informant:  Data has been updated for WoW 3.1 and beyond.  Added a new function set that allows other AddOns to obtain vendor data that is included in Informant, such as location, what items they sell, et cetera.<br /></li><li class="impro">All of the very latest http://Localizer.Norganna.Org files have been added, so all of the updates we have, you will see in your localized client. <br /></li>** Please, if you have any sort of decent grasp of any of the languages, we are in need of help localizing Auctioneer, Informant, and the other AddOns listed at http://Localizer.Norganna.Org .<br />
+**&quot; Registering&quot; takes only moments and you can be on your way... it is quite simple. Even if you only have the time/inclination to help with a few translations, that will be better than what we have now for some of the locales.<br />
+** Before starting, kindly take a look at http://forums.norganna.org/discussion/9517/translation-format/ for some basic thoughts.<br />
+<br />
+Happy Auctioneering,<br />
+<br />
+Nikk and the rest of the family at Norganna’s AddOns<br />
+__________<br />
+Individual commits (changes, enhancements, fixes):<br />
+Revision: 4267  Fixes [<a href="http://jira.norganna.org/browse/ADV-437">ADV-437</a>] -- Only filtered items were being passed to delete processors.  missing NOT added.<br />
+Revision: 4226  Fixes [<a href="http://jira.norganna.org/browse/ENX-114">ENX-114</a>] add option to not display the reagent information (prices, totals, etc.) for enchants/spells in tooltips<br />
+Revision: 4225  Fixes [<a href="http://jira.norganna.org/browse/ENX-115">ENX-115</a>] Don't allow bags outside the 0..4 range when scanning for AutoDE<br />
+Revision: 4224  Fixes [<a href="http://jira.norganna.org/browse/ASER-222">ASER-222</a>] Fixes a rare nil error in General Search<br />
+Revision: 4223  Completes [<a href="http://jira.norganna.org/browse/ADV-441">ADV-441</a>] Fixes a bug where Appraiser (and some other modules) sometimes mistakenly listed Soulbound or Accountbound items as auctionable<br />
+Revision: 4222  Fixes [<a href="http://jira.norganna.org/browse/ADV-440">ADV-440</a>] Fixes some popup tooltips in Config General Settings tab<br />
+Revision: 4221  Fixes [<a href="http://jira.norganna.org/browse/SIMP-21">SIMP-21</a>] Fixes Help Window text in StatSimple Config<br />
+Revision: 4220  Fixes [<a href="http://jira.norganna.org/browse/BCNT-254">BCNT-254</a>]  The server/faction/player filters will now affect the profit/loss displayed in the BeanCounter search results frame<br />
+Revision: 4219  Fixes [<a href="http://jira.norganna.org/browse/SDEV-18">SDEV-18</a>]   StdDev will now use unit price, not stack price, when filtering out outliers.<br />
+Revision: 4218  Enables Auc-Util-FixAH for PTR build.<br />
+Revision: 4217  Fixes [<a href="http://jira.norganna.org/browse/ASER-221">ASER-221</a>]  &quot;Reset&quot; will now require CTRL +SHIFT + ALT to be held before it will reset players settings. Prints help text of what it does and how it is used on click.<br />
+Revision: 4216  Starts [<a href="http://jira.norganna.org/browse/ASER-201">ASER-201</a>]  Changes anchor point for the &quot;snatch list&quot; so it does not squash together when using the Auction frame embedded SearchUI window.<br />
+Revision: 4215  Corrects issue with Auc-Util-FixAH to reset page to 0 instead of 1<br />
+Revision: 4214  Add new FixAH util module to fix when Blizz search button is clicked and search doesn't return to page one<br />
+Revision: 4213  Starts [<a href="http://jira.norganna.org/browse/ASER-201">ASER-201</a>] See Screen Shots in ticket  Redesigns Snatch UI, Removes &quot;bag&quot; scroll frame to increase size of snatch list. Adds a new column PERCENT of market price. Adds entry box and ability for snatch to suggest purchases by % of market price not just fixed price. GUI will display green highlight with red %  for items that are using this setting. When %is used the &quot;buy each&quot; box displays what teh current % settings of market price is.<br />
+Revision: 4212  Fixes [<a href="http://jira.norganna.org/browse/ASER-220">ASER-220</a>] Extra check to avoid possible error when removing an item from ItemPrice filter ignore list.<br />
+Revision: 4211  Completes [<a href="http://jira.norganna.org/browse/INF-63">INF-63</a>] Merge of most recent Localizer changes/updates.<br />
+Revision: 4210  Completes [<a href="http://jira.norganna.org/browse/ADV-438">ADV-438</a>] Merge of updates from Localizer.<br />
+Revision: 4209  Fixes [<a href="http://jira.norganna.org/browse/APPR-267">APPR-267</a>] Handles the case where util.appraiser.round.method is an unexpected value, instead of bugging out.<br />
+Revision: 4208  FIXES [<a href="http://jira.norganna.org/browse/ADV-437">ADV-437</a>]  Corrects all auctions being marked as filtered when seen as updated/unchanged.<br />
+Revision: 4207  Completes [<a href="http://jira.norganna.org/browse/UCUT-23">UCUT-23</a>] &amp; [<a href="http://jira.norganna.org/browse/OUTL-9">OUTL-9</a>] &lt;developer&gt; uses Price Model selector function in Undercut and Outlier settings. Updates [<a href="http://jira.norganna.org/browse/ADV-436">ADV-436</a>]: added some localization to the Price Model dropdown menu - will show up in all places that already use the selector function.<br />
+Revision: 4206  Completes [<a href="http://jira.norganna.org/browse/ADV-436">ADV-436</a>] &amp; [<a href="http://jira.norganna.org/browse/PLVL-9">PLVL-9</a>] &lt;developer&gt; Adds a &quot;Price Model selector&quot; utility function. Uses that function in the PriceLevel settings. Users should notice no difference.<br />
+Revision: 4205  Fixes [<a href="http://jira.norganna.org/browse/ADB-15">ADB-15</a>] referring to uninitialized server designation if checking email before scan<br />
+Revision: 4204  Fixes [<a href="http://jira.norganna.org/browse/ASER-214">ASER-214</a>] Filter-ItemQuality should no longer throw an error if it gets an unexpected quality value from the Blizzard API.<br />
+Revision: 4202  Fixes [<a href="http://jira.norganna.org/browse/BCNT-253">BCNT-253</a>] try 2  Fixes early invoice lookup termination on bids/buys  BeanCounter should no longer time out when looking up invoices in the mail after and Auctioneer GetAll/Fast Scan. ie the Server Name lookup throttle should no longer cause issues for BeanCounters mail recording<br />
+Revision: 4201  Fixes [<a href="http://jira.norganna.org/browse/BCNT-253">BCNT-253</a>]  BeanCounter should no longer time out when looking up invoices in the mail after and Auctioneer GetAll/Fast Scan. ie the Server Name lookup throttle should no longer cause issues for BeanCounters mail recording<br />
+Revision: 4200  Completes [<a href="http://jira.norganna.org/browse/ADV-435">ADV-435</a>] &amp; [<a href="http://jira.norganna.org/browse/ADV-408">ADV-408</a>] &lt;developer&gt; see Jira tickets for details.<br />
+Revision: 4199  Updates [<a href="http://jira.norganna.org/browse/ADV-395">ADV-395</a>] &lt;developer&gt; GetDepositCost will now return nil when deposit cost is unknown (instead of 0)<br />
+Revision: 4198  Fixes [<a href="http://jira.norganna.org/browse/BCNT-252">BCNT-252</a>]  Corrects two minor recording issues for Completed auctions.  Changes/adds some debug strings to better track missed recording<br />
+Revision: 4197  Fixes [<a href="http://jira.norganna.org/browse/ASER-213">ASER-213</a>]: Permanent &quot;Ignore&quot; button should now work properly for stacks in SearchUI.<br />
+Revision: 4196  Completes [<a href="http://jira.norganna.org/browse/INF-62">INF-62</a>] Adds Informant.getItemVendorInfo in InfMain.lua to quickly return basic information about an item. Used as follows:<br />
+isVendored,isLimited,itemCost,sellPrice,buyStack,maxStack = Informant.getItemVendorInfo(itemID) Where the values are as follows:<br />
+ isVendored: boolean, true if at least one vendor sells it. - isLimited: boolean, true if vendors sell in limited qty. - itemCost: integer, amount (in copper) to purchase item.<br />
+ sellPrice: integer, amount (in copper) item sells for. - buyStack: integer, number of items in the stack you buy. - maxStack: integer, max amount the item will stack to.<br />
+Revision: 4195  Fixes [<a href="http://jira.norganna.org/browse/ADV-432">ADV-432</a>] Auctioneer's scanner updated so that the Auction House image contains all auctions in the auction house.  CoreScan.lua modified to take actually use the Filtered flag as was originally intended.  Filtering is still only done on creation of a new auction.  Once an auction is marked as filtered, it stays that way until it is deleted.  Filtered queries are not shown to stats modules just like originally done, but items that view the current image can see them.<br />
+Revision: 4193  Fixes [<a href="http://jira.norganna.org/browse/BCNT-251">BCNT-251</a>]  Changes &quot;The data for &quot;..server..&quot; is not at the current BeanCounter DB version of &quot;..private.version..&quot;  to &quot;The data for &quot;..serverName..&quot; is not at the current BeanCounter DB version of &quot;..private.version..&quot;<br />
+Revision: 4192  Fixes <a href="http://jira.norganna.org/browse/ASER-196">ASER-196</a>: General Search will now return proper pct value for stackables.<br />
+Revision: 4191  Fixes [<a href="http://jira.norganna.org/browse/BCNT-250">BCNT-250</a>] Should fix mails not recording or displaying any debug output.   We still used a find that was no longer needed since we dont store full itemlinks. This could return the wrong item if its name was a subsection of the longer string we were looking for.<br />
+ie &quot;Healing Potion&quot; would be returned when we looked for &quot;Greater Healing Potion&quot;<br />
+Revision: 4190  Fixes [<a href="http://jira.norganna.org/browse/APPR-266">APPR-266</a>]: fixes tooltip for &quot;Close Sidebar&quot; button in Appraiser.<br />
+Revision: 4189  Updates [<a href="http://jira.norganna.org/browse/ASAL-20">ASAL-20</a>] Removes debugging pollution<br />
+Revision: 4188  Updates [<a href="http://jira.norganna.org/browse/ASAL-20">ASAL-20</a>] StatSales should now handle cross-faction and cross-server stats in most cases (the exception being Neutral AH stats)<br />
+Revision: 4186  Completes [<a href="http://jira.norganna.org/browse/ADV-430">ADV-430</a>] Merge of recent changes to Auc-Stat-Purchased, especially those making it conform to the serverKey convention.<br />
+Revision: 4185  Fixes [<a href="http://jira.norganna.org/browse/ADV-424">ADV-424</a>]: resets market value (in tooltip and elsewhere) after using &quot;/auc clear [item]&quot;<br />
+Revision: 4184  Completes [<a href="http://jira.norganna.org/browse/SDEV-16">SDEV-16</a>]&amp;[<a href="http://jira.norganna.org/browse/SDEV-17">SDEV-17</a>]: Stat-StdDev should now handle &quot;/auc clear [item of the suffix]&quot; properly. Also some code tidying.<br />
+Revision: 4183  Fixes [<a href="http://jira.norganna.org/browse/AAMU-120">AAMU-120</a>][<a href="http://jira.norganna.org/browse/ASER-204">ASER-204</a>]&amp;[<a href="http://jira.norganna.org/browse/AAMU-122">AAMU-122</a>]: fixes several problems when clicking on or mousing over lists in AutoMagic and SearchUI.<br />
+Revision: 4182  Fixes [<a href="http://jira.norganna.org/browse/BCNT-249">BCNT-249</a>]  Removes global variable: serverName at line 132<br />
+Revision: 4181  Completes [<a href="http://jira.norganna.org/browse/BCNT-248">BCNT-248</a>] Merge of changes to BeanCounter - Will help to allow for cross-realm searching and changes to the way BCNT stores older data.<br />
+Revision: 4177  Fixes [<a href="http://jira.norganna.org/browse/ASKP-30">ASKP-30</a>]  Localize askprices whisper responses<br />
+Revision: 4176  Completes [<a href="http://jira.norganna.org/browse/ADV-429">ADV-429</a>]  Updated Localizer, imported recent changes, and committed.<br />
+Revision: 4173  Continues [<a href="http://jira.norganna.org/browse/APPR-108">APPR-108</a>]  remove debug print<br />
+Revision: 4172  Fixes [<a href="http://jira.norganna.org/browse/APPR-108">APPR-108</a>]  Rearranges order and column sort functions to be called after appraisers GUI has been fully created.<br />
+Revision: 4171  Continues [<a href="http://jira.norganna.org/browse/APPR-263">APPR-263</a>] removes excess from _TRANS items<br />
+Revision: 4170  Completes [<a href="http://jira.norganna.org/browse/ADV-428">ADV-428</a>] which corrected some issues with the enUS localization of the APPR frame and also commits current Auctioneer Strings.<br />
+Revision: 4169  Completes [<a href="http://jira.norganna.org/browse/APPR-263">APPR-263</a>] Added new value to localizer and file for the button to change between per stack and per item pricing and changed &quot; to ' for APPR_Interface_SelectItemLeftAuctioning.<br />
+Revision: 4168  Completes [<a href="http://jira.norganna.org/browse/ADV-428">ADV-428</a>] Import of current strings, especially the change to the help tooltip for the Stack/Each button.<br />
+Revision: 4167  Completes [<a href="http://jira.norganna.org/browse/APPR-263">APPR-263</a>] Update meaning of tooltip help text in Appraiser and Localizer to mean changing between Per Item and Per Stack Pricing from old Change between Full/Simple View.<br />
+Revision: 4166  Fixes [<a href="http://jira.norganna.org/browse/APPR-108">APPR-108</a>] The sort order of a column will now be remembered across sessions, requires Configator r210 or higher<br />
+Revision: 4165  Fixes [<a href="http://jira.norganna.org/browse/BCNT-243">BCNT-243</a>] Commits to trunk  The sort order of a column will now be remembered across sessions, requires Configator r210 or higher<br />
+Revision: 4163  [<a href="http://jira.norganna.org/browse/INF-61">INF-61</a>] Updates Informant's database with new information for 3.1.0<br />
+Revision: 4160  Temp patch for [<a href="http://jira.norganna.org/browse/BCNT-242">BCNT-242</a>]  Just changes the old Altaholic hook to work with new version of Altaholic. --TODO find a method that does not require a direct hook into altaholic.<br />
+See the Complete Change Log via http://Fisheye.Norganna.Org , specifically, http://fisheye.norganna.org/browse/Auctioneer .<br />
+<br />
+**Nechckn Edit:  Added the changelog and details of the release.
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10483">AuctioneerDb now at Beta stage</a>
+<div class="byline">Norganna - 2009-05-15 00:26:37:</div>
+<div class="article">
+AuctioneerDb (<a href="http://auctioneerdb.com/">http://auctioneerdb.com</a>) is a searchable auction prices database for World of Warcraft&trade; realms. It provides detailed historical price information for recorded World of Warcraft&trade; auctions, including many different breakdowns of auctions between bids, buyouts, stack sizes, factions, realms, days of the week, and historical prices. AuctioneerDb's aim and primary purpose is to improve the game experience for World of Warcraft&trade; players of all calibers from the basic player who knows nothing about the auction house and just wants to "sell their stuff" to experienced arbitrageurs who play the trading game to buy low and sell high. By allowing free access to detailed auction information, we hope to up our game, level the playing field and stabilize the markets as Auctioneer has been doing now for many years, but at a whole new level.<br/><br/>
+
+I'd like to thank everyone who has helped this last year on the AuctioneerDb project, whether it's to provide advice, development support, debugging assistance, improvement suggestions, or just merely using the product while it was buggy and uploading data.<br/><br/>
+
+We've finally reached that point where the whole thing is ready for public consumption. Up until now, we've been trying to keep things under wraps a little to keep the user base small and manageable by only mentioning it on the Norganna's AddOns websites. However now we think it's finally ready for the general public and as reflects the Beta status, we will start promoting it a little more generally out in the wider internet.
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10413">Help testing Auctioneer Suite's BeanCounter mail recording</a>
+<div class="byline">Nechckn - 2009-05-05 00:57:50:</div>
+<div class="article">
+Auctioneeros,<br />
+<br />
+As many have noticed, there are some odd issues, since roughly WoW Patch 3.1, when visiting the Auction House.<br />
+<br />
+One among these, is that all of the mail is not being recorded correctly by BeanCounter, notably &quot;failures&quot;.<br />
+<br />
+To help discern if this is, indeed, some server issue, we could use some help.  If you are interested in helping, be sure to update to the beta/preview release from http://AuctioneerAddOn.Com/dl/#preview using the instructions from http://Wiki.Norganna.Org/Installing .  After updating, please read and follow the instructions at http://forums.norganna.org/discussion/10412/ and be sure to follow up with a post to let us know of your experience.<br />
+<br />
+**Note that this is a different issue from the &quot;Browse&quot; tab not returning to the first page for all new searches, that is definitely a server issue and occurs for those who use no AddOns.  We are still waiting for a fix or comment, but, as of yet, there has been none.<br />
+<br />
+Happy Sales,<br />
+<br />
+Nikk
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10219">Auctioneer and Auctioneer Suite 5.4 Released!</a>
+<div class="byline">Nechckn - 2009-04-15 02:05:21:</div>
+<div class="article">
+Auctioneeros,<br />
+<br />
+We are pleased to release Auctioneer 5.4, which is fully compatible with World of Warcraft 3.1.x.<br />
+<br />
+Roughly 50 changes this time, including a major overhaul of BeanCounter and its handling of data, although there should be no huge changes on the end-user side.<br />
+*A major change this time to the Appraise Frame, including shortening the “sliders” to make them a bit less menacing to the uninitiated, the addition of the “per stack”/ “per each” pricing option by clicking the per stack/ per each to the left of the GSC boxes, and alignment of the option selection boxes to help speed posting, even more.<br />
+**Due to these changes, the “Simple” view was removed.  Kindly keep in mind that this is the first major step to the new look, so bear with us during the transition.  We welcome specific, constructive feedback on http://Forums.Norganna.Org , as always, so please swing by with your thoughts and recommendations.<br />
+*Another popular change went live, in the code for the SearchUI pop-up.  The “Yes” and “No” boxes will no longer move depending upon the length of the item name.<br />
+*The AskPrice module also has had a modification, due to the changes to the chat filter system introduced in WoW 3.1; basically, a change to the order of the function(s).<br />
+*AuctioneerDB continues toward completion with a few fixes, including allowing for Realms with hyphens in the name, no longer throwing an error when no sell value provider exists, and adding in Realm/Faction codes.<br />
+*Progress continues on [<a href="http://jira.norganna.org/browse/ADV-124">ADV-124</a>] , the serverKey project.  The Auc-Stat-Simple will now provide valid returns, based on Realm, for those looking for cross-realm Arbitrage amounts via home grown code.  This is one step closer to allowing for an option to display another faction/realm in the “official” tooltip- the same goes for Stat-Sales.<br />
+*All of the very latest http://Localizer.Norganna.Org files have been added, so all of the updates we have, you will see in your localized client. <br />
+ ** Please, if you have any sort of decent grasp of any of the languages, we are in need of help localizing Auctioneer, Informant, and the other AddOns listed at http://Localizer.Norganna.Org .<br />
+**&quot;Registering&quot; takes only moments and you can be on your way... it is quite simple. Even if you only have the time/inclination to help with a few translations, that will be better than what we have now for some of the locales.<br />
+**Before starting, kindly take a look at http://forums.norganna.org/discussion/9517/translation-format/ for some basic thoughts.<br />
+<br />
+Happy Auctioneering,<br />
+<br />
+Nikk and the rest of the family at Norganna’s AddOns<br />
+__________<br />
+Individual commits (changes, enhancements, fixes):<br />
+Revision: 4156  Completes [<a href="http://jira.norganna.org/browse/ADV-426">ADV-426</a>] Updates all strings across the Suite with those from Localizer.<br />
+Revision: 4155  [<a href="http://jira.norganna.org/browse/ADV-425">ADV-425</a>] Update TOC Interface to 30100 for WoW client v3.1.0<br />
+Revision: 4154  [<a href="http://jira.norganna.org/browse/ASKP-29">ASKP-29</a>] Update Auc-Util-AskPrice ChatThrottleLib package to v20.<br />
+Revision: 4152  Fixes [<a href="http://jira.norganna.org/browse/SIMP-20">SIMP-20</a>] &amp; [<a href="http://jira.norganna.org/browse/SIMP-19">SIMP-19</a>]: the Clear Item command will correctly handle items with suffixes (&quot;of the ...&quot;). Plus some other minor tweaks.<br />
+Revision: 4151  [<a href="http://jira.norganna.org/browse/ADB-14">ADB-14</a>] : Fix realm/faction splitting to handle realms with hyphens<br />
+Revision: 4150  [<a href="http://jira.norganna.org/browse/ADB-13">ADB-13</a>] : Fix error when no sellvalue provider exists<br />
+Revision: 4149  [<a href="http://jira.norganna.org/browse/ADB-14">ADB-14</a>] : Prefix realm-faction designation with portal code<br />
+Revision: 4147  Continues [<a href="http://jira.norganna.org/browse/APPR-2">APPR-2</a>]  Adds price level coloring to Stack price entry boxes.<br />
+Hopefully fixes issues with syncing per each and per stack price boxes when using &quot;Matchers&quot;.<br />
+Revision: 4146  Fixes [<a href="http://jira.norganna.org/browse/ADV-423">ADV-423</a>]  The Value and itemLink lines will no longer extend into the icon and off the buy prompt window<br />
+Revision: 4145  Continues [<a href="http://jira.norganna.org/browse/BCNT-240">BCNT-240</a>]  Corrects global variable: serverName at line 132<br />
+Revision: 4144  Merges all changes made in Branch related to [<a href="http://jira.norganna.org/browse/BCNT-240">BCNT-240</a>]<br />
+****Warning backup, this may or may not destroy your data, kick your dog, and taunt you a second time****<br />
+Move all storage tables to use the same data layout and length, simplifying storage and re-trivial. Adds NEW FIELD to store which auction house trxn took place at. A, H, N<br />
+Changes the way we store itemLinks in the itemNameArray. This saves space and improves the speed of the string.finds()<br />
+Updates Search API to allow MULTIPLE server search results (max 4). in settings table pass a named list of servers{&quot;name&quot;, &quot;name2&quot;}<br />
+Revision: 4143  [<a href="http://jira.norganna.org/browse/ASKP-28">ASKP-28</a>] To deal with the upcoming changes to the chatfilter system, the filter function has been changed from:<br />
+function (message) &lt;stuff&gt; end<br />
+to:<br />
+function (self, event, ...) local message = select(1,...) or arg1 &lt;do stuff&gt; end<br />
+Revision: 4141  [<a href="http://jira.norganna.org/browse/ENX-113">ENX-113</a>] Removing Mercurial Stone from the disenchant list. <br />
+Revision: 4139  Fixes [<a href="http://jira.norganna.org/browse/ADV-384">ADV-384</a>]  Makes sure the &quot;graphical&quot; frame is one level below the rest of the elements.<br />
+Revision: 4138  Fixes [<a href="http://jira.norganna.org/browse/ADV-384">ADV-384</a>]  Accidentally erased a “.” before commit.<br />
+Revision: 4137  Fixes [<a href="http://jira.norganna.org/browse/ADV-384">ADV-384</a>]  The Yes and No buttons on the &quot;searchUi&quot; buy prompts should no longer move when the prompt window size changes.<br />
+We split the &quot;anchor&quot; frame for all the prompt elements from the Backdrop frame thats resized. This stops unexpected movements when the backdrop is resized.<br />
+Revision: 4134  Continues [<a href="http://jira.norganna.org/browse/APPR-2">APPR-2</a>]  Re-adds Stack and quantity number entry boxes.<br />
+Revision: 4133  Starts [<a href="http://jira.norganna.org/browse/APPR-2">APPR-2</a>]  Removes Simple Appraiser View since we have Post frame for simplicity. Rearranges Appraiser Full to be a little cleaner. Adds toggle to change Price input boxes to allow PRICE PER STACK  or PRICE PER EACH. --Still todo tooltips, price level.<br />
+Revision: 4132  Fixes [<a href="http://jira.norganna.org/browse/AAMU-101">AAMU-101</a>] Items with the ':' character in their names should now display correctly in the AutoMagicc vendor list and in chat reports.<br />
+Revision: 4125  Fixes [<a href="http://jira.norganna.org/browse/SIMP-18">SIMP-18</a>]: Performs extra checking at load time to remove any invalid entries from StatSimple's database.<br />
+Revision: 4122  Fixes [<a href="http://jira.norganna.org/browse/ASER-211">ASER-211</a>]  Adds proper stack size count when we display a tooltip on SearchUI scroll frame.<br />
+Revision: 4121  Fixes [<a href="http://jira.norganna.org/browse/ASER-210">ASER-210</a>] RealTimeSearcher should now provide valid &quot;Inventory Slot&quot; codes to the searchers.<br />
+Revision: 4119  Fixes [<a href="http://jira.norganna.org/browse/APPR-258">APPR-258</a>] Rounding settings should no longer cause problems when you try to create a bid-only auction.<br />
+Revision: 4114  Fixes [<a href="http://jira.norganna.org/browse/BCNT-237">BCNT-237</a>]  Adds a &quot;self&quot; exists check so the function works in 3.0 and 3.1 test realms.<br />
+Revision: 4113  Fixes [<a href="http://jira.norganna.org/browse/BCNT-237">BCNT-237</a>]  Beancounters tab on the AH will no longer appear blank on the 3.1 test realms.  Corrects secure hook return values to include mouse button variable.<br />
+Revision: 4112  Updates [<a href="http://jira.norganna.org/browse/ASAL-20">ASAL-20</a>] Prevents StatSales from returning incorrect values for cross-server queries.<br />
+StatSales is only able to access data for the current server, due to limitations in BeanCounter.<br />
+Revision: 4110  Updates [<a href="http://jira.norganna.org/browse/SIMP-17">SIMP-17</a>] minor fix to StatSimple startup code<br />
+Revision: 4109  Merge of [<a href="http://jira.norganna.org/browse/SIMP-17">SIMP-17</a>] changes to fix StatSimple so that it uses the correct serverKey format.  This change will make things like comparing prices across realm/faction functional, including displaying in the tooltip.<br />
+Revision: 4107  Resolves [<a href="http://jira.norganna.org/browse/VMUP-6">VMUP-6</a>]<br />
+Revision: 4106  Fixes [<a href="http://jira.norganna.org/browse/ADV-418">ADV-418</a>] Will no longer display bid prices higher than buyout in SearchUI and CompactUI for certain auctions; Buyout of these auctions from SearchUI should no longer fail. Fixes [<a href="http://jira.norganna.org/browse/COMP-21">COMP-21</a>] CompactUI will now show the bid values for all auctions when &quot;Show Required Bids...&quot; option is disabled; able to handle auctions with a minimum bid of 0c correctly.<br />
+Revision: 4104  Fixes <a href="http://jira.norganna.org/browse/ADV-417">ADV-417</a> Removes invalid reference in Auc-Advanced.toc<br />
+See the Complete Change Log via http://Fisheye.Norganna.Org , specifically, http://fisheye.norganna.org/browse/Auctioneer .<br />
+<br />
+<br />
+**Nechckn Edit: Corrected SearchUI Yes/No change information.
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/10101">AddOn and general UI guidance/policy document</a>
+<div class="byline">Nechckn - 2009-03-25 19:00:07:</div>
+<div class="article">
+Greetings All,<br />
+<br />
+Since we have been asked- and to clear up any rumors that may be circulating...<br />
+<br />
+Auctioneer, Gatherer, and Enchantrix all follow the guidelines published by Blizzard at http://www.worldofwarcraft.com/policy/ui.html , according to our understanding of the policy.<br />
+<br />
+We have never solicited donations in the actual game environment and have never, ever charged for our offerings.<br />
+<br />
+We do request donations on our primary site, http://AuctioneerAddOn.Com , via the link in the upper right corner, from those who find our AddOns to be helpful.  Those donations primarily help to offset the costs associated with our development environment; a couple servers and their Internet connectivity.<br />
+<br />
+With a volunteer staff of about 30, usually 5-10 active at a time, spread in different parts of the world, such tools are indispensable to our ability to develop, test, and provide decent products.<br />
+<br />
+All that said, the donations usually come out about even, with our primary Administrator, Norganna, making up the difference out of his family's bank account on the months that donations do not meet the monthly expenses.  There are some rare months where donations exceed the monthly expenses, but that overage is needed to repay the &quot;loans&quot; from previous months.<br />
+<br />
+Although some on the team would welcome the opportunity to make a living from development of such complex products, we currently release them under V2 of the GPL.  <br />
+<br />
+With such a diverse group, there are those who help as a way to &quot;give back&quot; to the world to those who are looking to polish their resume with some real world experience.  As a whole, we do not begrudge those who have decided to depart from producing AddOns, due to what ever reason(s), and support any company's right to protect its property.  This current period is quite interesting as numerous laws are being enacted and tested in different courts to determine the future of software development, and only time will tell.<br />
+<br />
+Those who feel strongly, one way or another, should contact Blizzard and their elected officials, directly, and express their opinions.  Demands, comments, or requests on websites only go so far, and most often not to those with the authority to make the desired changes.  Luckily most of us live in areas where making such opinions known is not only possible, but encouraged.<br />
+<br />
+We look forward to providing products that enhance our users' experiences, and our own, for now, and into the future.  Should there ever be any internal or external decisions that do affect our products, we will endeavor to keep everyone informed, to the greatest possible extent.  <br />
+<br />
+In keeping with our usual spirit of openness, the new guidelines may affect the future of the AuctioneerDB program, which is in early beta status, but no decisions have been made as of yet.  We will post with more details, once they are available.<br />
+<br />
+Happy Adventuring,<br />
+<br />
+Nikk and the rest of the Norganna's AddOns family
+</div>
+<br/><a class="headline" href="http://norganna.org/discuss/discussion/9921">Auctioneer 5.3 Released!</a>
+<div class="byline">Nechckn - 2009-03-02 02:46:36:</div>
+<div class="article">
+Auctioneeros, <br />
+<br />
+Due to some help from our multi-lingual friends, the release of Auctioneer and Auctioneer Suite 5.3 contains many more interface/interaction translations. <br />
+<br />
+We can always use more help in that department, especially if you use a localization that is not complete. Simply visit http://Localizer.Norganna.Org , create an account, select your specific locale, and begin entering relevant translations, based on the context. <br />
+<br />
+Happy Sales, <br />
+<br />
+Nikk and the rest of the Norganna's AddOns Team<br />
+<br />
+<hr noshade size="1" align="left">Auctioneeros,<br />
+<br />
+About 81 changes, fixes, and enhancements for version 5.3 of Auctioneer, Auctioneer Suite, and our other AddOns.  A special effort this time by returning cool dude, team member, Kandoko, who has taken the time to add the incredible movable column functionality that so many have been waiting to see included in Auctioneer and the modules.<br />
+<br />
+Overall:<br />
+<li class="impro">Auctioneer, Informant, Enchantrix, and BeanCounter can all have their tooltip outputs modified to never show unless &lt;Alt&gt; is depressed + mouse-over of an item.  Users can choose to have certain values active all the time or hide specific AddOn output, if desired.  Setting is located in each AddOn’s “general” option page.<br /></li><li class="impro">Current localization entries have been committed to Auctioneer, Informant, Enchantrix, and BeanCounter.<br /></li><li class="impro">Added an entry to http://Localizer.Norganna.Org for our Polish friends, so please help them to add to that, if you are willing and able.  *Should your locale not be fully complete, consider helping!  In the mean time, you can use another by selecting any of the locales under the “General” heading of the Auctioneer options.<br /></li><br />
+Auctioneer/General:<br />
+<li class="impro">Fix to IsValidAlgorithm so that an error is no longer thrown.<br /></li><li class="impro">Background code added to capture selling, sold and won auctions statistics for use with http://AuctioneerDB.com .<br /></li><li class="impro">Columns now fully movable!  Hover over the column headings for quick instructions- Right-click and hold to move column, &lt;Alt&gt;+Right-click and drag to resize columns, &lt;CTRL&gt;+right-click to reset.<br /></li><br />
+Auctioneer/Appraiser:<br />
+<li class="impro">Columns now fully movable!  Hover over the column headings for quick instructions- Right-click and hold to move column, &lt;Alt&gt;+Right-click and drag to resize columns, &lt;CTRL&gt;+right-click to reset.<br /></li><li class="impro">Fix to negate input lag by removing the updates on every interface change.<br /></li><li class="impro">Improve the function and description in the settings of the rounding function.<br /></li><li class="impro">When posting using the “All” stack setting, the incomplete stacks will post first, which should speed up posting when making extremely large batch posts.<br /></li><br />
+Auctioneer/SearchUI:<br />
+<li class="impro">Background change to correct the reversed bid and buy variables used by Snatch.<br /></li><li class="impro">When using the Parameter Searcher, or others, in default or Real Time Search mode, items should no longer error when there is, incorrectly, no bid shown.  E.g. No bid price. <br /></li><li class="impro">Columns movable, as noted under the Auctioneer/General section.<br /></li><br />
+Auctioneer/SimpleAuction:<br />
+<li class="impro">Changes to the layout of the Simple Auction “Post” frame to make the values a bit clearer, especially the display of AH fees.<br /></li><li class="impro">Create Auction button will no longer illuminate until the number of items per stack and the number of stacks are set to realistic values.<br /></li><li class="impro">Price matching should now function correctly.<br /></li><br />
+BeanCounter:<br />
+<li class="impro">Columns now fully movable!  Hover over the column headings for quick instructions- Right-click and hold to move column, &lt;Alt&gt;+Right-click and drag to resize columns, &lt;CTRL&gt;+right-click to reset.<br /></li><li class="impro">Added more localized interface and help entries.  <br /></li><br />
+Enchantrix:<br />
+<li class="impro">Auto DE window should no longer display when mining or at other inopportune times.<br /></li><li class="impro">Auto DE window will close when selected, even if combat was initiated while it was open.<br /></li><li class="impro">Tooltips will now properly display on the “Fixed Price” and “Weights” tabs within the options.<br /></li><li class="impro">Milling entries updated, including fire seed and fire leaf and the Milling Results tables have been updated to reflect recent changes.<br /></li><li class="impro">Added ability to copy a Settings Profile.<br /></li><li class="impro">Command line options will now display properly.<br /></li><li class="impro">Added more localized interface and help entries.<br /></li><br />
+Informant:<br />
+– Update of recent data, including Inscriptions for Scribes from 3.0.8 changes.<br />
+<li class="impro">Some relatively small changes to the Category information in the “Extra Information Window”.<br /></li><li class="impro">Added more localized interface and help entries.<br /></li><br />
+Individual commits (changes, enhancements, fixes):<br />
+<br />
+Revision: 4102  [<a href="http://jira.norganna.org/browse/ASER-200">ASER-200</a>] Fixes a case where RealTime search will sometimes try to bid 0c (should now bid at least 1c)<br />
+Revision: 4094  Completes [<a href="http://jira.norganna.org/browse/APPR-252">APPR-252</a>] When posting in &quot;All&quot; mode will post remainder stack first.  In some circumstances will use 1 less stack-split, saving a little bit of time<br />
+Revision: 4092  Update [<a href="http://jira.norganna.org/browse/ADV-365">ADV-365</a>][<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>][<a href="http://jira.norganna.org/browse/BCNT-217">BCNT-217</a>][<a href="http://jira.norganna.org/browse/ENX-110">ENX-110</a>] Localization files: CoreStrings.lua, InfStrings.lua, BeanCounterStrings.lua, and EnxStrings.lua updated<br />
+Revision: 4090  [<a href="http://jira.norganna.org/browse/ENX-109">ENX-109</a>] make sure the state goes to sleep when initializing and AutoDE is turned off<br />
+Revision: 4089  Completes [<a href="http://jira.norganna.org/browse/APPR-251">APPR-251</a>]  Appraiser scroll frame now uses configators lib.Processor() event callbacks. Column order will be remembered across sessions.<br />
+Revision: 4088  Starts [<a href="http://jira.norganna.org/browse/APPR-247">APPR-247</a>]  Minor improvement to input lag on Appraiser GUI.  Removes the frame.UpdateImage() call when any prices/sliders in appraiser are adjusted. This will stop appraiser from reRendering the scrollframe on every GUI change.<br />
+Revision: 4087  Resolves [<a href="http://jira.norganna.org/browse/ADV-415">ADV-415</a>] Should fix IsValidAlgorithm function, plus removes some global pollution.<br />
+Revision: 4086  Fixes [<a href="http://jira.norganna.org/browse/ADV-414">ADV-414</a>]: module cache will be cleared when a new module loads; thereby fixing [<a href="http://jira.norganna.org/browse/SDAT-14">SDAT-14</a>]: ScanData line will appear in tooltip in cases where 'Force Load ScanData' option is disabled<br />
+Revision: 4083  [<a href="http://jira.norganna.org/browse/ENX-108">ENX-108</a>]  Adds milling entries for fire seed and fire leaf<br />
+Revision: 4082  Fixes [<a href="http://jira.norganna.org/browse/BCNT-233">BCNT-233</a>]  Move BeanCounter to the lib.Processor events added in Configator revisions 197 **Should be a transparent change for the end user**<br />
+This will move OnEnter, OnLeave, Onclick, onMousedown, onResize and order events to a central processor function.<br />
+Revision: 4081  Resolves [<a href="http://jira.norganna.org/browse/SDEV-15">SDEV-15</a>] *This only affects the stat test branch.<br />
+Revision: 4080  Resolves [<a href="http://jira.norganna.org/browse/ILVL-17">ILVL-17</a>] *This only affects the stat test branch.<br />
+Revision: 4079  Resolves [<a href="http://jira.norganna.org/browse/SHSP-8">SHSP-8</a>] *This only affects the stat test branch.<br />
+Revision: 4078  Fixes [<a href="http://jira.norganna.org/browse/SMPL-35">SMPL-35</a>]: This should fix some problems with the &quot;match my price&quot; setting<br />
+Revision: 4077  Adds to [<a href="http://jira.norganna.org/browse/BCNT-217">BCNT-217</a>]  Updates localizer changes to 2/08/2009<br />
+Revision: 4076  Adds to [<a href="http://jira.norganna.org/browse/ADV-365">ADV-365</a>]  Removes extra ' in  APPR_Help_TotalMinbidValue  description text. reported by cut in IRC.  Adds localizer changes through Feb 12 2009 Major additions to ptPT with minor additions to csCZ. Big thanks to those translators<br />
+Revision: 4073  Reverse Merge of [<a href="http://jira.norganna.org/browse/SIMP-17">SIMP-17</a>] - wrong repo.<br />
+Revision: 4072  Updates [<a href="http://jira.norganna.org/browse/SIMP-17">SIMP-17</a>]  Initial version for review  Note: Modifies StatSimple database; back up before running as there is no way to reverse the conversion. *Only affects the statistic branch.<br />
+Revision: 4062  Fixes [<a href="http://jira.norganna.org/browse/ENX-107">ENX-107</a>]  Clean up globals and some local names in AutoDisenchant code.<br />
+Revision: 4061  [<a href="http://jira.norganna.org/browse/INF-58">INF-58</a>] This moves the check for Alt being down from lines 40-42 to lines 90-92 of InfTooltip.lua, correcting the problems with showing the Informant Data Window without holding Alt when the option to show the tooltip only on Alt-press is turned on.<br />
+Revision: 4060  Fixes [<a href="http://jira.norganna.org/browse/ENX-54">ENX-54</a>]  Gracefully handle combat cancellation of the AutoDE prompt, where we can't really hide the dialog<br />
+Revision: 4059  Fixes [<a href="http://jira.norganna.org/browse/ENX-105">ENX-105</a>]  Localize the remaining milling strings<br />
+Revision: 4058  Fixes [<a href="http://jira.norganna.org/browse/ENX-4">ENX-4</a>] Add game tooltips to items in the fixed price and weights tabs<br />
+Revision: 4057  [<a href="http://jira.norganna.org/browse/ENX-104">ENX-104</a>]  Update the EnxConstants file with new baseline prices, new default item info, plus some cleanup<br />
+Revision: 4056  Partial Fix [<a href="http://jira.norganna.org/browse/ENX-58">ENX-58</a>]  Removes 2 items from the non-disenchantable list<br />
+Revision: 4055  Fixes [<a href="http://jira.norganna.org/browse/ENX-98">ENX-98</a>]  Increase tooltip valuation by stack count, for appraiser<br />
+Revision: 4054  Fixes  [<a href="http://jira.norganna.org/browse/ENX-103">ENX-103</a>] update localized strings for barker<br />
+Revision: 4053  Fixes [<a href="http://jira.norganna.org/browse/ENX-97">ENX-97</a>]  Add a button to duplicate the current profile with a new name<br />
+Revision: 4052  Adds [<a href="http://jira.norganna.org/browse/ENX-102">ENX-102</a>]  Improve accuracy of milling result data<br />
+Revision: 4051  Fixes [<a href="http://jira.norganna.org/browse/ENX-100">ENX-100</a>] Change &quot;|&quot; separators to &quot;||&quot; in command line help information to avoid mistaken formatting conversions<br />
+Revision: 4049  [<a href="http://jira.norganna.org/browse/ADV-409">ADV-409</a>],[<a href="http://jira.norganna.org/browse/INF-57">INF-57</a>],[<a href="http://jira.norganna.org/browse/BCNT-235">BCNT-235</a>],[<a href="http://jira.norganna.org/browse/ENX-101">ENX-101</a>]--Re-implements the option to only show the tooltip in these addons when Alt is pressed.  Each mod is set separately in it's own configuration.<br />
+Revision: 4048  Task [<a href="http://jira.norganna.org/browse/INF-56">INF-56</a>] Edited inficon.blp so that the lines on the note are seen clearly.<br />
+Revision: 4047  [<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>]  Fixed a few strings that were not copied from localizer correctly. Added a missing string from InfCommand.lua to the localizer.<br />
+Revision: 4046  Fixes [<a href="http://jira.norganna.org/browse/ASER-194">ASER-194</a>]  Attempt to perform arithmetic on local 'value' on line 1539<br />
+Revision: 4044  Fixed [<a href="http://jira.norganna.org/browse/SHTG-17">SHTG-17</a>]  Removed unnecessary debug output<br />
+Revision: 4043  Adds [<a href="http://jira.norganna.org/browse/SMPL-34">SMPL-34</a>]: The &quot;Create Auction&quot; button will be enabled/disabled at appropriate times<br />
+Revision: 4041  [<a href="http://jira.norganna.org/browse/INF-55">INF-55</a>] Properly capitalizes INF_Tooltip_AdditEnchWeapon and added INF_Tooltip_AdditWarrior (removing the incorrect INF_Tooltip_AddittWarrior) in InfStrings.lua via localizer.  Removes the space between Ammo and Pouch in the additional field in InfData.lua.  Also appears to include a bunch of new deDE localizations (by user hadien, Thanks!) in InfStrings.lua<br />
+Revision: 4040  Implements [<a href="http://jira.norganna.org/browse/ADV-406">ADV-406</a>]  Corrects minor defects raised in Crucible <a href="http://jira.norganna.org/browse/AUC-35">AUC-35</a>.<br />
+Revision: 4039  Fixes [<a href="http://jira.norganna.org/browse/ASER-151">ASER-151</a>]  RTS with General searcher should no longer give results with bid price 0<br />
+Revision: 4037  Updates [<a href="http://jira.norganna.org/browse/ADV-365">ADV-365</a>] CoreStrings.lua &amp; AprFrame.lua  Adds latest additions to esES and remove hard coded string in APPR with APPR_Interface_BidPerItem<br />
+Revision: 4036  [<a href="http://jira.norganna.org/browse/INF-54">INF-54</a>] Removes the trailing whitespace that is borking localization of the additional field in some cases.<br />
+Revision: 4034  Implements [<a href="http://jira.norganna.org/browse/ADV-406">ADV-406</a>]  phase 1: Adds a new API, AucAdvanced.API.DumpMarketPrice(itemLink, serverKey) which can be used to debug market pricing capabilities. Currently only handles bell curve PDFs.<br />
+Revision: 4033  [<a href="http://jira.norganna.org/browse/ADB-12">ADB-12</a>]  Addition of extra stats recording<br />
+Revision: 4032  [<a href="http://jira.norganna.org/browse/ADV-401">ADV-401</a>]  Add code to capture selling, sold and won auctions statistics<br />
+Revision: 4031  [<a href="http://jira.norganna.org/browse/INF-54">INF-54</a>] Fixes the redundancy for items that have the &quot;Key&quot; or &quot;Quest&quot; category and removes the reagent status from the old Rogue poison reagents, as they're just gray items now.<br />
+Revision: 4030  [<a href="http://jira.norganna.org/browse/ENX-100">ENX-100</a>] Corrected spelling error in localizer for 'valueate' All localizer strings need to be edited at http://localizer.norganna.org/index.php Please do not edit the strings.lua directly. <br />
+Revision: 4029  [<a href="http://jira.norganna.org/browse/ENX-100">ENX-100</a>]  Fixed typo of on line 620  [&quot;ShowGuessAuctioneerVal&quot;]	= &quot;valueate-val&quot;; Should have been [&quot;ShowGuessAuctioneerVal&quot;]	= &quot;valuate-val&quot;;<br />
+Revision: 4028  Updates [<a href="http://jira.norganna.org/browse/ADV-404">ADV-404</a>]: Adjust scanned data in certain rare cases, to reduce problems elsewhere<br />
+Revision: 4027  [<a href="http://jira.norganna.org/browse/BCNT-234">BCNT-234</a>] UnFix: In localizer TT_SearchBox had an apostrophe at the end of it, Hirsute did the logical thing and made a new string, so apostrophe removed has now been removed from BeanCounterFrames.lua and BeanCounterStrings.lua has been updated.<br />
+Revision: 4026  [<a href="http://jira.norganna.org/browse/INF-54">INF-54</a>] Informant now utilizes the Additional field to display an item's sub-type.  For example, Scrolls will now display as &quot;Consumable - Scroll&quot;.<br />
+Revision: 4025  [<a href="http://jira.norganna.org/browse/BCNT-234">BCNT-234</a>] Fix: In localizer TT_SearchBox has an apostrophe at the end of it, so added an apostrophe in the BeanCounterFrames.lua string so the tooltip will display correctly.<br />
+Revision: 4024  [<a href="http://jira.norganna.org/browse/INF-53">INF-53</a>] This updates the Informant data with the 3.0.8 changes and includes data for Inscription now, as well.<br />
+Revision: 4023  [<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>] Encore!: Relocalized Informant. InfCommand.lua finished and polished Main and Settings<br />
+Revision: 4022  [<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>] Final... I think: Relocalized Informant. Now with better organization and use of the Auc filters.<br />
+Revision: 4021  [<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>] Take II: Relocalized Informant. Now with better organization and use of the Auc filters. InfTooltip.lua still needs to be localized, but Informant is now usable.<br />
+Revision: 4020  [<a href="http://jira.norganna.org/browse/INF-49">INF-49</a>] Relocalized Informant as Informant II. Now with better organization and use of the Auc filters<br />
+Revision: 4019  Fix [<a href="http://jira.norganna.org/browse/SMPL-33">SMPL-33</a>]: Should prevent nil errors displaying SimpleAuction tooltips<br />
+Revision: 4018  Completes [<a href="http://jira.norganna.org/browse/ASER-191">ASER-191</a>]: Tidy up code<br />
+Revision: 4017  Fix [<a href="http://jira.norganna.org/browse/APPR-244">APPR-244</a>] Fix subtraction<br />
+Revision: 4016  Fix [<a href="http://jira.norganna.org/browse/ASER-193">ASER-193</a>] Corrects reversed bid buy variables on the AucAdvanced.Modules.Util.Appraiser.GetPrice call snatch uses.<br />
+Revision: 4015  [<a href="http://jira.norganna.org/browse/APPR-244">APPR-244</a>]  Improve operation and clarity of appraiser rounding options.<br />
+<br />
+**Nechckn Edit: Added missing commit.<br />
+**Nechckn Edit: Added Changelist
+</div>
+</div><br/>
+</div>
+<div style="margin-left: 0.25em; color: #00D; width:300px;"><a href="http://www.worldofwarcraft.com/">World of Warcraft&trade;</a> and <a href="http://www.blizzard.com/">Blizzard Entertainment&trade;</a> are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">_uacct = "UA-2824662-1"; urchinTracker();</script>
+</body>
+
+<!-- Mirrored from auctioneeraddon.com/ by HTTrack Website Copier/3.x [XR&CO'2008], Thu, 29 Oct 2009 13:58:11 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>
+

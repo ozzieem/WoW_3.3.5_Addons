@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Salaction - Icecrown",
+	},
+	["profiles"] = {
+		["Salaction - Icecrown"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Salaction - Icecrown",
+	},
+	["profiles"] = {
+		["Salaction - Icecrown"] = {
+		},
+	},
+}

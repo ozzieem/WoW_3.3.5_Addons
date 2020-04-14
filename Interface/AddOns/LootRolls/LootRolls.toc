@@ -1,0 +1,23 @@
+## Interface: 30300
+## Version: 0.97
+## Title: LootRolls
+## Notes: Track who has rolled what for group loot items
+## SavedVariables: LootRollsData
+## Dependencies: 
+## OptionalDeps: LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets
+## X-Curse-Packaged-Version: v0.97
+## X-Curse-Project-Name: LootRolls
+## X-Curse-Project-ID: lootrolls
+## X-Curse-Repository-ID: wow/lootrolls/mainline
+
+libs\LibStub\LibStub.lua
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\AceGui-3.0\AceGui-3.0.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+libs\AceDB-3.0\AceDB-3.0.xml
+libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+libs\AceEvent-3.0\AceEvent-3.0.xml
+
+LootRolls.lua

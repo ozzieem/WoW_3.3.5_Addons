@@ -1,0 +1,91 @@
+------------------------------------------------------------------------
+r63 | kunda | 2010-09-05 13:06:37 +0000 (Sun, 05 Sep 2010) | 1 line
+Changed paths:
+   A /tags/30300-5 (from /trunk:62)
+
+Tagging as 30300-5
+------------------------------------------------------------------------
+r62 | kunda | 2010-09-05 13:04:48 +0000 (Sun, 05 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons.lua
+
+Added back center/center text. I don't know which other addon is using this text, but it's here again.
+------------------------------------------------------------------------
+r61 | kunda | 2010-09-03 12:16:05 +0000 (Fri, 03 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons.lua
+   M /trunk/GridIndicatorSideIcons.toc
+
+menu update fix
+------------------------------------------------------------------------
+r59 | Sayclub | 2010-08-27 22:48:32 +0000 (Fri, 27 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons-localization-koKR.lua
+
+koKR update
+------------------------------------------------------------------------
+r58 | kunda | 2010-08-27 20:14:56 +0000 (Fri, 27 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons.lua
+
+update previous commit
+------------------------------------------------------------------------
+r57 | kunda | 2010-08-27 17:51:08 +0000 (Fri, 27 Aug 2010) | 3 lines
+Changed paths:
+   M /trunk/GridIndicatorSideIcons-localization-deDE.lua
+   M /trunk/GridIndicatorSideIcons-localization-enUS.lua
+   M /trunk/GridIndicatorSideIcons-localization-koKR.lua
+   M /trunk/GridIndicatorSideIcons-localization-zhCN.lua
+   M /trunk/GridIndicatorSideIcons-localization-zhTW.lua
+   M /trunk/GridIndicatorSideIcons.lua
+   M /trunk/GridIndicatorSideIcons.toc
+
+- Fixed a bug if Grid is toggled on/off. (thx Armikur)
+- Added a simple Configuration Mode, so that it's easier to setup size/position and the other options.
+- Added option 'Same settings as Grid' (if enabled: same settings as Grid icon settings - DISABLED by DEFAULT).
+------------------------------------------------------------------------
+r56 | sayclub | 2010-08-23 04:19:00 +0000 (Mon, 23 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons-localization-koKR.lua
+
+koKR update
+------------------------------------------------------------------------
+r54 | kunda | 2010-08-21 23:51:57 +0000 (Sat, 21 Aug 2010) | 1 line
+Changed paths:
+   A /trunk/GridIndicatorSideIcons-icon-B.tga
+   A /trunk/GridIndicatorSideIcons-icon-L.tga
+   A /trunk/GridIndicatorSideIcons-icon-R.tga
+   A /trunk/GridIndicatorSideIcons-icon-T.tga
+   A /trunk/GridIndicatorSideIcons-icon-TRBL.tga
+   D /trunk/GridIndicatorSideIcons-icons-B.tga
+   D /trunk/GridIndicatorSideIcons-icons-L.tga
+   D /trunk/GridIndicatorSideIcons-icons-R.tga
+   D /trunk/GridIndicatorSideIcons-icons-T.tga
+   D /trunk/GridIndicatorSideIcons-icons-TRBL.tga
+   M /trunk/GridIndicatorSideIcons.lua
+
+update
+------------------------------------------------------------------------
+r53 | kunda | 2010-08-20 10:56:43 +0000 (Fri, 20 Aug 2010) | 1 line
+Changed paths:
+   A /trunk/GridIndicatorSideIcons-icons-B.tga
+   A /trunk/GridIndicatorSideIcons-icons-L.tga
+   A /trunk/GridIndicatorSideIcons-icons-R.tga
+   A /trunk/GridIndicatorSideIcons-icons-T.tga
+   A /trunk/GridIndicatorSideIcons-icons-TRBL.tga
+   M /trunk/GridIndicatorSideIcons-localization-deDE.lua
+   M /trunk/GridIndicatorSideIcons-localization-enUS.lua
+   M /trunk/GridIndicatorSideIcons-localization-koKR.lua
+   M /trunk/GridIndicatorSideIcons-localization-zhCN.lua
+   M /trunk/GridIndicatorSideIcons-localization-zhTW.lua
+   M /trunk/GridIndicatorSideIcons.lua
+
+update
+------------------------------------------------------------------------
+r52 | kunda | 2010-05-05 22:38:27 +0000 (Wed, 05 May 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorSideIcons.lua
+   M /trunk/GridIndicatorSideIcons.toc
+
+color.ignore alpha fix
+------------------------------------------------------------------------

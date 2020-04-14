@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
+	},
+	["profiles"] = {
+		["Dranah - Icecrown"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
+	},
+	["profiles"] = {
+		["Dranah - Icecrown"] = {
+		},
+	},
+}

@@ -1,0 +1,6 @@
+## Interface: 30350
+## Title: AutoCrusaderAura
+## Author: ozziee
+## Version: 0.1
+
+main.lua

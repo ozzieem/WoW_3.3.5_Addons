@@ -1,0 +1,7 @@
+MACRO 16777217 "." INV_Misc_QuestionMark
+#showtooltip Charger
+/cast [nocombat, nomounted] !Crusader Aura; [mounted] !Retribution Aura;
+/cast [nocombat, nomounted] Blue Wind Rider;
+/cast [nocombat, nomounted] Swift Green Hawkstrider;
+/dismount [mounted]
+END

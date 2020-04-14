@@ -1,0 +1,5 @@
+MACRO 16777217 "mount" INV_Misc_QuestionMark
+#showtooltip Green Wind Rider
+/cast Green Wind Rider
+/cast Swift Pink Hawkstrider
+END

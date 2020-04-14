@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="LibRock-1.0.lua"/>
+	<Script file="LibRockComm-1.0.lua"/>
+	<Script file="LibRockConfig-1.0.lua"/>
+	<Script file="LibRockConsole-1.0.lua"/>
+	<Script file="LibRockDB-1.0.lua"/>
+	<Script file="LibRockEvent-1.0.lua"/>
+	<Script file="LibRockHook-1.0.lua"/>
+	<Script file="LibRockLocale-1.0.lua"/>
+	<Script file="LibRockModuleCore-1.0.lua"/>
+	<Script file="LibRockTimer-1.0.lua"/>
+</Ui>

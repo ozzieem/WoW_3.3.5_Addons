@@ -1,0 +1,66 @@
+------------------------------------------------------------------------
+r113 | akazik | 2010-07-13 20:11:16 +0000 (Tue, 13 Jul 2010) | 1 line
+Changed paths:
+   A /tags/v3.3-113 (from /trunk:112)
+
+Tagging as v3.3-113
+------------------------------------------------------------------------
+r112 | akazik | 2010-07-13 17:20:33 +0000 (Tue, 13 Jul 2010) | 3 lines
+Changed paths:
+   M /trunk/SmartMount.lua
+
+SmartMount:
+- updated the mounts table
+
+------------------------------------------------------------------------
+r111 | akazik | 2010-07-12 22:01:27 +0000 (Mon, 12 Jul 2010) | 3 lines
+Changed paths:
+   M /trunk/Rock_Config.lua
+
+SmartMount:
+- increased icon size for excluded mounts/pets (ticket #78)
+
+------------------------------------------------------------------------
+r109 | akazik | 2010-07-11 11:41:41 +0000 (Sun, 11 Jul 2010) | 4 lines
+Changed paths:
+   M /trunk/Rock_Config.lua
+   M /trunk/SmartMount.lua
+   M /trunk/SmartMount.toc
+
+SmartMount:
+- fixed (hopefully) some problems with variabl speed mounts
+- small fixes
+
+------------------------------------------------------------------------
+r107 | akazik | 2010-07-05 07:03:39 +0000 (Mon, 05 Jul 2010) | 3 lines
+Changed paths:
+   M /trunk/SmartMount.lua
+
+SmartMount:
+- fixed X-53 Touring Rocket (ticket #70)
+
+------------------------------------------------------------------------
+r106 | akazik | 2010-07-03 08:34:22 +0000 (Sat, 03 Jul 2010) | 4 lines
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Rock_Config.lua
+   M /trunk/Rock_Core.lua
+   M /trunk/SmartMount.lua
+   M /trunk/SmartMount.toc
+   M /trunk/SmartMount.xml
+
+SmartMount:
+- moved the ActionButton to a new addon
+- tried to fix the variable speed mounts (ticket #56, #68, #72)
+
+------------------------------------------------------------------------
+r105 | akazik | 2010-06-15 16:35:02 +0000 (Tue, 15 Jun 2010) | 4 lines
+Changed paths:
+   M /trunk/Rock_Config.lua
+   M /trunk/SmartMount.lua
+
+SmartMount:
+- fixed and added mounts (ticket #70)
+- added initial support for "dynamic" mounts (ticket #56, #68)
+
+------------------------------------------------------------------------

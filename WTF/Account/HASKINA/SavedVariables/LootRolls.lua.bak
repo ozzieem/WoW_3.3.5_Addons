@@ -1,0 +1,10 @@
+
+LootRollsData = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

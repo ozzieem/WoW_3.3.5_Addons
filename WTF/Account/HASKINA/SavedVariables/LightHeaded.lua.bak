@@ -1,0 +1,10 @@
+
+LightHeadedDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Salaction - Icecrown",
+	},
+	["profiles"] = {
+		["Salaction - Icecrown"] = {
+		},
+	},
+}

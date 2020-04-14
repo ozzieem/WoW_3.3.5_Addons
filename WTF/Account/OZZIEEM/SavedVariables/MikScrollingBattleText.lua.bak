@@ -1,0 +1,50 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["critFontName"] = "Friz Quadrata TT",
+			["critOutlineIndex"] = 3,
+			["creationVersion"] = "5.4.78",
+			["critFontSize"] = 15,
+			["scrollAreas"] = {
+				["Incoming"] = {
+					["stickyTextAlignIndex"] = 2,
+					["direction"] = "Up",
+					["behavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["offsetX"] = 415,
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["iconAlign"] = "Right",
+					["offsetY"] = -165,
+					["animationStyle"] = "Static",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["stickyDirection"] = "Down",
+					["scrollHeight"] = 165,
+					["offsetX"] = -121,
+					["direction"] = "Down",
+					["offsetY"] = -406,
+					["scrollWidth"] = 270,
+				},
+				["Outgoing"] = {
+					["direction"] = "Up",
+					["offsetX"] = -555,
+					["behavior"] = "MSBT_NORMAL",
+					["stickyBehavior"] = "Normal",
+					["offsetY"] = -165,
+					["animationStyle"] = "Static",
+					["iconAlign"] = "Left",
+				},
+			},
+			["normalFontName"] = "Vera Serif",
+			["normalFontSize"] = 12,
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}

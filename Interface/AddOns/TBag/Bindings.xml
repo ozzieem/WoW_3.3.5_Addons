@@ -1,0 +1,9 @@
+<!-- $Id: Bindings.xml 205 2008-09-29 00:38:34Z shefki $ -->
+<Bindings>
+  <Binding name="TINV_TOGGLE" header="TBag">
+    TInvFrame:Toggle();
+  </Binding>
+  <Binding name="TBNK_TOGGLE">
+    TBnkFrame:Toggle();
+  </Binding>
+</Bindings>

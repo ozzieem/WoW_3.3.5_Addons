@@ -1,0 +1,13 @@
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+MageNuggets: disabled
+MoveAnything: enabled
+!Swatter: enabled
+XPerl_PartyPet: enabled
+XPerl_PlayerBuffs: enabled
+XPerl_RaidMonitor: enabled
+XPerl_RaidPets: enabled
+ZygorGuidesViewer: disabled
+BeanCounter: disabled
+AutoCrusaderAura: disabled
+Parrot: disabled

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zygorguides.com	TRUE	/	FALSE	1999999999	PHPSESSID	c10f1c70cca85d6762e1b01ac4310131
+www.zygorguides.com	TRUE	/	FALSE	1999999999	bblastvisit	1256824931
+www.zygorguides.com	TRUE	/	FALSE	1999999999	bblastactivity	0
+

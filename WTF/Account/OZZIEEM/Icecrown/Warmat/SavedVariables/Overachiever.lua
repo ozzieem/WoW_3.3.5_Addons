@@ -1,0 +1,43 @@
+
+Overachiever_CharVars = {
+	["Version"] = "0.56",
+}
+Overachiever_CharVars_Consumed = {
+	["Drink"] = {
+		[1645] = true,
+		[8766] = true,
+		[33445] = true,
+		[1708] = true,
+		[1205] = true,
+		[33444] = true,
+	},
+	["Food"] = {
+		[8932] = true,
+		[38427] = true,
+		[8948] = true,
+		[11444] = true,
+		[4602] = true,
+		[4606] = true,
+		[33443] = true,
+		[8950] = true,
+		[35947] = true,
+		[4599] = true,
+		[4601] = true,
+		[4607] = true,
+		[35950] = true,
+		[33452] = true,
+		[8952] = true,
+		[33454] = true,
+		[3771] = true,
+		[4538] = true,
+		[8953] = true,
+		[4608] = true,
+		[27854] = true,
+		[27859] = true,
+		[35953] = true,
+		[3770] = true,
+		[2287] = true,
+		[4539] = true,
+		[117] = true,
+	},
+}

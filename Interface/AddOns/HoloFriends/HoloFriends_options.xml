@@ -1,0 +1,262 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+	<CheckButton name="HoloFriendsOptions_CheckButtonTemplate" virtual="true">
+		<Size><AbsDimension x="20" y="20"/></Size>
+		<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT"/></Anchors>
+		<Scripts>
+			<!-- OnClick set the option -->
+			<OnClick>
+				HoloFriendsOptions_Button_OnClick(self);
+			</OnClick>
+			<!-- OnEnter set the tooltip -->
+			<OnEnter>
+				HoloFriendsOptions_Button_OnEnter(self);
+			</OnEnter>
+			<OnLeave>
+				GameTooltip:Hide();
+			</OnLeave>
+		</Scripts>
+		<NormalTexture file="Interface\Buttons\UI-CheckBox-Up"/>
+		<PushedTexture file="Interface\Buttons\UI-CheckBox-Down"/>
+		<HighlightTexture file="Interface\Buttons\UI-CheckBox-Highlight" alphaMode="ADD"/>
+		<CheckedTexture file="Interface\Buttons\UI-CheckBox-Check"/>
+		<DisabledCheckedTexture file="Interface\Buttons\UI-CheckBox-Check-Disabled"/>
+	</CheckButton>
+	<FontString name="HoloFriendsOptions_ChapterStringTemplate" inherits="GameFontNormal" virtual="true">
+		<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPRIGHT">
+			<Offset><AbsDimension x="10" y="-10"/></Offset>
+		</Anchor></Anchors>
+	</FontString>
+	<FontString name="HoloFriendsOptions_TextStringTemplate" inherits="GameFontHighlightSmall" justifyH="LEFT" virtual="true">
+		<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPRIGHT">
+			<Offset><AbsDimension x="20" y="-3"/></Offset>
+		</Anchor></Anchors>
+	</FontString>
+	<Frame name="HoloFriendsOptions_FrameTemplate" virtual="true">
+		<Size><AbsDimension x="1" y="1"/></Size>
+		<Layers><Layer level="ARTWORK">
+			<FontString name="$parent_Chapter" inherits="HoloFriendsOptions_ChapterStringTemplate" text=""/>
+			<FontString name="$parent_Text" inherits="HoloFriendsOptions_TextStringTemplate" text=""/>
+		</Layer></Layers>
+		<Frames><CheckButton name="$parent_Button" inherits="HoloFriendsOptions_CheckButtonTemplate"/></Frames>
+		<Scripts>
+			<!-- OnLoad set the text string of the chapters or options and make one of both visible -->
+			<OnLoad>
+				HoloFriendsOptions_Text_OnLoad(self);
+			</OnLoad>
+			<!-- OnUpdate reset the text width and height of the option -->
+			<OnUpdate>
+				HoloFriendsOptions_Button_OnUpdate(self);
+			</OnUpdate>
+		</Scripts>
+	</Frame>
+	<Frame name="HoloFriendsFAQ_TextFrameTemplate" virtual="true">
+		<Size><AbsDimension x="1" y="1"/></Size>
+		<Layers><Layer level="ARTWORK">
+			<FontString name="$parent_Text" inherits="GameFontHighlightSmall" justifyH="LEFT" justifyV="TOP" text=""/>
+		</Layer></Layers>
+		<Scripts>
+			<!-- OnLoad set the text string of the FAQ -->
+			<OnLoad>
+				HoloFriendsOptions_FAQ_OnLoad(self);
+			</OnLoad>
+			<OnUpdate>
+				local text = getglobal(self:GetName().."_Text");
+				text:SetWidth(InterfaceOptionsFramePanelContainer:GetWidth()-45);
+				self:SetHeight(text:GetHeight()+10);
+			</OnUpdate>
+		</Scripts>
+	</Frame>
+	<ScrollFrame name="HoloFriends_ScrollTemplate" inherits="UIPanelScrollFrameTemplate" virtual="true">
+		<Size><AbsDimension x="1" y="1"/></Size>
+		<Scripts>
+			<OnLoad>
+				ScrollFrame_OnLoad(self);
+			</OnLoad>
+			<OnUpdate>
+				self:SetWidth(InterfaceOptionsFramePanelContainer:GetWidth()-45);
+				self:SetHeight(InterfaceOptionsFramePanelContainer:GetHeight()-60);
+			</OnUpdate>
+			<OnScrollRangeChanged>
+				ScrollFrame_OnScrollRangeChanged(self);
+			</OnScrollRangeChanged>
+		</Scripts>
+	</ScrollFrame>
+	<Frame name="HoloFriends_OptionsFrame" hidden="true">
+		<Layers><Layer level="OVERLAY">
+			<FontString name="$parentTitel" inherits="GameFontNormalLarge" text="HOLOFRIENDS_OPTIONS0WINDOWTITLE">
+				<Size><AbsDimension x="300" y="40"/></Size>
+				<Anchors><Anchor point="TOP" relativePoint="TOP"/></Anchors>
+			</FontString>
+		</Layer></Layers>
+		<Frames><ScrollFrame name="$parentScroll" inherits="HoloFriends_ScrollTemplate">
+			<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT">
+				<Offset><AbsDimension x="10" y="-50"/></Offset>
+			</Anchor></Anchors>
+			<ScrollChild><Frame name="$parentChild">
+				<Size><AbsDimension x="1" y="1"/></Size>
+				<Frames>
+					<Frame name="$parent_ID1" inherits="HoloFriendsOptions_FrameTemplate" ID="1">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID2" inherits="HoloFriendsOptions_FrameTemplate" ID="2">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID1" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID3" inherits="HoloFriendsOptions_FrameTemplate" ID="3">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID2" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID4" inherits="HoloFriendsOptions_FrameTemplate" ID="4">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID3" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID5" inherits="HoloFriendsOptions_FrameTemplate" ID="5">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID4" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID6" inherits="HoloFriendsOptions_FrameTemplate" ID="6">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID5" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID7" inherits="HoloFriendsOptions_FrameTemplate" ID="7">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID6" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID8" inherits="HoloFriendsOptions_FrameTemplate" ID="8">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID7" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID9" inherits="HoloFriendsOptions_FrameTemplate" ID="9">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID8" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID10" inherits="HoloFriendsOptions_FrameTemplate" ID="10">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID9" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID11" inherits="HoloFriendsOptions_FrameTemplate" ID="11">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID10" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID12" inherits="HoloFriendsOptions_FrameTemplate" ID="12">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID11" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID13" inherits="HoloFriendsOptions_FrameTemplate" ID="13">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID12" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID14" inherits="HoloFriendsOptions_FrameTemplate" ID="14">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID13" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID15" inherits="HoloFriendsOptions_FrameTemplate" ID="15">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID14" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID16" inherits="HoloFriendsOptions_FrameTemplate" ID="16">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID15" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID17" inherits="HoloFriendsOptions_FrameTemplate" ID="17">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID16" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID18" inherits="HoloFriendsOptions_FrameTemplate" ID="18">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID17" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID19" inherits="HoloFriendsOptions_FrameTemplate" ID="19">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID18" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID20" inherits="HoloFriendsOptions_FrameTemplate" ID="20">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID19" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID21" inherits="HoloFriendsOptions_FrameTemplate" ID="21">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID20" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID22" inherits="HoloFriendsOptions_FrameTemplate" ID="22">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID21" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID23" inherits="HoloFriendsOptions_FrameTemplate" ID="23">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID22" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID24" inherits="HoloFriendsOptions_FrameTemplate" ID="24">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID23" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID25" inherits="HoloFriendsOptions_FrameTemplate" ID="25">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID24" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID26" inherits="HoloFriendsOptions_FrameTemplate" ID="26">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID25" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+				</Frames>
+			</Frame></ScrollChild>
+		</ScrollFrame></Frames>
+		<Scripts>
+			<!-- OnLoad add the options frame to the interface option panel of WoW -->
+			<OnLoad>
+				HoloFriendsOptions_OnLoad(self);
+			</OnLoad>
+			<!-- OnShow init the check buttons -->
+			<OnShow>
+				HoloFriendsOptions_OnShow(self);
+			</OnShow>
+		</Scripts>
+	</Frame>
+	<Frame name="HoloFriends_FAQFrame" hidden="true">
+		<Layers><Layer level="OVERLAY">
+			<FontString name="$parentTitel" inherits="GameFontNormalLarge" text="HOLOFRIENDS_FAQ00TITLE">
+				<Size><AbsDimension x="300" y="40"/></Size>
+				<Anchors><Anchor point="TOP" relativePoint="TOP"/></Anchors>
+			</FontString>
+		</Layer></Layers>
+		<Frames><ScrollFrame name="$parentScroll" inherits="HoloFriends_ScrollTemplate">
+			<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT">
+				<Offset><AbsDimension x="10" y="-50"/></Offset>
+			</Anchor></Anchors>
+			<ScrollChild><Frame name="$parentChild">
+				<Size><AbsDimension x="1" y="1"/></Size>
+				<Frames>
+					<Frame name="$parent_ID1" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="1">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID2" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="2">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID1" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID3" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="3">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID2" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID4" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="4">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID3" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID5" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="5">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID4" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID6" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="6">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID5" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID7" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="7">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID6" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID8" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="8">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID7" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID9" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="9">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID8" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID10" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="10">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID9" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID11" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="11">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID10" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID12" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="12">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID11" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID13" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="13">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID12" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID14" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="14">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID13" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID15" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="15">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID14" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+					<Frame name="$parent_ID16" inherits="HoloFriendsFAQ_TextFrameTemplate" ID="16">
+						<Anchors><Anchor point="TOPLEFT" relativeTo="$parent_ID15" relativePoint="BOTTOMLEFT"/></Anchors>
+					</Frame>
+				</Frames>
+			</Frame></ScrollChild>
+		</ScrollFrame></Frames>
+		<Scripts>
+			<!-- OnLoad add the FAQ frame to the interface option panel of WoW -->
+			<OnLoad>
+				HoloFriendsFAQ_OnLoad(self);
+			</OnLoad>
+		</Scripts>
+	</Frame>
+</Ui>

@@ -1,0 +1,19 @@
+
+ARLDB2 = {
+	["global"] = {
+		["tradeskill"] = {
+			["Icecrown"] = {
+				["Tabinia"] = {
+					["Inscription"] = "|cffffd000|Htrade:45357:46:75:27129:BHAAA6CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|h[Inscription]|h|r",
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+	},
+	["profiles"] = {
+		["Tabinia - Icecrown"] = {
+		},
+	},
+}

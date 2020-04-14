@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["player"] = {
+				["Salaction"] = true,
+			},
+		},
+	},
+}

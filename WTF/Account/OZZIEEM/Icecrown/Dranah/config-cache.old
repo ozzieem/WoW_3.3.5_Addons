@@ -1,0 +1,7 @@
+SET questLogCollapseFilter "-1"
+SET trackedQuests "v#|S#+"
+SET trackedAchievements "v"
+SET cameraSavedDistance "30.000000"
+SET cameraSavedPitch "16.300014"
+SET playerStatLeftDropdown "PLAYERSTAT_BASE_STATS"
+SET playerStatRightDropdown "PLAYERSTAT_SPELL_COMBAT"

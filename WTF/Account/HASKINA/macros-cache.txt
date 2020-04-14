@@ -1,0 +1,23 @@
+MACRO 3 "." Ability_Druid_ManaTree
+#showtooltip Charger
+/cast [nocombat, nomounted] !Crusader Aura; [mounted] !Retribution Aura;
+/cast [nocombat, nomounted] Swift Green Gryphon;
+/cast [nocombat, nomounted] Charger;
+/dismount [mounted]
+END
+MACRO 2 "adsad" INV_Misc_QuestionMark
+/tar [nodead] Nexus Drake
+END
+MACRO 1 "dsrfrt" INV_Misc_QuestionMark
+/run LoadAddOn"Blizzard_TrainerUI" f=ClassTrainerTrainButton f.e = 0 f:SetScript("OnUpdate", function(f,e) f.e=f.e+e if f.e>.01 then f.e=0 f:Click() end end)
+END
+MACRO 5 "mount" INV_Misc_QuestionMark
+/cast Ebon Gryphon
+/cast Swift Mistsaber
+END
+MACRO 6 "removeqsts" INV_Misc_QuestionMark
+/run for i=1,GetNumQuestLogEntries() do SelectQuestLogEntry(i); SetAbandonQuest(); AbandonQuest(); end
+END
+MACRO 4 "ty" INV_Misc_QuestionMark
+/p ty
+END

@@ -1,0 +1,915 @@
+* {
+margin: 0;
+padding: 0; }
+
+a {
+color: #213c57;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+body {
+font-family: Arial, Tahoma, Helvetica, sans-serif;
+font-size: small;
+color: #252525;
+background: #252525 url(http://www.zygorguides.com/img/back.gif) top left repeat;
+text-align: center;
+}
+
+blockquote {
+display: block;
+margin: 10px;
+padding: 0 5px;
+width: 190px;
+font-size: 0.9em;
+text-align: center;
+}
+
+blockquote:before, blockquote:after {
+font-family: Georgia, Helvetica, sans-serif;
+display: block;
+font-size: 300%;
+text-align: left;
+}
+
+blockquote:before {
+content: open-quote;
+height: 0;
+margin-left: -0.55em;
+}
+
+blockquote:after {
+content: close-quote;
+height: 50px;
+margin-top: -40px;
+margin-left: 195px;
+}
+
+h1 {
+font-size: 1.4em;
+font-weight: bold;
+}
+
+h2 {
+font-size: 1.1em;
+font-weight: bold;
+padding-bottom: 5px;
+border-bottom: 1px solid #dfd8d0;
+margin-bottom: 10px;
+}
+
+h3 {
+line-height: 1.7;}
+
+
+hr {
+	background: transparent;
+	height: 0;
+	border-top: 1px solid #dfd8d0;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	padding: 0;
+	margin: 18px 8px 18px 8px;
+	clear: both;
+	}
+	
+form { 
+text-align: center;}
+	
+form input {
+	background: #f6fbff;
+	font-family: Georgia, Helvetica, sans-serif;
+	font-size: 1.1em;
+	line-height: 1.5;
+	border: 1px solid #000;
+	padding: 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #000;
+	margin-bottom: 10px;}
+		
+form label {
+	display: block;
+	font-size: 0.9em;}
+	
+#contact form {
+text-align: left;
+}
+
+#contact form fieldset {
+		border: 1px solid #dfd8d0;
+		padding: 10px;
+		}
+		
+#contact form input {
+		background: #f6fbff;
+		border: 1px solid #333;
+	font-family: Georgia, Helvetica, sans-serif;
+	font-size: 1.1em;
+	line-height: 1.5;
+		color: #000;
+		padding: 2px;
+		margin-bottom: 20px;
+		}
+		
+#contact form label {
+		display: block;
+		float: left;
+		font-weight: bold;
+		color: #463a38;
+		font-size: 1.1em;
+		line-height: 1.2;
+		width: 220px;
+		}
+		
+#contact form legend {
+		font-weight: bold;
+		font-size:1.3em;
+		line-height: 1.2;
+		color: #463a38;
+		padding: 5px;
+		}
+
+
+
+#contact form textarea {
+		background: #f6fbff;
+		border: 1px solid #333;
+		font-family: Georgia, Helvetica, sans-serif;
+		font-size: 1.1em;
+	    line-height: 1.5;
+		color: #000;
+		padding: 2px;
+		}
+		
+#login form label {
+		display: block;
+		font-weight: bold;
+		color: #463a38;
+		font-size: 1.1em;
+		line-height: 1.2;		
+		}
+		
+#sign form { 
+text-align: left;}
+	
+#sign form input {
+	background: #f6fbff;
+	font-family: Georgia, Helvetica, sans-serif;
+	line-height: 1.5;
+	font-size: 1.2em;
+	border: 1px solid #000;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #000;
+    margin-bottom: 10px;}
+		
+#sign form label {
+	font-size: 0.9em;
+	display:inline;}
+		
+.centered ul {
+list-style-type: none;
+}
+
+.centered img {
+vertical-align: top;
+}
+
+#help {
+width: 200px;
+}
+
+		
+#login {
+background: url(http://www.zygorguides.com/img/portal.png) center no-repeat;
+height: 145px;
+}
+
+#login {
+padding-top: 20px;
+}
+
+#login form label{
+color: #fff;
+}
+
+#login form imput{
+background: #fff;
+}
+	
+.button {
+text-align: center;
+margin-top: 10px;
+}
+
+.buttonarea input {
+		font-family: Arial, Georgia, Helvetica, sans-serif;
+		font-size: 0.9em;
+		font-weight: bold;}
+
+#container {
+margin: 0px auto;
+width: 800px;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+background: #bdd7e5;
+text-align: left;
+}
+
+#header {
+width: auto;
+background: url(http://www.zygorguides.com/img/relaunchbanner.jpg);
+height: 150px;
+}
+
+#navigation {
+background: url(http://www.zygorguides.com/img/nav.png) repeat-x;
+height: 35px;
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+line-height:2.8em;
+padding-left: 18px;
+}
+
+#navigation a {
+ color: #fff;}
+ 
+#navigation li {
+	float:left;
+	list-style-type:none;
+	padding-right: 32px;
+}
+
+#navigation li a {
+	display:block;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #fff;
+	text-decoration:none;
+}
+
+#navigation li a:hover {
+	text-decoration: underline;}
+
+	
+#dropmenudiv{
+	position: absolute;
+	border-bottom-width: 0;
+	line-height: 1.8;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	text-align: left; }
+
+#dropmenudiv a:link, #dropmenudiv a:visited {
+	width: 165px;
+	display: block;
+	text-indent: 3px;
+	padding: 1px 0;
+	text-decoration: none;
+	font-weight: bold;
+	background: #252525 top left repeat;
+	border: 1px solid #000;
+	border-top: none;
+	color: #fff; }
+
+#dropmenudiv a:hover, #dropmenudiv a:active {
+	 }
+
+
+#content {
+width: 540px;
+float: left;
+}
+
+#flashbox {
+background: #fff;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+padding-top: 15px;
+padding-bottom: 10px;
+width: 530px;
+text-align: center;
+}
+
+#main {
+background: #fff;
+margin: 10px;
+margin-right: 0;
+padding: 10px;
+}
+
+#main p {
+padding: 5px 0 10px 0;
+font-size: .9em;
+line-height: 1.7;
+}
+
+
+#sidebar {
+width: 257px;
+float: right;
+}
+
+#sidebar p {
+font-size: .9em;
+line-height: 1.7;
+}
+
+.sidebox {
+margin: 10px;
+padding: 10px;
+background: #fff;
+}
+
+.topicheader {
+font-weight: bold;
+text-decoration:underline;
+font-size: 1.0em;
+}
+
+.topicdetails {
+font-size: 0.9em;
+}
+
+.title img {
+vertical-align: bottom;
+}
+
+.darkbox {
+margin-bottom: 10px;
+}
+
+.lightbox {
+margin-bottom: 10px;
+}
+
+.feedbox {
+margin: 10px;
+padding: 10px;
+background: #fff url(http://www.zygorguides.com/img/rss-feed.jpg) top right no-repeat;
+}
+
+.feedbox td {
+font-size: 0.9em;
+}
+
+.emailform {
+text-align: center;
+}
+
+.textright {
+text-align: right;
+}
+ 
+#footer {
+clear: both;
+background: #3b7197;
+padding: 10px;
+text-align: center;
+font-size: 1.1em;
+color: #fff;
+border-top: 1px solid #000;
+}
+
+#footer a {
+color: #fff;
+font-weight: bold;
+}
+
+.bigtext {
+font-size: 1.6em;
+font-weight: bold;
+border-bottom: 1px solid #dfd8d0;
+margin-bottom: 20px;
+}
+
+.imageleft {
+float: left;
+margin: 10px;
+margin-left: 0;
+margin-top: 0;
+}
+
+.imageright {
+float: right;
+margin-right: 10px;
+}
+
+
+#footer a:hover {
+text-decoration: underline;
+}
+
+.center {
+text-align: center;
+}
+
+
+.author_and_date {margin-top: 5px; font-size: 0.8em; text-transform: uppercase; letter-spacing: 1px; color: #463a38; }
+
+.author_and_date a, .author_and_date a:visited { color: #463a38; text-decoration: none; }
+	
+.author_and_date a:hover { color: #111; }
+	
+.author_and_date em { font-style: italic; text-transform: none; letter-spacing: normal; }
+
+.noborder {border: none;}
+
+.question{
+	display:block;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	font-size: 0.9em; }
+	
+.answer {
+	display:block;
+	margin-bottom: 10px;
+	font-size: 0.9em;
+	padding-left: 10px;
+	}
+	
+.spacer {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	}
+	
+.smalltext {
+font-size: 0.9em;
+font-weight: bold;
+}
+
+.imageborder {
+border:1px solid #000;}
+
+.noborder {
+border: none;
+}
+
+.blogform {
+text-align: left;
+margin-bottom: 10px;
+margin-left:auto; margin-right:auto;
+width: 400px;
+}
+		
+.blogform input {
+		background: #f6fbff;
+		border: 1px solid #333;
+		font-family: Georgia, Helvetica, sans-serif;
+		font-size: 1.1em;
+		line-height: 1.5;
+		color: #000;
+		padding: 2px;
+		margin-bottom: 10px;
+		}
+		
+.blogform label {
+		display: block;
+		float: left;
+		font-weight: bold;
+		color: #122d40;
+		font-size: 1.1em;
+		line-height: 1.2;
+		width: 80px;
+		margin-left: 10px;
+		}
+		
+.blogform legend {
+		font-weight: bold;
+		font-size:1.3em;
+		line-height: 1.2;
+		color: #122d40;
+		padding: 5px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+		}
+		
+.smile {margin-left: 90px;}
+
+.comment {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.boxtop {
+color: #fff;
+background: #252525;
+font-size: 1.1em;
+font-weight: bold;
+padding: 3px;
+padding-left: 5px;
+}
+
+.boxtop a {
+color: #e88e59;
+}
+
+.commentbox {
+background: #e2d3ca;
+color: #000;
+padding: 5px;
+border: 1px solid #000;
+margin-bottom: 10px;
+font-family: Arial, Georgia, Helvetica, sans-serif;
+font-size: 0.9em;
+line-height: 1.5;
+}
+
+.commentbox p {
+margin: 0;
+padding: 0;
+}
+
+
+.blogform textarea {
+		background: #e2d3ca;
+		border: 1px solid #333;
+		font-family: Georgia, Helvetica, sans-serif;
+		font-size: 1.1em;
+	    line-height: 1.5;
+		color: #000;
+		padding: 2px;
+		}
+
+
+.highslide-container div {
+    font-family: Verdana, Helvetica;
+    font-size: 10pt;
+}
+.highslide {
+	cursor: url(http://www.zygorguides.com/js/graphics/zoomin.cur), pointer;
+    outline: none;
+    text-decoration: none;
+}
+.highslide-active-anchor img {
+	visibility: hidden;
+}
+.highslide-wrapper, .drop-shadow {
+	background: white;
+}
+.highslide img {
+	border: 2px solid #000;
+}
+.highslide:hover img {
+	border: 2px solid #000;
+}
+.highslide-wrapper {
+	background: white;
+}
+.highslide-image {
+	border: 10px solid black;
+}
+.highslide-image-blur {
+}
+.highslide-caption {
+    display: none;
+    border: 1px solid black;
+    border-top: none;
+    padding: 5px;
+    background-color: white;
+}
+.highslide-loading {
+    display: block;
+	color: black;
+	font-size: 8pt;
+	font-family: sans-serif;
+	font-weight: bold;
+    text-decoration: none;
+	padding: 2px;
+	border: 1px solid black;
+    background-color: white;
+
+    padding-left: 22px;
+    background-image: url(http://www.zygorguides.com/js/graphics/loader.white.gif);
+    background-repeat: no-repeat;
+    background-position: 3px 1px;
+}
+a.highslide-credits,
+a.highslide-credits i {
+    padding: 2px;
+    color: silver;
+    text-decoration: none;
+	font-size: 10px;
+}
+a.highslide-credits:hover,
+a.highslide-credits:hover i {
+    color: white;
+    background-color: gray;
+}
+
+a.highslide-full-expand {
+	background: url(http://www.zygorguides.com/js/graphics/fullexpand.gif) no-repeat;
+	display: block;
+	margin: 0 10px 10px 0;
+	width: 34px;
+	height: 34px;
+}
+
+.thumbright {
+float: right;
+margin-left: 20px;
+}
+
+.thumbleft {
+float: left;
+margin-right: 20px;
+
+}
+
+.thumbleft img {
+vertical-align: bottom;}
+
+.player {
+text-align: center;
+}
+
+.pplist li {
+margin-left: 20px;
+margin-bottom: 10px;
+margin-top: 10px;
+line-height: 1.5em;
+}
+
+.update {
+font-size: 1.3em;
+font-weight: bold;
+color: #51241e;
+}
+
+.topics li {
+
+list-style: none;
+}
+
+
+a.button-download {
+	display: block;
+	float: left;
+	height: 66px;
+	margin-right: 30px;
+	background: url(http://www.zygorguides.com/img/button-download.png) no-repeat;
+    color: white;
+	white-space: nowrap;
+	text-decoration: none;
+	position: relative;
+}
+
+a.button-download:hover {
+	xbackground-position: 0 -66px;
+}
+
+a.button-download:hover ins {
+	text-decoration: underline;
+}
+
+a.button-download:hover b {
+	xbackground-position: right -66px;
+}
+
+a.button-download span {
+	display: block;
+	height: 66px;
+	padding: 0 30px 0 60px;
+	background-repeat: no-repeat;
+	background-position: 8px center;
+}
+
+a.button-download ins {
+	display: block;
+	padding-top: 15px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+a.button-download del {
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+	color: #eeeeee;
+}
+
+a.button-download b {
+	position: absolute;
+	top: 0;
+	right: -13px;
+	background: url(http://www.zygorguides.com/img/button-download.png) no-repeat right 0;
+	width: 13px;
+	height: 66px;
+	}
+	
+.small {
+font-size: 0.8em;
+}
+
+.smallspace {
+margin-bottom: 30px;
+}
+
+.textleft {
+align: left;
+}
+
+.launchclock {
+font-size: 1.4em;
+font-weight: bold;
+margin: 10px;
+height: 179px;
+color: #fff;
+text-align: center;
+background: url(http://www.zygorguides.com/img/wotlktimer.png) no-repeat top center;
+}
+
+.timer {
+padding-top: 95px;
+}
+
+.runelist li {
+line-height: 1.5em;
+margin-bottom: 10px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/frostbullet.png) no-repeat left center;
+padding-left: 35px;
+}
+
+
+.ttblood li
+{
+line-height: 1.5em;
+margin-bottom: 10px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/bloodx.png) no-repeat left center;
+padding-left: 35px;
+}
+
+.ttfrost li
+{
+line-height: 1.5em;
+margin-bottom: 10px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/frostx.png) no-repeat left center;
+padding-left: 35px;
+}
+
+.ttunholy li
+{
+line-height: 1.5em;
+margin-bottom: 10px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/unholyx.png) no-repeat left center;
+padding-left: 35px;
+}
+
+.journal {
+background: url(http://www.zygorguides.com/img/scroll.png);
+font-family:Georgia, "Times New Roman", Times, serif;
+padding: 10px;
+border: 1px solid #000;
+font-size: 1.2em
+color: #000;
+}
+
+.listscroll li
+{
+line-height: 1.5em;
+margin-bottom: 25px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/scrollbullet.png) no-repeat left center;
+padding-left: 60px;
+}
+
+.listenchant li
+{
+line-height: 1.5em;
+margin-bottom: 25px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/enchantbullet.png) no-repeat left center;
+padding-left: 60px;
+}
+
+.listglyph li
+{
+line-height: 1.5em;
+margin-bottom: 25px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/glyphbullet.png) no-repeat left center;
+padding-left: 60px;
+}
+
+.listtarot li
+{
+line-height: 1.5em;
+margin-bottom: 25px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/tarotbullet.png) no-repeat left center;
+padding-left: 60px;
+}
+
+.listink li
+{
+line-height: 1.5em;
+margin-bottom: 25px;
+list-style: none;
+background: url(http://www.zygorguides.com/img/inkbullet.png) no-repeat left center;
+padding-left: 60px;
+}
+
+ol li {
+padding: 5px 0 10px 0;
+font-size: .9em;
+line-height: 1.4;
+margin-left: 20px;;}
+
+ol {
+margin-bottom: 20px;
+}
+
+.toc {
+border-left: 1px solid #000;
+border-top: 1px solid #000;
+}
+
+.tocimg {
+border: 1px solid #000;
+margin-left: 185px;
+}
+
+
+.imgleft {
+float: left;
+margin: 5px 15px 5px 0px;
+border: 1px solid #000;
+}
+
+.imgright {
+float: right;
+margin: 5px 0px 5px 10px;
+border: 1px solid #000;
+}
+
+.ul {
+text-decoration: underline;
+}
+
+a.button-download {
+	display: block;
+	float: left;
+	height: 66px;
+	margin-right: 30px;
+	background: url(http://www.zygorguides.com/img/button-download.gif) no-repeat;
+
+	color: white;
+	white-space: nowrap;
+	text-decoration: none;
+	position: relative;
+}
+
+a.button-download:hover {
+	background-position: 0 -66px;
+}
+
+a.button-download:hover ins {
+	text-decoration: underline;
+}
+
+a.button-download:hover b {
+	background-position: right -66px;
+}
+
+a.button-download span {
+	display: block;
+	height: 66px;
+	padding: 0 30px 0 60px;
+	background-repeat: no-repeat;
+	background-position: 8px center;
+}
+
+a.button-download ins {
+	display: block;
+	padding-top: 15px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+a.button-download del {
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+	color: #eeeeee;
+}
+
+a.button-download b {
+	position: absolute;
+	top: 0;
+	right: -13px;
+	background: url(http://www.zygorguides.com/img/button-download.gif) no-repeat right 0;
+	width: 13px;
+	height: 66px;
+}
+
+

@@ -1,0 +1,13 @@
+MACRO 16777217 "IC" INV_Misc_QuestionMark
+#showtooltip
+/cast Combustion
+/cast Icy Veins
+/cast Mirror Image
+/cast Nevermelting Ice Crystal
+/cast Talisman of Resurgence
+END
+MACRO 16777218 "mount" INV_Misc_QuestionMark
+#showtooltip Snowy Gryphon
+/cast Snowy Gryphon
+/cast Swift White Mechanostrider
+END

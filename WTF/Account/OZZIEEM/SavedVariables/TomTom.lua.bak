@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
+	},
+	["profiles"] = {
+		["Dranah - Icecrown"] = {
+		},
+	},
+}

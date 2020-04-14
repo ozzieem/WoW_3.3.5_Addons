@@ -1,0 +1,47 @@
+HTTrack3.43-7+htsswf+htsjava launched on Thu, 29 Oct 2009 09:01:28 at http://www.zygorguides.com/members/dkplayers.php +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir2%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" -%l "en, en, *" http://www.zygorguides.com/members/dkplayers.php -O1 "C:\My Web Sites\Death Knight Players Guide" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:01:29	Info: 	Note: due to www.zygorguides.com remote robots.txt rules, links begining with these path will be forbidden: /classes/, /cgi-bin/ (see in the options to disable this)
+09:01:30	Info: 	engine: transfer-status: link updated: www.zygorguides.com/members/dkplayers.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/members/dkplayers.html
+09:01:30	Info: 	engine: transfer-status: link added: www.zygorguides.com/favicon.ico -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/favicon.ico
+09:01:30	Info: 	engine: warning: entry cleaned up, but no trace on heap: www.zygorguides.com/favicon.ico (C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/favicon.ico)
+09:01:30	Info: 	engine: transfer-status: link added: feeds.feedburner.com/zygorguides -> C:/My Web Sites/Death Knight Players Guide/feeds.feedburner.com/zygorguideshtml.html
+09:01:36	Info: 	engine: transfer-status: link added: www.zygorguides.com/news/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/news/index.html
+09:01:36	Info: 	engine: transfer-status: link added: feeds.feedburner.com/robots.txt -> 
+09:01:36	Info: 	engine: transfer-status: link added: www.zygorguides.com/about/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/about/index.html
+09:01:36	Info: 	engine: transfer-status: link added: www.zygorguides.com/guides/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/guides/index.html
+09:01:37	Info: 	engine: transfer-status: link added: www.zygorguides.com/amember/member.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/amember/member.html
+09:01:38	Info: 	engine: transfer-status: link added: www.zygorguides.com/forum/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/forum/index.html
+09:01:38	Info: 	engine: transfer-status: link added: www.zygorguides.com/faq/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/faq/index.html
+09:01:43	Warning: 	File seems complete (same size), but there was a cache read error: www.zygorguides.com/favicon.ico
+09:01:43	Info: 	engine: transfer-status: link added: www.zygorguides.com/contact/index.php -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/contact/index.html
+09:01:45	Info: 	engine: transfer-status: link added: www.zygorguides.com/ -> C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/index.html
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/back.gif
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/portal.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/relaunchbanner.jpg
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/nav.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/rss-feed.jpg
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/js/graphics/loader.white.gif
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/js/graphics/fullexpand.gif
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/button-download.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/wotlktimer.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/frostbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/bloodx.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/frostx.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/unholyx.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/scroll.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/scrollbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/enchantbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/glyphbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/tarotbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/inkbullet.png
+09:01:48	Info: 	Purging C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/img/button-download.gif
+09:01:48	Info: 	Purging directory C:/My Web Sites/Death Knight Players Guide/www.zygorguides.com/js/graphics/
+
+HTTrack Website Copier/3.43-7 mirror complete in 20 seconds : 24 links scanned, 23 files written (881325 bytes overall), 12 files updated [161850 bytes received at 8092 bytes/sec], 2656 bytes transfered using HTTP compression in 2 files, ratio 51%, 1.1 requests per connection
+(No errors, 1 warnings, 35 messages)

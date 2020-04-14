@@ -1,0 +1,49 @@
+------------------------------------------------------------------------
+r164 | myrroddin | 2010-09-26 04:45:01 +0000 (Sun, 26 Sep 2010) | 1 line
+Changed paths:
+   A /tags/Release 1.00 (from /trunk:163)
+
+Tagging as Release 1.00
+------------------------------------------------------------------------
+r163 | myrroddin | 2010-09-26 04:35:38 +0000 (Sun, 26 Sep 2010) | 3 lines
+Changed paths:
+   M /trunk/.pkgmeta
+   A /trunk/Locales/Localization.Spanish.lua
+   D /trunk/Locales/Localization.esES.lua
+   D /trunk/Locales/Localization.esMX.lua
+   M /trunk/SmartRes2.lua
+   M /trunk/SmartRes2.toc
+
+.pkgmeta: fixed tabs vs spaces, removed tag: latest for all libs
+Rolled esMX into the more complete esES locale
+Some small nerfs to the version checking to decrease obnoxiousness
+------------------------------------------------------------------------
+r162 | myrroddin | 2010-09-14 01:43:59 +0000 (Tue, 14 Sep 2010) | 3 lines
+Changed paths:
+   M /trunk/SmartRes2.lua
+   M /trunk/SmartRes2.toc
+
+zhCN translations
+X-Compatible-With: 40000 flag set
+Nerf excessive version callbacks
+------------------------------------------------------------------------
+r160 | myrroddin | 2010-09-04 10:35:15 +0000 (Sat, 04 Sep 2010) | 3 lines
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+   M /trunk/Locales/Localization.deDE.lua
+   M /trunk/Locales/Localization.enUS.lua
+   M /trunk/Locales/Localization.esES.lua
+   M /trunk/Locales/Localization.esMX.lua
+   M /trunk/Locales/Localization.frFR.lua
+   M /trunk/Locales/Localization.koKR.lua
+   M /trunk/Locales/Localization.ruRU.lua
+   M /trunk/Locales/Localization.zhCN.lua
+   M /trunk/Locales/Localization.zhTW.lua
+   M /trunk/SmartRes2.lua
+   M /trunk/SmartRes2.toc
+
+deDE, frFR, ruRU translation updates
+Added version checking. This can be turned off in the Chat Options tab
+.pkgmeta, toc, optdeps updated accordingly
+------------------------------------------------------------------------

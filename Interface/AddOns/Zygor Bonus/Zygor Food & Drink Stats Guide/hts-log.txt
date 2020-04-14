@@ -1,0 +1,161 @@
+HTTrack3.43-7+htsswf+htsjava launched on Thu, 29 Oct 2009 09:02:37 at http://zygorguides.com/freebies/fooddrinkstats.php +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir2%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" -%l "en, en, *" http://zygorguides.com/freebies/fooddrinkstats.php -O1 "C:\My Web Sites\Zygor Food & Drink Stats Guide" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:02:37	Info: 	Note: due to zygorguides.com remote robots.txt rules, links begining with these path will be forbidden: /classes/, /cgi-bin/ (see in the options to disable this)
+09:02:40	Info: 	engine: transfer-status: link updated: zygorguides.com/freebies/fooddrinkstats.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/freebies/fooddrinkstats.html
+09:02:41	Info: 	engine: transfer-status: link added: zygorguides.com/favicon.ico -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/favicon.ico
+09:02:41	Info: 	engine: transfer-status: link added: feeds.feedburner.com/zygorguides -> C:/My Web Sites/Zygor Food & Drink Stats Guide/feeds.feedburner.com/zygorguideshtml.html
+09:02:41	Info: 	engine: transfer-status: link added: feeds.feedburner.com/robots.txt -> 
+09:02:42	Info: 	engine: transfer-status: link added: zygorguides.com/news/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/news/index.html
+09:02:42	Info: 	engine: transfer-status: link added: www.zygorguides.com/robots.txt -> 
+09:02:42	Info: 	engine: transfer-status: link added: zygorguides.com/about/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/about/index.html
+09:02:43	Info: 	engine: transfer-status: link added: zygorguides.com/guides/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/guides/index.html
+09:02:43	Info: 	engine: transfer-status: link added: zygorguides.com/amember/member.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/amember/member.html
+09:02:43	Info: 	engine: transfer-status: link added: zygorguides.com/freetrial/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/freetrial/index.html
+09:02:45	Info: 	engine: transfer-status: link added: zygorguides.com/forum/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/forum/index.html
+09:02:45	Info: 	engine: transfer-status: link added: zygorguides.com/faq/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/faq/index.html
+09:02:49	Info: 	engine: transfer-status: link added: zygorguides.com/contact/index.php -> C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/contact/index.html
+09:02:50	Info: 	engine: transfer-status: link added: www.wowwiki.com/Food -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowwiki.com/Food.html
+09:02:50	Info: 	engine: transfer-status: link added: www.wowhead.com/robots.txt -> 
+09:02:50	Info: 	engine: transfer-status: link added: www.wowwiki.com/robots.txt -> 
+09:02:52	Info: 	Note: due to www.zygorguides.com remote robots.txt rules, links begining with these path will be forbidden: /classes/, /cgi-bin/ (see in the options to disable this)
+09:02:53	Info: 	engine: transfer-status: link added: www.zygorguides.com/ -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/index.html
+09:02:59	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=20452 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexf10e.html
+09:02:59	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=13928 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index47a8.html
+09:03:01	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=35563 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2f0f.html
+09:03:02	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27658 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index97ff.html
+09:03:03	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=29292 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index12e1.html
+09:03:04	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27664 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexd266.html
+09:03:05	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27659 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index06c9.html
+09:03:06	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27655 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index01cb.html
+09:03:08	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=33874 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5e9c.html
+09:03:09	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=30359 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index9064.html
+09:03:09	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=30358 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index1b21.html
+09:03:10	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=43000 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index4aba.html
+09:03:12	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=42999 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index03a1.html
+09:03:12	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34762 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3763.html
+09:03:14	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34748 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexce41.html
+09:03:14	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34754 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexaece.html
+09:03:15	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34766 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexaca0.html
+09:03:16	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12224 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8bfe.html
+09:03:17	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=17197 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3183.html
+09:03:18	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=6888 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index9688.html
+09:03:19	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27635 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index41c0.html
+09:03:20	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=24105 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index450e.html
+09:03:21	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2888 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3d3f.html
+09:03:22	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5472 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7413.html
+09:03:23	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2680 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexc3ff.html
+09:03:24	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=17198 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5761.html
+09:03:25	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5484 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexf6b0.html
+09:03:25	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27636 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3f8a.html
+09:03:27	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5525 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8e2c.html
+09:03:27	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2684 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexcede.html
+09:03:28	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5476 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index22d4.html
+09:03:29	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=724 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index735c.html
+09:03:30	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5477 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8f0c.html
+09:03:31	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3220 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index07cb.html
+09:03:32	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=22645 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index1680.html
+09:03:33	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2683 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2b24.html
+09:03:34	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3662 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexf7a5.html
+09:03:35	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2687 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexb8ed.html
+09:03:36	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=2699 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5427.html
+09:03:37	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=21072 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index6212.html
+09:03:37	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5479 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7b86.html
+09:03:38	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3663 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index4915.html
+09:03:39	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=1017 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexca7d.html
+09:03:40	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3726 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index273b.html
+09:03:41	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3666 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexb7c0.html
+09:03:42	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5480 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index0534.html
+09:03:44	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3664 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index234b.html
+09:03:44	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5527 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexd8d2.html
+09:03:45	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3727 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7d2a.html
+09:03:46	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12209 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7b78.html
+09:03:48	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3665 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexacb5.html
+09:03:48	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=20074 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8bf5.html
+09:03:50	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3728 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index9c54.html
+09:03:51	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=4457 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index0a1d.html
+09:03:52	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12213 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3818.html
+09:03:53	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=6038 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8de9.html
+09:03:54	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=13851 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2dcd.html
+09:03:55	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12212 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexe545.html
+09:03:56	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12214 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index427f.html
+09:03:57	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12210 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexc698.html
+09:03:58	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=3729 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexd890.html
+09:03:58	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=21217 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5668.html
+09:04:00	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=1082 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexed5d.html
+09:04:01	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=13931 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index203f.html
+09:04:01	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=33872 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8cda.html
+09:04:03	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=33825 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index48b3.html
+09:04:04	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=42996 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexb857.html
+09:04:05	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=44953 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexf45f.html
+09:04:06	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34764 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexfc43.html
+09:04:07	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=33004 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7b2f.html
+09:04:08	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=18254 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexe368.html
+09:04:09	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=35565 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index1306.html
+09:04:10	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27657 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexa9ce.html
+09:04:11	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=31673 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index8e61.html
+09:04:12	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27666 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5641.html
+09:04:13	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27665 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexa5b8.html
+09:04:14	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27663 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexfba0.html
+09:04:15	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=30357 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index77a9.html
+09:04:16	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=30361 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index97e0.html
+09:04:17	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34767 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index73c7.html
+09:04:18	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34749 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index078b.html
+09:04:19	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34763 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index6c52.html
+09:04:20	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34755 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index443d.html
+09:04:21	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34756 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexed0d.html
+09:04:22	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34768 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2eb9.html
+09:04:23	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=39691 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexfa3d.html
+09:04:24	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34750 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index26f3.html
+09:04:25	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12215 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexa378.html
+09:04:26	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=17222 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index9923.html
+09:04:27	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=16971 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexf123.html
+09:04:28	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12218 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index9045.html
+09:04:29	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=12216 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexbd55.html
+09:04:30	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=18045 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index60e4.html
+09:04:31	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=31672 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index522c.html
+09:04:32	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27651 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index7f17.html
+09:04:33	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=30155 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2c92.html
+09:04:34	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27662 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/indexaae9.html
+09:04:35	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27660 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index1bf6.html
+09:04:36	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=27667 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index2532.html
+09:04:37	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=33052 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index63a9.html
+09:04:38	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=34411 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5b19.html
+09:04:39	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=42998 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index217b.html
+09:04:39	Error: 	"Not Found" (404) at link zygorguides.com/freebies/Charred%20Bear%20Kabobs (from zygorguides.com/freebies/fooddrinkstats.php)
+09:04:39	Error: 	"Not Found" (404) at link zygorguides.com/freebies/Oronok's%20Tuber%20of%20Spell%20Power (from zygorguides.com/freebies/fooddrinkstats.php)
+09:04:39	Error: 	"Not Found" (404) at link zygorguides.com/freebies/Tender%20Shoveltusk%20Steak (from zygorguides.com/freebies/fooddrinkstats.php)
+09:04:39	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=5631 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index107d.html
+09:04:40	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=13442 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index677b.html
+09:04:41	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=22828 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index5307.html
+09:04:41	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=22837 -> C:/My Web Sites/Zygor Food & Drink Stats Guide/www.wowhead.com/index3a25.html
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/back.gif
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/portal.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/relaunchbanner.jpg
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/nav.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/rss-feed.jpg
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/js/graphics/loader.white.gif
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/js/graphics/fullexpand.gif
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/button-download.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/wotlktimer.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/frostbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/bloodx.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/frostx.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/unholyx.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/scroll.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/scrollbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/enchantbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/glyphbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/tarotbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/inkbullet.png
+09:04:41	Info: 	Purging C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/img/button-download.gif
+09:04:41	Info: 	Purging directory C:/My Web Sites/Zygor Food & Drink Stats Guide/www.zygorguides.com/img/
+09:04:41	Info: 	Purging directory C:/My Web Sites/Zygor Food & Drink Stats Guide/zygorguides.com/js/graphics/
+
+HTTrack Website Copier/3.43-7 mirror complete in 2 minutes 4 seconds : 148 links scanned, 140 files written (13308667 bytes overall), 123 files updated [3053834 bytes received at 24627 bytes/sec], 12481441 bytes transfered using HTTP compression in 112 files, ratio 22%, 1.0 requests per connection
+(3 errors, 0 warnings, 147 messages)

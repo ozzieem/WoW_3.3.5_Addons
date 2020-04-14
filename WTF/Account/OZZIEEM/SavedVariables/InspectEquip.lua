@@ -1,0 +1,4 @@
+
+InspectEquipConfig = {
+	["charWindow"] = true,
+}

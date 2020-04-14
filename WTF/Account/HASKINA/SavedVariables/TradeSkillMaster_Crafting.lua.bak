@@ -1,0 +1,14 @@
+
+TradeSkillMaster_CraftingDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["tradeSkills"] = {
+				["Salaction"] = {
+				},
+			},
+		},
+	},
+}

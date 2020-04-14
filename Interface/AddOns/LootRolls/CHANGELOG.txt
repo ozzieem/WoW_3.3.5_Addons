@@ -1,0 +1,23 @@
+v0.97
+Added keybinds for "hide", "show" and "toggle" of the main window
+Added command line options for hide and show in addition to the existing toggle
+Fixed bug with requiring AceComm
+
+v0.96
+Now has default templates
+Added timer for fadeout
+
+v0.95
+Puts items being rolled on in a new frame you can move around and see results
+To toggle the window display type: /lr win 
+
+v0.90b
+Now detect when rolls are won/lost and who rolls
+In 5-man groups no longer ignores yourself.
+Sorting by roll and colors
+If the exact same item drops multiple times its random which one will display information
+If two of the same item drop and have rolls pending at the same point in time it will get confused
+If anyone knows how to disambiguate roll detection of items which have the same link please let me know.  Parsing the chat messages is unreliable and leads to fun with localization
+
+v0.90a
+Initial release for testing.

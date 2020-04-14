@@ -1,0 +1,31 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profileKeys"] = {
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+	},
+	["profiles"] = {
+		["Tabinia - Icecrown"] = {
+			["EquipCompare"] = true,
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Tabinia"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+	},
+	["Own"] = {
+		["Tabinia"] = {
+		},
+	},
+}

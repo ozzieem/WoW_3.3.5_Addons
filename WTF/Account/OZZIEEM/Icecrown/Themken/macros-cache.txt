@@ -1,0 +1,23 @@
+MACRO 16777219 "brass" INV_Misc_QuestionMark
+/target Brassbolt Mechawrench
+/interact Brassbolt Mechawrench
+END
+MACRO 16777218 "Buff" INV_Misc_QuestionMark
+#showtooltip
+/cast Rapid Fire
+/cast Call of the Wild
+/cast Kill Command
+/use Mark of Supremacy
+/use Sidestepping Handguards
+/use Fezzik's Pocketwatch
+END
+MACRO 16777217 "MD" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/focus [help]
+/stopmacro [help]
+/cast [@focus,exists] Misdirection;[@pet,exists] Misdirection
+END
+MACRO 16777220 "mount" INV_Misc_QuestionMark
+/cast Ebon Gryphon
+/cast Swift Frostsaber
+END

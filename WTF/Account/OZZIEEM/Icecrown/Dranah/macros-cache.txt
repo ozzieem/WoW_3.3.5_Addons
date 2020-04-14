@@ -1,0 +1,5 @@
+MACRO 16777217 "mount" INV_Misc_QuestionMark
+#showtooltip
+/cast Blue Proto-Drake
+/cast Swift Pink Hawkstrider
+END

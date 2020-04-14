@@ -1,0 +1,51 @@
+HTTrack3.43-7+htsswf+htsjava launched on Thu, 29 Oct 2009 09:02:04 at http://www.zygorguides.com/members/inscription.php?>postfile:C:\My%20Web%20Sites\Inscription%20Profession%20Leveling%20Guide\hts-post0 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir2%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" -%l "en, en, *" http://www.zygorguides.com/members/inscription.php?>postfile:C:\My%20Web%20Sites\Inscription%20Profession%20Leveling%20Guide\hts-post0 -O1 "C:\My Web Sites\Inscription Profession Leveling Guide" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:02:05	Info: 	Note: due to www.zygorguides.com remote robots.txt rules, links begining with these path will be forbidden: /classes/, /cgi-bin/ (see in the options to disable this)
+09:02:06	Info: 	engine: transfer-status: link updated: www.zygorguides.com/members/inscription.php?>postfile:C:\My%20Web%20Sites\Inscription%20Profession%20Leveling%20Guide\hts-post0 -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/members/inscriptiona465.html
+09:02:06	Info: 	engine: transfer-status: link added: www.zygorguides.com/favicon.ico -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/favicon.ico
+09:02:06	Info: 	engine: warning: entry cleaned up, but no trace on heap: www.zygorguides.com/favicon.ico (C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/favicon.ico)
+09:02:07	Info: 	engine: transfer-status: link added: feeds.feedburner.com/zygorguides -> C:/My Web Sites/Inscription Profession Leveling Guide/feeds.feedburner.com/zygorguideshtml.html
+09:02:07	Info: 	engine: transfer-status: link added: feeds.feedburner.com/robots.txt -> 
+09:02:07	Info: 	engine: transfer-status: link added: www.zygorguides.com/news/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/news/index.html
+09:02:08	Info: 	engine: transfer-status: link added: www.zygorguides.com/about/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/about/index.html
+09:02:13	Info: 	engine: transfer-status: link added: www.zygorguides.com/guides/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/guides/index.html
+09:02:13	Info: 	engine: transfer-status: link added: www.zygorguides.com/amember/member.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/amember/member.html
+09:02:14	Info: 	engine: transfer-status: link added: www.zygorguides.com/forum/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/forum/index.html
+09:02:19	Info: 	engine: transfer-status: link added: www.zygorguides.com/faq/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/faq/index.html
+09:02:19	Info: 	engine: transfer-status: link added: www.zygorguides.com/contact/index.php -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/contact/index.html
+09:02:19	Warning: 	File seems complete (same size), but there was a cache read error: www.zygorguides.com/favicon.ico
+09:02:19	Info: 	engine: transfer-status: link added: www.wowhead.com/robots.txt -> 
+09:02:22	Info: 	engine: transfer-status: link added: www.zygorguides.com/ -> C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/index.html
+09:02:23	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=39151 -> C:/My Web Sites/Inscription Profession Leveling Guide/www.wowhead.com/index687e.html
+09:02:23	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=39334 -> C:/My Web Sites/Inscription Profession Leveling Guide/www.wowhead.com/index15b6.html
+09:02:24	Info: 	engine: transfer-status: link added: www.wowhead.com/?item=43103 -> C:/My Web Sites/Inscription Profession Leveling Guide/www.wowhead.com/index9d93.html
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/back.gif
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/portal.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/relaunchbanner.jpg
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/nav.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/rss-feed.jpg
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/js/graphics/loader.white.gif
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/js/graphics/fullexpand.gif
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/button-download.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/wotlktimer.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/frostbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/bloodx.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/frostx.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/unholyx.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/scroll.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/scrollbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/enchantbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/glyphbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/tarotbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/inkbullet.png
+09:02:24	Info: 	Purging C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/img/button-download.gif
+09:02:24	Info: 	Purging directory C:/My Web Sites/Inscription Profession Leveling Guide/www.zygorguides.com/js/graphics/
+
+HTTrack Website Copier/3.43-7 mirror complete in 20 seconds : 24 links scanned, 22 files written (402737 bytes overall), 16 files updated [175147 bytes received at 8757 bytes/sec], 53080 bytes transfered using HTTP compression in 7 files, ratio 35%, 1.1 requests per connection
+(No errors, 1 warnings, 39 messages)

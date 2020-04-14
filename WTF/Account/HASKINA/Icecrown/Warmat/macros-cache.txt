@@ -1,0 +1,4 @@
+MACRO 16777217 "Stance" INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:1] Defensive Stance; Battle Stance
+END

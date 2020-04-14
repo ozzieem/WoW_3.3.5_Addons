@@ -1,0 +1,26 @@
+
+TalentedDB = {
+	["profileKeys"] = {
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+	},
+	["profiles"] = {
+		["Maulh - Icecrown"] = {
+			["confirmlearn"] = false,
+			["always_edit"] = false,
+			["framepos"] = {
+				["TalentedGlyphs"] = {
+					["y"] = -113.6841719991047,
+					["x"] = 56.84216040486887,
+					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
+				},
+				["TalentedFrame"] = {
+					["y"] = 34.52631216135067,
+					["x"] = -41.40363495958417,
+					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
+				},
+			},
+		},
+	},
+}

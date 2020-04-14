@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="LOOTROLLS_TOGGLE" header="LOOTROLLS">LootRolls:ToggleWin()</Binding>
+	<Binding name="LOOTROLLS_SHOW">LootRolls:Show("Damage Done")</Binding>
+	<Binding name="LOOTROLLS_HIDE">LootRolls:Hide()</Binding>
+</Bindings>

@@ -1,0 +1,132 @@
+------------------------------------------------------------------------
+r56 | kunda | 2010-09-05 13:07:18 +0000 (Sun, 05 Sep 2010) | 1 line
+Changed paths:
+   A /tags/30300-5 (from /trunk:55)
+
+Tagging as 30300-5
+------------------------------------------------------------------------
+r55 | kunda | 2010-09-05 13:01:31 +0000 (Sun, 05 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons.lua
+
+Added back center/center text. I don't know which other addon is using this text, but it's here again.
+------------------------------------------------------------------------
+r54 | kunda | 2010-09-03 12:11:04 +0000 (Fri, 03 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons.lua
+   M /trunk/GridIndicatorCornerIcons.toc
+
+fix menu
+------------------------------------------------------------------------
+r52 | Sayclub | 2010-08-27 22:48:19 +0000 (Fri, 27 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons-localization-koKR.lua
+
+koKR updat
+------------------------------------------------------------------------
+r51 | kunda | 2010-08-27 20:12:16 +0000 (Fri, 27 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons.lua
+
+update previous commit
+------------------------------------------------------------------------
+r50 | kunda | 2010-08-27 17:47:24 +0000 (Fri, 27 Aug 2010) | 3 lines
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons-localization-deDE.lua
+   M /trunk/GridIndicatorCornerIcons-localization-enUS.lua
+   M /trunk/GridIndicatorCornerIcons-localization-koKR.lua
+   M /trunk/GridIndicatorCornerIcons-localization-ruRU.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhCN.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhTW.lua
+   M /trunk/GridIndicatorCornerIcons.lua
+   M /trunk/GridIndicatorCornerIcons.toc
+
+- Fixed a bug if Grid is toggled on/off. (thx Armikur)
+- Added a simple Configuration Mode, so that it's easier to setup size/position and the other options.
+- Added option 'Same settings as Grid' (if enabled: same settings as Grid icon settings - DISABLED by DEFAULT).
+------------------------------------------------------------------------
+r49 | Sayclub | 2010-08-23 04:21:15 +0000 (Mon, 23 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons-localization-koKR.lua
+
+koKR update
+------------------------------------------------------------------------
+r47 | kunda | 2010-08-21 23:44:42 +0000 (Sat, 21 Aug 2010) | 1 line
+Changed paths:
+   A /trunk/GridIndicatorCornerIcons-icon-BL.tga
+   A /trunk/GridIndicatorCornerIcons-icon-BLleft.tga
+   A /trunk/GridIndicatorCornerIcons-icon-BLright.tga
+   A /trunk/GridIndicatorCornerIcons-icon-BR.tga
+   A /trunk/GridIndicatorCornerIcons-icon-BRleft.tga
+   A /trunk/GridIndicatorCornerIcons-icon-BRright.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TL.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TLleft.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TLright.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TR.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TRTLBLBR.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TRleft.tga
+   A /trunk/GridIndicatorCornerIcons-icon-TRright.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BL.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BLleft.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BLright.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BR.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BRleft.tga
+   D /trunk/GridIndicatorCornerIcons-icons-BRright.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TL.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TLleft.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TLright.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TR.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TRTLBLBR.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TRleft.tga
+   D /trunk/GridIndicatorCornerIcons-icons-TRright.tga
+   M /trunk/GridIndicatorCornerIcons.lua
+
+update
+------------------------------------------------------------------------
+r46 | kunda | 2010-08-20 10:46:43 +0000 (Fri, 20 Aug 2010) | 1 line
+Changed paths:
+   A /trunk/GridIndicatorCornerIcons-icons-TRTLBLBR.tga
+   M /trunk/GridIndicatorCornerIcons-localization-deDE.lua
+   M /trunk/GridIndicatorCornerIcons-localization-enUS.lua
+   M /trunk/GridIndicatorCornerIcons-localization-koKR.lua
+   M /trunk/GridIndicatorCornerIcons-localization-ruRU.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhCN.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhTW.lua
+   M /trunk/GridIndicatorCornerIcons.lua
+
+Add Options for Icon Stack Text (size/xy-offset).
+------------------------------------------------------------------------
+r45 | kunda | 2010-08-18 13:12:08 +0000 (Wed, 18 Aug 2010) | 2 lines
+Changed paths:
+   M /trunk/GridIndicatorCornerIcons.lua
+
+cleanup and correct commit text:
+-> Options: Frame -> Advanced -> Icon (Corners)
+------------------------------------------------------------------------
+r44 | kunda | 2010-08-18 12:56:31 +0000 (Wed, 18 Aug 2010) | 3 lines
+Changed paths:
+   A /trunk/GridIndicatorCornerIcons-icons-BL.tga
+   A /trunk/GridIndicatorCornerIcons-icons-BLleft.tga
+   A /trunk/GridIndicatorCornerIcons-icons-BLright.tga
+   A /trunk/GridIndicatorCornerIcons-icons-BR.tga
+   A /trunk/GridIndicatorCornerIcons-icons-BRleft.tga
+   A /trunk/GridIndicatorCornerIcons-icons-BRright.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TL.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TLleft.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TLright.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TR.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TRleft.tga
+   A /trunk/GridIndicatorCornerIcons-icons-TRright.tga
+   M /trunk/GridIndicatorCornerIcons-localization-deDE.lua
+   M /trunk/GridIndicatorCornerIcons-localization-enUS.lua
+   M /trunk/GridIndicatorCornerIcons-localization-koKR.lua
+   M /trunk/GridIndicatorCornerIcons-localization-ruRU.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhCN.lua
+   M /trunk/GridIndicatorCornerIcons-localization-zhTW.lua
+   M /trunk/GridIndicatorCornerIcons.lua
+   M /trunk/GridIndicatorCornerIcons.toc
+
+- Add icon cooldown/stacktext/border (same as Standard Grid but with separate options).
+-> DISABLED by DEFAULT
+-> Options: Frame -> Advanced -> Icon (Sides)
+------------------------------------------------------------------------

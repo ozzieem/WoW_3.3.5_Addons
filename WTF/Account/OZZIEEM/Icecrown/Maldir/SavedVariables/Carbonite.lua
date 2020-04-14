@@ -1,0 +1,27 @@
+
+NxCData = {
+	["Version"] = 0.1,
+	["Taxi"] = {
+		["Camp Winterhoof"] = true,
+		["Ratchet"] = true,
+		["Hellfire Peninsula"] = true,
+		["Venomspite"] = true,
+		["Conquest Hold"] = true,
+		["Silvermoon City"] = true,
+		["The Sepulcher"] = true,
+		["Orgrimmar"] = true,
+		["Shattered Sun Staging Area"] = true,
+		["Vengeance Landing"] = true,
+		["Undercity"] = true,
+		["Camp Taurajo"] = true,
+		["Grom'gol"] = true,
+		["Gadgetzan"] = true,
+		["Booty Bay"] = true,
+		["Wyrmrest Temple"] = true,
+		["Thrallmar"] = true,
+		["Freewind Post"] = true,
+		["Agmar's Hammer"] = true,
+		["Transitus Shield"] = true,
+		["Dalaran"] = true,
+	},
+}

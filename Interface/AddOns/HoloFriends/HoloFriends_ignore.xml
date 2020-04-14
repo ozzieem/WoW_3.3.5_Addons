@@ -1,0 +1,320 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+	<Button name="HoloIgnoreNameButtonTemplate" virtual="true" movable="true">
+		<Size><AbsDimension x="295" y="16"/></Size>
+		<Frames>
+			<CheckButton name="$parentServer">
+				<Size><AbsDimension x="16" y="16"/></Size>
+				<Anchors><Anchor point="TOPLEFT">
+					<Offset><AbsDimension x="20" y="0"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnClick>
+						HoloIgnore_CheckBox_OnClick(self);
+					</OnClick>
+				</Scripts>
+				<NormalTexture file="Interface\Buttons\UI-CheckBox-Up"/>
+				<PushedTexture file="Interface\Buttons\UI-CheckBox-Down"/>
+				<HighlightTexture file="Interface\Buttons\UI-CheckBox-Highlight" alphaMode="ADD"/>
+				<CheckedTexture file="Interface\Buttons\UI-CheckBox-Check"/>
+				<DisabledCheckedTexture file="Interface\Buttons\UI-CheckBox-Check-Disabled"/>
+			</CheckButton>
+		</Frames>
+		<Layers>
+			<Layer level="BORDER">
+				<FontString name="$parentName" inherits="GameFontNormal" justifyH="LEFT">
+					<Size><AbsDimension x="256" y="14"/></Size>
+					<Anchors><Anchor point="TOPLEFT">
+						<Offset><AbsDimension x="36" y="0"/></Offset>
+					</Anchor></Anchors>
+				</FontString>
+				<FontString name="$parentNameRemove" inherits="GameFontNormal" justifyH="LEFT">
+					<Size><AbsDimension x="256" y="14"/></Size>
+					<Anchors><Anchor point="LEFT" relativeTo="$parentName" relativePoint="LEFT">
+						<Offset><AbsDimension x="3" y="5"/></Offset>
+					</Anchor></Anchors>
+				</FontString>
+			</Layer>
+		</Layers>
+		<Scripts>
+			<OnLoad>
+				self:RegisterForClicks("LeftButtonUp", "RightButtonUp");
+				self:RegisterForDrag("LeftButton");
+				self:Hide();
+			</OnLoad>
+			<OnDragStart>
+				HoloIgnore_NameButton_OnDragStart(self);
+			</OnDragStart>
+			<OnDragStop>
+				HoloIgnore_NameButton_OnDragStop();
+			</OnDragStop>
+			<OnClick>
+				HoloIgnore_NameButton_OnClick(self, button);
+				PlaySound("igMainMenuOptionCheckBoxOn");
+			</OnClick>
+			<OnEnter>
+				HoloIgnore_NameButton_SetTooltip(self);
+			</OnEnter>
+			<OnLeave>
+				GameTooltip:Hide();
+			</OnLeave>
+		</Scripts>
+		<NormalTexture name="$parentTexture" file="Interface\Buttons\UI-MinusButton-UP">
+			<Size><AbsDimension x="16" y="16"/></Size>
+			<Anchors><Anchor point="LEFT">
+				<Offset><AbsDimension x="3" y="0"/></Offset>
+			</Anchor></Anchors>
+		</NormalTexture>
+		<HighlightTexture name="$parentHighlight" file="Interface\QuestFrame\UI-QuestTitleHighlight" alphaMode="ADD"/>
+	</Button>
+	<Frame name="HoloIgnoreFrame" hidden="true" parent="FriendsFrame" setAllPoints="true">
+		<Frames>
+			<Frame name="HoloIgnoreDropDown" inherits="UIDropDownMenuTemplate"/>
+			<Button name="HoloIgnoreFrameToggleTab1" inherits="TabButtonTemplate" text="FRIENDS" id="1">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="FriendsFrame">
+					<Offset><AbsDimension x="70" y="-39"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnShow>
+						PanelTemplates_DeselectTab(self);
+					</OnShow>
+					<OnClick>
+						PanelTemplates_Tab_OnClick(self, FriendsTabHeader);
+						FriendsFrame_Update();
+					</OnClick>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreFrameToggleTab2" inherits="TabButtonTemplate" text="IGNORE" id="2">
+				<Anchors><Anchor point="LEFT" relativeTo="HoloIgnoreFrameToggleTab1" relativePoint="RIGHT">
+					<Offset><AbsDimension x="0" y="0"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnShow>
+						PanelTemplates_DeselectTab(self);
+					</OnShow>
+					<OnClick>
+						HoloFriends_ShowInGameIgnoreList = true;
+						PanelTemplates_Tab_OnClick(self, FriendsTabHeader);
+						FriendsFrame_Update();
+					</OnClick>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreFrameToggleTab3" inherits="TabButtonTemplate" text="PENDING_INVITE" id="3">
+				<Anchors><Anchor point="LEFT" relativeTo="HoloIgnoreFrameToggleTab2" relativePoint="RIGHT">
+					<Offset><AbsDimension x="0" y="0"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnShow>
+						PanelTemplates_DeselectTab(self);
+					</OnShow>
+					<OnClick>
+						PanelTemplates_Tab_OnClick(self, FriendsTabHeader);
+						FriendsFrame_Update();
+					</OnClick>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreAddIgnoreButton" inherits="UIPanelButtonTemplate" text="IGNORE_PLAYER">
+				<Size><AbsDimension x="131" y="21"/></Size>
+				<Anchors><Anchor point="BOTTOMLEFT" relativeTo="FriendsFrame">
+					<Offset><AbsDimension x="17" y="107"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnLoad>
+						self:SetFrameLevel( self:GetFrameLevel() + 3 );
+					</OnLoad>
+					<OnClick>
+						HoloIgnore_AddIgnore();
+					</OnClick>
+					<OnEnter>
+						GameTooltip_AddNewbieTip(self,IGNORE_PLAYER, 1.0, 1.0, 1.0, NEWBIE_TOOLTIP_IGNOREPLAYER, 1);
+					</OnEnter>
+					<OnLeave>
+						GameTooltip:Hide();
+					</OnLeave>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreRemoveIgnoreButton" inherits="UIPanelButtonTemplate" text="STOP_IGNORE">
+				<Size><AbsDimension x="131" y="21"/></Size>
+				<Anchors><Anchor point="TOP" relativeTo="HoloIgnoreAddIgnoreButton" relativePoint="BOTTOM">
+					<Offset><AbsDimension x="0" y="-5"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnLoad>
+						self:SetFrameLevel( self:GetFrameLevel() + 3 );
+					</OnLoad>
+					<OnClick>
+						HoloIgnore_RemoveIgnore();
+					</OnClick>
+					<OnEnter>
+						GameTooltip_AddNewbieTip(self,REMOVE_FRIEND, 1.0, 1.0, 1.0, NEWBIE_TOOLTIP_REMOVEFRIEND, 1);
+					</OnEnter>
+					<OnLeave>
+						GameTooltip:Hide();
+					</OnLeave>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreShareButton" inherits="UIPanelButtonTemplate">
+				<Size><AbsDimension x="30" y="30"/></Size>
+				<Anchors><Anchor point="BOTTOMLEFT" relativeTo="HoloFriendsRemoveFriendButton" relativePoint="BOTTOMRIGHT">
+					<Offset><AbsDimension x="18" y="0"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnClick>
+						InterfaceOptionsFrame:Show();
+						InterfaceOptionsFrame_OpenToCategory(HOLOFRIENDS_SHAREIGNOREWINDOWTITLE);
+					</OnClick>
+					<OnEnter>
+						GameTooltip_AddNewbieTip(self, HOLOFRIENDS_SHAREIGNOREWINDOWTITLE, 1.0, 1.0, 1.0, HOLOFRIENDS_TOOLTIPSHAREBUTTON, 1);
+					</OnEnter>
+					<OnLeave>
+						GameTooltip:Hide();
+					</OnLeave>
+				</Scripts>
+				<NormalTexture name="$parentTexture" file="Interface\Icons\INV_Misc_Note_02.blp"/>
+				<HighlightTexture name="$parentHighlight" file="Interface\Buttons\ButtonHilight-Square.blp" alphaMode="ADD"/>
+				<PushedTexture name="$parentPushed" file="Interface\Icons\INV_Misc_Note_02.blp" alphaMode="ADD"/>
+				<DisabledTexture name="$parentDisabled" file="Interface\Icons\INV_Misc_Note_02.blp" alphaMode="ADD"/>
+			</Button>
+			<Button name="HoloIgnoreAddGroupButton" inherits="UIPanelButtonTemplate" text="HOLOFRIENDS_WINDOWMAINADDGROUP">
+				<Size><AbsDimension x="131" y="21"/></Size>
+				<Anchors><Anchor point="LEFT" relativeTo="HoloIgnoreAddIgnoreButton" relativePoint="RIGHT">
+					<Offset><AbsDimension x="66" y="0"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnClick>
+						StaticPopup_Show("HOLOIGNORE_ADDGROUP");
+					</OnClick>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreRemoveGroupButton" inherits="UIPanelButtonTemplate" text="HOLOFRIENDS_WINDOWMAINREMOVEGROUP">
+				<Size><AbsDimension x="131" y="21"/></Size>
+				<Anchors><Anchor point="TOP" relativeTo="HoloIgnoreAddGroupButton" relativePoint="BOTTOM">
+					<Offset><AbsDimension x="0" y="-5"/></Offset>
+				</Anchor></Anchors>
+				<Scripts>
+					<OnClick>
+						HoloFriendsLists_RemoveGroup(HoloIgnore_GetList(), HoloIgnore_GetSelectedEntry(), IGNORE);
+						HoloIgnore_DeselectEntry();
+						HoloFriends_chat("HoloIgnore_List_Update at .xml RemoveGroup", HF_DEBUG_OUTPUT);
+						HoloIgnore_List_Update();
+						-- update share window if open
+						if ( HoloIgnore_ShareFrame:IsVisible() ) then
+							HoloFriendsShare_OnShow(HoloIgnore_ShareFrame);
+						end
+					</OnClick>
+				</Scripts>
+			</Button>
+			<Button name="HoloIgnoreNameButton1" inherits="HoloIgnoreNameButtonTemplate" id="1">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="FriendsFrame">
+					<Offset><AbsDimension x="23" y="-80"/></Offset>
+				</Anchor></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton2" inherits="HoloIgnoreNameButtonTemplate" id="2">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton1" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton3" inherits="HoloIgnoreNameButtonTemplate" id="3">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton2" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton4" inherits="HoloIgnoreNameButtonTemplate" id="4">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton3" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton5" inherits="HoloIgnoreNameButtonTemplate" id="5">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton4" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton6" inherits="HoloIgnoreNameButtonTemplate" id="6">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton5" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton7" inherits="HoloIgnoreNameButtonTemplate" id="7">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton6" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton8" inherits="HoloIgnoreNameButtonTemplate" id="8">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton7" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton9" inherits="HoloIgnoreNameButtonTemplate" id="9">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton8" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton10" inherits="HoloIgnoreNameButtonTemplate" id="10">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton9" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton11" inherits="HoloIgnoreNameButtonTemplate" id="11">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton10" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton12" inherits="HoloIgnoreNameButtonTemplate" id="12">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton11" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton13" inherits="HoloIgnoreNameButtonTemplate" id="13">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton12" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton14" inherits="HoloIgnoreNameButtonTemplate" id="14">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton13" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton15" inherits="HoloIgnoreNameButtonTemplate" id="15">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton14" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton16" inherits="HoloIgnoreNameButtonTemplate" id="16">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton15" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton17" inherits="HoloIgnoreNameButtonTemplate" id="17">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton16" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButton18" inherits="HoloIgnoreNameButtonTemplate" id="18">
+				<Anchors><Anchor point="TOPLEFT" relativeTo="HoloIgnoreNameButton17" relativePoint="BOTTOMLEFT"/></Anchors>
+			</Button>
+			<Button name="HoloIgnoreNameButtonDrag" inherits="HoloIgnoreNameButtonTemplate" id="19"/>
+			<ScrollFrame name="HoloIgnoreScrollFrame" inherits="FauxScrollFrameTemplate">
+				<Size><AbsDimension x="318" y="304"/></Size>
+				<Anchors><Anchor point="TOPLEFT" relativeTo="FriendsFrame">
+					<Offset><AbsDimension x="0" y="-75"/></Offset>
+				</Anchor></Anchors>
+				<Layers>
+					<Layer level="ARTWORK">
+						<Texture file="Interface\PaperDollInfoFrame\UI-Character-ScrollBar">
+							<Size><AbsDimension x="31" y="256"/></Size>
+							<Anchors><Anchor point="TOPLEFT" relativePoint="TOPRIGHT">
+								<Offset><AbsDimension x="-2" y="5"/></Offset>
+							</Anchor></Anchors>
+							<TexCoords left="0" right="0.484375" top="0" bottom="1.0"/>
+						</Texture>
+						<Texture file="Interface\PaperDollInfoFrame\UI-Character-ScrollBar">
+							<Size><AbsDimension x="31" y="106"/></Size>
+							<Anchors><Anchor point="BOTTOMLEFT" relativePoint="BOTTOMRIGHT">
+								<Offset><AbsDimension x="-2" y="-2"/></Offset>
+							</Anchor></Anchors>
+							<TexCoords left="0.515625" right="1.0" top="0" bottom="0.4140625"/>
+						</Texture>
+					</Layer>
+				</Layers>
+				<Scripts>
+					<OnVerticalScroll>
+						FauxScrollFrame_OnVerticalScroll(self, offset, FRIENDS_FRAME_IGNORE_HEIGHT, HoloIgnore_List_Update);
+					</OnVerticalScroll>
+					<OnShow>
+						HoloFriends_chat("HoloIgnore_List_Update at .xml ScrollFrame OnShow", HF_DEBUG_OUTPUT);
+						HoloIgnore_List_Update()
+					</OnShow>
+				</Scripts>
+			</ScrollFrame>
+		</Frames>
+		<Layers><Layer level="OVERLAY">
+			<FontString name="HoloIgnoreOnline" inherits="GameFontHighlightSmall" justifyH="LEFT" text="HOLOFRIENDS_WINDOWMAINNUMBERONLINE">
+				<Size><AbsDimension x="200" y="14"/></Size>
+				<Anchors><Anchor point="BOTTOMLEFT">
+					<Offset><AbsDimension x="23" y="132"/></Offset>
+				</Anchor></Anchors>
+			</FontString>
+		</Layer></Layers>
+		<Scripts>
+			<OnLoad>
+				self:RegisterEvent("VARIABLES_LOADED");
+			</OnLoad>
+			<OnHide>
+				HoloIgnore_OnHide();
+			</OnHide>
+			<OnEvent>
+				HoloIgnore_OnEvent(self, event, ...);
+			</OnEvent>
+			<OnUpdate>
+				HoloIgnore_OnUpdate();
+			</OnUpdate>
+		</Scripts>
+	</Frame>
+</Ui>

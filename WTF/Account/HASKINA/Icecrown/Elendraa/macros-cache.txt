@@ -1,0 +1,10 @@
+MACRO 16777217 "IC" INV_Misc_QuestionMark
+#showtooltip Icy Veins
+/use Vengeance of the Illidari
+/cast Icy Veins
+END
+MACRO 16777218 "mount" INV_Misc_QuestionMark
+#showtooltip Snowy Gryphon
+/cast Snowy Gryphon
+/cast Swift White Mechanostrider
+END

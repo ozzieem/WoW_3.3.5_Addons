@@ -1,0 +1,12 @@
+## Interface: 50001
+## Title: CloseUp
+## Notes: Adds model viewing flexibility
+## Author: TotalPackage
+## Version: 5.0.001
+## X-Category: Interface Enhancements
+## SavedVariables: CU_HideBG
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+core.lua

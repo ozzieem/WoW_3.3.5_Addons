@@ -1,0 +1,10 @@
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+LibBabble-Class-3.0: enabled
+Prat-3.0: disabled
+Quartz: enabled
+Prat-3.0_Libraries: disabled
+TradeSkillMaster_Mailing: disabled
+LootRolls: enabled
+LootHog: disabled
+RollTracker: disabled

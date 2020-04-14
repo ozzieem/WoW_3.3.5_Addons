@@ -1,0 +1,81 @@
+
+RankWatchSettings = {
+	["enabled"] = true,
+	["explain"] = true,
+	["checkAllLevels"] = true,
+	["ignore"] = {
+	},
+	["levels"] = 2,
+	["channel"] = 3,
+	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
+	["reports"] = {
+		["Xdxdxdxdxd"] = {
+			["Ravage"] = {
+				["lowId"] = 6785,
+				["time"] = 1565823017.902,
+				["maxId"] = 6787,
+			},
+			["Nature's Grasp"] = {
+				["lowId"] = 16811,
+				["time"] = 1565823382.446,
+				["maxId"] = 16812,
+			},
+			["Demoralizing Roar"] = {
+				["lowId"] = 9490,
+				["time"] = 1565823666.989,
+				["maxId"] = 9747,
+			},
+			["Regrowth"] = {
+				["lowId"] = 8941,
+				["time"] = 1565823452.649,
+				["maxId"] = 9750,
+			},
+		},
+		["Circunsicion"] = {
+			["Blessing of Wisdom"] = {
+				["lowId"] = 19852,
+				["time"] = 1565823507.874,
+				["maxId"] = 19853,
+			},
+			["Devotion Aura"] = {
+				["lowId"] = 10291,
+				["time"] = 1565823850.244,
+				["maxId"] = 1032,
+			},
+			["Hand of Protection"] = {
+				["lowId"] = 1022,
+				["time"] = 1565823743.16,
+				["maxId"] = 10278,
+			},
+			["Exorcism"] = {
+				["lowId"] = 5615,
+				["time"] = 1565823761.168,
+				["maxId"] = 10312,
+			},
+		},
+		["Modos"] = {
+			["Ravage"] = {
+				["lowId"] = 6785,
+				["time"] = 1565823287.326,
+				["maxId"] = 6787,
+			},
+			["Maul"] = {
+				["lowId"] = 8972,
+				["time"] = 1565823668.672,
+				["maxId"] = 9745,
+			},
+			["Demoralizing Roar"] = {
+				["lowId"] = 9490,
+				["time"] = 1565823660.067,
+				["maxId"] = 9747,
+			},
+			["Regrowth"] = {
+				["lowId"] = 8941,
+				["time"] = 1565823862.425,
+				["maxId"] = 9750,
+			},
+		},
+	},
+}

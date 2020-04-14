@@ -1,0 +1,8 @@
+
+AutoDestroyCFG = {
+	["zone"] = "Dalaran",
+	["minlevel"] = 1,
+	["weapons"] = 1,
+	["list"] = "Saronite Bar\nSaronite Ore\nCobalt Ore\nIcy Dragonscale\nHeavy Borean Leather\nArctic Fur\nJormungar Scale\nMonarch Topaz\nSky Sapphire\nScarlet Ruby\nTwilight Opal\nForest Emerald\nDream Shard\nInfinite Dust\nTalandra's Rose\nAdder's Tongue\nFrost Lotus\nTiger Lily\nLichbloom\nIcethorn\nGoldclover\nCrystallized Shadow\nCrystallized Water\nCrystallized Fire\nCrystallized Earth\nCrystallized Air\nAutumn's Glow\nFrostweave Cloth\n",
+	["armor"] = 1,
+}

@@ -1,0 +1,14 @@
+
+TradeSkillMaster_CraftingDB = {
+	["profileKeys"] = {
+		["Maulh - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["tradeSkills"] = {
+				["Maulh"] = {
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,10 @@
+MACRO 16777218 "." INV_Misc_QuestionMark
+#showtooltip Avenging Wrath
+END
+MACRO 16777217 "." INV_Misc_QuestionMark
+#showtooltip Charger
+/cast [nocombat, nomounted] !Crusader Aura; [mounted] !Retribution Aura;
+/cast [nocombat, nomounted] Swift Green Gryphon;
+/cast [nocombat, nomounted] Charger;
+/dismount [mounted]
+END

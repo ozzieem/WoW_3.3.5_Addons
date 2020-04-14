@@ -1,0 +1,40 @@
+## Interface: 30300
+## Title: SmartMount
+## Version: v3.3-112
+## Notes: The One-Key-Mount™ — Simple to use, configured with Rock
+## Dependencies: 
+## OptionalDeps: LibRock-1.0, LibRockConfig-1.0, LibRockDB-1.0
+## X-Embeds: LibRock-1.0, LibRockConfig-1.0, LibRockDB-1.0
+## X-Category: Miscellaneous
+## X-CompatibleLocales: enUS, enGB, deDE, frFR, koKR, zhCN, zhTW, esES, ruRU
+## X-Localizations: enUS, deDE, zhCN, zhTW
+## X-Email: wow@kazik.de
+## Author: ALeX Kazik
+## SavedVariables: SmartMount_Config
+## SavedVariablesPerCharacter: SmartMount_PlayerConfig
+## X-Website: http://www.wowace.com/projects/smartmount/
+## X-Curse-Packaged-Version: v3.3-113
+## X-Curse-Project-Name: SmartMount
+## X-Curse-Project-ID: smartmount
+## X-Curse-Repository-ID: wow/smartmount/mainline
+
+#@no-lib-strip@
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+libs\LibRock\LibRock-1.0.lua
+libs\LibRockConfig\LibRockConfig-1.0.lua
+libs\LibRockDB\LibRockDB-1.0.lua
+#@end-no-lib-strip@
+
+Rock_Locale.lua
+
+Core.lua
+Config.lua
+SmartMount.lua
+SmartMount.xml
+
+Rock_Core.lua
+Rock_Config.lua
+
+Spell_Locale.lua

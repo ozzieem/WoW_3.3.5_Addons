@@ -1,0 +1,1570 @@
+
+QuestHelper_Pref = {
+	["arrow_textsize"] = 1.1,
+	["submit_nag_next_time"] = 1507209599.575091,
+	["track_minimized"] = false,
+	["arrow_arrowsize"] = 0.9,
+	["travel_time"] = true,
+	["metric"] = true,
+	["filter_done"] = false,
+	["submit_nag_type"] = "OFF",
+	["solo"] = false,
+}
+QuestHelper_UID = "eMhjQBsSfX9P49AMMmZR568CIdIv0roR"
+QuestHelper_SaveDate = 1506449713
+QuestHelper_Errors = {
+	["version"] = 1,
+}
+QuestHelper_Collector = {
+	["1.4.1 on 3.3.5/enUS/1"] = {
+		["monster"] = {
+			[82] = {
+				"\000¡R\000?Í`\000ÿ\000–[R\000µT`\000ÿ", -- [1]
+				["reaction_4"] = 1,
+				["reaction_7"] = 1,
+				["name_White Moth"] = 1,
+				["level_30"] = 1,
+				["level_1"] = 1,
+				["name_Sixx"] = 1,
+			},
+			[15] = {
+				"\000â*]\000s¼t\000\000\n\000yu\000Ã«R\000\000uÅ]\000¥4\000\000\n\000ù]\000¢Ö~\000\000\n", -- [1]
+				"\0004§]\000â«\000\000\n\000,–]\000{\000\n", -- [2]
+				["name_Rat"] = 1,
+				["reaction_4"] = 1,
+				["reaction_7"] = 5,
+				["level_20"] = 1,
+				["chat_talk"] = 1,
+				["name_Korra"] = 1,
+				["level_19"] = 1,
+				["level_23"] = 1,
+				["level_28"] = 1,
+				["name_Maliynn"] = 1,
+				["name_Fahran Silentblade"] = 1,
+				["name_Dagri"] = 1,
+				["level_1"] = 1,
+				["name_Caylais Moonfeather"] = 1,
+			},
+			[16] = {
+				"\000,^\000_Ïq\000\000\n", -- [1]
+				["name_Laird"] = 1,
+				["reaction_7"] = 1,
+			},
+			[65] = {
+				"\000\r-Ñ\000 Ïƒ\000\000O=¿\000–‹\000\000\n\000~c¡\000h­–\000\000\n\0007“\000×i…\000\000lª’\000Ì9„\000ÿ\000I}\000 ë~\000\000\n\000´Qª\000HéŸ\000\000\n\000qÒ­\000Ø¡\000ÿ", -- [1]
+				["name_Eoch"] = 1,
+				["reaction_7"] = 8,
+				["level_75"] = 7,
+				["level_30"] = 1,
+				["chat_talk"] = 3,
+				["name_Exodar Peacekeeper"] = 7,
+			},
+			[17] = {
+				"\000Ì«W\000Aym\000ÿ", -- [1]
+				["name_Fiora Longears"] = 1,
+				["reaction_5"] = 1,
+			},
+			[69] = {
+				"\000>wŠ\000÷Ôš\000ÿ\000Ùs‰\000@Õ“\000", -- [1]
+				"\000ø¢\000ÉÒ‡\000ÿ", -- [2]
+				["name_Achelus"] = 1,
+				["level_33"] = 2,
+				["name_Vindicator Kuros"] = 1,
+				["name_Vindicator Boros"] = 1,
+				["level_18"] = 1,
+				["reaction_7"] = 3,
+			},
+			[71] = {
+				"\000%Bœ\000h>†\000ÿ", -- [1]
+				["level_30"] = 1,
+				["reaction_7"] = 1,
+				["name_Fanin"] = 1,
+			},
+			[73] = {
+				"\000bãO\000XH\000\000òP\000÷5R\000", -- [1]
+				"\000[ï\0006‹\000", -- [2]
+				["level_65"] = 2,
+				["name_Valon"] = 1,
+				["name_Foreman Dunaer"] = 1,
+				["reaction_7"] = 2,
+				["name_Prospector Nachlan"] = 1,
+				["level_45"] = 1,
+				["reaction_6"] = 1,
+			},
+			[39] = {
+				"\000<7]\000äÇt\000", -- [1]
+				["reaction_7"] = 1,
+				["name_Gwennyth Bly'Leggonde"] = 1,
+			},
+			[81] = {
+				"\000#’Ï\000	D‡\000\000\n\000$~Ñ\000Àh„\000\000\n", -- [1]
+				"\000$~Ñ\000Àh„\000", -- [2]
+				["name_Purple Elekk"] = 1,
+				["reaction_5"] = 2,
+				["level_14"] = 1,
+				["name_Aalun"] = 1,
+				["level_40"] = 2,
+				["reaction_7"] = 1,
+				["chat_talk"] = 2,
+				["name_Gray Elekk"] = 1,
+			},
+			[85] = {
+				"\000´Š\000G~\000ÿ\000YQ\000ÒR[\000", -- [1]
+				["reaction_5"] = 2,
+				["name_Eye of the Storm Emissary"] = 2,
+				["level_55"] = 2,
+			},
+			[23] = {
+				"\000°$S\000Uo\000\000\n\000k!S\000¹üo\000\000\n", -- [1]
+				["reaction_7"] = 2,
+				["name_Auberdine Sentinel"] = 2,
+			},
+			[95] = {
+				"\000<ªĞ\000·‹„\000ÿ\000l¦Ğ\000Ç‘„\000ÿ\000> Ğ\000œ›„\000ÿ\000ñ›Ğ\000q¢„\000ÿ", -- [1]
+				"\000qÒ­\000Ø¡\000ÿ", -- [2]
+				["name_Brewfest Reveler"] = 5,
+				["reaction_4"] = 5,
+				["level_50"] = 5,
+			},
+			[97] = {
+				"\000½`}ÿU8\000\000\n", -- [1]
+				["reaction_5"] = 1,
+				["name_Mariner Frostnight"] = 1,
+			},
+			[68] = {
+				"\000#’Ï\000	D‡\000\000\n\000~<Ñ\000kìƒ\000\000\n\000¨¿£\000d\000ÿ\000K`§\000Íğ\000ÿ\000ÂW§\000T—ï\000ÿ\000$@§\000jIî\000ÿ\000µ;§\000ÿ\nî\000ÿ\000K5§\000d°í\000ÿ", -- [1]
+				"\000j¾œ\000\nÙÊ\000ÿ\000£#Š\000\\Š”\000\000¨U\000îâ‚\000\000ç—x\000„ïu\000ÿ", -- [2]
+				"\000…Ğ’\000¦şŠ\000", -- [3]
+				["level_65"] = 2,
+				["reaction_5"] = 4,
+				["reaction_7"] = 7,
+				["name_Vorkhan the Elekk Herder"] = 1,
+				["level_14"] = 5,
+				["level_15"] = 1,
+				["name_Torallius the Pack Handler"] = 1,
+				["name_Elekk"] = 4,
+				["name_Morae"] = 1,
+				["name_Blade of Argus"] = 1,
+				["level_13"] = 1,
+				["reaction_2"] = 2,
+				["name_Laando"] = 1,
+				["level_10"] = 4,
+				["name_Stephanos"] = 1,
+				["name_Sunhawk Spy"] = 2,
+				["chat_talk"] = 4,
+				["name_Aonar"] = 1,
+			},
+			[14] = {
+				"\000,–]\000{\000\000\n", -- [1]
+				["level_60"] = 1,
+				["name_Raene Wolfrunner"] = 1,
+				["reaction_7"] = 1,
+			},
+			[26] = {
+				"\000…]C\000Ê¹g\000\000ñÌA\000}h\000\000\n\0001lA\000šÅh\000\000\n\0001lA\000šÅh\000\000\n", -- [1]
+				["level_18"] = 4,
+				["name_Water Spirit"] = 4,
+				["reaction_4"] = 4,
+			},
+			[74] = {
+				"\000Úû—\000yW‚\000\000“Õ°\000Ç0¡\000", -- [1]
+				["level_60"] = 1,
+				["reaction_5"] = 1,
+				["reaction_7"] = 1,
+				["name_Nibblet"] = 1,
+				["level_1"] = 1,
+				["name_Draenei Commoner"] = 1,
+			},
+			[76] = {
+				"\000$~Ñ\000Àh„\000\n", -- [1]
+				["name_Brown Elekk"] = 1,
+				["reaction_5"] = 1,
+				["level_40"] = 1,
+			},
+			[67] = {
+				"\000„L\000E‰G\000\000o]\000ŠD\000ÿ\000m^\000!§:\000ÿ\000kó¦\0003ÿê\000ÿ\000~k\000óï¯\000ÿ\000‡ã„\000½\000ÿ\000×·j\000[\"[\000\000-Àg\000†mU\000\000EâX\000µ6\000ÿ\000C§U\000WÂ/\000ÿ\000k¦U\000À/\000ÿ\000—™U\000¶¥/\000ÿ\000AoU\000M/\000ÿ\000³³R\000§	*\000\000!¯R\000/*\000\000!ZR\000ı,+\000\000\n\000\\X\000”÷F\000\000\n\000°ét\000P\000ÿ\000h³d\000ˆ­_\000ÿ\000Å÷c\000%Ò_\000ÿ\000^cV\000—2e\000ÿ\000÷&U\000Œƒe\000\000Y\rR\000ü)f\000ÿ\000ºP\000Bêe\000\000\nO\000ee\000ÿ\000ÇŠL\000ÅŸf\000\000úY\000’G\000\000®Y\000 ‡G\000\000ê2S\000©J*\000ÿ\000\r[r\000DZE\000ÿ\000+Úw\000\rãR\000ÿ\000_i‚\000Go\000ÿ", -- [1]
+				"\000©.™\000,„\000\000Vî—\000îÓ‚\000\000ˆ\000³m\000ÿ\000m\ri\000‘‚?\000ÿ\000Eãq\000ÜH\000\000§tg\000N»_\000\000õ½A\000U—i\000\000\n\000Ğ‚A\000×h\000\n", -- [2]
+				"\000®\\X\000ˆw@\000ÿ\000\000T\000¯r*\000ÿ\000Pfv\000¼¢P\000ÿ\000|ïU\000Ç;\000ÿ", -- [3]
+				"\000mX\000ödL\000ÿ\000›ÉY\000ÊT\000ÿ", -- [4]
+				["level_16"] = 9,
+				["name_Thistle Lasher"] = 4,
+				["name_Elder Brown Bear"] = 3,
+				["name_Nightstalker"] = 2,
+				["kills"] = 1,
+				["level_14"] = 3,
+				["level_12"] = 1,
+				["reaction_4"] = 5,
+				["name_Axxarien Hellcaller"] = 1,
+				["loot_loot"] = {
+					[2589] = 2,
+					[23997] = 1,
+					["gold"] = 96,
+				},
+				["name_Watery Aspect"] = 3,
+				["chat_talk"] = 21,
+				["level_11"] = 3,
+				["reaction_2"] = 35,
+				["level_23"] = 1,
+				["name_Root Thresher"] = 2,
+				["level_10"] = 1,
+				["skin_no"] = 1,
+				["mine_no"] = 1,
+				["herb_no"] = 1,
+				["name_Mutated Constrictor"] = 2,
+				["name_Blacksilt Shorestriker"] = 3,
+				["level_8"] = 3,
+				["loot_trivial_loot"] = {
+					[1744] = 1,
+					[23744] = 6,
+					[1210] = 1,
+					[23984] = 7,
+				},
+				["reaction_7"] = 1,
+				["name_Tel'athion the Impure"] = 1,
+				["name_Siltfin Murloc"] = 1,
+				["name_Axxarien Shadowstalker"] = 2,
+				["loot_count"] = 1,
+				["name_Blacksilt Warrior"] = 3,
+				["name_Axxarien Trickster"] = 2,
+				["name_Grizzled Brown Bear"] = 1,
+				["name_Fouled Water Spirit"] = 7,
+				["level_15"] = 7,
+				["level_18"] = 3,
+				["level_17"] = 3,
+				["level_35"] = 2,
+				["name_Infected Wildkin"] = 1,
+				["eng_no"] = 1,
+				["level_33"] = 1,
+				["loot_trivial_count"] = 7,
+				["reaction_5"] = 4,
+				["reaction_1"] = 1,
+				["level_13"] = 1,
+				["name_Blacksilt Seer"] = 4,
+				["level_19"] = 4,
+				["level_70"] = 2,
+				["name_Aqueous"] = 1,
+				["name_Brown Bear"] = 1,
+				["name_Farseer Nobundo"] = 1,
+				["level_9"] = 1,
+				["name_Royal Blue Flutterer"] = 1,
+				["level_7"] = 1,
+			},
+			[49] = {
+				"\000U\000~l\000ÿ", -- [1]
+				["reaction_7"] = 1,
+				["name_Thamarian"] = 1,
+			},
+			[8] = {
+				"\000â*]\000s¼t\000ÿ\000â*]\000s¼t\000", -- [1]
+				["name_Pygmy Tide Crawler"] = 2,
+				["reaction_4"] = 2,
+			},
+		},
+		["warp"] = {
+			"\000\0006Úr\000ÌdC\000\000<7]\000äÇt\000\000ï,I\000ÑY\000\000r4pÿ‘x\000\000ƒ^ÿĞ&\000\000÷Š6\000 *Š\000\0001iI\000ÍFw\000\000ã¥‘\000,ü¢\000\000È÷i\000º¾\000\000?\000™x~\000\000ÒğL\0002ªu\000\0007Ÿ\000Øœ\000\000FÚ\000wM\000\000è6\\\000Fa\000\000O­k\000¥µ\000\000´§\000µ0ô\000", -- [1]
+			"\000³²W\000íàV\000\000NİM\000*7u\000\000¼L‹\000\000ÔéT\000¿8\000\000U$[\000h‹k\000\000åäÕ\000Ÿv\000\000N‘\000¸û¡\000\000éTI\000ş\000w\000", -- [2]
+			"\000yL?\000Ã}~\000\000î¤j\000ˆÎ¾\000\000ÅôN\000aI\000\000gW—h\"O", -- [3]
+		},
+		["flight_times"] = {
+			["Blood Watch, Bloodmyst Isle@@Auberdine, Darkshore"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
+			["Blood Watch, Bloodmyst Isle@@The Exodar"] = {
+				[""] = 72.1710000000021,
+				["##count"] = 1,
+			},
+			["Blood Watch, Bloodmyst Isle@@Astranaar, Ashenvale"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
+			["The Exodar@@Auberdine, Darkshore"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
+			["Auberdine, Darkshore@@The Exodar"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
+			["Auberdine, Darkshore@@Astranaar, Ashenvale"] = {
+				[""] = true,
+			},
+			["The Exodar@@Astranaar, Ashenvale"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
+		},
+		["modified"] = 1506449715,
+		["flight_master"] = {
+			["Blood Watch, Bloodmyst Isle"] = {
+				["y"] = 0.8245711922645569,
+				["x"] = 0.2187596708536148,
+				["master"] = 68,
+			},
+			["Astranaar, Ashenvale"] = {
+				["y"] = 0.603834867477417,
+				["x"] = 0.4625817537307739,
+			},
+			["Auberdine, Darkshore"] = {
+				["y"] = 0.7482078671455383,
+				["x"] = 0.4277863502502441,
+				["master"] = 15,
+			},
+			["The Exodar"] = {
+				["y"] = 0.7374052405357361,
+				["x"] = 0.2121343314647675,
+				["master"] = 68,
+			},
+		},
+		["achievement"] = {
+			[861] = {
+				[1598] = "\000 Ì®\000ı[¬\000",
+				[1587] = "\000~ĞB\0000h\000",
+				[1591] = "\000¢#T\000(·e\000",
+				[1584] = "\000b|ˆ\000ß~m\000",
+				[1592] = "\000¤Z\000şë:\000",
+				[1574] = "\000jÃk\000.']\000",
+				[1578] = "\000şÿŠ\000¡\000",
+				[1589] = "\000=H_\000ğE\000",
+				[1576] = "\000$p\000¯ƒ\000",
+			},
+		},
+		["fishing"] = {
+		},
+		["item"] = {
+			[955] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Scroll",
+				["name"] = "Scroll of Intellect",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[3823] = {
+				["open_no"] = 10,
+				["type"] = "Consumable/Potion",
+				["name"] = "Lesser Invisibility Potion",
+				["ilevel"] = 33,
+				["minlevel"] = 23,
+				["quality"] = 1,
+			},
+			[2458] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Minor Fortitude",
+				["ilevel"] = 12,
+				["minlevel"] = 2,
+				["quality"] = 1,
+			},
+			[1205] = {
+				["open_no"] = 44,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Melon Juice",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[2300] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Embossed Leather Vest",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[765] = {
+				["open_no"] = 4,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Silverleaf",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[3825] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Fortitude",
+				["ilevel"] = 35,
+				["minlevel"] = 25,
+				["quality"] = 1,
+			},
+			[2492] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Cudgel",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["open_no"] = 240,
+				["quality"] = 1,
+			},
+			[5463] = {
+				["open_no"] = 10,
+				["type"] = "Quest/Quest",
+				["name"] = "Glowing Gem",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[3287] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Tribal Pants",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[2589] = {
+				["open_no"] = 44,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Linen Cloth",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[3383] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Wisdom",
+				["ilevel"] = 20,
+				["minlevel"] = 10,
+				["quality"] = 1,
+			},
+			[29743] = {
+				["open_no"] = 60,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Purple Elekk",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 3,
+			},
+			[29745] = {
+				["open_no"] = 10,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Great Blue Elekk",
+				["ilevel"] = 40,
+				["minlevel"] = 40,
+				["quality"] = 4,
+			},
+			[29747] = {
+				["open_no"] = 3,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Great Purple Elekk",
+				["ilevel"] = 40,
+				["minlevel"] = 40,
+				["quality"] = 4,
+			},
+			[28481] = {
+				["open_no"] = 28,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Brown Elekk",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 3,
+			},
+			[2592] = {
+				["open_no"] = 12,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Wool Cloth",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[6552] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Bard's Tunic",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 24,
+				["quality"] = 2,
+			},
+			[13048] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Looming Gavel",
+				["ilevel"] = 31,
+				["minlevel"] = 26,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[30420] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Heavy Jade Ring",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 222,
+				["quality"] = 2,
+			},
+			[45861] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Miscellaneous",
+				["name"] = "Diamond-tipped Cane",
+				["ilevel"] = 6,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[6241] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "White Linen Robe",
+				["ilevel"] = 10,
+				["minlevel"] = 5,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[20907] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Solid Bronze Ring",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[37118] = {
+				["open_no"] = 730,
+				["type"] = "Consumable/Scroll",
+				["name"] = "Scroll of Recall",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[23871] = {
+				["open_no"] = 100,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Potion of Water Breathing",
+				["ilevel"] = 18,
+				["minlevel"] = 8,
+				["quality"] = 1,
+			},
+			[43488] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Last Weeks Mammoth",
+				["ilevel"] = 80,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2821] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Mo'grosh Masher",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 190,
+				["quality"] = 2,
+			},
+			[1708] = {
+				["open_no"] = 106,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Sweet Nectar",
+				["ilevel"] = 35,
+				["minlevel"] = 25,
+				["quality"] = 1,
+			},
+			[4602] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Moon Harvest Pumpkin",
+				["ilevel"] = 45,
+				["minlevel"] = 35,
+				["quality"] = 1,
+			},
+			[858] = {
+				["open_no"] = 6,
+				["type"] = "Consumable/Potion",
+				["name"] = "Lesser Healing Potion",
+				["ilevel"] = 13,
+				["minlevel"] = 3,
+				["quality"] = 1,
+			},
+			[12052] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ring of the Moon",
+				["ilevel"] = 21,
+				["minlevel"] = 16,
+				["open_no"] = 12,
+				["quality"] = 2,
+			},
+			[16646] = {
+				["open_no"] = 4,
+				["type"] = "Quest/Quest",
+				["name"] = "Shredder Operating Manual - Page 2",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[5177] = {
+				["open_no"] = 14,
+				["type"] = "Miscellaneous/Reagent",
+				["name"] = "Water Totem",
+				["ilevel"] = 20,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[6948] = {
+				["open_no"] = 30,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Hearthstone",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[9770] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Greenweave Cloak",
+				["ilevel"] = 20,
+				["minlevel"] = 15,
+				["open_no"] = 10,
+				["quality"] = 2,
+			},
+			[15017] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Lupine Leggings",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[856] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Blue Leather Bag",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[23749] = {
+				["open_no"] = 60,
+				["type"] = "Quest/Quest",
+				["name"] = "Empty Bota Bag",
+				["ilevel"] = 0,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[12060] = {
+				["open_no"] = 4,
+				["type"] = "Quest/Quest",
+				["name"] = "Shindrell's Note",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4538] = {
+				["open_no"] = 14,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Snapvine Watermelon",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[6380] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Inscribed Buckler",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[4539] = {
+				["open_no"] = 4,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Goldenbark Apple",
+				["ilevel"] = 35,
+				["minlevel"] = 25,
+				["quality"] = 1,
+			},
+			[10413] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Gloves of the Fang",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[785] = {
+				["open_no"] = 10,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Mageroyal",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[23751] = {
+				["open_no"] = 18,
+				["type"] = "Quest/Quest",
+				["name"] = "Skin of Purest Water",
+				["ilevel"] = 0,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[21721] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Moonglow",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[23744] = {
+				["open_no"] = 70,
+				["type"] = "Quest/Quest",
+				["name"] = "Foul Essence",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[16645] = {
+				["open_no"] = 4,
+				["type"] = "Quest/Quest",
+				["name"] = "Shredder Operating Manual - Page 1",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[1210] = {
+				["open_no"] = 48,
+				["type"] = "Gem/Simple",
+				["name"] = "Shadowgem",
+				["ilevel"] = 20,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[23984] = {
+				["open_no"] = 112,
+				["type"] = "Quest/Quest",
+				["name"] = "Irradiated Crystal Shard",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[6512] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Disciple's Robe",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[1179] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Ice Cold Milk",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[2256] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Skeletal Club",
+				["ilevel"] = 24,
+				["minlevel"] = 19,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[39469] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Parts",
+				["name"] = "Moonglow Ink",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2447] = {
+				["open_no"] = 8,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Peacebloom",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2698] = {
+				["open_no"] = 9,
+				["type"] = "Recipe/Cooking",
+				["name"] = "Recipe: Cooked Crab Claw",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[29744] = {
+				["open_no"] = 110,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Gray Elekk",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 3,
+			},
+			[10047] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Simple Kilt",
+				["ilevel"] = 15,
+				["minlevel"] = 10,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[2575] = {
+				["equiplocation"] = "BODY",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Red Linen Shirt",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[5175] = {
+				["open_no"] = 2,
+				["type"] = "Miscellaneous/Reagent",
+				["name"] = "Earth Totem",
+				["ilevel"] = 4,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[10050] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Mageweave Bag",
+				["ilevel"] = 35,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[4246] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Fine Leather Belt",
+				["ilevel"] = 16,
+				["minlevel"] = 11,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[15132] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Cutthroat's Armguards",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[5176] = {
+				["open_no"] = 2,
+				["type"] = "Miscellaneous/Reagent",
+				["name"] = "Fire Totem",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[1645] = {
+				["open_no"] = 28,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Moonberry Juice",
+				["ilevel"] = 45,
+				["minlevel"] = 35,
+				["quality"] = 1,
+			},
+			[4497] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Heavy Brown Bag",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["open_no"] = 28,
+				["quality"] = 1,
+			},
+			[2450] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Briarthorn",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[16651] = {
+				["open_no"] = 4,
+				["type"] = "Quest/Quest",
+				["name"] = "Shredder Operating Manual - Page 7",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[5505] = {
+				["open_no"] = 10,
+				["type"] = "Quest/Quest",
+				["name"] = "Teronis' Journal",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[15405] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Shucking Gloves",
+				["ilevel"] = 17,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[5997] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Minor Defense",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[39354] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Light Parchment",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20828] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ring of Twilight Shadows",
+				["ilevel"] = 28,
+				["minlevel"] = 23,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[6657] = {
+				["open_no"] = 4,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Savory Deviate Delight",
+				["ilevel"] = 18,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4238] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Linen Bag",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 8,
+				["quality"] = 1,
+			},
+			[2452] = {
+				["open_no"] = 12,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Swiftthistle",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4239] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Embossed Leather Gloves",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[39505] = {
+				["open_no"] = 8,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Virtuoso Inking Set",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2453] = {
+				["open_no"] = 68,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Bruiseweed",
+				["ilevel"] = 20,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[10401] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Blackened Defias Gloves",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[3385] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Potion",
+				["name"] = "Lesser Mana Potion",
+				["ilevel"] = 24,
+				["minlevel"] = 14,
+				["quality"] = 1,
+			},
+			[5575] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Large Green Sack",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[4064] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Emblazoned Buckler",
+				["ilevel"] = 30,
+				["minlevel"] = 25,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[5576] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Large Brown Sack",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["open_no"] = 214,
+				["quality"] = 1,
+			},
+			[6529] = {
+				["open_no"] = 12,
+				["type"] = "Consumable/Other",
+				["name"] = "Shiny Bauble",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[31154] = {
+				["equiplocation"] = "NECK",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Bronze Torc",
+				["ilevel"] = 26,
+				["minlevel"] = 21,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[2582] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Green Woolen Vest",
+				["ilevel"] = 17,
+				["minlevel"] = 12,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[2194] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Diamond Hammer",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[4245] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Small Silk Pack",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[12238] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Darkshore Grouper",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[27399] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Stillpine Defender",
+				["ilevel"] = 12,
+				["minlevel"] = 0,
+				["open_no"] = 86,
+				["quality"] = 2,
+			},
+			[4498] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Brown Leather Satchel",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 1,
+			},
+			[796] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Leather",
+				["name"] = "Rough Leather Boots",
+				["ilevel"] = 10,
+				["minlevel"] = 5,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[4566] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Sturdy Quarterstaff",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[1744] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Mail",
+				["name"] = "Laced Mail Shoulderpads",
+				["ilevel"] = 20,
+				["minlevel"] = 15,
+				["open_no"] = 36,
+				["quality"] = 0,
+			},
+			[23345] = {
+				["equiplocation"] = "BODY",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Scout's Shirt",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 16,
+				["quality"] = 1,
+			},
+			[14175] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Buccaneer's Vest",
+				["ilevel"] = 23,
+				["minlevel"] = 18,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+		},
+		["realms"] = {
+			["Icecrown"] = 1,
+		},
+		["worldloot"] = {
+		},
+		["object"] = {
+			["Briarthorn"] = {
+				["herb_loot"] = {
+					[2450] = 3,
+					[2452] = 2,
+				},
+				["herb_count"] = 1,
+			},
+			["Mageroyal"] = {
+				["herb_loot"] = {
+					[785] = 2,
+				},
+				["herb_count"] = 1,
+			},
+			["Bruiseweed"] = {
+				["herb_loot"] = {
+					[2453] = 3,
+				},
+				["herb_count"] = 1,
+			},
+		},
+		["quest"] = {
+			[1024] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Find Shael'dryn at the moonwell to the northeast.",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Raene's Cleansing",
+				["level"] = 21,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_1_type"] = "log",
+			},
+			[9508] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Head of Tel'athion: 0/1",
+				["end_spec"] = "2SR28\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000p",
+				["special_item"] = 23751,
+				["criteria_1_satisfied"] = "I2589iI23997iL\0001lA\000šÅh\000l",
+				["daily"] = false,
+				["name"] = "Call of Water",
+				["end"] = "M67m\000”¬R\000NK)\000",
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[67] = 30,
+					[26] = 10,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[9504] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Filled Bota Bag: 1/1",
+				["end_spec"] = "2SR27\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000p",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M67m\000u«R\000^)\000",
+				["name"] = "Call of Water",
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[67] = 20,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[1070] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "On Guard in Stonetalon",
+				["level"] = 21,
+				["special_item"] = false,
+			},
+			[1134] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Pridewing Venom Sac: 0/12",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Pridewings of Stonetalon",
+				["level"] = 21,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[1033] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Elune's Tear: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Elune's Tear",
+				["level"] = 22,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[9503] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Foul Essence: 0/6",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_satisfied"] = "C2cI23984iI23744iL\000E»S\000¨d\000lI23984iI23744iL\000¶úO\000„Ûe\000lI23984iI1744iI23744iL\000¹–L\000~g\000l",
+				["name"] = "Call of Water",
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[67] = 62,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[1056] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Journey to Stonetalon Peak",
+				["level"] = 18,
+				["special_item"] = false,
+			},
+			[1054] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Dal Bloodclaw's Skull: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Culling the Threat",
+				["level"] = 25,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[9533] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "A Helping Hand",
+				["level"] = 25,
+				["special_item"] = false,
+			},
+			[4581] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Take Shindrell's Note to Kayneth Stillwind in Forest Song.",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Kayneth Stillwind",
+				["level"] = 29,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_1_type"] = "log",
+			},
+			[14082] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Return this pamphlet to Aalun outside the Exodar on Azuremyst Isle.",
+				["end_spec"] = "2SR26\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000p",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M81m\000#’Ï\000	D‡\000",
+				["name"] = "Learn to Ride at the Exodar",
+				["level"] = 20,
+				["criteria_1_monster_false"] = {
+					[23] = 6,
+					[49] = 2,
+					[81] = 4,
+					[15] = 12,
+					[8] = 6,
+					[17] = 2,
+					[97] = 2,
+					[39] = 12,
+					[68] = 2,
+					[16] = 2,
+				},
+				["criteria_1_type"] = "log",
+			},
+			[1025] = {
+				["criteria_2_text"] = "Foulweald Ursa slain: 0/2",
+				["criteria_4_monster_true"] = {
+				},
+				["criteria_1_text"] = "Foulweald Den Watcher slain: 0/1",
+				["criteria_4_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_4_type"] = "monster",
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = 24,
+				["groupcount"] = 0,
+				["criteria_2_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_4_text"] = "Foulweald Warrior slain: 0/12",
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_3_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_3_text"] = "Foulweald Totemic slain: 0/10",
+				["criteria_3_monster_true"] = {
+				},
+				["name"] = "An Aggressive Defense",
+				["criteria_1_type"] = "monster",
+				["criteria_3_type"] = "monster",
+				["special_item"] = false,
+				["criteria_1_monster_false"] = {
+					[82] = 8,
+					[15] = 30,
+					[16] = 2,
+					[65] = 26,
+					[17] = 2,
+					[69] = 6,
+					[71] = 16,
+					[73] = 20,
+					[39] = 12,
+					[81] = 34,
+					[85] = 4,
+					[23] = 6,
+					[95] = 10,
+					[97] = 2,
+					[68] = 92,
+					[14] = 6,
+					[26] = 32,
+					[74] = 6,
+					[76] = 10,
+					[67] = 348,
+					[49] = 2,
+					[8] = 6,
+				},
+				["criteria_2_type"] = "monster",
+			},
+		},
+		["version"] = 8,
+	},
+}
+QuestHelper_Collector_Version = 8

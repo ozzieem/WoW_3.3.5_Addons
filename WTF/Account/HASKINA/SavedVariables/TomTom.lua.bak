@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Salaction - Icecrown",
+	},
+	["profiles"] = {
+		["Salaction - Icecrown"] = {
+		},
+	},
+}

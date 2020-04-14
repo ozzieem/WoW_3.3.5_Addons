@@ -1,0 +1,22 @@
+
+RankWatchSettings = {
+	["enabled"] = true,
+	["explain"] = true,
+	["checkAllLevels"] = true,
+	["ignore"] = {
+	},
+	["levels"] = 2,
+	["channel"] = 3,
+	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
+	["reports"] = {
+		["Tabinia"] = {
+			["Earthliving Weapon"] = {
+				["lowId"] = 51992,
+				["time"] = 1565567193.661,
+				["maxId"] = 51994,
+			},
+		},
+	},
+}

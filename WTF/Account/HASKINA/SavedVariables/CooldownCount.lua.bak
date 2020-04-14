@@ -1,0 +1,13 @@
+
+CooldownCountDB = {
+	["profileKeys"] = {
+		["Tabinia - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimumDuration"] = 2,
+			["shine"] = true,
+			["shineScale"] = 10,
+		},
+	},
+}

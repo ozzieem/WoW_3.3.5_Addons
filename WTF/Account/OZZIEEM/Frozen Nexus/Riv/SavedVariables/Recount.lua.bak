@@ -1,0 +1,6807 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Riv"] = {
+			["GUID"] = "0x000000000000078E",
+			["LastEventHealth"] = {
+				"14363 (61%)", -- [1]
+				"14270 (60%)", -- [2]
+				"11760 (52%)", -- [3]
+				"16518 (70%)", -- [4]
+				"16518 (70%)", -- [5]
+				"16518 (70%)", -- [6]
+				"16518 (70%)", -- [7]
+				"16518 (70%)", -- [8]
+				"16518 (70%)", -- [9]
+				"16518 (70%)", -- [10]
+				"16518 (70%)", -- [11]
+				"16518 (70%)", -- [12]
+				"16518 (70%)", -- [13]
+				"16518 (70%)", -- [14]
+				"16518 (70%)", -- [15]
+				"16518 (70%)", -- [16]
+				"16518 (70%)", -- [17]
+				"16518 (70%)", -- [18]
+				"16218 (68%)", -- [19]
+				"16218 (68%)", -- [20]
+				"16218 (68%)", -- [21]
+				"15542 (66%)", -- [22]
+				"15542 (66%)", -- [23]
+				"15542 (66%)", -- [24]
+				"15542 (66%)", -- [25]
+				"15542 (66%)", -- [26]
+				"15242 (64%)", -- [27]
+				"15242 (64%)", -- [28]
+				"15242 (64%)", -- [29]
+				"15242 (64%)", -- [30]
+				"15242 (64%)", -- [31]
+				"15242 (64%)", -- [32]
+				"15242 (64%)", -- [33]
+				"15242 (64%)", -- [34]
+				"15242 (64%)", -- [35]
+				"15242 (64%)", -- [36]
+				"15242 (64%)", -- [37]
+				"15242 (64%)", -- [38]
+				"15042 (63%)", -- [39]
+				"14742 (62%)", -- [40]
+				"14742 (62%)", -- [41]
+				"14742 (62%)", -- [42]
+				"14742 (62%)", -- [43]
+				"14742 (62%)", -- [44]
+				"14742 (62%)", -- [45]
+				"14742 (62%)", -- [46]
+				"14742 (62%)", -- [47]
+				"14742 (62%)", -- [48]
+				"14529 (61%)", -- [49]
+				"14349 (60%)", -- [50]
+			},
+			["LastAttackedBy"] = "Cyanigosa",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["EnergyGain"] = {
+					685, -- [1]
+				},
+				["ActiveTime"] = {
+					192.8, -- [1]
+				},
+				["DOT_Time"] = {
+					129, -- [1]
+				},
+				["TimeDamage"] = {
+					192.8, -- [1]
+				},
+				["DamageTaken"] = {
+					28512, -- [1]
+				},
+				["Damage"] = {
+					351491, -- [1]
+				},
+			},
+			["enClass"] = "ROGUE",
+			["unit"] = "Riv",
+			["level"] = 80,
+			["LastDamageAbility"] = "Uncontrollable Energy (DoT)",
+			["LastFightIn"] = 17,
+			["LastEventNum"] = {
+				0.6798674258519589, -- [1]
+				0.7648508540834538, -- [2]
+				8.923392673894615, -- [3]
+				[19] = 1.274751423472423,
+				[50] = 0.7648508540834538,
+				[27] = 1.274751423472423,
+				[39] = 0.8498342823149486,
+				[40] = 1.274751423472423,
+				[22] = 2.872439874224526,
+				[49] = 1.274751423472423,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastAbility"] = 107474.374,
+			["LastDamageTaken"] = 2000,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["EnergyGain"] = 1586629411,
+				["DOT_Time"] = 1586629412,
+				["ActiveTime"] = 1586629412,
+				["TimeDamage"] = 1586629412,
+				["OVERALL"] = 1586629425,
+				["DamageTaken"] = 1586629425,
+				["Damage"] = 1586629412,
+			},
+			["NextEventNum"] = 4,
+			["LastEventHealthNum"] = {
+				61.03084898444804, -- [1]
+				60.63567604317158, -- [2]
+				52.46954892250034, -- [3]
+				70.1878133763916, -- [4]
+				70.1878133763916, -- [5]
+				70.1878133763916, -- [6]
+				70.1878133763916, -- [7]
+				70.1878133763916, -- [8]
+				70.1878133763916, -- [9]
+				70.1878133763916, -- [10]
+				70.1878133763916, -- [11]
+				70.1878133763916, -- [12]
+				70.1878133763916, -- [13]
+				70.1878133763916, -- [14]
+				70.1878133763916, -- [15]
+				70.1878133763916, -- [16]
+				70.1878133763916, -- [17]
+				70.1878133763916, -- [18]
+				68.91306195291918, -- [19]
+				68.91306195291918, -- [20]
+				68.91306195291918, -- [21]
+				66.04062207869465, -- [22]
+				66.04062207869465, -- [23]
+				66.04062207869465, -- [24]
+				66.04062207869465, -- [25]
+				66.04062207869465, -- [26]
+				64.76587065522223, -- [27]
+				64.76587065522223, -- [28]
+				64.76587065522223, -- [29]
+				64.76587065522223, -- [30]
+				64.76587065522223, -- [31]
+				64.76587065522223, -- [32]
+				64.76587065522223, -- [33]
+				64.76587065522223, -- [34]
+				64.76587065522223, -- [35]
+				64.76587065522223, -- [36]
+				64.76587065522223, -- [37]
+				64.76587065522223, -- [38]
+				63.91603637290729, -- [39]
+				62.64128494943486, -- [40]
+				62.64128494943486, -- [41]
+				62.64128494943486, -- [42]
+				62.64128494943486, -- [43]
+				62.64128494943486, -- [44]
+				62.64128494943486, -- [45]
+				62.64128494943486, -- [46]
+				62.64128494943486, -- [47]
+				62.64128494943486, -- [48]
+				61.73621143876944, -- [49]
+				60.97136058468599, -- [50]
+			},
+			["LastEvents"] = {
+				"Cyanigosa Uncontrollable Energy (DoT) Riv Tick -160 (40 resisted) (Arcane)", -- [1]
+				"Cyanigosa Uncontrollable Energy (DoT) Riv Tick -180 (20 resisted) (Arcane)", -- [2]
+				"Cyanigosa Uncontrollable Energy (DoT) Riv Tick -2000 (Arcane)", -- [3]
+				"Cyanigosa Melee Riv Dodge", -- [4]
+				"Riv Melee Cyanigosa Crit -952 (Physical)", -- [5]
+				"Riv Melee Cyanigosa Glancing -275 (Physical)", -- [6]
+				"Riv Mutilate Cyanigosa Hit -869 (Physical)", -- [7]
+				"Riv Instant Poison IX Cyanigosa Hit -902 (Nature)", -- [8]
+				"Riv Mutilate Cyanigosa Hit -594 (Physical)", -- [9]
+				"Riv Melee Cyanigosa Crit -930 (Physical)", -- [10]
+				"Riv Melee Cyanigosa Hit -299 (Physical)", -- [11]
+				"Riv Garrote (DoT) Cyanigosa Tick -655 (Physical)", -- [12]
+				"Riv Deadly Poison IX (DoT) Cyanigosa Tick -488 (Nature)", -- [13]
+				"Riv Mutilate Cyanigosa Hit -902 (Physical)", -- [14]
+				"Riv Instant Poison IX Cyanigosa Hit -769 (192 resisted) (Nature)", -- [15]
+				"Riv Mutilate Cyanigosa Crit -1421 (Physical)", -- [16]
+				"Riv Melee Cyanigosa Miss", -- [17]
+				"Riv Melee Cyanigosa Hit -324 (Physical)", -- [18]
+				"Cyanigosa Blizzard (DoT) Riv Tick -300 (Frost)", -- [19]
+				"Riv Envenom Cyanigosa Crit -6474 (Nature)", -- [20]
+				"Riv Melee Cyanigosa Crit -1022 (Physical)", -- [21]
+				"Cyanigosa Uncontrollable Energy Riv Hit -676 (75 resisted) (Arcane)", -- [22]
+				"Riv Melee Cyanigosa Crit -604 (Physical)", -- [23]
+				"Riv Melee Cyanigosa Crit -1000 (Physical)", -- [24]
+				"Riv Garrote (DoT) Cyanigosa Tick -655 (Physical)", -- [25]
+				"Riv Melee Cyanigosa Hit -338 (Physical)", -- [26]
+				"Cyanigosa Blizzard (DoT) Riv Tick -300 (Frost)", -- [27]
+				"Riv Deadly Poison IX (DoT) Cyanigosa Tick -976 (Nature)", -- [28]
+				"Riv Mutilate Cyanigosa Hit -883 (Physical)", -- [29]
+				"Riv Instant Poison IX Cyanigosa Hit -841 (93 resisted) (Nature)", -- [30]
+				"Riv Mutilate Cyanigosa Hit -652 (Physical)", -- [31]
+				"Cyanigosa Melee Riv Dodge", -- [32]
+				"Riv Melee Cyanigosa Crit -1052 (Physical)", -- [33]
+				"Riv Instant Poison IX Cyanigosa Hit -924 (Nature)", -- [34]
+				"Riv Melee Cyanigosa Crit -598 (Physical)", -- [35]
+				"Riv Mutilate Cyanigosa Hit -872 (Physical)", -- [36]
+				"Riv Instant Poison IX Cyanigosa Hit -992 (Nature)", -- [37]
+				"Riv Mutilate Cyanigosa Crit -1545 (Physical)", -- [38]
+				"Cyanigosa Uncontrollable Energy (DoT) Riv Tick -200 (Arcane)", -- [39]
+				"Cyanigosa Blizzard (DoT) Riv Tick -300 (Frost)", -- [40]
+				"Riv Melee Cyanigosa Miss", -- [41]
+				"Riv Envenom Cyanigosa Hit -3867 (Nature)", -- [42]
+				"Riv Instant Poison IX Cyanigosa Hit -895 (Nature)", -- [43]
+				"Riv Melee Cyanigosa Hit -337 (Physical)", -- [44]
+				"Riv Instant Poison IX Cyanigosa Crit -1380 (Nature)", -- [45]
+				"Cyanigosa Melee Riv Dodge", -- [46]
+				"Riv Garrote (DoT) Cyanigosa Tick -655 (Physical)", -- [47]
+				"Riv Deadly Poison IX (DoT) Cyanigosa Tick -1220 (Nature)", -- [48]
+				"Cyanigosa Blizzard (DoT) Riv Tick -300 (Frost)", -- [49]
+				"Cyanigosa Uncontrollable Energy (DoT) Riv Tick -180 (20 resisted) (Arcane)", -- [50]
+			},
+			["Name"] = "Riv",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				true, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				true, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				false, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				107478.952, -- [1]
+				107481.94, -- [2]
+				107487.127, -- [3]
+				107466.216, -- [4]
+				107466.338, -- [5]
+				107466.53, -- [6]
+				107467.011, -- [7]
+				107467.012, -- [8]
+				107467.012, -- [9]
+				107467.515, -- [10]
+				107467.709, -- [11]
+				107468.125, -- [12]
+				107468.328, -- [13]
+				107468.389, -- [14]
+				107468.39, -- [15]
+				107468.39, -- [16]
+				107468.69, -- [17]
+				107468.897, -- [18]
+				107469.243, -- [19]
+				107469.457, -- [20]
+				107469.868, -- [21]
+				107469.952, -- [22]
+				107470.061, -- [23]
+				107471.057, -- [24]
+				107471.158, -- [25]
+				107471.261, -- [26]
+				107471.262, -- [27]
+				107471.364, -- [28]
+				107471.386, -- [29]
+				107471.387, -- [30]
+				107471.387, -- [31]
+				107471.862, -- [32]
+				107472.224, -- [33]
+				107472.225, -- [34]
+				107472.43, -- [35]
+				107472.567, -- [36]
+				107472.568, -- [37]
+				107472.568, -- [38]
+				107472.955, -- [39]
+				107473.267, -- [40]
+				107473.408, -- [41]
+				107473.606, -- [42]
+				107473.606, -- [43]
+				107473.615, -- [44]
+				107473.616, -- [45]
+				107473.88, -- [46]
+				107474.185, -- [47]
+				107474.374, -- [48]
+				107475.287, -- [49]
+				107475.947, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Portal Keeper"] = {
+									["count"] = 0,
+								},
+								["Portal Guardian"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeSpent"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.06,
+								},
+								["Mutilate"] = {
+									["count"] = 3.63,
+								},
+								["Envenom"] = {
+									["count"] = 1.25,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.09,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.030000000000001,
+						},
+					},
+					["DamageTaken"] = 488,
+					["ElementTakenResist"] = {
+						["Arcane"] = 0,
+					},
+					["PartialResist"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 8.030000000000001,
+					["ElementTaken"] = {
+						["Melee"] = 488,
+						["Arcane"] = 0,
+					},
+					["DOT_Time"] = 3,
+					["Damage"] = 15150,
+					["EnergyGained"] = {
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 3748,
+						["Melee"] = 2048,
+						["Nature"] = 9354,
+					},
+					["EnergyGain"] = 33,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 423,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 423,
+								},
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 986,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 986,
+								},
+								["Hit"] = {
+									["max"] = 328,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 639,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 2048,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1932,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1932,
+								},
+								["Hit"] = {
+									["max"] = 701,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 1816,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 3748,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 466,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 466,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 466,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5566,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 7038,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 7038,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 973,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1850,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1850,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2048,
+								},
+								["Mutilate"] = {
+									["count"] = 3748,
+								},
+								["Envenom"] = {
+									["count"] = 7038,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 466,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 1850,
+								},
+							},
+							["amount"] = 15150,
+						},
+					},
+					["TimeDamage"] = 8.030000000000001,
+					["WhoDamaged"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Arcane Stream (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 488,
+								},
+							},
+							["amount"] = 488,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Focused Attacks"] = {
+									["count"] = 8,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 33,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamaging"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.06,
+								},
+								["Mutilate"] = {
+									["count"] = 3.63,
+								},
+								["Envenom"] = {
+									["count"] = 1.25,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.09,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 8.030000000000001,
+						},
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Azure Captain"] = {
+									["count"] = 6,
+								},
+								["Azure Sorceror"] = {
+									["count"] = 0,
+								},
+								["Azure Stalker"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2658,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 8,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 19,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 258,
+						["Melee"] = 2272,
+						["Arcane"] = 128,
+					},
+					["DOT_Time"] = 9,
+					["Damage"] = 19401,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+						["Arcane"] = 32,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 12421,
+						["Melee"] = 3180,
+						["Nature"] = 3800,
+					},
+					["PartialAbsorb"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 3241,
+								},
+								["Melee"] = {
+									["count"] = 1101,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 932,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 1299,
+								},
+							},
+							["amount"] = 6573,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1620,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3357,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 870,
+								},
+							},
+							["amount"] = 5847,
+						},
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 459,
+								},
+								["Mutilate"] = {
+									["count"] = 2010,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3813,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 699,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6981,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 824,
+								},
+								["Mortal Strike"] = {
+									["count"] = 258,
+								},
+							},
+							["amount"] = 1082,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 319,
+								},
+								["Arcane Stream (DoT)"] = {
+									["count"] = 128,
+								},
+							},
+							["amount"] = 447,
+						},
+						["Azure Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1129,
+								},
+							},
+							["amount"] = 1129,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 0,
+								},
+								["Focused Attacks"] = {
+									["count"] = 20,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["PartialResist"] = {
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 32,
+									["min"] = 32,
+									["count"] = 1,
+									["amount"] = 32,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 32,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 40,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 20,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 1.4,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.15,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1.55,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.91,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 4.859999999999999,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.770000000000001,
+						},
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.45,
+								},
+								["Mutilate"] = {
+									["count"] = 0.11,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.04,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1.6,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 10.92,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 487,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 1572,
+								},
+								["Crit"] = {
+									["max"] = 994,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1608,
+								},
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 3180,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 2010,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2010,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2010,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 612,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 612,
+								},
+								["Crit"] = {
+									["max"] = 998,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 4666,
+								},
+								["Hit"] = {
+									["max"] = 557,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 5133,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 10411,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 699,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 1631,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 1631,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1299,
+									["min"] = 1299,
+									["count"] = 1,
+									["amount"] = 1299,
+								},
+								["Hit"] = {
+									["max"] = 870,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 870,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 2169,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 10.92,
+					["TimeDamaging"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 1.4,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.15,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1.55,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.91,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 4.859999999999999,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.770000000000001,
+						},
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.45,
+								},
+								["Mutilate"] = {
+									["count"] = 0.11,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.04,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1.6,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Moragg"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Zuramat the Obliterator"] = {
+									["count"] = 0,
+								},
+								["Moragg"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rupture (DoT)"] = {
+							["Details"] = {
+								["Moragg"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Nature"] = 0,
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Arcane"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+						["Arcane"] = 0,
+						["Shadow"] = 0,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Shroud of Darkness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ray of Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Optic Link (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Uncontrollable Energy (DoT)"] = {
+									["count"] = 0,
+								},
+								["Blizzard (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Optic Link (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Ray of Pain"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Focused Attacks"] = {
+									["count"] = 0,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Shroud of Darkness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Ray of Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["25%Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Optic Link (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Rupture (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Portal Keeper"] = {
+									["count"] = 3,
+								},
+								["Portal Guardian"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Nature"] = 0,
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 528,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 4,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 528,
+					},
+					["DOT_Time"] = 3,
+					["Damage"] = 16677,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 6273,
+						["Melee"] = 2849,
+						["Nature"] = 7555,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2849,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 923,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 466,
+								},
+								["Mutilate"] = {
+									["count"] = 5953,
+								},
+								["Envenom"] = {
+									["count"] = 6166,
+								},
+								["Fan of Knives"] = {
+									["count"] = 320,
+								},
+							},
+							["amount"] = 16677,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 528,
+								},
+							},
+							["amount"] = 528,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 0,
+								},
+								["Focused Attacks"] = {
+									["count"] = 12,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 37,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 120,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 37,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.7,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.7,
+								},
+								["Mutilate"] = {
+									["count"] = 0.52,
+								},
+								["Envenom"] = {
+									["count"] = 0.35,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 8.77,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["ActiveTime"] = 8.77,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 433,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 1509,
+								},
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 688,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 1340,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 2849,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 923,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 923,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 923,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 466,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 466,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 466,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 2034,
+									["min"] = 2004,
+									["count"] = 2,
+									["amount"] = 4038,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 579,
+									["min"] = 579,
+									["count"] = 1,
+									["amount"] = 579,
+								},
+								["Crit"] = {
+									["max"] = 1336,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1336,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 5953,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6166,
+									["min"] = 6166,
+									["count"] = 1,
+									["amount"] = 6166,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6166,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 320,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 320,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 320,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 8.77,
+					["TimeDamaging"] = {
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.7,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.7,
+								},
+								["Mutilate"] = {
+									["count"] = 0.52,
+								},
+								["Envenom"] = {
+									["count"] = 0.35,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 8.77,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Portal Keeper"] = {
+									["count"] = 3,
+								},
+								["Portal Guardian"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2132,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 110,
+						["Physical"] = 0,
+						["Melee"] = 1797,
+						["Arcane"] = 225,
+					},
+					["DOT_Time"] = 3,
+					["Damage"] = 15305,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+						["Arcane"] = 25,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 4680,
+						["Melee"] = 4292,
+						["Nature"] = 6333,
+					},
+					["PartialAbsorb"] = {
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4292,
+								},
+								["Mutilate"] = {
+									["count"] = 4680,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 466,
+								},
+								["Envenom"] = {
+									["count"] = 3219,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 2648,
+								},
+							},
+							["amount"] = 15305,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Arcane Missiles"] = {
+									["count"] = 225,
+								},
+								["Melee"] = {
+									["count"] = 1797,
+								},
+								["Deep Freeze"] = {
+									["count"] = 110,
+								},
+							},
+							["amount"] = 2132,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Agonizing Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 15,
+								},
+								["Focused Attacks"] = {
+									["count"] = 12,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 52,
+						},
+					},
+					["PartialResist"] = {
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 25,
+									["min"] = 25,
+									["count"] = 1,
+									["amount"] = 25,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 25,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 0,
+						["Physical"] = 40,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 52,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.52,
+								},
+								["Mutilate"] = {
+									["count"] = 4.95,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.31,
+								},
+								["Envenom"] = {
+									["count"] = 3.12,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.9,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["ActiveTime"] = 12.9,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 925,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 2648,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 2648,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2483,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 3219,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 3219,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 1172,
+									["min"] = 1172,
+									["count"] = 1,
+									["amount"] = 1172,
+								},
+								["Crit"] = {
+									["max"] = 1628,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 2784,
+								},
+								["Hit"] = {
+									["max"] = 724,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 724,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 4680,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 466,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 466,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 466,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 432,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 432,
+								},
+								["Hit"] = {
+									["max"] = 504,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 1406,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 930,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 2454,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 4292,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 12.9,
+					["TimeDamaging"] = {
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.52,
+								},
+								["Mutilate"] = {
+									["count"] = 4.95,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.31,
+								},
+								["Envenom"] = {
+									["count"] = 3.12,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 12.9,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Cyanigosa"] = {
+									["count"] = 9,
+								},
+								["Portal Guardian"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Cyanigosa"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Nature"] = 285,
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2361,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 11,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 900,
+						["Melee"] = 585,
+						["Arcane"] = 876,
+					},
+					["DOT_Time"] = 21,
+					["Damage"] = 45608,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+						["Arcane"] = 75,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 12618,
+						["Melee"] = 11469,
+						["Nature"] = 21521,
+					},
+					["PartialAbsorb"] = {
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2620,
+								},
+								["Melee"] = {
+									["count"] = 11469,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 8496,
+								},
+								["Envenom"] = {
+									["count"] = 10341,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2684,
+								},
+								["Mutilate"] = {
+									["count"] = 9998,
+								},
+							},
+							["amount"] = 45608,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Uncontrollable Energy (DoT)"] = {
+									["count"] = 200,
+								},
+								["Blizzard (DoT)"] = {
+									["count"] = 900,
+								},
+								["Melee"] = {
+									["count"] = 585,
+								},
+								["Uncontrollable Energy"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 2361,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Focused Attacks"] = {
+									["count"] = 30,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 105,
+						},
+					},
+					["PartialResist"] = {
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 75,
+									["min"] = 75,
+									["count"] = 1,
+									["amount"] = 75,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 75,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 82,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 105,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 12.21,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["ActiveTime"] = 12.21,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 655,
+									["min"] = 655,
+									["count"] = 4,
+									["amount"] = 2620,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 2620,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1380,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1380,
+								},
+								["Hit"] = {
+									["max"] = 992,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 7116,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 8496,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1220,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 2684,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 2684,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1748,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 4714,
+								},
+								["Hit"] = {
+									["max"] = 902,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 5284,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 9998,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6474,
+									["min"] = 6474,
+									["count"] = 1,
+									["amount"] = 6474,
+								},
+								["Hit"] = {
+									["max"] = 3867,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 3867,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 10341,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 275,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 275,
+								},
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 299,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 587,
+								},
+								["Crit"] = {
+									["max"] = 1052,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 9608,
+								},
+								["Hit"] = {
+									["max"] = 338,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 999,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 11469,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 12.21,
+					["TimeDamaging"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 12.21,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Cyanigosa"] = {
+									["count"] = 9,
+								},
+								["Portal Guardian"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Cyanigosa"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Nature"] = 285,
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2361,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 11,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 900,
+						["Melee"] = 585,
+						["Arcane"] = 876,
+					},
+					["DOT_Time"] = 21,
+					["Damage"] = 45608,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+						["Arcane"] = 75,
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 12618,
+						["Melee"] = 11469,
+						["Nature"] = 21521,
+					},
+					["PartialAbsorb"] = {
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2620,
+								},
+								["Melee"] = {
+									["count"] = 11469,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 8496,
+								},
+								["Envenom"] = {
+									["count"] = 10341,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2684,
+								},
+								["Mutilate"] = {
+									["count"] = 9998,
+								},
+							},
+							["amount"] = 45608,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Uncontrollable Energy (DoT)"] = {
+									["count"] = 200,
+								},
+								["Blizzard (DoT)"] = {
+									["count"] = 900,
+								},
+								["Melee"] = {
+									["count"] = 585,
+								},
+								["Uncontrollable Energy"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 2361,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Focused Attacks"] = {
+									["count"] = 30,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 105,
+						},
+					},
+					["PartialResist"] = {
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 75,
+									["min"] = 75,
+									["count"] = 1,
+									["amount"] = 75,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 75,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 82,
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 105,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 12.21,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 75,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["ActiveTime"] = 12.21,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 655,
+									["min"] = 655,
+									["count"] = 4,
+									["amount"] = 2620,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 2620,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1380,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1380,
+								},
+								["Hit"] = {
+									["max"] = 992,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 7116,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 8496,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1220,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 2684,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 2684,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1748,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 4714,
+								},
+								["Hit"] = {
+									["max"] = 902,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 5284,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 9998,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6474,
+									["min"] = 6474,
+									["count"] = 1,
+									["amount"] = 6474,
+								},
+								["Hit"] = {
+									["max"] = 3867,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 3867,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 10341,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 275,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 275,
+								},
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 299,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 587,
+								},
+								["Crit"] = {
+									["max"] = 1052,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 9608,
+								},
+								["Hit"] = {
+									["max"] = 338,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 999,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 11469,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 12.21,
+					["TimeDamaging"] = {
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 12.21,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Mutilate"] = {
+									["count"] = 0,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Melee"] = 202,
+						["Physical"] = 360,
+					},
+					["DOTs"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Cyanigosa"] = {
+									["count"] = 12,
+								},
+								["Moragg"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Azure Captain"] = {
+									["count"] = 6,
+								},
+								["Azure Sorceror"] = {
+									["count"] = 3,
+								},
+								["Zuramat the Obliterator"] = {
+									["count"] = 12,
+								},
+								["Portal Guardian"] = {
+									["count"] = 21,
+								},
+								["Cyanigosa"] = {
+									["count"] = 9,
+								},
+								["Moragg"] = {
+									["count"] = 12,
+								},
+								["Portal Keeper"] = {
+									["count"] = 9,
+								},
+								["Azure Stalker"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 84,
+						},
+						["Rupture (DoT)"] = {
+							["Details"] = {
+								["Moragg"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 18,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Nature"] = 597,
+					},
+					["TimeSpent"] = {
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0.08,
+								},
+								["Fan of Knives"] = {
+									["count"] = 4.529999999999999,
+								},
+								["Melee"] = {
+									["count"] = 2.53,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.14,
+						},
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0.1,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0.1,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 1.49,
+								},
+								["Melee"] = {
+									["count"] = 11.13,
+								},
+								["Mutilate"] = {
+									["count"] = 1.7,
+								},
+								["Envenom"] = {
+									["count"] = 0.04,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 2.64,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.6,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.74,
+								},
+							},
+							["amount"] = 18.34,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.83,
+								},
+								["Mutilate"] = {
+									["count"] = 4.15,
+								},
+								["Fan of Knives"] = {
+									["count"] = 11.92,
+								},
+								["Envenom"] = {
+									["count"] = 0.07000000000000001,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.04,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.02,
+								},
+							},
+							["amount"] = 27.03000000000001,
+						},
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8.659999999999998,
+								},
+								["Mutilate"] = {
+									["count"] = 5.25,
+								},
+								["Envenom"] = {
+									["count"] = 0.62,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.4,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 15.93,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0.65,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.41,
+								},
+								["Envenom"] = {
+									["count"] = 2.57,
+								},
+								["Mutilate"] = {
+									["count"] = 9.789999999999999,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 6.24,
+								},
+								["Melee"] = {
+									["count"] = 23.82999999999999,
+								},
+							},
+							["amount"] = 46.99000000000002,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 3.5,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 15.71,
+						},
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5.380000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 0.1,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.15,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.36,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.01,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21.58,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.67,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2.43,
+								},
+								["Mutilate"] = {
+									["count"] = 6.910000000000001,
+								},
+								["Envenom"] = {
+									["count"] = 3.83,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 38.92000000000001,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6.380000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 6.87,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0.02,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.59,
+								},
+								["Envenom"] = {
+									["count"] = 1.78,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 16.64,
+						},
+					},
+					["DamageTaken"] = 28512,
+					["ElementTakenResist"] = {
+						["Arcane"] = 228,
+						["Shadow"] = 54,
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 88,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 88,
+							["amount"] = 0,
+						},
+						["Ray of Pain"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 40,
+									["min"] = 20,
+									["count"] = 3,
+									["amount"] = 80,
+								},
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 80,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 25,
+									["min"] = 25,
+									["count"] = 1,
+									["amount"] = 25,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 25,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 32,
+									["min"] = 16,
+									["count"] = 2,
+									["amount"] = 48,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 48,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 75,
+									["min"] = 75,
+									["count"] = 1,
+									["amount"] = 75,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 75,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shroud of Darkness"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Optic Link (DoT)"] = {
+							["Details"] = {
+								["25%Resist"] = {
+									["max"] = 17,
+									["min"] = 9,
+									["count"] = 4,
+									["amount"] = 54,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 54,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 88,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 88,
+							["amount"] = 0,
+						},
+						["Ray of Pain"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["Arcane Missiles"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Arcane Stream (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Agonizing Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Uncontrollable Energy"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Deep Freeze"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Blizzard (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Mortal Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Shroud of Darkness"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Optic Link (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 192.8,
+					["ElementTaken"] = {
+						["Physical"] = 783,
+						["Melee"] = 21652,
+						["Arcane"] = 3893,
+						["Frost"] = 1310,
+						["Shadow"] = 874,
+					},
+					["DOT_Time"] = 129,
+					["Damage"] = 351491,
+					["EnergyGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 45,
+								},
+							},
+							["amount"] = 45,
+						},
+						["Focused Attacks"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 240,
+								},
+							},
+							["amount"] = 240,
+						},
+						["Relentless Strikes Effect"] = {
+							["Details"] = {
+								["Riv"] = {
+									["count"] = 400,
+								},
+							},
+							["amount"] = 400,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 136460,
+						["Melee"] = 70630,
+						["Nature"] = 144401,
+					},
+					["EnergyGain"] = 685,
+					["Attacks"] = {
+						["Garrote (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 655,
+									["min"] = 655,
+									["count"] = 9,
+									["amount"] = 5895,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 5895,
+						},
+						["Fan of Knives"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 497,
+									["min"] = 497,
+									["count"] = 1,
+									["amount"] = 497,
+								},
+								["Crit (Blocked)"] = {
+									["max"] = 984,
+									["min"] = 612,
+									["count"] = 2,
+									["amount"] = 1596,
+								},
+								["Crit"] = {
+									["max"] = 1184,
+									["min"] = 644,
+									["count"] = 26,
+									["amount"] = 23010,
+								},
+								["Hit"] = {
+									["max"] = 588,
+									["min"] = 314,
+									["count"] = 28,
+									["amount"] = 12756,
+								},
+							},
+							["count"] = 57,
+							["amount"] = 37859,
+						},
+						["Mutilate"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 2034,
+									["min"] = 1121,
+									["count"] = 4,
+									["amount"] = 6331,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 579,
+									["min"] = 579,
+									["count"] = 1,
+									["amount"] = 579,
+								},
+								["Crit"] = {
+									["max"] = 2076,
+									["min"] = 1097,
+									["count"] = 33,
+									["amount"] = 54186,
+								},
+								["Hit"] = {
+									["max"] = 902,
+									["min"] = 486,
+									["count"] = 39,
+									["amount"] = 26860,
+								},
+							},
+							["count"] = 77,
+							["amount"] = 87956,
+						},
+						["Envenom"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6474,
+									["min"] = 1472,
+									["count"] = 6,
+									["amount"] = 29662,
+								},
+								["Hit"] = {
+									["max"] = 3867,
+									["min"] = 736,
+									["count"] = 14,
+									["amount"] = 29857,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 59519,
+						},
+						["Eviscerate"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 1404,
+									["min"] = 1404,
+									["count"] = 1,
+									["amount"] = 1404,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1404,
+						},
+						["Instant Poison IX"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 1464,
+									["min"] = 1299,
+									["count"] = 7,
+									["amount"] = 9858,
+								},
+								["Hit"] = {
+									["max"] = 1012,
+									["min"] = 769,
+									["count"] = 63,
+									["amount"] = 57763,
+								},
+							},
+							["count"] = 70,
+							["amount"] = 67621,
+						},
+						["Rupture (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 956,
+									["min"] = 956,
+									["count"] = 1,
+									["amount"] = 956,
+								},
+								["Tick"] = {
+									["max"] = 478,
+									["min"] = 478,
+									["count"] = 5,
+									["amount"] = 2390,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 3346,
+						},
+						["Deadly Poison IX (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1220,
+									["min"] = 210,
+									["count"] = 28,
+									["amount"] = 17261,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 17261,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 438,
+									["min"] = 225,
+									["count"] = 26,
+									["amount"] = 8737,
+								},
+								["Hit"] = {
+									["max"] = 505,
+									["min"] = 284,
+									["count"] = 52,
+									["amount"] = 19798,
+								},
+								["Hit (Blocked)"] = {
+									["max"] = 442,
+									["min"] = 255,
+									["count"] = 5,
+									["amount"] = 1563,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 1052,
+									["min"] = 560,
+									["count"] = 49,
+									["amount"] = 40532,
+								},
+								["Miss"] = {
+									["count"] = 34,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 167,
+							["amount"] = 70630,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 14,
+								},
+								["Crit"] = {
+									["count"] = 66,
+								},
+								["Hit"] = {
+									["count"] = 70,
+								},
+							},
+							["amount"] = 150,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 26,
+								},
+								["Hit"] = {
+									["count"] = 57,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 49,
+								},
+								["Miss"] = {
+									["count"] = 34,
+								},
+							},
+							["amount"] = 167,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 28,
+								},
+								["Crit"] = {
+									["count"] = 13,
+								},
+								["Hit"] = {
+									["count"] = 77,
+								},
+							},
+							["amount"] = 118,
+						},
+					},
+					["DamagedWho"] = {
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 2072,
+								},
+								["Fan of Knives"] = {
+									["count"] = 2856,
+								},
+								["Melee"] = {
+									["count"] = 1260,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 938,
+								},
+							},
+							["amount"] = 7126,
+						},
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 1796,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 917,
+								},
+							},
+							["amount"] = 2713,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 3275,
+								},
+								["Melee"] = {
+									["count"] = 7765,
+								},
+								["Mutilate"] = {
+									["count"] = 7289,
+								},
+								["Envenom"] = {
+									["count"] = 3867,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 3346,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 3626,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 10228,
+								},
+							},
+							["amount"] = 39396,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 1098,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 901,
+								},
+							},
+							["amount"] = 1999,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4463,
+								},
+								["Mutilate"] = {
+									["count"] = 3522,
+								},
+								["Fan of Knives"] = {
+									["count"] = 15202,
+								},
+								["Envenom"] = {
+									["count"] = 1609,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 233,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 6606,
+								},
+							},
+							["amount"] = 31635,
+						},
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8809,
+								},
+								["Mutilate"] = {
+									["count"] = 9686,
+								},
+								["Envenom"] = {
+									["count"] = 5156,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 3728,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 11681,
+								},
+							},
+							["amount"] = 39060,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 1404,
+								},
+								["Fan of Knives"] = {
+									["count"] = 1866,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 12896,
+								},
+								["Envenom"] = {
+									["count"] = 14349,
+								},
+								["Mutilate"] = {
+									["count"] = 25726,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2796,
+								},
+								["Melee"] = {
+									["count"] = 15419,
+								},
+							},
+							["amount"] = 74456,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2620,
+								},
+								["Melee"] = {
+									["count"] = 11469,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 9396,
+								},
+								["Envenom"] = {
+									["count"] = 10341,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2684,
+								},
+								["Mutilate"] = {
+									["count"] = 9998,
+								},
+							},
+							["amount"] = 46508,
+						},
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2677,
+								},
+								["Mutilate"] = {
+									["count"] = 2179,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 932,
+								},
+								["Fan of Knives"] = {
+									["count"] = 6522,
+								},
+								["Envenom"] = {
+									["count"] = 3818,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 5060,
+								},
+							},
+							["amount"] = 21188,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13984,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 8041,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1398,
+								},
+								["Mutilate"] = {
+									["count"] = 18847,
+								},
+								["Envenom"] = {
+									["count"] = 18034,
+								},
+								["Fan of Knives"] = {
+									["count"] = 2072,
+								},
+							},
+							["amount"] = 62376,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4784,
+								},
+								["Mutilate"] = {
+									["count"] = 8637,
+								},
+								["Fan of Knives"] = {
+									["count"] = 6447,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1864,
+								},
+								["Envenom"] = {
+									["count"] = 2345,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 957,
+								},
+							},
+							["amount"] = 25034,
+						},
+					},
+					["TimeDamage"] = 192.8,
+					["WhoDamaged"] = {
+						["Azure Raider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 271,
+								},
+							},
+							["amount"] = 271,
+						},
+						["Azure Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 139,
+								},
+							},
+							["amount"] = 139,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Optic Link (DoT)"] = {
+									["count"] = 274,
+								},
+								["Melee"] = {
+									["count"] = 2405,
+								},
+								["Ray of Pain"] = {
+									["count"] = 600,
+								},
+							},
+							["amount"] = 3279,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 160,
+								},
+							},
+							["amount"] = 160,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1217,
+								},
+								["Arcane Stream (DoT)"] = {
+									["count"] = 272,
+								},
+							},
+							["amount"] = 1489,
+						},
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2733,
+								},
+							},
+							["amount"] = 2733,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4859,
+								},
+								["Agonizing Strike"] = {
+									["count"] = 525,
+								},
+							},
+							["amount"] = 5384,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Uncontrollable Energy (DoT)"] = {
+									["count"] = 2720,
+								},
+								["Blizzard (DoT)"] = {
+									["count"] = 1200,
+								},
+								["Melee"] = {
+									["count"] = 585,
+								},
+								["Uncontrollable Energy"] = {
+									["count"] = 676,
+								},
+							},
+							["amount"] = 5181,
+						},
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1578,
+								},
+								["Mortal Strike"] = {
+									["count"] = 258,
+								},
+							},
+							["amount"] = 1836,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Arcane Missiles"] = {
+									["count"] = 225,
+								},
+								["Melee"] = {
+									["count"] = 4688,
+								},
+								["Deep Freeze"] = {
+									["count"] = 110,
+								},
+							},
+							["amount"] = 5023,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3017,
+								},
+							},
+							["amount"] = 3017,
+						},
+					},
+					["EnergyGainedFrom"] = {
+						["Riv"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 45,
+								},
+								["Focused Attacks"] = {
+									["count"] = 240,
+								},
+								["Relentless Strikes Effect"] = {
+									["count"] = 400,
+								},
+							},
+							["amount"] = 685,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Dodge"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 5,
+								},
+								["Dodge"] = {
+									["count"] = 26,
+								},
+								["Hit"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 88,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 3,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["TimeDamaging"] = {
+						["Azure Raider"] = {
+							["Details"] = {
+								["Mutilate"] = {
+									["count"] = 0.08,
+								},
+								["Fan of Knives"] = {
+									["count"] = 4.529999999999999,
+								},
+								["Melee"] = {
+									["count"] = 2.53,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.14,
+						},
+						["Azure Invader"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0.1,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0.1,
+						},
+						["Moragg"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 1.49,
+								},
+								["Melee"] = {
+									["count"] = 11.13,
+								},
+								["Mutilate"] = {
+									["count"] = 1.7,
+								},
+								["Envenom"] = {
+									["count"] = 0.04,
+								},
+								["Rupture (DoT)"] = {
+									["count"] = 2.64,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.6,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.74,
+								},
+							},
+							["amount"] = 18.34,
+						},
+						["Azure Spellbreaker"] = {
+							["Details"] = {
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Azure Sorceror"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9.83,
+								},
+								["Mutilate"] = {
+									["count"] = 4.15,
+								},
+								["Fan of Knives"] = {
+									["count"] = 11.92,
+								},
+								["Envenom"] = {
+									["count"] = 0.07000000000000001,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.04,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.02,
+								},
+							},
+							["amount"] = 27.03000000000001,
+						},
+						["Zuramat the Obliterator"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 8.659999999999998,
+								},
+								["Mutilate"] = {
+									["count"] = 5.25,
+								},
+								["Envenom"] = {
+									["count"] = 0.62,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.4,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 15.93,
+						},
+						["Portal Guardian"] = {
+							["Details"] = {
+								["Eviscerate"] = {
+									["count"] = 0.65,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.41,
+								},
+								["Envenom"] = {
+									["count"] = 2.57,
+								},
+								["Mutilate"] = {
+									["count"] = 9.789999999999999,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 6.24,
+								},
+								["Melee"] = {
+									["count"] = 23.82999999999999,
+								},
+							},
+							["amount"] = 46.99000000000002,
+						},
+						["Cyanigosa"] = {
+							["Details"] = {
+								["Garrote (DoT)"] = {
+									["count"] = 2.14,
+								},
+								["Melee"] = {
+									["count"] = 7.27,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 3.5,
+								},
+								["Envenom"] = {
+									["count"] = 0.76,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.4900000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 1.55,
+								},
+							},
+							["amount"] = 15.71,
+						},
+						["Azure Captain"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5.380000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 0.1,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 0.15,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0,
+								},
+								["Envenom"] = {
+									["count"] = 0.36,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.01,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Portal Keeper"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21.58,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0.67,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 2.43,
+								},
+								["Mutilate"] = {
+									["count"] = 6.910000000000001,
+								},
+								["Envenom"] = {
+									["count"] = 3.83,
+								},
+								["Fan of Knives"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 38.92000000000001,
+						},
+						["Azure Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6.380000000000001,
+								},
+								["Mutilate"] = {
+									["count"] = 6.87,
+								},
+								["Fan of Knives"] = {
+									["count"] = 0.02,
+								},
+								["Deadly Poison IX (DoT)"] = {
+									["count"] = 1.59,
+								},
+								["Envenom"] = {
+									["count"] = 1.78,
+								},
+								["Instant Poison IX"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 16.64,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1586628900,
+			["LastActive"] = 1586629425,
+		},
+	},
+	["FightNum"] = 17,
+	["CombatTimes"] = {
+		{
+			1586628900, -- [1]
+			1586628906, -- [2]
+			"20:15:00", -- [3]
+			"20:15:06", -- [4]
+			"Azure Captain", -- [5]
+		}, -- [1]
+		{
+			1586628927, -- [1]
+			1586628933, -- [2]
+			"20:15:27", -- [3]
+			"20:15:33", -- [4]
+			"Portal Guardian", -- [5]
+		}, -- [2]
+		{
+			1586628967, -- [1]
+			1586628974, -- [2]
+			"20:16:07", -- [3]
+			"20:16:14", -- [4]
+			"Azure Invader", -- [5]
+		}, -- [3]
+		{
+			1586628987, -- [1]
+			1586628994, -- [2]
+			"20:16:27", -- [3]
+			"20:16:34", -- [4]
+			"Azure Sorceror", -- [5]
+		}, -- [4]
+		{
+			1586629021, -- [1]
+			1586629025, -- [2]
+			"20:17:01", -- [3]
+			"20:17:05", -- [4]
+			"Azure Captain", -- [5]
+		}, -- [5]
+		{
+			1586629050, -- [1]
+			1586629065, -- [2]
+			"20:17:30", -- [3]
+			"20:17:45", -- [4]
+			"Moragg", -- [5]
+		}, -- [6]
+		{
+			1586629112, -- [1]
+			1586629117, -- [2]
+			"20:18:32", -- [3]
+			"20:18:37", -- [4]
+			"Azure Sorceror", -- [5]
+		}, -- [7]
+		{
+			1586629131, -- [1]
+			1586629138, -- [2]
+			"20:18:52", -- [3]
+			"20:18:58", -- [4]
+			"Portal Guardian", -- [5]
+		}, -- [8]
+		{
+			1586629154, -- [1]
+			1586629161, -- [2]
+			"20:19:14", -- [3]
+			"20:19:21", -- [4]
+			"Portal Guardian", -- [5]
+		}, -- [9]
+		{
+			1586629175, -- [1]
+			1586629183, -- [2]
+			"20:19:35", -- [3]
+			"20:19:43", -- [4]
+			"Azure Raider", -- [5]
+		}, -- [10]
+		{
+			1586629200, -- [1]
+			1586629207, -- [2]
+			"20:20:01", -- [3]
+			"20:20:07", -- [4]
+			"Portal Guardian", -- [5]
+		}, -- [11]
+		{
+			1586629227, -- [1]
+			1586629239, -- [2]
+			"20:20:27", -- [3]
+			"20:20:39", -- [4]
+			"Zuramat the Obliterator", -- [5]
+		}, -- [12]
+		{
+			1586629306, -- [1]
+			1586629311, -- [2]
+			"20:21:46", -- [3]
+			"20:21:51", -- [4]
+			"Portal Guardian", -- [5]
+		}, -- [13]
+		{
+			1586629326, -- [1]
+			1586629336, -- [2]
+			"20:22:06", -- [3]
+			"20:22:16", -- [4]
+			"Portal Keeper", -- [5]
+		}, -- [14]
+		{
+			1586629350, -- [1]
+			1586629355, -- [2]
+			"20:22:30", -- [3]
+			"20:22:35", -- [4]
+			"Portal Keeper", -- [5]
+		}, -- [15]
+		{
+			1586629371, -- [1]
+			1586629380, -- [2]
+			"20:22:51", -- [3]
+			"20:23:00", -- [4]
+			"Azure Stalker", -- [5]
+		}, -- [16]
+		{
+			1586629400, -- [1]
+			1586629412, -- [2]
+			"20:23:20", -- [3]
+			"20:23:32", -- [4]
+			"Cyanigosa", -- [5]
+		}, -- [17]
+	},
+	["FoughtWho"] = {
+		"Cyanigosa 20:23:20-20:23:32", -- [1]
+		"Azure Stalker 20:22:51-20:23:00", -- [2]
+		"Portal Keeper 20:22:30-20:22:35", -- [3]
+		"Portal Keeper 20:22:06-20:22:16", -- [4]
+		"Portal Guardian 20:21:46-20:21:51", -- [5]
+	},
+}

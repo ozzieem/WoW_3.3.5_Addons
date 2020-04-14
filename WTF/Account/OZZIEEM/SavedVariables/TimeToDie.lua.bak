@@ -1,0 +1,14 @@
+
+TimeToDieDB = {
+	["profileKeys"] = {
+		["Pala - Frozen Nexus"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["y"] = 175.4385976622096,
+			["x"] = 187.5437649267973,
+			["p2"] = "LEFT",
+			["p1"] = "LEFT",
+		},
+	},
+}

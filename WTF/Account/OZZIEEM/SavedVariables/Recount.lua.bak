@@ -1,0 +1,29 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
+	},
+	["profiles"] = {
+		["Lawras - Icecrown"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 11.65376333952947,
+					["x"] = 38.18929027107413,
+					["w"] = 216.3785737034241,
+					["h"] = 176.6925110706973,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowVis"] = false,
+			["MainWindowWidth"] = 216.3785737034241,
+			["MainWindowHeight"] = 176.6925110706973,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

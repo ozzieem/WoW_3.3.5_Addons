@@ -1,0 +1,6 @@
+##Interface: 80200
+##Title: Auto|cFF99CC00Res|r
+##Author: NOGARUKA
+##Version: 3
+##Notes: Auto accept Resurrection and thanks resser.
+AutoRes.lua

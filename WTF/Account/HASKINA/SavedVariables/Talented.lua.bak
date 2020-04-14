@@ -1,0 +1,25 @@
+
+TalentedDB = {
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Salaction - Icecrown",
+	},
+	["profiles"] = {
+		["Salaction - Icecrown"] = {
+			["confirmlearn"] = false,
+			["framepos"] = {
+				["TalentedGlyphs"] = {
+					["y"] = 0,
+					["x"] = 0,
+					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
+				},
+				["TalentedFrame"] = {
+					["y"] = 17.54383700694767,
+					["x"] = 4.912255957571462,
+					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
+				},
+			},
+		},
+	},
+}

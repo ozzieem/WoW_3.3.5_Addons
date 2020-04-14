@@ -1,0 +1,50 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["itemStrings"] = {
+			["Recipe: Heroic Potion"] = "item:22912:0:0:0:0:0:0",
+			["Runecloth"] = "item:14047:0:0:0:0:0:0",
+			["Greater Mana Potion"] = "item:6149:0:0:0:0:0:0",
+			["Rune of Portals"] = "item:17032:0:0:0:0:0:0",
+			["Clefthoof Meat"] = "item:27678:0:0:0:0:0:0",
+			["Roasted Quail"] = "item:8952:0:0:0:0:0:0",
+			["Resilient Tail Hair"] = "item:25409:0:0:0:0:0:0",
+			["Superior Healing Potion"] = "item:3928:0:0:0:0:0:0",
+			["Shadow Council Bracer of the Owl"] = "item:24668:0:0:0:0:0:-9",
+			["Eternium Lockbox"] = "item:5760:0:0:0:0:0:0",
+			["Morning Glory Dew"] = "item:8766:0:0:0:0:0:0",
+			["Pair of Ivory Tusks"] = "item:25463:0:0:0:0:0:0",
+			["Mote of Shadow"] = "item:22577:0:0:0:0:0:0",
+			["Smooth Fur"] = "item:25413:0:0:0:0:0:0",
+			["Conjured Cinnamon Roll"] = "item:22895:0:0:0:0:0:0",
+			["Netherweave Cloth"] = "item:21877:0:0:0:0:0:0",
+			["Laughing Skull Tunic of Shadow Protection"] = "item:24607:0:0:0:0:0:-35",
+			["Recipe: Elixir of the Sages"] = "item:13479:0:0:0:0:0:0",
+			["Recipe: Elixir of Ogre's Strength"] = "item:6211:0:0:0:0:0:0",
+			["Arcane Dust"] = "item:22445:0:0:0:0:0:0",
+			["Conjured Mountain Spring Water"] = "item:30703:0:0:0:0:0:0",
+			["Scroll of Protection V"] = "item:27500:0:0:0:0:0:0",
+			["Aged Horn"] = "item:25415:0:0:0:0:0:0",
+			["Major Mana Potion"] = "item:13444:0:0:0:0:0:0",
+			["Talbuk Venison"] = "item:27682:0:0:0:0:0:0",
+			["Rune of Teleportation"] = "item:17031:0:0:0:0:0:0",
+			["Superior Mana Potion"] = "item:13443:0:0:0:0:0:0",
+		},
+	},
+	["profileKeys"] = {
+		["Salaction - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source\nitem:27682:0:0:0:0:0:0,Talbuk Venison,20,20,200,Merchant,Salaction,1566307368,Vendor\nitem:22577:0:0:0:0:0:0,Mote of Shadow,4,4,400,Merchant,Salaction,1566307371,Vendor",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time\nRepair Bill,12655,Merchant,Salaction,1566307352",
+			["goldLog"] = {
+				["Salaction"] = "startMinute,endMinute,copper\n26105094,26105133,0",
+			},
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source\nitem:25409:0:0:0:0:0:0,Resilient Tail Hair,1,1,1185,Merchant,Salaction,1566307351,Vendor\nitem:25589:0:0:0:0:0:0,Clefthoof Helm,1,1,35575,Merchant,Salaction,1566307366,Vendor\nitem:27682:0:0:0:0:0:0,Talbuk Venison,20,20,200,Merchant,Salaction,1566307366,Vendor\nitem:24668:0:0:0:0:0:-9,Shadow Council Bracer of the Owl,1,1,14060,Merchant,Salaction,1566307356,Vendor\nitem:22577:0:0:0:0:0:0,Mote of Shadow,4,4,400,Merchant,Salaction,1566307369,Vendor\nitem:24388:0:0:0:0:0:0,Girdle of the Gale Storm,1,1,21023,Merchant,Salaction,1566307365,Vendor\nitem:25543:0:0:0:0:0:0,Talbuk Sticker,1,1,64630,Merchant,Salaction,1566307364,Vendor\nitem:25415:0:0:0:0:0:0,Aged Horn,1,1,1325,Merchant,Salaction,1566307351,Vendor\nitem:25413:0:0:0:0:0:0,Smooth Fur,1,1,1185,Merchant,Salaction,1566307351,Vendor\nitem:24607:0:0:0:0:0:-35,Laughing Skull Tunic of Shadow Protection,1,1,22600,Merchant,Salaction,1566307353,Vendor\nitem:25593:0:0:0:0:0:0,Windroc Greaves,1,1,36095,Merchant,Salaction,1566307363,Vendor",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

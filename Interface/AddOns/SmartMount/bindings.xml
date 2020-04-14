@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="SMARTMOUNT_MOUNTORCONFIG" header="SMARTMOUNT">
+		SmartMount:MountOrConfig()
+	</Binding>
+</Bindings>
