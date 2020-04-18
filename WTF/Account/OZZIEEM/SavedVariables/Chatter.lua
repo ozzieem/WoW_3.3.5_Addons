@@ -315,20 +315,20 @@ ChatterDB = {
 							["g"] = 0.6941176881082356,
 							["r"] = 0,
 						},
-						["General"] = {
-							["r"] = 1.000000059138984,
-							["g"] = 0.752941220998764,
-							["b"] = 0.752941220998764,
+						["BN_WHISPER_INFORM"] = {
+							["b"] = 0.9647059394046664,
+							["g"] = 1.000000059138984,
+							["r"] = 0,
 						},
 						["PET_INFO"] = {
 							["b"] = 1.000000059138984,
 							["g"] = 0.501960813999176,
 							["r"] = 0.501960813999176,
 						},
-						["CHANNEL10"] = {
-							["b"] = 0.752941220998764,
-							["g"] = 0.752941220998764,
+						["Battleground"] = {
 							["r"] = 1.000000059138984,
+							["g"] = 0.4980392451398075,
+							["b"] = 0,
 						},
 						["RealID Conversation"] = {
 							["r"] = 0,
@@ -340,10 +340,10 @@ ChatterDB = {
 							["g"] = 1.000000059138984,
 							["r"] = 1.000000059138984,
 						},
-						["BN_WHISPER_INFORM"] = {
-							["b"] = 0.9647059394046664,
-							["g"] = 1.000000059138984,
-							["r"] = 0,
+						["General"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
 						},
 						["BN_WHISPER"] = {
 							["b"] = 0.9647059394046664,
@@ -390,9 +390,9 @@ ChatterDB = {
 							["g"] = 0.7843137718737125,
 							["r"] = 0.4627451254054904,
 						},
-						["world"] = {
-							["b"] = 0.752941220998764,
-							["g"] = 0.752941220998764,
+						["RAID_LEADER"] = {
+							["b"] = 0.03529411973431706,
+							["g"] = 0.2823529578745365,
 							["r"] = 1.000000059138984,
 						},
 						["CHANNEL_NOTICE"] = {
@@ -405,9 +405,9 @@ ChatterDB = {
 							["g"] = 0.8666667179204524,
 							["r"] = 1.000000059138984,
 						},
-						["AFK"] = {
-							["b"] = 1.000000059138984,
-							["g"] = 0.501960813999176,
+						["world"] = {
+							["b"] = 0.752941220998764,
+							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
 						},
 						["ARENA_POINTS"] = {
@@ -440,9 +440,9 @@ ChatterDB = {
 							["g"] = 0,
 							["r"] = 1.000000059138984,
 						},
-						["RAID_LEADER"] = {
-							["b"] = 0.03529411973431706,
-							["g"] = 0.2823529578745365,
+						["AFK"] = {
+							["b"] = 1.000000059138984,
+							["g"] = 0.501960813999176,
 							["r"] = 1.000000059138984,
 						},
 						["BN_INLINE_TOAST_CONVERSATION"] = {
@@ -465,10 +465,10 @@ ChatterDB = {
 							["g"] = 0.4980392451398075,
 							["r"] = 1.000000059138984,
 						},
-						["Battleground"] = {
+						["CHANNEL10"] = {
+							["b"] = 0.752941220998764,
+							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
-							["g"] = 0.4980392451398075,
-							["b"] = 0,
 						},
 						["BG_SYSTEM_HORDE"] = {
 							["b"] = 0,
@@ -564,10 +564,10 @@ ChatterDB = {
 							["g"] = 0.752941220998764,
 							["b"] = 0.752941220998764,
 						},
-						["Say"] = {
+						["Trade"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 1.000000059138984,
-							["b"] = 1.000000059138984,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
 						},
 						["General"] = {
 							["r"] = 1.000000059138984,
@@ -579,10 +579,10 @@ ChatterDB = {
 							["g"] = 1.000000059138984,
 							["b"] = 0.9647059394046664,
 						},
-						["Trade"] = {
+						["Say"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.752941220998764,
-							["b"] = 0.752941220998764,
+							["g"] = 1.000000059138984,
+							["b"] = 1.000000059138984,
 						},
 						["Battleground"] = {
 							["r"] = 1.000000059138984,
@@ -706,6 +706,42 @@ ChatterDB = {
 						"/p ty ", -- [32]
 					},
 				},
+				["Frostmourne"] = {
+					["history"] = {
+						"/s np", -- [1]
+						"/g isnt that like one of the first quests?", -- [2]
+						"/g at least at lvl 10", -- [3]
+						"/6 yes", -- [4]
+						"/g oh, there are plenty", -- [5]
+						"/p hi", -- [6]
+						"/p its ok", -- [7]
+						"/p im there", -- [8]
+						"/p save mana", -- [9]
+						"/p use devotion aura", -- [10]
+						"/6 cqd?", -- [11]
+						"/p indeed", -- [12]
+						"/p stay behind the tank", -- [13]
+						"/p dont go into other rooms", -- [14]
+						"/p lol", -- [15]
+						"/p is it on aggressive?", -- [16]
+						"/p youre low lvl", -- [17]
+						"/p so youll attract them", -- [18]
+						"/g then leave?", -- [19]
+						"/p you have it", -- [20]
+						"/p we have all 3", -- [21]
+						"/p r", -- [22]
+						"/p r", -- [23]
+						"/g being funny are you", -- [24]
+						"/p or hand of reckoning", -- [25]
+						"/p well", -- [26]
+						"/p that was unnecessary", -- [27]
+						"/p can loot after", -- [28]
+						"/p its only bazil left", -- [29]
+						"/p so should be fine", -- [30]
+						"/p ty all", -- [31]
+						"/played", -- [32]
+					},
+				},
 				["Frosthold"] = {
 					["history"] = {
 						"/s .xp", -- [1]
@@ -722,38 +758,38 @@ ChatterDB = {
 				},
 				["Frozen Nexus"] = {
 					["history"] = {
-						"/rr", -- [1]
-						"/quit", -- [2]
-						"/ad", -- [3]
-						"/camp", -- [4]
-						"/ad", -- [5]
-						"/m", -- [6]
-						"/m", -- [7]
-						"/m", -- [8]
-						"/m", -- [9]
-						"/rl", -- [10]
-						"/rr", -- [11]
-						"/ad", -- [12]
-						"/ad", -- [13]
-						"/ad", -- [14]
-						"/way The Storm Peaks 31.5, 70.0 Frozen Lake/way The Storm Peaks 51.1, 71.2 Brunn Village/way The Storm Peaks 35.0, 76.5 Waterfall/way The Storm Peaks 52.3, 35.0 Ulduar Ravine", -- [15]
-						"/way The Storm Peaks 31.5, 70.0 Frozen Lake", -- [16]
-						"/way The Storm Peaks 31.5 70.0 Frozen Lake", -- [17]
-						"/macro", -- [18]
-						"/macro", -- [19]
-						"/npcscan", -- [20]
-						"/smartmount", -- [21]
-						"/smartmount", -- [22]
-						"/smartmount", -- [23]
-						"/rl", -- [24]
-						"/msbt", -- [25]
-						"/smartmount", -- [26]
-						"/rl", -- [27]
-						"/smartmount", -- [28]
-						"/rl", -- [29]
-						"/smartmount", -- [30]
-						"/smartmount", -- [31]
-						"/rl", -- [32]
+						"/s .help", -- [1]
+						"/s .commands", -- [2]
+						"/s .save", -- [3]
+						"/s .buff", -- [4]
+						"/s .help", -- [5]
+						"/s .account", -- [6]
+						"/s .commands", -- [7]
+						"/s .dismount", -- [8]
+						"/s .buff", -- [9]
+						"/s .buff", -- [10]
+						"/s .buff", -- [11]
+						"/s .buff", -- [12]
+						"/s .buff", -- [13]
+						"/rankwatch interval 0", -- [14]
+						"/rankwatch party", -- [15]
+						"/rl", -- [16]
+						"/s .buff", -- [17]
+						"/s .buff", -- [18]
+						"/s .buff", -- [19]
+						"/s .buff", -- [20]
+						"/s .buff", -- [21]
+						"/macro", -- [22]
+						"/m", -- [23]
+						"/m", -- [24]
+						"/rl", -- [25]
+						"/m", -- [26]
+						"/p  |cffa335ee|Hitem:54637:0:0:0:0:0:0:0:80|h[Commendation of Service]|h|r", -- [27]
+						"/rl", -- [28]
+						"/swatter show", -- [29]
+						"/swatter", -- [30]
+						"/swatter clear", -- [31]
+						"/swatter clear", -- [32]
 					},
 				},
 			},
@@ -774,18 +810,21 @@ ChatterDB = {
 		["Pala - Frozen Nexus"] = "Default",
 		["Riv - Frozen Nexus"] = "Default",
 		["Maldira - Frosthold"] = "Default",
-		["Dranah - Frozen Nexus"] = "Default",
-		["Maulh - Icecrown"] = "Default",
-		["Maldir - Icecrown"] = "Default",
-		["Dud - Frozen Nexus"] = "Default",
-		["Lawras - Lordaeron"] = "Default",
+		["Liadra - Frostmourne"] = "Default",
 		["Tabinia - Icecrown"] = "Default",
+		["Dranah - Frozen Nexus"] = "Default",
+		["Maldir - Icecrown"] = "Default",
+		["Maulh - Icecrown"] = "Default",
+		["Lawras - Lordaeron"] = "Default",
+		["Dud - Frozen Nexus"] = "Default",
+		["Shamanta - Frozen Nexus"] = "Default",
+		["Hunty - Frozen Nexus"] = "Default",
 		["Warmat - Icecrown"] = "Default",
 		["Elendraa - Icecrown"] = "Default",
 		["Mandatum - Icecrown"] = "Default",
 		["Modos - Icecrown"] = "Default",
-		["Shamanta - Frozen Nexus"] = "Default",
 		["Themken - Icecrown"] = "Default",
+		["Lock - Frozen Nexus"] = "Default",
 		["Lawras - Icecrown"] = "Default",
 	},
 	["profiles"] = {

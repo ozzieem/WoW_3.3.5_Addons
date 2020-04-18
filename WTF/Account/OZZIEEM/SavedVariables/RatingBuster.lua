@@ -8,26 +8,29 @@ RatingBusterDB = {
 		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Suprema - Icecrown"] = "Suprema - Icecrown",
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 		["Delras - Icecrown"] = "Delras - Icecrown",
-		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
 		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Maldira - Frosthold"] = "Maldira - Frosthold",
-		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
 		["Lawron - Lordaeron"] = "Lawron - Lordaeron",
 		["Maulh - Icecrown"] = "Maulh - Icecrown",
 		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
 		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
@@ -37,19 +40,25 @@ RatingBusterDB = {
 		},
 		["Pala - Frozen Nexus"] = {
 		},
+		["Liadra - Frostmourne"] = {
+		},
 		["Delras - Icecrown"] = {
-		},
-		["Riv - Frozen Nexus"] = {
-		},
-		["Dranah - Lordaeron"] = {
 		},
 		["Themken - Lordaeron"] = {
 		},
+		["Riv - Frozen Nexus"] = {
+		},
+		["Tabinia - Icecrown"] = {
+		},
+		["Dranah - Lordaeron"] = {
+		},
+		["Hunty - Frozen Nexus"] = {
+		},
 		["Maldira - Frosthold"] = {
 		},
-		["Dranah - Icecrown"] = {
-		},
 		["Themken - Icecrown"] = {
+		},
+		["Warmat - Icecrown"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 		},
@@ -63,11 +72,11 @@ RatingBusterDB = {
 		},
 		["Shamanta - Frozen Nexus"] = {
 		},
+		["Elendraa - Icecrown"] = {
+		},
 		["Wilinia - Icecrown"] = {
 		},
-		["Warmat - Icecrown"] = {
-		},
-		["Elendraa - Icecrown"] = {
+		["Dranah - Icecrown"] = {
 		},
 		["Mandatum - Icecrown"] = {
 		},
@@ -75,7 +84,7 @@ RatingBusterDB = {
 		},
 		["Allisone - Icecrown"] = {
 		},
-		["Tabinia - Icecrown"] = {
+		["Lock - Frozen Nexus"] = {
 		},
 		["Lawras - Icecrown"] = {
 		},

@@ -15,29 +15,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
 					["Visible"] = true,
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
-				},
-				["Mandatum-Icecrown"] = {
-				},
-				["Warmat-Icecrown"] = {
-				},
 				["Shamanta-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
+				},
+				["Warmat-Icecrown"] = {
+				},
+				["Liadra-Frostmourne"] = {
+				},
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -56,27 +62,33 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -95,27 +107,33 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -134,28 +152,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
 				},
 				["Warmat-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -174,28 +198,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -214,30 +244,37 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
+				},
+				["Mandatum-Icecrown"] = {
 				},
 				["Pala-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Mandatum-Icecrown"] = {
-				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
+					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -256,28 +293,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -296,30 +340,37 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
+				},
+				["Mandatum-Icecrown"] = {
 				},
 				["Pala-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Mandatum-Icecrown"] = {
-				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
+					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -339,27 +390,33 @@ PawnCommon = {
 				["Riv-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -378,29 +435,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Dranah-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-					["Visible"] = true,
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -419,27 +482,33 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -458,27 +527,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Elendraa-Icecrown"] = {
 					["Visible"] = true,
@@ -498,29 +574,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
 					["Visible"] = true,
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
-				},
-				["Mandatum-Icecrown"] = {
-				},
-				["Warmat-Icecrown"] = {
-				},
 				["Shamanta-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
+				},
+				["Warmat-Icecrown"] = {
+				},
+				["Liadra-Frostmourne"] = {
+				},
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -539,27 +621,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Elendraa-Icecrown"] = {
 					["Visible"] = true,
@@ -579,28 +668,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
 				},
 				["Warmat-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -619,27 +714,33 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -658,28 +759,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -698,28 +805,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
-					["Visible"] = true,
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -738,28 +851,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
-					["Visible"] = true,
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -778,28 +897,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -818,29 +944,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
 					["Visible"] = true,
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
-				},
-				["Mandatum-Icecrown"] = {
-				},
-				["Warmat-Icecrown"] = {
-				},
 				["Shamanta-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
+				},
+				["Warmat-Icecrown"] = {
+				},
+				["Liadra-Frostmourne"] = {
+				},
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -859,27 +991,33 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -898,30 +1036,37 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
+				},
+				["Mandatum-Icecrown"] = {
 				},
 				["Pala-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
-				["Mandatum-Icecrown"] = {
-				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
+					["Visible"] = true,
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -940,27 +1085,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Elendraa-Icecrown"] = {
 					["Visible"] = true,
@@ -980,28 +1132,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 					["Visible"] = true,
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1020,28 +1178,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
+				},
+				["Pala-Frozen Nexus"] = {
 				},
 				["Warmat-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1061,27 +1225,33 @@ PawnCommon = {
 				["Riv-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1100,28 +1270,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
-					["Visible"] = true,
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1140,29 +1316,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Dranah-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-					["Visible"] = true,
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1181,28 +1363,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 					["Visible"] = true,
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1221,28 +1410,34 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
+					["Visible"] = true,
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
-					["Visible"] = true,
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1261,29 +1456,35 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 				["Riv-Frozen Nexus"] = {
 				},
+				["Dranah-Frozen Nexus"] = {
+					["Visible"] = true,
+				},
 				["Dranah-Icecrown"] = {
 					["Visible"] = true,
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-					["Visible"] = true,
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},
@@ -1303,27 +1504,33 @@ PawnCommon = {
 				["Riv-Frozen Nexus"] = {
 					["Visible"] = true,
 				},
+				["Dranah-Frozen Nexus"] = {
+				},
 				["Dranah-Icecrown"] = {
 				},
 				["Lawras-Icecrown"] = {
 				},
+				["Hunty-Frozen Nexus"] = {
+				},
 				["Tabinia-Icecrown"] = {
+				},
+				["Dud-Frozen Nexus"] = {
 				},
 				["Maldir-Icecrown"] = {
 				},
 				["Themken-Icecrown"] = {
 				},
-				["Dranah-Frozen Nexus"] = {
-				},
-				["Pala-Frozen Nexus"] = {
+				["Shamanta-Frozen Nexus"] = {
 				},
 				["Mandatum-Icecrown"] = {
 				},
+				["Pala-Frozen Nexus"] = {
+				},
 				["Warmat-Icecrown"] = {
 				},
-				["Shamanta-Frozen Nexus"] = {
+				["Liadra-Frostmourne"] = {
 				},
-				["Dud-Frozen Nexus"] = {
+				["Lock-Frozen Nexus"] = {
 				},
 				["Elendraa-Icecrown"] = {
 				},

@@ -6,18 +6,21 @@ LootRollsData = {
 		["Pala - Frozen Nexus"] = "global",
 		["Riv - Frozen Nexus"] = "global",
 		["Maldira - Frosthold"] = "global",
-		["Dranah - Frozen Nexus"] = "global",
-		["Maulh - Icecrown"] = "global",
-		["Maldir - Icecrown"] = "global",
-		["Dud - Frozen Nexus"] = "global",
-		["Lawras - Lordaeron"] = "global",
+		["Liadra - Frostmourne"] = "global",
 		["Tabinia - Icecrown"] = "global",
+		["Dranah - Frozen Nexus"] = "global",
+		["Maldir - Icecrown"] = "global",
+		["Maulh - Icecrown"] = "global",
+		["Lawras - Lordaeron"] = "global",
+		["Dud - Frozen Nexus"] = "global",
+		["Shamanta - Frozen Nexus"] = "global",
+		["Hunty - Frozen Nexus"] = "global",
 		["Warmat - Icecrown"] = "global",
 		["Elendraa - Icecrown"] = "global",
 		["Mandatum - Icecrown"] = "global",
 		["Modos - Icecrown"] = "global",
-		["Shamanta - Frozen Nexus"] = "global",
 		["Themken - Icecrown"] = "global",
+		["Lock - Frozen Nexus"] = "global",
 		["Lawras - Icecrown"] = "global",
 	},
 	["profiles"] = {
@@ -29,8 +32,8 @@ LootRollsData = {
 						"RIGHT", -- [1]
 						nil, -- [2]
 						"RIGHT", -- [3]
-						-83.10347310750454, -- [4]
-						-51.20034664123938, -- [5]
+						-82.4019622760942, -- [4]
+						-42.77935862480373, -- [5]
 					},
 					["width"] = 299.9999253211345,
 				},

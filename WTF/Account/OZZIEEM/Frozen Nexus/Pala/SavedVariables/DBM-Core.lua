@@ -14,24 +14,24 @@ DBM_SavedOptions = {
 	["BlockVersionUpdatePopup"] = true,
 	["WarningColors"] = {
 		{
-			["b"] = 0.9411764705882353,
-			["g"] = 0.8,
 			["r"] = 0.4117647058823529,
+			["g"] = 0.8,
+			["b"] = 0.9411764705882353,
 		}, -- [1]
 		{
-			["b"] = 0,
-			["g"] = 0.9490196078431372,
 			["r"] = 0.9490196078431372,
+			["g"] = 0.9490196078431372,
+			["b"] = 0,
 		}, -- [2]
 		{
-			["b"] = 0,
-			["g"] = 0.5019607843137255,
 			["r"] = 1,
+			["g"] = 0.5019607843137255,
+			["b"] = 0,
 		}, -- [3]
 		{
-			["b"] = 0.1019607843137255,
-			["g"] = 0.1019607843137255,
 			["r"] = 1,
+			["g"] = 0.1019607843137255,
+			["b"] = 0.1019607843137255,
 		}, -- [4]
 	},
 	["RangeFrameY"] = -83.02371060818071,
@@ -41,42 +41,42 @@ DBM_SavedOptions = {
 	["LatencyThreshold"] = 250,
 	["DontSendBossAnnounces"] = false,
 	["HPFrameMaxEntries"] = 5,
-	["WarningIconRight"] = true,
+	["ArrowPoint"] = "TOP",
 	["RangeFramePoint"] = "CENTER",
 	["SpecialWarningPoint"] = "CENTER",
-	["ShowSpecialWarnings"] = true,
+	["ArrowPosY"] = -150,
 	["RaidWarningSound"] = "Sound\\Doodad\\BellTollNightElf.wav",
 	["SpecialWarningSound"] = "Sound\\Spells\\PVPFlagTaken.wav",
-	["DontShowBossAnnounces"] = false,
+	["HealthFrameLocked"] = false,
 	["SpecialWarningY"] = 75,
 	["RangeFrameSound2"] = "none",
-	["AlwaysShowHealthFrame"] = true,
+	["ShowMinimapButton"] = true,
 	["RaidWarningPosition"] = {
 		["Y"] = -185,
 		["X"] = 0,
 		["Point"] = "TOP",
 	},
-	["RangeFrameX"] = 401.579043852018,
+	["SpecialWarningX"] = 0,
 	["Enabled"] = true,
 	["RangeFrameSound1"] = "none",
-	["WarningIconLeft"] = true,
+	["DontSendBossWhispers"] = false,
 	["HealthFrameWidth"] = 216,
 	["SpecialWarningFontColor"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
 	},
-	["DontSendBossWhispers"] = false,
+	["WarningIconLeft"] = true,
 	["RangeFrameLocked"] = false,
 	["HPFrameY"] = 100.8425934328691,
 	["FixCLEUOnCombatStart"] = false,
-	["SpecialWarningX"] = 0,
-	["ShowMinimapButton"] = true,
+	["RangeFrameX"] = 401.579043852018,
+	["AlwaysShowHealthFrame"] = true,
 	["HPFrameX"] = -180.7018721895836,
-	["HealthFrameLocked"] = false,
+	["DontShowBossAnnounces"] = false,
 	["SpamBlockBossWhispers"] = false,
-	["ArrowPosY"] = -150,
-	["ArrowPoint"] = "TOP",
+	["ShowSpecialWarnings"] = true,
+	["WarningIconRight"] = true,
 }
 DBT_SavedOptions = {
 	["DBM"] = {
@@ -94,11 +94,11 @@ DBT_SavedOptions = {
 		["EndColorR"] = 1,
 		["Width"] = 183,
 		["HugeTimerPoint"] = "CENTER",
-		["EndColorG"] = 0,
-		["StartColorB"] = 0,
-		["TimerY"] = -260.0000123097031,
-		["HugeTimerX"] = 0,
 		["BarYOffset"] = 0,
+		["HugeTimerX"] = 0,
+		["TimerY"] = -260.0000123097031,
+		["StartColorB"] = 0,
+		["EndColorG"] = 0,
 		["BarXOffset"] = 0,
 		["EndColorB"] = 0,
 	},

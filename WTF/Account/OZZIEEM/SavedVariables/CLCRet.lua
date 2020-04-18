@@ -1,30 +1,33 @@
 
 clcretDB = {
 	["profileKeys"] = {
-		["Lawras - Icecrown"] = "Lawras - Icecrown",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
+		["Maldira - Frosthold"] = "Maldira - Frosthold",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
 		["Dranah - Icecrown"] = "Dranah - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Themken - Lordaeron"] = "Themken - Lordaeron",
 		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
-		["Suprema - Icecrown"] = "Suprema - Icecrown",
-		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
-		["Themken - Icecrown"] = "Themken - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Delras - Icecrown"] = "Delras - Icecrown",
+		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Suprema - Icecrown"] = "Suprema - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Themken - Lordaeron"] = "Themken - Lordaeron",
-		["Maldira - Frosthold"] = "Maldira - Frosthold",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
-		["Lawras - Icecrown"] = {
+		["Liadra - Frostmourne"] = {
+		},
+		["Maldira - Frosthold"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 		},
 		["Dranah - Icecrown"] = {
 		},
-		["Tabinia - Icecrown"] = {
+		["Themken - Lordaeron"] = {
 		},
 		["Maldir - Icecrown"] = {
 		},
@@ -32,21 +35,21 @@ clcretDB = {
 		},
 		["Lawras - Lordaeron"] = {
 		},
-		["Suprema - Icecrown"] = {
+		["Delras - Icecrown"] = {
 		},
 		["Wilinia - Icecrown"] = {
 		},
-		["Themken - Icecrown"] = {
-		},
 		["Warmat - Icecrown"] = {
 		},
-		["Delras - Icecrown"] = {
+		["Themken - Icecrown"] = {
+		},
+		["Suprema - Icecrown"] = {
 		},
 		["Allisone - Icecrown"] = {
 		},
-		["Themken - Lordaeron"] = {
+		["Tabinia - Icecrown"] = {
 		},
-		["Maldira - Frosthold"] = {
+		["Lawras - Icecrown"] = {
 		},
 	},
 }

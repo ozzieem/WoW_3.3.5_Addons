@@ -16,11 +16,12 @@ AucAdvancedConfig = {
 			"CENTER", -- [1]
 			nil, -- [2]
 			"CENTER", -- [3]
-			-93.47384102606573, -- [4]
-			117.0362015374682, -- [5]
+			-228.2105946742343, -- [4]
+			139.4923213097852, -- [5]
+		},
+		["stat.sales.ignoredsigs"] = {
 		},
 		["configator.left"] = 442.7983987264655,
-		["util.appraiser.columnsortcurDir"] = -1,
 		["matcherlist"] = {
 			"Undercut", -- [1]
 			"BeanCount", -- [2]
@@ -40,8 +41,7 @@ AucAdvancedConfig = {
 			},
 		},
 		["util.appraiser.item.22446.number"] = -1,
-		["stat.sales.ignoredsigs"] = {
-		},
+		["util.appraiser.columnsortcurDir"] = -1,
 		["util"] = {
 			["automagic"] = {
 				["uierrormsg"] = 1,
@@ -62,10 +62,11 @@ AucAdvancedConfig = {
 }
 AucAdvancedData = {
 	["AserArbitrageRealms"] = {
-		["Icecrown"] = "Tabinia",
-		["Lordaeron"] = "Lawron",
-		["Frosthold"] = "Maldira",
 		["Frozen Nexus"] = "Dranah",
+		["Lordaeron"] = "Lawron",
+		["Frostmourne"] = "Liadra",
+		["Icecrown"] = "Tabinia",
+		["Frosthold"] = "Maldira",
 	},
 	["Stats"] = {
 	},
@@ -82,8 +83,8 @@ AucAdvancedData = {
 			["columnwidth.Stk"] = 29.99999384514845,
 			["vendor.profit.min"] = 1001,
 			["columnsortcurDir"] = -1,
-			["snatch.columnsortcurDir"] = 1,
 			["disenchant.profit.min"] = 200001,
+			["snatch.columnsortcurDir"] = 1,
 			["columnwidth.Reason"] = 99.48554550209946,
 		},
 		["Version"] = 1,
@@ -95,8 +96,8 @@ AucAdvancedData = {
 		["SavedSearches"] = {
 			[""] = {
 				["columnwidth.Reason"] = 99.48554550209946,
-				["snatch.columnsortcurDir"] = 1,
 				["disenchant.profit.min"] = 100001,
+				["snatch.columnsortcurDir"] = 1,
 				["disenchant.allow.bid"] = false,
 				["vendor.allow.bid"] = false,
 				["columnwidth.Stk"] = 29.99999384514845,
@@ -111,8 +112,8 @@ AucAdvancedData = {
 			},
 			["Dis"] = {
 				["columnwidth.Reason"] = 99.48554550209946,
-				["snatch.columnsortcurDir"] = 1,
 				["disenchant.profit.min"] = 100001,
+				["snatch.columnsortcurDir"] = 1,
 				["disenchant.allow.bid"] = false,
 				["vendor.allow.bid"] = false,
 				["columnwidth.Stk"] = 29.99999384514845,

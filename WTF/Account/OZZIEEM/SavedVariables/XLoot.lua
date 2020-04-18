@@ -2,20 +2,23 @@
 XLootDB = {
 	["profiles"] = {
 		["Default"] = {
+			["swiftloot"] = true,
 			["linkallchannels"] = {
 				["General"] = false,
 				["GUILD"] = false,
 				["global"] = false,
-				["LookingForGroup"] = false,
+				["GuildRecruitment"] = false,
 				["OFFICER"] = false,
-				["PARTY"] = false,
-				["LocalDefense"] = false,
+				["PARTY"] = {
+				},
+				["LookingForGroup"] = false,
 				["YELL"] = false,
 				["RAID_WARNING"] = false,
 				["Trade"] = false,
-				["RAID"] = false,
+				["RAID"] = {
+				},
 				["SAY"] = false,
-				["GuildRecruitment"] = false,
+				["LocalDefense"] = false,
 				["world"] = false,
 			},
 			["pos"] = {

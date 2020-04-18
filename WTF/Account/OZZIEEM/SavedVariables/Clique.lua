@@ -8,22 +8,25 @@ CliqueDB = {
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Delras - Icecrown"] = "Delras - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
 		["Maldira - Frosthold"] = "Maldira - Frosthold",
 		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
 		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
 		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
 		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
-		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
 		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
@@ -52,6 +55,13 @@ CliqueDB = {
 		["Pala - Frozen Nexus"] = {
 			["clicksets"] = {
 				["Default"] = {
+					["5"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "5",
+						["arg1"] = "Hand of Protection",
+						["texture"] = "Interface\\Icons\\Spell_Holy_SealOfProtection",
+					},
 					["4"] = {
 						["type"] = "spell",
 						["modifier"] = "",
@@ -65,6 +75,52 @@ CliqueDB = {
 		["Delras - Icecrown"] = {
 		},
 		["Riv - Frozen Nexus"] = {
+		},
+		["Liadra - Frostmourne"] = {
+			["clicksets"] = {
+				["Default"] = {
+					["5"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "5",
+						["arg1"] = "Hand of Protection",
+						["texture"] = "Interface\\Icons\\Spell_Holy_SealOfProtection",
+					},
+					["4"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "4",
+						["arg1"] = "Purify",
+						["texture"] = "Interface\\Icons\\Spell_Holy_Purify",
+					},
+				},
+			},
+		},
+		["Themken - Icecrown"] = {
+			["clicksets"] = {
+				["Default"] = {
+					["4"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "4",
+						["arg1"] = "Misdirection",
+						["texture"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
+					},
+				},
+			},
+		},
+		["Tabinia - Icecrown"] = {
+			["clicksets"] = {
+				["Default"] = {
+					["4"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "4",
+						["arg1"] = "Cleanse Spirit",
+						["texture"] = "Interface\\Icons\\Ability_Shaman_CleanseSpirit",
+					},
+				},
+			},
 		},
 		["Maldira - Frosthold"] = {
 		},
@@ -88,18 +144,7 @@ CliqueDB = {
 				},
 			},
 		},
-		["Themken - Icecrown"] = {
-			["clicksets"] = {
-				["Default"] = {
-					["4"] = {
-						["type"] = "spell",
-						["modifier"] = "",
-						["button"] = "4",
-						["arg1"] = "Misdirection",
-						["texture"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
-					},
-				},
-			},
+		["Hunty - Frozen Nexus"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 			["clicksets"] = {
@@ -113,6 +158,31 @@ CliqueDB = {
 					},
 				},
 			},
+		},
+		["Lawras - Lordaeron"] = {
+			["clicksets"] = {
+				["Default"] = {
+					["4"] = {
+						["type"] = "spell",
+						["modifier"] = "",
+						["button"] = "4",
+						["arg1"] = "Purify",
+						["texture"] = "Interface\\Icons\\Spell_Holy_Purify",
+					},
+				},
+			},
+		},
+		["Maulh - Icecrown"] = {
+		},
+		["Wilinia - Icecrown"] = {
+		},
+		["Dud - Frozen Nexus"] = {
+		},
+		["Shamanta - Frozen Nexus"] = {
+		},
+		["Dranah - Lordaeron"] = {
+		},
+		["Warmat - Icecrown"] = {
 		},
 		["Elendraa - Icecrown"] = {
 			["clicksets"] = {
@@ -133,31 +203,6 @@ CliqueDB = {
 					},
 				},
 			},
-		},
-		["Maulh - Icecrown"] = {
-		},
-		["Lawras - Lordaeron"] = {
-			["clicksets"] = {
-				["Default"] = {
-					["4"] = {
-						["type"] = "spell",
-						["modifier"] = "",
-						["button"] = "4",
-						["arg1"] = "Purify",
-						["texture"] = "Interface\\Icons\\Spell_Holy_Purify",
-					},
-				},
-			},
-		},
-		["Dud - Frozen Nexus"] = {
-		},
-		["Shamanta - Frozen Nexus"] = {
-		},
-		["Dranah - Lordaeron"] = {
-		},
-		["Wilinia - Icecrown"] = {
-		},
-		["Warmat - Icecrown"] = {
 		},
 		["Mandatum - Icecrown"] = {
 		},
@@ -183,18 +228,7 @@ CliqueDB = {
 		},
 		["Allisone - Icecrown"] = {
 		},
-		["Tabinia - Icecrown"] = {
-			["clicksets"] = {
-				["Default"] = {
-					["4"] = {
-						["type"] = "spell",
-						["modifier"] = "",
-						["button"] = "4",
-						["arg1"] = "Cleanse Spirit",
-						["texture"] = "Interface\\Icons\\Ability_Shaman_CleanseSpirit",
-					},
-				},
-			},
+		["Lock - Frozen Nexus"] = {
 		},
 		["Lawras - Icecrown"] = {
 			["clicksets"] = {

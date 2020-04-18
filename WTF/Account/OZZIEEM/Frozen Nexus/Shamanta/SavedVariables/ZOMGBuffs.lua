@@ -14,11 +14,19 @@ ZOMGBuffsPerCharDB = {
 	},
 	["namespaces"] = {
 		["SelfBuffs"] = {
+			["templates2"] = {
+				["current"] = {
+					["modified"] = true,
+					["Lightning Shield"] = true,
+				},
+			},
 			["notlearnable"] = {
 				["Water Shield"] = true,
 			},
 			["templates"] = {
 				["current"] = {
+					["modified"] = true,
+					["Lightning Shield"] = true,
 				},
 			},
 			["reagents"] = {
@@ -26,11 +34,18 @@ ZOMGBuffsPerCharDB = {
 			},
 		},
 		["BuffTehRaid"] = {
-			["selectedTemplate"] = "Default",
 			["templates"] = {
 				["current"] = {
 				},
 			},
+			["templates2"] = {
+				["Default"] = {
+				},
+				["current"] = {
+				},
+			},
+			["selectedTemplate"] = "Default",
+			["selectedTemplate2"] = "Default",
 			["firstRun"] = true,
 		},
 		["BlessingsManager"] = {

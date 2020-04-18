@@ -30,6 +30,11 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
+	["Lock"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
 	["Suprema"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
@@ -46,6 +51,16 @@ AtlasQuest_Options = {
 		["NoQuerySpam"] = "yes",
 	},
 	["Wilinia"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Hunty"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Liadra"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -70,12 +85,12 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
+	["Version"] = "4.4.3",
 	["Pala"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Version"] = "4.4.3",
 	["Maldira"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,

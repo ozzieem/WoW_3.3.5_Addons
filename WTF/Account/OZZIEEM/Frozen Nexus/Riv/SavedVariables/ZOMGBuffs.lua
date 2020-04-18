@@ -14,38 +14,49 @@ ZOMGBuffsPerCharDB = {
 	},
 	["namespaces"] = {
 		["SelfBuffs"] = {
+			["templates2"] = {
+				["current"] = {
+				},
+			},
 			["hfbdone"] = true,
 			["notlearnable"] = {
-			},
-			["rebuff"] = {
-				["Hunger For Blood"] = 5,
 			},
 			["templates"] = {
 				["current"] = {
 				},
 			},
+			["rebuff"] = {
+				["Hunger For Blood"] = 5,
+			},
 			["reagents"] = {
-				[43237] = 20,
 				[5237] = 20,
+				[43237] = 20,
 				[43231] = 20,
 				[43233] = 20,
 				[43235] = 20,
 				[3775] = 20,
 			},
 		},
-		["BuffTehRaid"] = {
-			["selectedTemplate"] = "Default",
-			["templates"] = {
-				["current"] = {
-				},
-			},
-			["firstRun"] = true,
+		["Log"] = {
 		},
 		["BlessingsManager"] = {
 		},
 		["Portalz"] = {
 		},
-		["Log"] = {
+		["BuffTehRaid"] = {
+			["templates"] = {
+				["current"] = {
+				},
+			},
+			["templates2"] = {
+				["Default"] = {
+				},
+				["current"] = {
+				},
+			},
+			["selectedTemplate"] = "Default",
+			["selectedTemplate2"] = "Default",
+			["firstRun"] = true,
 		},
 	},
 }

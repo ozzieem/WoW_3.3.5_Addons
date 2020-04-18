@@ -6,21 +6,24 @@ DrDamageDB = {
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Delras - Icecrown"] = "Delras - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
 		["Maldira - Frosthold"] = "Maldira - Frosthold",
+		["Themken - Lordaeron"] = "Themken - Lordaeron",
 		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
-		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
-		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
 		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
 		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
@@ -34,27 +37,33 @@ DrDamageDB = {
 		},
 		["Riv - Frozen Nexus"] = {
 		},
+		["Liadra - Frostmourne"] = {
+		},
+		["Tabinia - Icecrown"] = {
+		},
 		["Maldira - Frosthold"] = {
+		},
+		["Themken - Lordaeron"] = {
 		},
 		["Dranah - Icecrown"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 		},
-		["Tabinia - Icecrown"] = {
+		["Hunty - Frozen Nexus"] = {
 		},
 		["Maulh - Icecrown"] = {
 		},
-		["Lawras - Lordaeron"] = {
+		["Dranah - Lordaeron"] = {
 		},
 		["Dud - Frozen Nexus"] = {
 		},
-		["Shamanta - Frozen Nexus"] = {
+		["Lawras - Lordaeron"] = {
 		},
-		["Dranah - Lordaeron"] = {
+		["Themken - Icecrown"] = {
 		},
 		["Warmat - Icecrown"] = {
 		},
-		["Themken - Icecrown"] = {
+		["Shamanta - Frozen Nexus"] = {
 		},
 		["Mandatum - Icecrown"] = {
 		},
@@ -62,7 +71,7 @@ DrDamageDB = {
 		},
 		["Allisone - Icecrown"] = {
 		},
-		["Themken - Lordaeron"] = {
+		["Lock - Frozen Nexus"] = {
 		},
 		["Lawras - Icecrown"] = {
 		},

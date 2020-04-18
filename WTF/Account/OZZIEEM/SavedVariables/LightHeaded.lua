@@ -5,18 +5,21 @@ LightHeadedDB = {
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
@@ -28,17 +31,23 @@ LightHeadedDB = {
 		},
 		["Riv - Frozen Nexus"] = {
 		},
+		["Liadra - Frostmourne"] = {
+		},
+		["Themken - Icecrown"] = {
+		},
 		["Dranah - Frozen Nexus"] = {
+		},
+		["Maldir - Icecrown"] = {
 		},
 		["Maulh - Icecrown"] = {
 		},
-		["Shamanta - Frozen Nexus"] = {
+		["Lawras - Lordaeron"] = {
 		},
 		["Dud - Frozen Nexus"] = {
 		},
-		["Lawras - Lordaeron"] = {
+		["Shamanta - Frozen Nexus"] = {
 		},
-		["Themken - Icecrown"] = {
+		["Hunty - Frozen Nexus"] = {
 		},
 		["Warmat - Icecrown"] = {
 		},
@@ -48,9 +57,9 @@ LightHeadedDB = {
 		},
 		["Modos - Icecrown"] = {
 		},
-		["Maldir - Icecrown"] = {
-		},
 		["Tabinia - Icecrown"] = {
+		},
+		["Lock - Frozen Nexus"] = {
 		},
 		["Lawras - Icecrown"] = {
 		},

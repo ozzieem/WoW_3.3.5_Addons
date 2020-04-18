@@ -66,12 +66,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [4]
 			{
 				["area"] = "Ironforge",
-				["lastSeen"] = "2020-04-08 15:50 3",
-				["name"] = "Holydidi",
 				["notify"] = true,
+				["name"] = "Holydidi",
+				["lastSeen"] = "2020-04-08 15:50 3",
 				["group"] = "Friends",
-				["class"] = "PALADIN",
 				["level"] = 80,
+				["class"] = "PALADIN",
 				["lc_class"] = "Paladin",
 			}, -- [5]
 			{
@@ -101,12 +101,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [10]
 			{
 				["area"] = "Grizzly Hills",
-				["lastSeen"] = "2020-04-05 23:11 0",
-				["name"] = "Vandresh",
 				["notify"] = true,
+				["name"] = "Vandresh",
+				["lastSeen"] = "2020-04-05 23:11 0",
 				["group"] = "Friends",
-				["class"] = "PALADIN",
 				["level"] = 80,
+				["class"] = "PALADIN",
 				["lc_class"] = "Paladin",
 			}, -- [11]
 		},
@@ -256,12 +256,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [2]
 			{
 				["lc_class"] = "Warrior",
-				["level"] = 80,
-				["name"] = "Calamitorc",
-				["notify"] = true,
-				["group"] = "Friends",
 				["class"] = "WARRIOR",
+				["name"] = "Calamitorc",
 				["lastSeen"] = "2020-04-07 18:07 2",
+				["group"] = "Friends",
+				["level"] = 80,
+				["notify"] = true,
 				["area"] = "Dalaran",
 			}, -- [3]
 			{
@@ -282,12 +282,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [5]
 			{
 				["lc_class"] = "Warrior",
-				["level"] = 80,
-				["name"] = "Gormassh",
-				["notify"] = true,
-				["group"] = "Friends",
 				["class"] = "WARRIOR",
+				["name"] = "Gormassh",
 				["lastSeen"] = "2020-04-10 11:50 5",
+				["group"] = "Friends",
+				["level"] = 80,
+				["notify"] = true,
 				["area"] = "Icecrown Citadel",
 			}, -- [6]
 			{
@@ -298,12 +298,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [7]
 			{
 				["lc_class"] = "Death Knight",
-				["level"] = 80,
-				["name"] = "Kyx",
-				["notify"] = true,
-				["group"] = "Friends",
 				["class"] = "DEATHKNIGHT",
+				["name"] = "Kyx",
 				["lastSeen"] = "2020-04-04 12:12 6",
+				["group"] = "Friends",
+				["level"] = 80,
+				["notify"] = true,
 				["area"] = "Icecrown",
 			}, -- [8]
 			{
@@ -411,12 +411,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [2]
 			{
 				["area"] = "Dalaran",
-				["lastSeen"] = "2020-04-14 19:23 2",
-				["name"] = "Avenlay",
 				["notify"] = true,
+				["name"] = "Avenlay",
+				["lastSeen"] = "2020-04-14 19:23 2",
 				["group"] = "Friends",
-				["class"] = "WARRIOR",
 				["level"] = 80,
+				["class"] = "WARRIOR",
 				["lc_class"] = "Warrior",
 			}, -- [3]
 			{
@@ -446,12 +446,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [8]
 			{
 				["area"] = "Dalaran",
-				["lastSeen"] = "2020-04-08 14:33 3",
-				["name"] = "Levelingood",
 				["notify"] = true,
+				["name"] = "Levelingood",
+				["lastSeen"] = "2020-04-08 14:33 3",
 				["group"] = "Friends",
-				["class"] = "SHAMAN",
 				["level"] = 80,
+				["class"] = "SHAMAN",
 				["lc_class"] = "Shaman",
 			}, -- [9]
 			{
@@ -466,24 +466,67 @@ HOLOFRIENDS_LIST = {
 			}, -- [11]
 		},
 	},
+	["Frostmourne"] = {
+		["Liadra"] = {
+			{
+				["group"] = "Friends",
+				["name"] = "1",
+				["lastuse"] = 1587127477,
+			}, -- [1]
+		},
+	},
 	["version"] = 0.453,
 	["Frozen Nexus"] = {
+		["Hunty"] = {
+			{
+				["group"] = "Friends",
+				["name"] = "1",
+				["lastuse"] = 1587076101,
+			}, -- [1]
+		},
 		["Pala"] = {
 			{
 				["group"] = "Friends",
 				["name"] = "1",
-				["lastuse"] = 1586903280,
+				["lastuse"] = 1587215644,
 			}, -- [1]
 			{
-				["lastSeen"] = "2020-04-14 23:22 2",
+				["notify"] = true,
+				["group"] = "Friends",
+				["class"] = "DEATHKNIGHT",
+				["lc_class"] = "Death Knight",
+				["name"] = "Lichborne",
+				["level"] = 80,
+				["lastSeen"] = "2020-04-18 01:27 6",
+				["area"] = "Dalaran",
+			}, -- [2]
+			{
+				["notify"] = true,
+				["group"] = "Friends",
+				["class"] = "MAGE",
+				["lc_class"] = "Mage",
+				["name"] = "Maeg",
+				["level"] = 80,
+				["lastSeen"] = "2020-04-18 01:24 6",
+				["area"] = "Naxxramas",
+			}, -- [3]
+			{
+				["lastSeen"] = "2020-04-18 01:24 6",
 				["group"] = "Friends",
 				["class"] = "PALADIN",
 				["lc_class"] = "Paladin",
 				["name"] = "Splosion",
 				["level"] = 80,
 				["notify"] = true,
-				["area"] = "Icecrown Citadel",
-			}, -- [2]
+				["area"] = "Naxxramas",
+			}, -- [4]
+		},
+		["Lock"] = {
+			{
+				["group"] = "Friends",
+				["name"] = "1",
+				["lastuse"] = 1587066152,
+			}, -- [1]
 		},
 		["Dranah"] = {
 			{
@@ -493,12 +536,12 @@ HOLOFRIENDS_LIST = {
 			}, -- [1]
 			{
 				["area"] = "Orgrimmar",
-				["notify"] = true,
-				["name"] = "Splosion",
 				["lastSeen"] = "2020-04-09 19:35 4",
+				["name"] = "Splosion",
+				["notify"] = true,
 				["group"] = "Friends",
-				["class"] = "PALADIN",
 				["level"] = 1,
+				["class"] = "PALADIN",
 				["lc_class"] = "Paladin",
 			}, -- [2]
 		},
@@ -513,14 +556,56 @@ HOLOFRIENDS_LIST = {
 			{
 				["group"] = "Friends",
 				["name"] = "1",
-				["lastuse"] = 1586811507,
+				["lastuse"] = 1587075106,
 			}, -- [1]
+			{
+				["area"] = "Plaguelands: The Scarlet Enclave",
+				["notify"] = true,
+				["name"] = "Lichborne",
+				["lastSeen"] = "2020-04-16 23:24 4",
+				["group"] = "Friends",
+				["level"] = 60,
+				["class"] = "DEATHKNIGHT",
+				["lc_class"] = "Death Knight",
+			}, -- [2]
+			{
+				["connected"] = true,
+				["lastSeen"] = "2020-04-17 00:11 5",
+				["group"] = "Friends",
+				["class"] = "MAGE",
+				["lc_class"] = "Mage",
+				["name"] = "Maeg",
+				["level"] = 80,
+				["notify"] = true,
+				["area"] = "Vault of Archavon",
+			}, -- [3]
+			{
+				["area"] = "Azshara Crater",
+				["lastSeen"] = "2020-04-16 21:52 4",
+				["name"] = "Splos",
+				["notify"] = true,
+				["group"] = "Friends",
+				["level"] = 80,
+				["class"] = "DRUID",
+				["lc_class"] = "Druid",
+			}, -- [4]
+			{
+				["connected"] = true,
+				["notify"] = true,
+				["group"] = "Friends",
+				["class"] = "PALADIN",
+				["lc_class"] = "Paladin",
+				["name"] = "Splosion",
+				["level"] = 80,
+				["lastSeen"] = "2020-04-17 00:11 5",
+				["area"] = "Vault of Archavon",
+			}, -- [5]
 		},
 		["Riv"] = {
 			{
 				["group"] = "Friends",
 				["name"] = "1",
-				["lastuse"] = 1586858617,
+				["lastuse"] = 1587073808,
 			}, -- [1]
 		},
 	},
@@ -945,13 +1030,36 @@ HOLOIGNORE_LIST = {
 			}, -- [14]
 		},
 	},
+	["Frostmourne"] = {
+		["Liadra"] = {
+			{
+				["group"] = "Ignore",
+				["name"] = "1",
+				["lastuse"] = 1587127478,
+			}, -- [1]
+		},
+	},
 	["version"] = 0.453,
 	["Frozen Nexus"] = {
+		["Hunty"] = {
+			{
+				["group"] = "Ignore",
+				["name"] = "1",
+				["lastuse"] = 1587076101,
+			}, -- [1]
+		},
 		["Pala"] = {
 			{
 				["group"] = "Ignore",
 				["name"] = "1",
-				["lastuse"] = 1586903280,
+				["lastuse"] = 1587215644,
+			}, -- [1]
+		},
+		["Lock"] = {
+			{
+				["group"] = "Ignore",
+				["name"] = "1",
+				["lastuse"] = 1587066152,
 			}, -- [1]
 		},
 		["Dranah"] = {
@@ -972,14 +1080,14 @@ HOLOIGNORE_LIST = {
 			{
 				["group"] = "Ignore",
 				["name"] = "1",
-				["lastuse"] = 1586811507,
+				["lastuse"] = 1587075106,
 			}, -- [1]
 		},
 		["Riv"] = {
 			{
 				["group"] = "Ignore",
 				["name"] = "1",
-				["lastuse"] = 1586858617,
+				["lastuse"] = 1587073809,
 			}, -- [1]
 		},
 	},
@@ -1009,6 +1117,26 @@ HOLOFRIENDS_OPTIONS = {
 	["MenuModT"] = true,
 }
 HOLOFRIENDS_FACTIONS = {
+	["Frozen Nexus"] = {
+		["Horde"] = {
+			"Dranah", -- [1]
+			"Dud", -- [2]
+			"Hunty", -- [3]
+			"Lock", -- [4]
+			"Pala", -- [5]
+			"Riv", -- [6]
+			"Shamanta", -- [7]
+		},
+		["unknown"] = {
+		},
+	},
+	["Frostmourne"] = {
+		["Horde"] = {
+			"Liadra", -- [1]
+		},
+		["unknown"] = {
+		},
+	},
 	["Icecrown"] = {
 		["Horde"] = {
 			"Dranah", -- [1]
@@ -1025,19 +1153,68 @@ HOLOFRIENDS_FACTIONS = {
 			"Warmat", -- [5]
 		},
 	},
-	["Frozen Nexus"] = {
-		["Horde"] = {
-			"Dranah", -- [1]
-			"Dud", -- [2]
-			"Pala", -- [3]
-			"Riv", -- [4]
-			"Shamanta", -- [5]
-		},
-		["unknown"] = {
-		},
-	},
 }
 HOLOFRIENDS_MYCHARS = {
+	["Frozen Nexus"] = {
+		["Hunty"] = {
+			["lastSeen"] = "2020-04-17 00:28 5",
+			["area"] = "Dalaran",
+			["level"] = 80,
+			["class"] = "HUNTER",
+			["lc_class"] = "Hunter",
+		},
+		["Pala"] = {
+			["lastSeen"] = "2020-04-18 15:18 6",
+			["area"] = "Dalaran",
+			["level"] = 80,
+			["class"] = "PALADIN",
+			["lc_class"] = "Paladin",
+		},
+		["Lock"] = {
+			["lastSeen"] = "2020-04-16 21:43 4",
+			["lc_class"] = "Mage",
+			["level"] = 1,
+			["class"] = "MAGE",
+			["area"] = "Eversong Woods",
+		},
+		["Dranah"] = {
+			["lastSeen"] = "2020-04-09 20:22 4",
+			["area"] = "Silithus",
+			["level"] = 80,
+			["class"] = "PRIEST",
+			["lc_class"] = "Priest",
+		},
+		["Dud"] = {
+			["lastSeen"] = "2020-04-11 20:30 6",
+			["lc_class"] = "Druid",
+			["level"] = 1,
+			["class"] = "DRUID",
+			["area"] = "Silithus",
+		},
+		["Shamanta"] = {
+			["lastSeen"] = "2020-04-17 00:12 5",
+			["lc_class"] = "Shaman",
+			["level"] = 80,
+			["class"] = "SHAMAN",
+			["area"] = "Dalaran",
+		},
+		["Riv"] = {
+			["lastSeen"] = "2020-04-16 23:51 4",
+			["area"] = "Pit of Saron",
+			["level"] = 80,
+			["class"] = "ROGUE",
+			["lc_class"] = "Rogue",
+		},
+	},
+	["Frostmourne"] = {
+		["Liadra"] = {
+			["lastSeen"] = "2020-04-17 15:03 5",
+			["area"] = "Stranglethorn Vale",
+			["level"] = 22,
+			["class"] = "PALADIN",
+			["lc_class"] = "Paladin",
+		},
+	},
 	["Icecrown"] = {
 		["Lawras"] = {
 			["lastSeen"] = "2020-04-09 15:00 4",
@@ -1094,43 +1271,6 @@ HOLOFRIENDS_MYCHARS = {
 			["level"] = 80,
 			["class"] = "HUNTER",
 			["lc_class"] = "Hunter",
-		},
-	},
-	["Frozen Nexus"] = {
-		["Pala"] = {
-			["lastSeen"] = "2020-04-15 00:28 3",
-			["area"] = "Dalaran",
-			["level"] = 80,
-			["class"] = "PALADIN",
-			["lc_class"] = "Paladin",
-		},
-		["Dranah"] = {
-			["lastSeen"] = "2020-04-09 20:22 4",
-			["area"] = "Silithus",
-			["level"] = 80,
-			["class"] = "PRIEST",
-			["lc_class"] = "Priest",
-		},
-		["Dud"] = {
-			["lastSeen"] = "2020-04-11 20:30 6",
-			["lc_class"] = "Druid",
-			["level"] = 1,
-			["class"] = "DRUID",
-			["area"] = "Silithus",
-		},
-		["Shamanta"] = {
-			["lastSeen"] = "2020-04-13 22:58 1",
-			["lc_class"] = "Shaman",
-			["level"] = 80,
-			["class"] = "SHAMAN",
-			["area"] = "Dalaran",
-		},
-		["Riv"] = {
-			["lastSeen"] = "2020-04-14 12:03 2",
-			["area"] = "Dalaran",
-			["level"] = 80,
-			["class"] = "ROGUE",
-			["lc_class"] = "Rogue",
 		},
 	},
 }

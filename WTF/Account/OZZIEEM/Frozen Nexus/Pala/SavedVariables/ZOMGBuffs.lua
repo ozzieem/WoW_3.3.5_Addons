@@ -2,14 +2,20 @@
 ZOMGBuffsPerCharDB = {
 	["namespaces"] = {
 		["SelfBuffs"] = {
+			["templates2"] = {
+				["current"] = {
+					["modified"] = true,
+					["Retribution Aura"] = true,
+				},
+			},
 			["notlearnable"] = {
 				["Seal of Corruption"] = true,
 				["Seal of Righteousness"] = true,
 				["Crusader Aura"] = true,
 				["Divine Plea"] = true,
 				["Seal of Justice"] = true,
-				["Holy Shield"] = true,
 				["Seal of Light"] = true,
+				["Holy Shield"] = true,
 				["Seal of Command"] = true,
 				["Seal of Wisdom"] = true,
 				["Seal of Vengeance"] = true,
@@ -22,6 +28,65 @@ ZOMGBuffsPerCharDB = {
 			},
 		},
 		["Log"] = {
+		},
+		["BuffTehRaid"] = {
+			["templates"] = {
+				["current"] = {
+					["modified"] = true,
+					["FREEDOM"] = true,
+					["limited"] = {
+					},
+					["SACREDSHIELD"] = true,
+				},
+			},
+			["postracker"] = {
+				["SACRIFICE"] = {
+					["point"] = {
+						"LEFT", -- [1]
+						nil, -- [2]
+						"LEFT", -- [3]
+						330.7724236116245, -- [4]
+						-15.29143707645646, -- [5]
+					},
+				},
+				["FREEDOM"] = {
+					["point"] = {
+						"LEFT", -- [1]
+						nil, -- [2]
+						"LEFT", -- [3]
+						387.6140938167609, -- [4]
+						-15.22322053154529, -- [5]
+					},
+				},
+				["SACREDSHIELD"] = {
+					["point"] = {
+						"LEFT", -- [1]
+						nil, -- [2]
+						"LEFT", -- [3]
+						271.1229243532499, -- [4]
+						-18.34646247513526, -- [5]
+					},
+				},
+			},
+			["selectedTemplate"] = "Default",
+			["rebuff"] = {
+				["SACRIFICE"] = 5,
+				["FREEDOM"] = 5,
+				["SACREDSHIELD"] = 5,
+				["BEACON"] = 5,
+			},
+			["selectedTemplate2"] = "Default",
+			["templates2"] = {
+				["Default"] = {
+				},
+				["current"] = {
+					["modified"] = true,
+					["limited"] = {
+					},
+					["SACREDSHIELD"] = true,
+				},
+			},
+			["firstRun"] = true,
 		},
 		["BlessingsManager"] = {
 			["position"] = {
@@ -71,67 +136,83 @@ ZOMGBuffsPerCharDB = {
 		},
 		["Portalz"] = {
 		},
-		["BuffTehRaid"] = {
-			["templates"] = {
-				["current"] = {
-					["modified"] = true,
-					["limited"] = {
-					},
-					["FREEDOM"] = true,
-				},
-			},
-			["postracker"] = {
-				["SACRIFICE"] = {
-					["point"] = {
-						"LEFT", -- [1]
-						nil, -- [2]
-						"LEFT", -- [3]
-						330.7724236116245, -- [4]
-						-15.29143707645646, -- [5]
-					},
-				},
-				["SACREDSHIELD"] = {
-					["point"] = {
-						"LEFT", -- [1]
-						nil, -- [2]
-						"LEFT", -- [3]
-						271.1229243532499, -- [4]
-						-18.34646247513526, -- [5]
-					},
-				},
-				["FREEDOM"] = {
-					["point"] = {
-						"LEFT", -- [1]
-						nil, -- [2]
-						"LEFT", -- [3]
-						387.6140938167609, -- [4]
-						-15.22322053154529, -- [5]
-					},
-				},
-			},
-			["selectedTemplate"] = "Default",
-			["rebuff"] = {
-				["SACRIFICE"] = 5,
-				["FREEDOM"] = 5,
-				["BEACON"] = 5,
-				["SACREDSHIELD"] = 5,
-			},
-			["firstRun"] = true,
-		},
 		["Blessings"] = {
+			["templates2"] = {
+				["current"] = {
+					["HUNTER"] = "BOK",
+					["WARRIOR"] = "BOK",
+					["SHAMAN"] = "BOK",
+					["MAGE"] = "BOW",
+					["PRIEST"] = "BOK",
+					["WARLOCK"] = "BOK",
+					["DEATHKNIGHT"] = "BOK",
+					["DRUID"] = "BOK",
+					["ROGUE"] = "BOK",
+					["PALADIN"] = "BOM",
+				},
+				["DPS"] = {
+					["HUNTER"] = "BOM",
+					["WARRIOR"] = "BOM",
+					["PALADIN"] = "BOW",
+					["MAGE"] = "BOW",
+					["PRIEST"] = "BOW",
+					["WARLOCK"] = "BOW",
+					["DEATHKNIGHT"] = "BOM",
+					["DRUID"] = "BOM",
+					["SHAMAN"] = "BOM",
+					["ROGUE"] = "BOM",
+				},
+				["5-Man"] = {
+					["HUNTER"] = "BOM",
+					["WARRIOR"] = "BOK",
+					["PALADIN"] = "BOW",
+					["MAGE"] = "BOW",
+					["PRIEST"] = "BOW",
+					["WARLOCK"] = "BOW",
+					["DEATHKNIGHT"] = "BOM",
+					["DRUID"] = "BOM",
+					["SHAMAN"] = "BOW",
+					["ROGUE"] = "BOM",
+				},
+				["Kings"] = {
+					["HUNTER"] = "BOK",
+					["WARRIOR"] = "BOK",
+					["PALADIN"] = "BOK",
+					["MAGE"] = "BOK",
+					["PRIEST"] = "BOK",
+					["WARLOCK"] = "BOK",
+					["DEATHKNIGHT"] = "BOK",
+					["DRUID"] = "BOK",
+					["SHAMAN"] = "BOK",
+					["ROGUE"] = "BOK",
+				},
+				["Autosave"] = {
+					["DEATHKNIGHT"] = "BOM",
+					["WARRIOR"] = "BOM",
+					["PALADIN"] = "BOK",
+					["MAGE"] = "BOK",
+					["PRIEST"] = "BOK",
+					["WARLOCK"] = "BOK",
+					["SHAMAN"] = "BOK",
+					["PET"] = "BOM",
+					["DRUID"] = "BOK",
+					["HUNTER"] = "BOM",
+					["ROGUE"] = "BOM",
+				},
+			},
 			["selectedTemplate"] = "-",
 			["templates"] = {
 				["current"] = {
 					["DEATHKNIGHT"] = "BOK",
 					["WARRIOR"] = "BOK",
 					["SHAMAN"] = "BOK",
-					["MAGE"] = "BOK",
+					["MAGE"] = "BOW",
 					["PRIEST"] = "BOK",
 					["WARLOCK"] = "BOK",
-					["HUNTER"] = "BOK",
+					["PALADIN"] = "BOM",
 					["DRUID"] = "BOK",
 					["ROGUE"] = "BOK",
-					["PALADIN"] = "BOM",
+					["HUNTER"] = "BOK",
 				},
 				["Autosave"] = {
 					["DEATHKNIGHT"] = "BOM",
@@ -140,16 +221,17 @@ ZOMGBuffsPerCharDB = {
 					["MAGE"] = "BOK",
 					["PRIEST"] = "BOK",
 					["WARLOCK"] = "BOK",
-					["PALADIN"] = "BOK",
+					["ROGUE"] = "BOM",
 					["PET"] = "BOM",
 					["DRUID"] = "BOK",
 					["HUNTER"] = "BOM",
-					["ROGUE"] = "BOM",
+					["PALADIN"] = "BOK",
 				},
 			},
+			["selectedTemplate2"] = "-",
 			["reagents"] = {
-				["Symbol of Kings"] = 100,
 				["Symbol of Divinity"] = 5,
+				["Symbol of Kings"] = 100,
 			},
 		},
 	},
@@ -161,8 +243,8 @@ ZOMGBuffsPerCharDB = {
 				"BOTTOMRIGHT", -- [1]
 				nil, -- [2]
 				"BOTTOMRIGHT", -- [3]
-				-346.8076271741073, -- [4]
-				59.22048258002624, -- [5]
+				-355.2286983494261, -- [4]
+				64.13293603994526, -- [5]
 			},
 		},
 		["sort"] = "CLASS",

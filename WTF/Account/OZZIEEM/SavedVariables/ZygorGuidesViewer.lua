@@ -106,40 +106,6 @@ ZygorGuidesViewerSettings = {
 				"19:22:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
 			},
 			["maint_fetchitemdata"] = true,
-			["maint_fetchquestdata"] = true,
-			["guides_history"] = {
-				{
-					["short"] = "Northrend (70-72)",
-					["full"] = "Zygor's Horde Leveling Guides\\Northrend (70-72)",
-					["step"] = 166,
-				}, -- [1]
-				{
-					["short"] = "Northrend (76-78)",
-					["full"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
-					["step"] = 96,
-				}, -- [2]
-				{
-					["short"] = "Cooking Dailies Pre-Quests",
-					["full"] = "Zygor's Horde Dailies Guides\\Dalaran\\Cooking Dailies Pre-Quests",
-					["step"] = 4,
-				}, -- [3]
-				{
-					["short"] = "Cooking Dailies",
-					["full"] = "Zygor's Horde Dailies Guides\\Dalaran\\Cooking Dailies",
-					["step"] = 1,
-				}, -- [4]
-				{
-					["short"] = "The Storm Peaks Full Zone Quest Path (Includes Pre-Quests)",
-					["step"] = 6,
-					["full"] = "Zygor's Horde Dailies Guides\\The Storm Peaks\\The Storm Peaks Full Zone Quest Path (Includes Pre-Quests)",
-				}, -- [5]
-			},
-			["permaCompletedDailies"] = {
-				[13115] = true,
-				[13114] = true,
-				[13113] = true,
-				[13112] = true,
-			},
 			["RecipesKnown"] = {
 				[46578] = true,
 				[25125] = true,
@@ -249,7 +215,7 @@ ZygorGuidesViewerSettings = {
 				[60619] = true,
 				[18437] = true,
 				[44492] = true,
-				[18453] = true,
+				[13841] = true,
 				[45546] = true,
 				[45562] = true,
 				[60668] = true,
@@ -260,15 +226,15 @@ ZygorGuidesViewerSettings = {
 				[44636] = true,
 				[7457] = true,
 				[55910] = true,
-				[13378] = true,
 				[47766] = true,
+				[13378] = true,
 				[2538] = true,
 				[34001] = true,
 				[8791] = true,
 				[13905] = true,
 				[26765] = true,
+				[60653] = true,
 				[13917] = true,
-				[26781] = true,
 				[12059] = true,
 				[45545] = true,
 				[18629] = true,
@@ -281,9 +247,9 @@ ZygorGuidesViewerSettings = {
 				[31460] = true,
 				[27961] = true,
 				[27899] = true,
-				[3755] = true,
-				[45563] = true,
+				[44509] = true,
 				[3757] = true,
+				[45563] = true,
 				[3758] = true,
 				[20016] = true,
 				[44589] = true,
@@ -294,43 +260,43 @@ ZygorGuidesViewerSettings = {
 				[55911] = true,
 				[6686] = true,
 				[55943] = true,
-				[56007] = true,
+				[60606] = true,
 				[34002] = true,
 				[28027] = true,
-				[60606] = true,
+				[56007] = true,
 				[56023] = true,
 				[56039] = true,
 				[8774] = true,
-				[13538] = true,
+				[6521] = true,
 				[13628] = true,
 				[26746] = true,
 				[12048] = true,
-				[12061] = true,
+				[45564] = true,
 				[12049] = true,
 				[18406] = true,
 				[18414] = true,
 				[26087] = true,
-				[3278] = true,
-				[12045] = true,
+				[12061] = true,
+				[18438] = true,
 				[18446] = true,
-				[44510] = true,
+				[3276] = true,
 				[3277] = true,
-				[45564] = true,
+				[3278] = true,
 				[12065] = true,
 				[12069] = true,
 				[12073] = true,
 				[12077] = true,
 				[12092] = true,
-				[20051] = true,
+				[60990] = true,
 				[13622] = true,
 				[13626] = true,
 				[13648] = true,
 				[25704] = true,
-				[69412] = true,
 				[13642] = true,
+				[69412] = true,
 				[26764] = true,
 				[59585] = true,
-				[56024] = true,
+				[60623] = true,
 				[31373] = true,
 				[21144] = true,
 				[3275] = true,
@@ -338,62 +304,62 @@ ZygorGuidesViewerSettings = {
 				[18630] = true,
 				[60767] = true,
 				[44383] = true,
-				[7633] = true,
+				[45549] = true,
 				[3813] = true,
-				[27972] = true,
+				[13746] = true,
 				[7623] = true,
 				[13702] = true,
 				[37836] = true,
-				[3852] = true,
+				[44528] = true,
 				[8604] = true,
-				[55769] = true,
+				[7633] = true,
 				[45565] = true,
-				[20028] = true,
-				[14293] = true,
-				[3861] = true,
+				[3856] = true,
+				[56025] = true,
+				[18415] = true,
 				[10841] = true,
 				[44623] = true,
-				[13746] = true,
-				[33286] = true,
+				[27972] = true,
+				[13858] = true,
 				[55913] = true,
-				[3855] = true,
+				[3852] = true,
 				[28004] = true,
-				[3856] = true,
+				[20028] = true,
 				[34004] = true,
 				[28028] = true,
 				[59586] = true,
-				[56025] = true,
-				[56010] = true,
+				[14293] = true,
+				[26759] = true,
 				[8764] = true,
-				[32667] = true,
+				[3839] = true,
 				[3840] = true,
 				[3841] = true,
 				[3842] = true,
 				[3843] = true,
 				[55642] = true,
-				[3845] = true,
-				[18415] = true,
+				[18407] = true,
+				[13822] = true,
 				[18423] = true,
 				[3848] = true,
-				[13890] = true,
+				[3863] = true,
 				[3850] = true,
 				[3866] = true,
-				[45550] = true,
+				[33286] = true,
 				[45566] = true,
 				[20012] = true,
-				[13858] = true,
+				[3855] = true,
 				[44592] = true,
-				[59587] = true,
+				[56010] = true,
 				[8760] = true,
 				[3859] = true,
 				[55898] = true,
 				[8772] = true,
 				[8776] = true,
-				[3863] = true,
+				[13890] = true,
 				[3864] = true,
 				[3865] = true,
 				[26751] = true,
-				[26759] = true,
+				[60609] = true,
 				[56026] = true,
 				[8804] = true,
 				[7454] = true,
@@ -406,17 +372,17 @@ ZygorGuidesViewerSettings = {
 				[13794] = true,
 				[55899] = true,
 				[7751] = true,
-				[7426] = true,
+				[18401] = true,
 				[7755] = true,
 				[18449] = true,
 				[44513] = true,
-				[45551] = true,
+				[44529] = true,
 				[18441] = true,
-				[33288] = true,
+				[45552] = true,
 				[3376] = true,
-				[18240] = true,
-				[27957] = true,
-				[2385] = true,
+				[44593] = true,
+				[7771] = true,
+				[8489] = true,
 				[60993] = true,
 				[42613] = true,
 				[7779] = true,
@@ -429,9 +395,9 @@ ZygorGuidesViewerSettings = {
 				[56027] = true,
 				[7795] = true,
 				[59636] = true,
-				[18401] = true,
+				[13815] = true,
 				[15855] = true,
-				[2393] = true,
+				[13631] = true,
 				[2395] = true,
 				[7929] = true,
 				[20916] = true,
@@ -442,26 +408,26 @@ ZygorGuidesViewerSettings = {
 				[12046] = true,
 				[12050] = true,
 				[3915] = true,
-				[45552] = true,
+				[33288] = true,
 				[7827] = true,
-				[8489] = true,
-				[12070] = true,
+				[2385] = true,
+				[2386] = true,
 				[12074] = true,
-				[47900] = true,
+				[7863] = true,
 				[2389] = true,
 				[60994] = true,
 				[55900] = true,
 				[2392] = true,
-				[13631] = true,
-				[13635] = true,
+				[2393] = true,
+				[2394] = true,
 				[33991] = true,
 				[2396] = true,
 				[2397] = true,
 				[59589] = true,
 				[56028] = true,
-				[26776] = true,
+				[13659] = true,
 				[2401] = true,
-				[7863] = true,
+				[47900] = true,
 				[14809] = true,
 				[2402] = true,
 				[2399] = true,
@@ -492,57 +458,57 @@ ZygorGuidesViewerSettings = {
 				[56022] = true,
 				[56029] = true,
 				[27032] = true,
-				[13659] = true,
+				[26776] = true,
 				[47901] = true,
-				[60692] = true,
+				[7418] = true,
 				[7420] = true,
-				[2394] = true,
+				[13635] = true,
 				[7935] = true,
-				[13815] = true,
+				[7426] = true,
 				[18409] = true,
 				[18417] = true,
-				[2386] = true,
-				[7418] = true,
+				[12070] = true,
+				[60692] = true,
 				[44484] = true,
 				[44500] = true,
 				[6418] = true,
 				[45554] = true,
-				[7771] = true,
+				[27957] = true,
 				[25124] = true,
-				[44593] = true,
-				[44529] = true,
+				[18240] = true,
+				[45551] = true,
 				[2963] = true,
 				[2964] = true,
 				[46688] = true,
 				[55902] = true,
-				[55914] = true,
+				[3861] = true,
 				[13887] = true,
 				[15935] = true,
 				[33993] = true,
 				[26745] = true,
-				[44528] = true,
+				[55914] = true,
 				[56014] = true,
 				[56030] = true,
-				[13822] = true,
-				[18407] = true,
-				[3839] = true,
-				[60609] = true,
-				[45549] = true,
+				[3845] = true,
+				[32667] = true,
+				[59587] = true,
+				[45550] = true,
+				[55769] = true,
 				[13935] = true,
 				[13939] = true,
 				[13943] = true,
 				[13947] = true,
-				[60623] = true,
+				[56024] = true,
 				[59584] = true,
 				[8770] = true,
-				[60990] = true,
-				[3276] = true,
-				[17180] = true,
-				[18438] = true,
+				[20051] = true,
 				[12053] = true,
+				[17180] = true,
+				[12045] = true,
+				[44510] = true,
 				[59583] = true,
 				[60621] = true,
-				[6521] = true,
+				[13538] = true,
 				[8799] = true,
 				[44629] = true,
 				[44645] = true,
@@ -550,13 +516,13 @@ ZygorGuidesViewerSettings = {
 				[55919] = true,
 				[6688] = true,
 				[2543] = true,
-				[44509] = true,
+				[3755] = true,
 				[2541] = true,
 				[55999] = true,
 				[56015] = true,
 				[56031] = true,
 				[27033] = true,
-				[60653] = true,
+				[26781] = true,
 				[45560] = true,
 				[44508] = true,
 				[44488] = true,
@@ -564,13 +530,47 @@ ZygorGuidesViewerSettings = {
 				[58065] = true,
 				[18402] = true,
 				[18410] = true,
-				[13841] = true,
+				[18453] = true,
 				[55923] = true,
 				[18434] = true,
 				[18442] = true,
 				[18450] = true,
 				[27954] = true,
 			},
+			["guides_history"] = {
+				{
+					["short"] = "Northrend (70-72)",
+					["full"] = "Zygor's Horde Leveling Guides\\Northrend (70-72)",
+					["step"] = 166,
+				}, -- [1]
+				{
+					["short"] = "Northrend (76-78)",
+					["full"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
+					["step"] = 96,
+				}, -- [2]
+				{
+					["short"] = "Cooking Dailies Pre-Quests",
+					["full"] = "Zygor's Horde Dailies Guides\\Dalaran\\Cooking Dailies Pre-Quests",
+					["step"] = 4,
+				}, -- [3]
+				{
+					["short"] = "Cooking Dailies",
+					["full"] = "Zygor's Horde Dailies Guides\\Dalaran\\Cooking Dailies",
+					["step"] = 1,
+				}, -- [4]
+				{
+					["short"] = "The Storm Peaks Full Zone Quest Path (Includes Pre-Quests)",
+					["step"] = 6,
+					["full"] = "Zygor's Horde Dailies Guides\\The Storm Peaks\\The Storm Peaks Full Zone Quest Path (Includes Pre-Quests)",
+				}, -- [5]
+			},
+			["permaCompletedDailies"] = {
+				[13115] = true,
+				[13114] = true,
+				[13113] = true,
+				[13112] = true,
+			},
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 				true, -- [1]
 				true, -- [2]
@@ -590,7 +590,7 @@ ZygorGuidesViewerSettings = {
 				["River's Heart"] = true,
 				["Undercity"] = true,
 				["The Crossroads"] = true,
-				["Lakeside Landing"] = true,
+				["Warsong Hold"] = true,
 				["Flame Crest"] = true,
 				["Amber Ledge"] = true,
 				["Kamagua"] = true,
@@ -603,7 +603,7 @@ ZygorGuidesViewerSettings = {
 				["Splintertree Post"] = true,
 				["Grom'gol Base Camp"] = true,
 				["Freewind Post"] = true,
-				["Crossroads"] = true,
+				["Death's Rise"] = true,
 				["K3"] = true,
 				["Dalaran"] = true,
 				["Camp Winterhoof"] = true,
@@ -613,27 +613,27 @@ ZygorGuidesViewerSettings = {
 				["Gundrak"] = true,
 				["Krasus' Landing"] = true,
 				["Trade Quarter"] = true,
-				["The Shadow Vault"] = true,
+				["Camp Oneqwah"] = true,
 				["Shattrath"] = true,
 				["Argent Tournament Grounds"] = true,
 				["The Sepulcher"] = true,
 				["Falcon Watch"] = true,
 				["Hellfire Peninsula, The Dark Portal"] = true,
-				["Camp Oneqwah"] = true,
 				["Agmar's Hammer"] = true,
+				["The Shadow Vault"] = true,
 				["Vengeance Landing"] = true,
 				["Spinebreaker Ridge"] = true,
 				["Bor'gorok Outpost"] = true,
 				["Swamprat Post"] = true,
 				["Camp Taurajo"] = true,
-				["Death's Rise"] = true,
+				["Crossroads"] = true,
 				["The Argent Stand"] = true,
 				["Taunka'le Village"] = true,
 				["Wyrmrest Temple"] = true,
 				["Thrallmar"] = true,
 				["Thunder Bluff"] = true,
 				["Cenarion Hold"] = true,
-				["Warsong Hold"] = true,
+				["Lakeside Landing"] = true,
 				["New Agamand"] = true,
 			},
 			["step"] = 6,
@@ -641,14 +641,7 @@ ZygorGuidesViewerSettings = {
 		},
 		["Suprema - Icecrown"] = {
 			["starting"] = false,
-			["RecipesKnown"] = {
-				[8604] = true,
-				[2539] = true,
-				[2540] = true,
-				[7751] = true,
-				[37836] = true,
-				[2538] = true,
-			},
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Main Guide (13-20)",
 			["guides_history"] = {
 				{
 					["short"] = "Night Elf (1-13)",
@@ -661,8 +654,15 @@ ZygorGuidesViewerSettings = {
 					["step"] = 1,
 				}, -- [2]
 			},
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Main Guide (13-20)",
 			["maint_fetchquestdata"] = true,
+			["RecipesKnown"] = {
+				[8604] = true,
+				[2539] = true,
+				[2540] = true,
+				[7751] = true,
+				[37836] = true,
+				[2538] = true,
+			},
 			["taxis"] = {
 				true, -- [1]
 				["Auberdine"] = true,
@@ -776,106 +776,106 @@ ZygorGuidesViewerSettings = {
 			["maint_fetchquestdata"] = true,
 			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["debuglog"] = {
-				"23:46:48> FocusStep 1", -- [1]
-				"23:48:53> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"23:48:53> PLAYER_ALIVE (dead?)", -- [3]
-				"23:48:53> CacheQuestLog cached 11 quests", -- [4]
-				"23:48:53> ZONE_CHANGED_NEW_AREA (dead?)", -- [5]
-				"23:48:53> CacheQuestLog cached 11 quests", -- [6]
-				"23:48:53> CacheQuestLog cached 11 quests", -- [7]
-				"23:49:02> PLAYER_ENTERING_WORLD (dead?)", -- [8]
-				"23:49:02> PLAYER_ALIVE (dead?)", -- [9]
-				"23:49:02> CacheQuestLog cached 11 quests", -- [10]
-				"23:49:02> CacheQuestLog cached 11 quests", -- [11]
-				"23:49:02> CacheQuestLog cached 11 quests", -- [12]
-				"23:49:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [13]
-				"00:07:44> PLAYER_ENTERING_WORLD (dead?)", -- [14]
-				"00:07:44> PLAYER_ALIVE (dead?)", -- [15]
-				"00:07:44> CacheQuestLog cached 11 quests", -- [16]
-				"00:07:44> CacheQuestLog cached 11 quests", -- [17]
-				"00:07:44> ZONE_CHANGED_NEW_AREA (dead?)", -- [18]
-				"00:08:13> PLAYER_ENTERING_WORLD (dead?)", -- [19]
-				"00:08:13> PLAYER_ALIVE (dead?)", -- [20]
-				"00:08:13> CacheQuestLog cached 11 quests", -- [21]
-				"00:08:13> CacheQuestLog cached 11 quests", -- [22]
-				"00:08:13> ZONE_CHANGED_NEW_AREA (dead?)", -- [23]
-				"00:08:16> PLAYER_ENTERING_WORLD (dead?)", -- [24]
-				"00:08:16> PLAYER_ALIVE (dead?)", -- [25]
-				"00:08:16> CacheQuestLog cached 11 quests", -- [26]
-				"00:08:16> CacheQuestLog cached 11 quests", -- [27]
-				"00:08:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [28]
-				"00:10:29> PLAYER_ENTERING_WORLD (dead?)", -- [29]
-				"00:10:29> PLAYER_ALIVE (dead?)", -- [30]
-				"00:10:29> CacheQuestLog cached 11 quests", -- [31]
-				"00:10:29> CacheQuestLog cached 11 quests", -- [32]
-				"00:10:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [33]
-				"00:15:17> PLAYER_ENTERING_WORLD (dead?)", -- [34]
-				"00:15:17> PLAYER_ALIVE (dead?)", -- [35]
-				"00:15:17> CacheQuestLog cached 11 quests", -- [36]
-				"00:15:17> CacheQuestLog cached 11 quests", -- [37]
-				"00:15:17> ZONE_CHANGED_NEW_AREA (dead?)", -- [38]
-				"00:17:18> Viewer started. ---------------------------", -- [39]
-				"00:17:19> PLAYER_ENTERING_WORLD (dead?)", -- [40]
-				"00:17:19> PLAYER_ALIVE (dead?)", -- [41]
-				"00:17:19> CacheQuestLog cached 11 quests", -- [42]
-				"00:17:19> New Quest: Drift Time id 7961", -- [43]
-				"00:17:19> New Quest: Healing Time id 7904", -- [44]
-				"00:17:19> New Quest: In need for Saronite Ores id 8023", -- [45]
-				"00:17:19> New Quest: The Sacred and the Corrupt id 24545", -- [46]
-				"00:17:19> New Quest: A Summons from Lord Solanar id 9721", -- [47]
-				"00:17:19> New Quest: The First Trial id 9678", -- [48]
-				"00:17:19> New Quest: The Second Trial id 9690", -- [49]
-				"00:17:19> New Quest: Reclaiming Sunstrider Isle id 8325", -- [50]
-				"00:17:19> New Quest: Defend Azure Dragonshrine id 24797", -- [51]
-				"00:17:19> New Quest: Defend Obsidian Dragonshrine id 24661", -- [52]
-				"00:17:19> New Quest: Defend Ruby Dragonshrine id 24746", -- [53]
-				"00:17:19> Got completed quests list", -- [54]
-				"00:17:19> CacheQuestLog cached 11 quests", -- [55]
-				"00:17:19> ZONE_CHANGED_NEW_AREA (dead?)", -- [56]
-				"00:17:20> Guides loaded. -----", -- [57]
-				"00:17:20> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [58]
-				"00:17:20> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [59]
-				"00:17:20> FocusStep 1", -- [60]
-				"00:24:57> CacheQuestLog cached 11 quests", -- [61]
-				"00:25:05> CacheQuestLog cached 11 quests", -- [62]
-				"00:26:26> PLAYER_ENTERING_WORLD (dead?)", -- [63]
-				"00:26:26> PLAYER_ALIVE (dead?)", -- [64]
-				"00:26:26> CacheQuestLog cached 11 quests", -- [65]
-				"00:26:26> CacheQuestLog cached 11 quests", -- [66]
-				"00:26:26> ZONE_CHANGED_NEW_AREA (dead?)", -- [67]
-				"00:26:32> PLAYER_ENTERING_WORLD (dead?)", -- [68]
-				"00:26:32> PLAYER_ALIVE (dead?)", -- [69]
-				"00:26:32> CacheQuestLog cached 11 quests", -- [70]
-				"00:26:32> CacheQuestLog cached 11 quests", -- [71]
-				"00:26:32> CacheQuestLog cached 11 quests", -- [72]
-				"00:26:32> ZONE_CHANGED_NEW_AREA (dead?)", -- [73]
-				"00:26:54> 254 Alchemy recipes found", -- [74]
-				"00:27:12> 254 Alchemy recipes found", -- [75]
-				"00:27:29> 500 Jewelcrafting recipes found", -- [76]
-				"00:27:35> 500 Jewelcrafting recipes found", -- [77]
-				"00:27:44> 500 Jewelcrafting recipes found", -- [78]
-				"00:27:59> Viewer started. ---------------------------", -- [79]
-				"00:28:00> PLAYER_ENTERING_WORLD (dead?)", -- [80]
-				"00:28:00> Got completed quests list", -- [81]
-				"00:28:00> CacheQuestLog cached 11 quests", -- [82]
-				"00:28:00> New Quest: Drift Time id 7961", -- [83]
-				"00:28:00> New Quest: Healing Time id 7904", -- [84]
-				"00:28:00> New Quest: In need for Saronite Ores id 8023", -- [85]
-				"00:28:00> New Quest: The Sacred and the Corrupt id 24545", -- [86]
-				"00:28:00> New Quest: A Summons from Lord Solanar id 9721", -- [87]
-				"00:28:00> New Quest: The First Trial id 9678", -- [88]
-				"00:28:00> New Quest: The Second Trial id 9690", -- [89]
-				"00:28:00> New Quest: Reclaiming Sunstrider Isle id 8325", -- [90]
-				"00:28:00> New Quest: Defend Azure Dragonshrine id 24797", -- [91]
-				"00:28:00> New Quest: Defend Obsidian Dragonshrine id 24661", -- [92]
-				"00:28:00> New Quest: Defend Ruby Dragonshrine id 24746", -- [93]
-				"00:28:02> Guides loaded. -----", -- [94]
-				"00:28:02> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [95]
-				"00:28:02> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [96]
-				"00:28:02> FocusStep 1", -- [97]
-				"00:28:04> 500 Jewelcrafting recipes found", -- [98]
-				"00:28:13> 254 Alchemy recipes found", -- [99]
-				"00:28:16> 500 Jewelcrafting recipes found", -- [100]
+				"14:58:52> New Quest: The First Trial id 9678", -- [1]
+				"14:58:52> New Quest: The Second Trial id 9690", -- [2]
+				"14:58:52> New Quest: Reclaiming Sunstrider Isle id 8325", -- [3]
+				"14:58:52> New Quest: Trouble at Wyrmrest id 26012", -- [4]
+				"14:58:52> New Quest: Defend Azure Dragonshrine id 24797", -- [5]
+				"14:58:52> New Quest: Defend Obsidian Dragonshrine id 24661", -- [6]
+				"14:58:52> New Quest: Defend Ruby Dragonshrine id 24746", -- [7]
+				"14:58:52> Got completed quests list", -- [8]
+				"14:58:52> ZONE_CHANGED_NEW_AREA (dead?)", -- [9]
+				"14:58:52> CacheQuestLog cached 12 quests", -- [10]
+				"14:58:53> Guides loaded. -----", -- [11]
+				"14:58:53> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [12]
+				"14:58:53> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [13]
+				"14:58:53> FocusStep 1", -- [14]
+				"14:59:29> Viewer started. ---------------------------", -- [15]
+				"14:59:30> PLAYER_ENTERING_WORLD (dead?)", -- [16]
+				"14:59:30> Got completed quests list", -- [17]
+				"14:59:30> CacheQuestLog cached 12 quests", -- [18]
+				"14:59:30> New Quest: Drift Time id 7961", -- [19]
+				"14:59:30> New Quest: Healing Time id 7904", -- [20]
+				"14:59:30> New Quest: In need for Titanium id 8024", -- [21]
+				"14:59:30> New Quest: A Feast of Souls id 24547", -- [22]
+				"14:59:30> New Quest: A Summons from Lord Solanar id 9721", -- [23]
+				"14:59:30> New Quest: The First Trial id 9678", -- [24]
+				"14:59:30> New Quest: The Second Trial id 9690", -- [25]
+				"14:59:30> New Quest: Reclaiming Sunstrider Isle id 8325", -- [26]
+				"14:59:30> New Quest: Trouble at Wyrmrest id 26012", -- [27]
+				"14:59:30> New Quest: Defend Azure Dragonshrine id 24797", -- [28]
+				"14:59:30> New Quest: Defend Obsidian Dragonshrine id 24661", -- [29]
+				"14:59:30> New Quest: Defend Ruby Dragonshrine id 24746", -- [30]
+				"14:59:32> Guides loaded. -----", -- [31]
+				"14:59:32> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [32]
+				"14:59:32> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [33]
+				"14:59:32> FocusStep 1", -- [34]
+				"15:12:45> Viewer started. ---------------------------", -- [35]
+				"15:12:46> PLAYER_ENTERING_WORLD (dead?)", -- [36]
+				"15:12:46> PLAYER_ALIVE (dead?)", -- [37]
+				"15:12:46> CacheQuestLog cached 12 quests", -- [38]
+				"15:12:46> New Quest: Drift Time id 7961", -- [39]
+				"15:12:46> New Quest: Healing Time id 7904", -- [40]
+				"15:12:46> New Quest: In need for Titanium id 8024", -- [41]
+				"15:12:46> New Quest: A Feast of Souls id 24547", -- [42]
+				"15:12:46> New Quest: A Summons from Lord Solanar id 9721", -- [43]
+				"15:12:46> New Quest: The First Trial id 9678", -- [44]
+				"15:12:46> New Quest: The Second Trial id 9690", -- [45]
+				"15:12:46> New Quest: Reclaiming Sunstrider Isle id 8325", -- [46]
+				"15:12:46> New Quest: Trouble at Wyrmrest id 26012", -- [47]
+				"15:12:46> New Quest: Defend Azure Dragonshrine id 24797", -- [48]
+				"15:12:46> New Quest: Defend Obsidian Dragonshrine id 24661", -- [49]
+				"15:12:46> New Quest: Defend Ruby Dragonshrine id 24746", -- [50]
+				"15:12:46> Got completed quests list", -- [51]
+				"15:12:46> CacheQuestLog cached 12 quests", -- [52]
+				"15:12:46> ZONE_CHANGED_NEW_AREA (dead?)", -- [53]
+				"15:12:48> Guides loaded. -----", -- [54]
+				"15:12:48> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [55]
+				"15:12:48> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [56]
+				"15:12:48> FocusStep 1", -- [57]
+				"15:13:08> Viewer started. ---------------------------", -- [58]
+				"15:13:09> PLAYER_ENTERING_WORLD (dead?)", -- [59]
+				"15:13:09> PLAYER_ALIVE (dead?)", -- [60]
+				"15:13:10> CacheQuestLog cached 12 quests", -- [61]
+				"15:13:10> New Quest: Drift Time id 7961", -- [62]
+				"15:13:10> New Quest: Healing Time id 7904", -- [63]
+				"15:13:10> New Quest: In need for Titanium id 8024", -- [64]
+				"15:13:10> New Quest: A Feast of Souls id 24547", -- [65]
+				"15:13:10> New Quest: A Summons from Lord Solanar id 9721", -- [66]
+				"15:13:10> New Quest: The First Trial id 9678", -- [67]
+				"15:13:10> New Quest: The Second Trial id 9690", -- [68]
+				"15:13:10> New Quest: Reclaiming Sunstrider Isle id 8325", -- [69]
+				"15:13:10> New Quest: Trouble at Wyrmrest id 26012", -- [70]
+				"15:13:10> New Quest: Defend Azure Dragonshrine id 24797", -- [71]
+				"15:13:10> New Quest: Defend Obsidian Dragonshrine id 24661", -- [72]
+				"15:13:10> New Quest: Defend Ruby Dragonshrine id 24746", -- [73]
+				"15:13:10> Got completed quests list", -- [74]
+				"15:13:10> CacheQuestLog cached 12 quests", -- [75]
+				"15:13:10> ZONE_CHANGED_NEW_AREA (dead?)", -- [76]
+				"15:13:11> Guides loaded. -----", -- [77]
+				"15:13:11> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [78]
+				"15:13:11> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [79]
+				"15:13:11> FocusStep 1", -- [80]
+				"15:14:03> Viewer started. ---------------------------", -- [81]
+				"15:14:04> PLAYER_ENTERING_WORLD (dead?)", -- [82]
+				"15:14:04> Got completed quests list", -- [83]
+				"15:14:04> CacheQuestLog cached 12 quests", -- [84]
+				"15:14:04> New Quest: Drift Time id 7961", -- [85]
+				"15:14:04> New Quest: Healing Time id 7904", -- [86]
+				"15:14:04> New Quest: In need for Titanium id 8024", -- [87]
+				"15:14:04> New Quest: A Feast of Souls id 24547", -- [88]
+				"15:14:04> New Quest: A Summons from Lord Solanar id 9721", -- [89]
+				"15:14:04> New Quest: The First Trial id 9678", -- [90]
+				"15:14:04> New Quest: The Second Trial id 9690", -- [91]
+				"15:14:04> New Quest: Reclaiming Sunstrider Isle id 8325", -- [92]
+				"15:14:04> New Quest: Trouble at Wyrmrest id 26012", -- [93]
+				"15:14:04> New Quest: Defend Azure Dragonshrine id 24797", -- [94]
+				"15:14:04> New Quest: Defend Obsidian Dragonshrine id 24661", -- [95]
+				"15:14:04> New Quest: Defend Ruby Dragonshrine id 24746", -- [96]
+				"15:14:05> Guides loaded. -----", -- [97]
+				"15:14:05> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [98]
+				"15:14:05> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [99]
+				"15:14:05> FocusStep 1", -- [100]
 			},
 			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
@@ -917,6 +917,7 @@ ZygorGuidesViewerSettings = {
 				[66560] = true,
 				[55402] = true,
 				[25255] = true,
+				[25287] = true,
 				[3170] = true,
 				[3172] = true,
 				[3174] = true,
@@ -939,6 +940,8 @@ ZygorGuidesViewerSettings = {
 				[17551] = true,
 				[42296] = true,
 				[3230] = true,
+				[31089] = true,
+				[33278] = true,
 				[66435] = true,
 				[66499] = true,
 				[53773] = true,
@@ -951,23 +954,30 @@ ZygorGuidesViewerSettings = {
 				[53997] = true,
 				[62213] = true,
 				[39739] = true,
+				[25622] = true,
+				[6413] = true,
 				[56203] = true,
 				[66436] = true,
+				[54221] = true,
 				[66500] = true,
-				[66564] = true,
+				[39963] = true,
+				[62050] = true,
 				[32866] = true,
 				[55404] = true,
-				[25498] = true,
-				[25610] = true,
-				[58148] = true,
-				[39636] = true,
-				[53925] = true,
-				[53774] = true,
+				[34590] = true,
+				[28915] = true,
+				[28948] = true,
+				[18238] = true,
+				[62051] = true,
+				[33279] = true,
+				[31058] = true,
+				[31106] = true,
+				[18239] = true,
 				[25320] = true,
 				[66437] = true,
 				[66501] = true,
-				[66565] = true,
-				[63743] = true,
+				[53774] = true,
+				[28581] = true,
 				[53838] = true,
 				[6617] = true,
 				[53902] = true,
@@ -975,29 +985,29 @@ ZygorGuidesViewerSettings = {
 				[53966] = true,
 				[28549] = true,
 				[28565] = true,
-				[28581] = true,
-				[25619] = true,
-				[15915] = true,
-				[25621] = true,
-				[60367] = true,
+				[39740] = true,
+				[39961] = true,
+				[31105] = true,
+				[66428] = true,
+				[28917] = true,
 				[66438] = true,
 				[66502] = true,
 				[66566] = true,
-				[54221] = true,
+				[66503] = true,
 				[32867] = true,
-				[55405] = true,
-				[33278] = true,
+				[8240] = true,
+				[3372] = true,
 				[25704] = true,
-				[25622] = true,
+				[7828] = true,
 				[17552] = true,
 				[2329] = true,
 				[2331] = true,
 				[2333] = true,
 				[2335] = true,
 				[2337] = true,
-				[26887] = true,
+				[58149] = true,
 				[66439] = true,
-				[66503] = true,
+				[7752] = true,
 				[53775] = true,
 				[3370] = true,
 				[53839] = true,
@@ -1009,35 +1019,35 @@ ZygorGuidesViewerSettings = {
 				[56077] = true,
 				[39741] = true,
 				[32178] = true,
-				[6413] = true,
+				[7836] = true,
 				[56205] = true,
-				[62050] = true,
+				[53993] = true,
 				[66440] = true,
 				[66504] = true,
 				[66568] = true,
-				[39740] = true,
+				[53961] = true,
 				[32868] = true,
-				[42588] = true,
-				[7836] = true,
-				[7752] = true,
-				[7828] = true,
-				[31091] = true,
+				[53929] = true,
+				[58507] = true,
+				[53840] = true,
+				[62049] = true,
+				[28550] = true,
 				[38175] = true,
-				[28950] = true,
-				[28918] = true,
+				[57421] = true,
+				[66555] = true,
 				[24266] = true,
-				[6501] = true,
+				[25305] = true,
 				[25321] = true,
 				[66441] = true,
 				[66505] = true,
 				[41500] = true,
-				[2547] = true,
-				[53840] = true,
+				[33277] = true,
+				[18240] = true,
 				[53872] = true,
 				[53904] = true,
 				[53936] = true,
 				[53968] = true,
-				[28550] = true,
+				[54000] = true,
 				[28566] = true,
 				[28582] = true,
 				[3452] = true,
@@ -1047,310 +1057,310 @@ ZygorGuidesViewerSettings = {
 				[66442] = true,
 				[66506] = true,
 				[66570] = true,
-				[54002] = true,
+				[41429] = true,
 				[32869] = true,
 				[55407] = true,
-				[8240] = true,
-				[28947] = true,
-				[66428] = true,
+				[45560] = true,
+				[26903] = true,
+				[28918] = true,
 				[17553] = true,
-				[54000] = true,
-				[2549] = true,
-				[42589] = true,
+				[28950] = true,
+				[53841] = true,
+				[63743] = true,
 				[22732] = true,
-				[33285] = true,
-				[58149] = true,
+				[31060] = true,
+				[44794] = true,
 				[26872] = true,
 				[45561] = true,
-				[53777] = true,
+				[39455] = true,
 				[26920] = true,
-				[53841] = true,
+				[42588] = true,
 				[53873] = true,
 				[53905] = true,
 				[53937] = true,
 				[53969] = true,
 				[54001] = true,
 				[56079] = true,
-				[56049] = true,
+				[13028] = true,
 				[32179] = true,
-				[53993] = true,
-				[53961] = true,
+				[32801] = true,
+				[45558] = true,
 				[33733] = true,
 				[66444] = true,
 				[32259] = true,
 				[66572] = true,
-				[53929] = true,
+				[32870] = true,
 				[25146] = true,
-				[53842] = true,
-				[62049] = true,
-				[43765] = true,
-				[15856] = true,
-				[66555] = true,
-				[33277] = true,
-				[41429] = true,
-				[18241] = true,
-				[18240] = true,
-				[62051] = true,
-				[28917] = true,
+				[2541] = true,
+				[25621] = true,
+				[42589] = true,
+				[60354] = true,
+				[53874] = true,
+				[53938] = true,
+				[2549] = true,
+				[54002] = true,
+				[39734] = true,
+				[28562] = true,
+				[28546] = true,
 				[66445] = true,
 				[45562] = true,
 				[66573] = true,
 				[2539] = true,
-				[2541] = true,
-				[53874] = true,
+				[18241] = true,
+				[2543] = true,
 				[2545] = true,
-				[53938] = true,
+				[2547] = true,
 				[53970] = true,
 				[28551] = true,
-				[28567] = true,
+				[25498] = true,
 				[28583] = true,
-				[33287] = true,
-				[66447] = true,
+				[39638] = true,
+				[45556] = true,
 				[56208] = true,
-				[53844] = true,
+				[45557] = true,
 				[62410] = true,
 				[60396] = true,
 				[66574] = true,
-				[33279] = true,
+				[26873] = true,
 				[32871] = true,
-				[31109] = true,
-				[32870] = true,
+				[53843] = true,
+				[45563] = true,
 				[56496] = true,
-				[39738] = true,
+				[54003] = true,
 				[17554] = true,
 				[17570] = true,
 				[42302] = true,
-				[60366] = true,
-				[15906] = true,
+				[33276] = true,
+				[31109] = true,
 				[17634] = true,
 				[28903] = true,
-				[26873] = true,
-				[45563] = true,
+				[66447] = true,
+				[33287] = true,
 				[53779] = true,
 				[42558] = true,
 				[42590] = true,
 				[7257] = true,
 				[31061] = true,
-				[53939] = true,
+				[31077] = true,
 				[53971] = true,
-				[54003] = true,
-				[11478] = true,
-				[39458] = true,
-				[67025] = true,
-				[60354] = true,
-				[31106] = true,
-				[57421] = true,
-				[66448] = true,
-				[45565] = true,
-				[66576] = true,
-				[66452] = true,
-				[32872] = true,
-				[28578] = true,
-				[28562] = true,
-				[56497] = true,
-				[28546] = true,
-				[39638] = true,
-				[46684] = true,
-				[31105] = true,
-				[32873] = true,
+				[56049] = true,
 				[56081] = true,
-				[42593] = true,
-				[25323] = true,
-				[25339] = true,
+				[39736] = true,
+				[3450] = true,
+				[32807] = true,
+				[66432] = true,
+				[66448] = true,
+				[60365] = true,
+				[32808] = true,
+				[66576] = true,
+				[31076] = true,
+				[32872] = true,
+				[15906] = true,
 				[33288] = true,
-				[53780] = true,
-				[53812] = true,
+				[56497] = true,
+				[17187] = true,
 				[18242] = true,
-				[53876] = true,
-				[33276] = true,
 				[53940] = true,
+				[66450] = true,
+				[67025] = true,
+				[28936] = true,
+				[25659] = true,
+				[25323] = true,
+				[66449] = true,
+				[45564] = true,
+				[39458] = true,
+				[53812] = true,
+				[53844] = true,
+				[53876] = true,
+				[57425] = true,
+				[46779] = true,
 				[53972] = true,
 				[54004] = true,
 				[28568] = true,
 				[28584] = true,
-				[58065] = true,
-				[53963] = true,
-				[26903] = true,
-				[64358] = true,
-				[66450] = true,
-				[39706] = true,
-				[6414] = true,
+				[45565] = true,
+				[66579] = true,
+				[53845] = true,
+				[58147] = true,
+				[60366] = true,
+				[31094] = true,
+				[32809] = true,
 				[6418] = true,
-				[57425] = true,
-				[45558] = true,
+				[32873] = true,
+				[43761] = true,
 				[58512] = true,
 				[56498] = true,
 				[56530] = true,
 				[17555] = true,
 				[17571] = true,
-				[45557] = true,
-				[32808] = true,
+				[39637] = true,
+				[11451] = true,
 				[59759] = true,
 				[17635] = true,
-				[7753] = true,
+				[53895] = true,
 				[26874] = true,
-				[28936] = true,
-				[26906] = true,
+				[33289] = true,
+				[53781] = true,
 				[40514] = true,
-				[53845] = true,
+				[46684] = true,
 				[53877] = true,
 				[31062] = true,
 				[53941] = true,
 				[53973] = true,
 				[54005] = true,
 				[56083] = true,
-				[26907] = true,
-				[53879] = true,
-				[45556] = true,
-				[32801] = true,
-				[32807] = true,
+				[7213] = true,
+				[58150] = true,
 				[45022] = true,
-				[46779] = true,
+				[60367] = true,
+				[7751] = true,
+				[66452] = true,
+				[66580] = true,
 				[32810] = true,
-				[32809] = true,
+				[3398] = true,
 				[32874] = true,
 				[4508] = true,
-				[66583] = true,
+				[39452] = true,
 				[56499] = true,
 				[56531] = true,
-				[17187] = true,
-				[31095] = true,
+				[28933] = true,
+				[66446] = true,
 				[42305] = true,
-				[39713] = true,
-				[39736] = true,
-				[58147] = true,
-				[3450] = true,
-				[66453] = true,
+				[15865] = true,
+				[66569] = true,
 				[33290] = true,
+				[6618] = true,
+				[66453] = true,
+				[45566] = true,
 				[66581] = true,
 				[24365] = true,
 				[18243] = true,
 				[53878] = true,
-				[43761] = true,
+				[28569] = true,
 				[53942] = true,
 				[53974] = true,
 				[28553] = true,
-				[28569] = true,
+				[56084] = true,
 				[28585] = true,
-				[39637] = true,
-				[11451] = true,
+				[53875] = true,
+				[8238] = true,
 				[62350] = true,
 				[33738] = true,
 				[29688] = true,
 				[25612] = true,
 				[66582] = true,
-				[53895] = true,
+				[31092] = true,
 				[57427] = true,
-				[42592] = true,
-				[31089] = true,
+				[7753] = true,
+				[66583] = true,
 				[56500] = true,
-				[54222] = true,
+				[33291] = true,
 				[17556] = true,
 				[17572] = true,
-				[39712] = true,
-				[7751] = true,
-				[66585] = true,
+				[28953] = true,
+				[45695] = true,
+				[53975] = true,
 				[17636] = true,
 				[28905] = true,
 				[26875] = true,
-				[33291] = true,
-				[28953] = true,
-				[58150] = true,
+				[45567] = true,
+				[26907] = true,
+				[56053] = true,
 				[53847] = true,
-				[45695] = true,
+				[53879] = true,
 				[31063] = true,
-				[31079] = true,
-				[53975] = true,
+				[53943] = true,
+				[31095] = true,
 				[31111] = true,
-				[39717] = true,
-				[3398] = true,
-				[46775] = true,
-				[33293] = true,
-				[53848] = true,
-				[38503] = true,
-				[26908] = true,
-				[31048] = true,
+				[11479] = true,
+				[22808] = true,
+				[58146] = true,
+				[53931] = true,
+				[53990] = true,
+				[39636] = true,
+				[53926] = true,
+				[53783] = true,
 				[66584] = true,
-				[45551] = true,
+				[53967] = true,
 				[9513] = true,
-				[53977] = true,
-				[7837] = true,
 				[7841] = true,
+				[7837] = true,
+				[56501] = true,
 				[7845] = true,
-				[57443] = true,
-				[31112] = true,
-				[47056] = true,
-				[7213] = true,
-				[39742] = true,
-				[20626] = true,
-				[39452] = true,
-				[45569] = true,
+				[33286] = true,
+				[42591] = true,
+				[45550] = true,
+				[66567] = true,
+				[53964] = true,
+				[38503] = true,
+				[18244] = true,
+				[56054] = true,
 				[45568] = true,
 				[53784] = true,
 				[24366] = true,
-				[18244] = true,
+				[53848] = true,
 				[53880] = true,
-				[3400] = true,
-				[66446] = true,
+				[56086] = true,
+				[21144] = true,
 				[53976] = true,
-				[56054] = true,
-				[28570] = true,
+				[28554] = true,
+				[39718] = true,
 				[28586] = true,
-				[58146] = true,
+				[33292] = true,
 				[22480] = true,
-				[43779] = true,
+				[31110] = true,
 				[33740] = true,
-				[53990] = true,
+				[15915] = true,
 				[25613] = true,
 				[66586] = true,
-				[53926] = true,
-				[39718] = true,
-				[34955] = true,
-				[65454] = true,
-				[28933] = true,
-				[56056] = true,
 				[17557] = true,
+				[57442] = true,
+				[34955] = true,
+				[43779] = true,
+				[26908] = true,
+				[38504] = true,
+				[20626] = true,
 				[17573] = true,
-				[28571] = true,
-				[45550] = true,
-				[66569] = true,
+				[31096] = true,
+				[38868] = true,
+				[54009] = true,
 				[17637] = true,
 				[28906] = true,
 				[26876] = true,
-				[58868] = true,
+				[45569] = true,
 				[66587] = true,
-				[56501] = true,
-				[38504] = true,
+				[39719] = true,
+				[46688] = true,
 				[53881] = true,
 				[31064] = true,
-				[53945] = true,
-				[31096] = true,
-				[56055] = true,
+				[31080] = true,
+				[53977] = true,
+				[31112] = true,
 				[56087] = true,
-				[42591] = true,
-				[53931] = true,
-				[33286] = true,
-				[21144] = true,
-				[33741] = true,
-				[37855] = true,
-				[60403] = true,
-				[54008] = true,
-				[11456] = true,
-				[55384] = true,
-				[28907] = true,
-				[57442] = true,
-				[28267] = true,
-				[53883] = true,
-				[33292] = true,
-				[53947] = true,
-				[11472] = true,
-				[38868] = true,
-				[66567] = true,
-				[31108] = true,
-				[41414] = true,
 				[43707] = true,
-				[33294] = true,
+				[66575] = true,
+				[58145] = true,
+				[33741] = true,
+				[65454] = true,
+				[31102] = true,
+				[60403] = true,
+				[6500] = true,
+				[53925] = true,
+				[55384] = true,
+				[53893] = true,
+				[62045] = true,
+				[28267] = true,
 				[39451] = true,
+				[53771] = true,
+				[42736] = true,
+				[45549] = true,
+				[25278] = true,
+				[31090] = true,
+				[53995] = true,
+				[41414] = true,
+				[33294] = true,
+				[45570] = true,
+				[28571] = true,
 				[24367] = true,
 				[18245] = true,
 				[53882] = true,
@@ -1360,193 +1370,193 @@ ZygorGuidesViewerSettings = {
 				[28555] = true,
 				[56088] = true,
 				[28587] = true,
-				[58145] = true,
+				[54007] = true,
 				[4094] = true,
-				[28955] = true,
-				[31102] = true,
-				[6500] = true,
-				[25614] = true,
-				[53893] = true,
-				[62045] = true,
-				[41501] = true,
-				[46776] = true,
-				[17632] = true,
-				[45549] = true,
-				[39721] = true,
-				[18246] = true,
-				[17574] = true,
-				[31090] = true,
-				[68253] = true,
-				[53995] = true,
-				[17638] = true,
+				[39462] = true,
+				[66035] = true,
 				[41415] = true,
-				[43493] = true,
+				[25614] = true,
 				[45571] = true,
+				[58528] = true,
+				[53883] = true,
+				[55395] = true,
+				[36524] = true,
+				[6416] = true,
+				[25619] = true,
+				[31081] = true,
+				[17574] = true,
+				[38867] = true,
+				[68253] = true,
+				[31113] = true,
+				[17638] = true,
+				[28907] = true,
+				[43493] = true,
+				[33295] = true,
 				[26909] = true,
 				[26925] = true,
-				[62409] = true,
+				[39721] = true,
 				[7258] = true,
-				[31065] = true,
-				[31081] = true,
-				[11464] = true,
-				[31113] = true,
-				[11480] = true,
 				[11448] = true,
-				[66035] = true,
-				[26878] = true,
-				[36526] = true,
-				[58528] = true,
-				[53949] = true,
-				[60405] = true,
-				[55395] = true,
-				[21923] = true,
-				[55386] = true,
-				[6416] = true,
-				[3177] = true,
+				[53947] = true,
+				[11464] = true,
+				[11472] = true,
+				[11480] = true,
 				[56085] = true,
-				[38867] = true,
-				[11459] = true,
-				[55387] = true,
-				[46403] = true,
+				[31097] = true,
 				[58144] = true,
+				[66034] = true,
 				[43758] = true,
+				[53979] = true,
+				[60405] = true,
 				[28576] = true,
+				[28544] = true,
+				[55386] = true,
+				[62044] = true,
+				[28552] = true,
+				[3448] = true,
+				[48789] = true,
+				[28938] = true,
+				[3175] = true,
+				[46403] = true,
+				[3177] = true,
+				[53852] = true,
+				[28556] = true,
 				[3171] = true,
 				[3173] = true,
 				[33296] = true,
 				[39466] = true,
 				[24368] = true,
-				[53852] = true,
+				[18246] = true,
 				[53884] = true,
-				[36525] = true,
+				[53916] = true,
 				[53948] = true,
 				[53980] = true,
-				[28556] = true,
+				[54012] = true,
 				[28572] = true,
 				[28588] = true,
-				[66034] = true,
-				[53988] = true,
+				[53867] = true,
+				[6419] = true,
 				[66338] = true,
 				[37836] = true,
-				[31050] = true,
+				[55387] = true,
 				[45061] = true,
 				[6415] = true,
 				[66658] = true,
 				[57433] = true,
 				[34959] = true,
-				[53917] = true,
-				[53981] = true,
-				[62044] = true,
+				[11467] = true,
+				[28924] = true,
+				[26910] = true,
 				[17559] = true,
 				[17575] = true,
 				[46404] = true,
-				[18247] = true,
-				[54014] = true,
-				[28552] = true,
-				[3175] = true,
-				[28924] = true,
-				[45559] = true,
+				[26926] = true,
+				[57440] = true,
+				[31066] = true,
+				[38962] = true,
+				[26878] = true,
+				[39723] = true,
 				[39467] = true,
 				[66659] = true,
 				[53853] = true,
-				[53885] = true,
-				[31066] = true,
-				[6499] = true,
+				[31050] = true,
+				[53917] = true,
+				[53949] = true,
 				[31098] = true,
 				[54013] = true,
-				[39723] = true,
+				[21923] = true,
 				[20916] = true,
-				[53919] = true,
-				[31067] = true,
-				[58871] = true,
-				[26910] = true,
-				[3371] = true,
-				[28938] = true,
-				[11449] = true,
+				[53981] = true,
+				[41503] = true,
+				[39715] = true,
+				[11477] = true,
+				[41502] = true,
+				[55388] = true,
+				[58143] = true,
 				[66660] = true,
 				[57434] = true,
 				[34960] = true,
 				[58521] = true,
-				[53998] = true,
-				[11467] = true,
+				[31101] = true,
+				[53987] = true,
 				[63732] = true,
-				[39705] = true,
+				[11458] = true,
 				[46405] = true,
-				[57440] = true,
-				[57436] = true,
-				[38962] = true,
+				[25280] = true,
+				[53923] = true,
+				[53891] = true,
 				[41418] = true,
-				[53991] = true,
+				[7255] = true,
 				[46597] = true,
-				[41502] = true,
-				[17576] = true,
+				[39714] = true,
+				[39724] = true,
 				[53854] = true,
 				[53886] = true,
 				[53918] = true,
 				[53950] = true,
 				[53982] = true,
 				[28557] = true,
-				[39724] = true,
+				[28573] = true,
 				[28589] = true,
-				[24418] = true,
-				[28957] = true,
-				[31101] = true,
-				[53855] = true,
-				[58143] = true,
-				[31083] = true,
-				[11466] = true,
-				[66662] = true,
+				[66433] = true,
+				[28927] = true,
+				[54014] = true,
 				[55389] = true,
+				[31067] = true,
+				[53951] = true,
+				[26911] = true,
+				[66662] = true,
+				[57435] = true,
 				[34961] = true,
-				[11458] = true,
-				[53923] = true,
-				[53891] = true,
+				[53855] = true,
+				[31051] = true,
+				[3377] = true,
 				[17560] = true,
-				[2330] = true,
+				[17576] = true,
 				[2332] = true,
 				[2334] = true,
 				[2336] = true,
 				[24801] = true,
-				[7255] = true,
+				[31083] = true,
 				[28925] = true,
 				[7754] = true,
-				[26911] = true,
-				[26927] = true,
+				[28957] = true,
+				[66663] = true,
 				[3373] = true,
 				[53887] = true,
-				[3377] = true,
-				[53951] = true,
-				[31099] = true,
+				[11449] = true,
+				[11457] = true,
+				[11465] = true,
 				[11473] = true,
 				[39725] = true,
 				[53056] = true,
-				[56052] = true,
-				[39714] = true,
-				[66433] = true,
+				[54011] = true,
+				[31082] = true,
+				[57439] = true,
 				[47046] = true,
 				[3397] = true,
 				[3399] = true,
-				[28927] = true,
-				[66664] = true,
-				[55390] = true,
-				[31068] = true,
-				[58523] = true,
-				[31100] = true,
-				[64725] = true,
-				[54011] = true,
-				[31082] = true,
 				[31078] = true,
-				[3447] = true,
-				[3451] = true,
+				[66664] = true,
+				[57436] = true,
+				[38961] = true,
+				[58523] = true,
+				[7179] = true,
+				[64725] = true,
+				[55390] = true,
+				[39639] = true,
 				[53983] = true,
-				[41420] = true,
 				[54006] = true,
-				[39722] = true,
+				[53782] = true,
+				[53920] = true,
+				[41420] = true,
+				[39728] = true,
+				[3451] = true,
 				[8604] = true,
 				[64054] = true,
 				[53856] = true,
 				[53888] = true,
-				[53920] = true,
+				[24418] = true,
 				[53952] = true,
 				[53984] = true,
 				[28558] = true,
@@ -1555,56 +1565,56 @@ ZygorGuidesViewerSettings = {
 				[3453] = true,
 				[15853] = true,
 				[15861] = true,
-				[39639] = true,
-				[57439] = true,
+				[28543] = true,
+				[53954] = true,
 				[25617] = true,
-				[38961] = true,
-				[7179] = true,
+				[53922] = true,
+				[53890] = true,
 				[57437] = true,
 				[58492] = true,
-				[66434] = true,
+				[26912] = true,
 				[15933] = true,
 				[64726] = true,
 				[17561] = true,
 				[17577] = true,
-				[53889] = true,
+				[31052] = true,
 				[36210] = true,
-				[53954] = true,
-				[39728] = true,
+				[53921] = true,
+				[31084] = true,
 				[28910] = true,
 				[26880] = true,
 				[26896] = true,
-				[26912] = true,
+				[39471] = true,
 				[26928] = true,
 				[53857] = true,
-				[31052] = true,
-				[53921] = true,
+				[53889] = true,
+				[31068] = true,
 				[53953] = true,
-				[53985] = true,
+				[31100] = true,
 				[54017] = true,
 				[58141] = true,
-				[56074] = true,
-				[39711] = true,
+				[3447] = true,
+				[39727] = true,
 				[28575] = true,
 				[54010] = true,
 				[47048] = true,
-				[28543] = true,
-				[39716] = true,
+				[53985] = true,
+				[56074] = true,
 				[38960] = true,
-				[53922] = true,
-				[57438] = true,
-				[53890] = true,
-				[58525] = true,
+				[39711] = true,
+				[55392] = true,
 				[54218] = true,
+				[58525] = true,
+				[46777] = true,
 				[64727] = true,
 				[34069] = true,
-				[46777] = true,
+				[57438] = true,
 				[28577] = true,
 				[41458] = true,
 				[46778] = true,
-				[55392] = true,
 				[3176] = true,
 				[7183] = true,
+				[39716] = true,
 				[46601] = true,
 				[2538] = true,
 				[2540] = true,
@@ -1613,97 +1623,97 @@ ZygorGuidesViewerSettings = {
 				[2546] = true,
 				[2548] = true,
 				[53986] = true,
-				[39710] = true,
+				[25490] = true,
 				[58142] = true,
 				[28591] = true,
-				[53782] = true,
-				[39727] = true,
-				[31084] = true,
+				[39470] = true,
+				[66434] = true,
+				[39710] = true,
 				[47049] = true,
-				[39471] = true,
+				[39722] = true,
 				[25618] = true,
 				[46122] = true,
 				[7259] = true,
 				[55393] = true,
 				[7181] = true,
 				[25954] = true,
-				[53955] = true,
+				[31099] = true,
 				[64728] = true,
 				[17562] = true,
 				[17578] = true,
-				[39470] = true,
-				[57423] = true,
-				[31051] = true,
-				[53927] = true,
-				[41503] = true,
+				[26927] = true,
+				[2330] = true,
+				[53919] = true,
+				[3371] = true,
+				[53955] = true,
 				[26881] = true,
 				[26897] = true,
-				[11457] = true,
-				[11477] = true,
+				[18247] = true,
+				[57423] = true,
 				[53859] = true,
 				[31053] = true,
 				[11450] = true,
 				[31085] = true,
-				[53987] = true,
+				[11466] = true,
 				[54019] = true,
 				[39729] = true,
 				[31149] = true,
-				[66663] = true,
+				[56052] = true,
 				[56193] = true,
-				[11465] = true,
+				[39705] = true,
 				[47050] = true,
-				[57435] = true,
-				[53867] = true,
+				[53998] = true,
+				[6499] = true,
 				[46123] = true,
-				[39715] = true,
+				[36526] = true,
 				[55394] = true,
-				[28573] = true,
+				[53885] = true,
 				[58527] = true,
 				[12609] = true,
-				[48789] = true,
+				[53927] = true,
 				[21143] = true,
-				[53959] = true,
+				[25615] = true,
 				[21175] = true,
 				[25283] = true,
-				[15910] = true,
-				[55388] = true,
-				[3448] = true,
+				[36525] = true,
+				[58871] = true,
+				[53991] = true,
 				[60893] = true,
-				[54012] = true,
-				[53979] = true,
-				[66563] = true,
+				[53959] = true,
+				[15910] = true,
+				[45559] = true,
 				[53860] = true,
 				[53892] = true,
 				[53924] = true,
 				[53956] = true,
-				[28544] = true,
+				[53988] = true,
 				[54020] = true,
 				[39730] = true,
+				[66563] = true,
 				[66497] = true,
-				[31097] = true,
 				[56194] = true,
-				[6419] = true,
+				[11456] = true,
 				[60350] = true,
-				[53916] = true,
+				[31065] = true,
 				[6412] = true,
 				[46124] = true,
-				[39462] = true,
+				[31049] = true,
 				[57441] = true,
-				[54007] = true,
-				[38068] = true,
-				[66430] = true,
 				[56089] = true,
+				[38068] = true,
+				[28955] = true,
+				[11459] = true,
 				[17563] = true,
 				[17579] = true,
-				[31049] = true,
-				[42736] = true,
-				[53771] = true,
-				[33295] = true,
+				[66430] = true,
+				[39720] = true,
+				[56056] = true,
+				[62409] = true,
 				[28912] = true,
 				[26882] = true,
 				[28944] = true,
 				[26914] = true,
-				[66575] = true,
+				[17632] = true,
 				[53861] = true,
 				[31054] = true,
 				[31070] = true,
@@ -1711,30 +1721,30 @@ ZygorGuidesViewerSettings = {
 				[53989] = true,
 				[66036] = true,
 				[39731] = true,
-				[39720] = true,
-				[31110] = true,
+				[46776] = true,
+				[41501] = true,
 				[56195] = true,
-				[53776] = true,
+				[56055] = true,
 				[54213] = true,
-				[53964] = true,
-				[53870] = true,
+				[53945] = true,
+				[31048] = true,
 				[46125] = true,
-				[66571] = true,
+				[33293] = true,
 				[55396] = true,
-				[58954] = true,
-				[45570] = true,
-				[53967] = true,
-				[53783] = true,
+				[39463] = true,
+				[58868] = true,
+				[31108] = true,
+				[53776] = true,
 				[66037] = true,
-				[53875] = true,
-				[31092] = true,
-				[39719] = true,
-				[33284] = true,
-				[31080] = true,
-				[22808] = true,
+				[28570] = true,
+				[54008] = true,
+				[25284] = true,
+				[66585] = true,
+				[53870] = true,
+				[37855] = true,
 				[62941] = true,
-				[54009] = true,
-				[15865] = true,
+				[66571] = true,
+				[58954] = true,
 				[53830] = true,
 				[53862] = true,
 				[53894] = true,
@@ -1743,27 +1753,27 @@ ZygorGuidesViewerSettings = {
 				[28545] = true,
 				[66038] = true,
 				[39732] = true,
-				[46688] = true,
-				[39463] = true,
+				[33284] = true,
+				[39717] = true,
 				[56196] = true,
-				[55397] = true,
+				[31079] = true,
 				[47053] = true,
 				[32765] = true,
 				[25620] = true,
 				[46126] = true,
-				[28579] = true,
-				[8238] = true,
-				[66577] = true,
+				[3400] = true,
+				[57443] = true,
+				[55397] = true,
 				[38070] = true,
-				[56086] = true,
-				[28554] = true,
+				[42593] = true,
+				[2795] = true,
 				[17564] = true,
 				[17580] = true,
-				[56076] = true,
-				[28916] = true,
-				[31076] = true,
-				[66432] = true,
-				[31077] = true,
+				[47056] = true,
+				[46775] = true,
+				[39742] = true,
+				[28579] = true,
+				[45551] = true,
 				[26883] = true,
 				[7755] = true,
 				[26915] = true,
@@ -1775,89 +1785,89 @@ ZygorGuidesViewerSettings = {
 				[31103] = true,
 				[54023] = true,
 				[39733] = true,
-				[11479] = true,
-				[56053] = true,
+				[42592] = true,
+				[26906] = true,
 				[56197] = true,
-				[53943] = true,
+				[66451] = true,
 				[47054] = true,
-				[45567] = true,
-				[66579] = true,
+				[66578] = true,
+				[58065] = true,
 				[46127] = true,
 				[7827] = true,
 				[55398] = true,
-				[31057] = true,
-				[56084] = true,
-				[6618] = true,
-				[2795] = true,
-				[45566] = true,
-				[66451] = true,
-				[26902] = true,
-				[45560] = true,
-				[33289] = true,
-				[53781] = true,
-				[66580] = true,
+				[53780] = true,
+				[25339] = true,
+				[6414] = true,
+				[66577] = true,
+				[54222] = true,
+				[56076] = true,
+				[39712] = true,
+				[28916] = true,
+				[39713] = true,
+				[25317] = true,
+				[11478] = true,
 				[45552] = true,
 				[66553] = true,
-				[39961] = true,
+				[53939] = true,
 				[53832] = true,
 				[53864] = true,
-				[31094] = true,
+				[25610] = true,
 				[53928] = true,
 				[53960] = true,
 				[53992] = true,
 				[25493] = true,
-				[39734] = true,
-				[25659] = true,
-				[66578] = true,
+				[28578] = true,
+				[28567] = true,
+				[43772] = true,
 				[15855] = true,
 				[15863] = true,
 				[47055] = true,
 				[32766] = true,
 				[66554] = true,
-				[45564] = true,
-				[66449] = true,
+				[58148] = true,
+				[53842] = true,
 				[55399] = true,
-				[46803] = true,
-				[43772] = true,
+				[39706] = true,
+				[64358] = true,
 				[15935] = true,
-				[4942] = true,
+				[53777] = true,
 				[17565] = true,
-				[31058] = true,
-				[18238] = true,
-				[31060] = true,
-				[44794] = true,
-				[60365] = true,
+				[33285] = true,
+				[66443] = true,
+				[53963] = true,
+				[31057] = true,
+				[26902] = true,
 				[28914] = true,
 				[45553] = true,
-				[26900] = true,
+				[4942] = true,
 				[26916] = true,
-				[53843] = true,
+				[15833] = true,
 				[53865] = true,
 				[31056] = true,
 				[31072] = true,
 				[31088] = true,
 				[31104] = true,
-				[18239] = true,
+				[26900] = true,
 				[39735] = true,
-				[28915] = true,
-				[28948] = true,
-				[56199] = true,
-				[2543] = true,
-				[60355] = true,
+				[31091] = true,
 				[3376] = true,
+				[56199] = true,
+				[55405] = true,
+				[60355] = true,
+				[26887] = true,
 				[66556] = true,
-				[15833] = true,
-				[39455] = true,
+				[39738] = true,
+				[66565] = true,
 				[55400] = true,
-				[34590] = true,
+				[46803] = true,
 				[47280] = true,
 				[56519] = true,
-				[39963] = true,
-				[3372] = true,
+				[43765] = true,
+				[15856] = true,
 				[26277] = true,
-				[13028] = true,
-				[58507] = true,
-				[66443] = true,
+				[28947] = true,
+				[6501] = true,
+				[66564] = true,
 				[25318] = true,
 				[66429] = true,
 				[45554] = true,
@@ -1889,9 +1899,9 @@ ZygorGuidesViewerSettings = {
 				["Camp Tunka'lo"] = true,
 				["Argent Tournament Grounds"] = true,
 				["Dalaran"] = true,
-				["The Shadow Vault"] = true,
-				["Krasus' Landing"] = true,
 				["Camp Oneqwah"] = true,
+				["Krasus' Landing"] = true,
+				["The Shadow Vault"] = true,
 				["Agmar's Hammer"] = true,
 				["Vengeance Landing"] = true,
 				["Venomspite"] = true,
@@ -2023,10 +2033,7 @@ ZygorGuidesViewerSettings = {
 				"23:28:26> FocusStep 125", -- [99]
 				"23:28:26> unpausing", -- [100]
 			},
-			["RecipesKnown"] = {
-				[53341] = true,
-				[53343] = true,
-			},
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 				[3] = true,
 				["Refuge Pointe"] = true,
@@ -2054,11 +2061,23 @@ ZygorGuidesViewerSettings = {
 				["Honor Hold"] = true,
 				["Southshore"] = true,
 			},
-			["maint_fetchquestdata"] = true,
+			["RecipesKnown"] = {
+				[53341] = true,
+				[53343] = true,
+			},
 			["starting"] = false,
 		},
 		["Riv - Frozen Nexus"] = {
 			["starting"] = false,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["guides_history"] = {
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 1,
+				}, -- [1]
+			},
+			["maint_fetchquestdata"] = true,
 			["RecipesKnown"] = {
 				[67086] = true,
 				[57163] = true,
@@ -2762,7 +2781,7 @@ ZygorGuidesViewerSettings = {
 				[9072] = true,
 				[58320] = true,
 				[9926] = true,
-				[64303] = true,
+				[9942] = true,
 				[58336] = true,
 				[9974] = true,
 				[62448] = true,
@@ -2799,7 +2818,7 @@ ZygorGuidesViewerSettings = {
 				[46132] = true,
 				[34537] = true,
 				[46137] = true,
-				[16967] = true,
+				[48248] = true,
 				[10550] = true,
 				[10566] = true,
 				[48247] = true,
@@ -2856,7 +2875,7 @@ ZygorGuidesViewerSettings = {
 				[16648] = true,
 				[3297] = true,
 				[57711] = true,
-				[16744] = true,
+				[35520] = true,
 				[35584] = true,
 				[71101] = true,
 				[16724] = true,
@@ -2900,7 +2919,7 @@ ZygorGuidesViewerSettings = {
 				[56991] = true,
 				[60725] = true,
 				[57168] = true,
-				[50618] = true,
+				[32481] = true,
 				[36353] = true,
 				[57224] = true,
 				[56951] = true,
@@ -2925,17 +2944,17 @@ ZygorGuidesViewerSettings = {
 				[64308] = true,
 				[60716] = true,
 				[10487] = true,
-				[16969] = true,
-				[46141] = true,
 				[58487] = true,
+				[46141] = true,
+				[16969] = true,
 				[19048] = true,
 				[19080] = true,
 				[57253] = true,
 				[57126] = true,
 				[50619] = true,
-				[2663] = true,
 				[10647] = true,
-				[2667] = true,
+				[2663] = true,
+				[56952] = true,
 				[2671] = true,
 				[50939] = true,
 				[29603] = true,
@@ -2952,7 +2971,7 @@ ZygorGuidesViewerSettings = {
 				[57233] = true,
 				[64053] = true,
 				[10556] = true,
-				[71015] = true,
+				[35523] = true,
 				[35587] = true,
 				[64309] = true,
 				[56988] = true,
@@ -2989,10 +3008,10 @@ ZygorGuidesViewerSettings = {
 				[64310] = true,
 				[34544] = true,
 				[58297] = true,
-				[16970] = true,
-				[40002] = true,
 				[58489] = true,
-				[19049] = true,
+				[40002] = true,
+				[16970] = true,
+				[60600] = true,
 				[19081] = true,
 				[60728] = true,
 				[10546] = true,
@@ -3015,21 +3034,21 @@ ZygorGuidesViewerSettings = {
 				[57202] = true,
 				[57195] = true,
 				[11454] = true,
-				[35589] = true,
+				[64247] = true,
 				[35525] = true,
-				[9928] = true,
+				[35589] = true,
 				[64311] = true,
 				[57181] = true,
 				[58298] = true,
 				[36134] = true,
-				[46144] = true,
+				[40003] = true,
 				[58490] = true,
 				[60601] = true,
 				[60665] = true,
 				[60729] = true,
-				[36357] = true,
-				[20201] = true,
 				[52733] = true,
+				[20201] = true,
+				[36357] = true,
 				[60652] = true,
 				[56955] = true,
 				[57019] = true,
@@ -3044,31 +3063,31 @@ ZygorGuidesViewerSettings = {
 				[57158] = true,
 				[20649] = true,
 				[36076] = true,
-				[35590] = true,
+				[20873] = true,
 				[16651] = true,
-				[58491] = true,
+				[16971] = true,
 				[3115] = true,
 				[35526] = true,
 				[64248] = true,
 				[64312] = true,
 				[38479] = true,
 				[58299] = true,
-				[21161] = true,
-				[40004] = true,
-				[16971] = true,
-				[19050] = true,
-				[10568] = true,
 				[60730] = true,
+				[40004] = true,
+				[58491] = true,
+				[19050] = true,
+				[19082] = true,
+				[21161] = true,
 				[64268] = true,
 				[64285] = true,
-				[36358] = true,
+				[10632] = true,
 				[64283] = true,
 				[56956] = true,
 				[57020] = true,
 				[50943] = true,
 				[29605] = true,
-				[27590] = true,
-				[57276] = true,
+				[57212] = true,
+				[29669] = true,
 				[59387] = true,
 				[64281] = true,
 				[58565] = true,
@@ -3078,8 +3097,8 @@ ZygorGuidesViewerSettings = {
 				[60666] = true,
 				[63198] = true,
 				[64286] = true,
-				[62202] = true,
 				[35591] = true,
+				[62202] = true,
 				[35527] = true,
 				[64249] = true,
 				[64313] = true,
@@ -3088,18 +3107,18 @@ ZygorGuidesViewerSettings = {
 				[35536] = true,
 				[40005] = true,
 				[24136] = true,
-				[9145] = true,
-				[57213] = true,
+				[57021] = true,
+				[3323] = true,
 				[60731] = true,
 				[9065] = true,
 				[3295] = true,
 				[36359] = true,
 				[6661] = true,
 				[56957] = true,
-				[57021] = true,
+				[9145] = true,
 				[50944] = true,
 				[3319] = true,
-				[3323] = true,
+				[57213] = true,
 				[57277] = true,
 				[3331] = true,
 				[64289] = true,
@@ -3111,16 +3130,16 @@ ZygorGuidesViewerSettings = {
 				[69385] = true,
 				[16652] = true,
 				[55312] = true,
-				[64250] = true,
+				[20874] = true,
 				[35528] = true,
-				[22921] = true,
+				[64250] = true,
 				[64314] = true,
 				[2674] = true,
 				[58301] = true,
-				[60604] = true,
+				[19051] = true,
 				[40006] = true,
 				[57221] = true,
-				[19051] = true,
+				[60604] = true,
 				[19083] = true,
 				[60732] = true,
 				[9195] = true,
@@ -3143,10 +3162,10 @@ ZygorGuidesViewerSettings = {
 				[3503] = true,
 				[3491] = true,
 				[3495] = true,
-				[3507] = true,
-				[35529] = true,
 				[64251] = true,
-				[64315] = true,
+				[35529] = true,
+				[3507] = true,
+				[3511] = true,
 				[3515] = true,
 				[58302] = true,
 				[9993] = true,
@@ -3158,11 +3177,11 @@ ZygorGuidesViewerSettings = {
 				[2169] = true,
 				[32485] = true,
 				[7133] = true,
-				[61117] = true,
-				[56959] = true,
 				[57023] = true,
+				[56959] = true,
+				[61117] = true,
 				[50946] = true,
-				[7149] = true,
+				[57151] = true,
 				[57215] = true,
 				[59326] = true,
 				[29547] = true,
@@ -3174,11 +3193,11 @@ ZygorGuidesViewerSettings = {
 				[7221] = true,
 				[67136] = true,
 				[16653] = true,
-				[22922] = true,
-				[64316] = true,
-				[35530] = true,
 				[64252] = true,
 				[43846] = true,
+				[35530] = true,
+				[22922] = true,
+				[64316] = true,
 				[46140] = true,
 				[58303] = true,
 				[2163] = true,
@@ -3188,43 +3207,43 @@ ZygorGuidesViewerSettings = {
 				[19084] = true,
 				[60734] = true,
 				[36079] = true,
-				[57028] = true,
+				[54981] = true,
 				[52738] = true,
 				[38473] = true,
 				[56960] = true,
-				[61118] = true,
+				[57024] = true,
 				[50947] = true,
 				[57152] = true,
 				[57216] = true,
 				[29671] = true,
-				[54981] = true,
+				[2160] = true,
 				[57156] = true,
 				[2164] = true,
 				[41160] = true,
-				[29545] = true,
+				[57028] = true,
 				[45382] = true,
 				[44768] = true,
 				[38477] = true,
-				[3759] = true,
-				[3767] = true,
-				[60735] = true,
 				[35531] = true,
-				[64253] = true,
 				[64317] = true,
+				[44359] = true,
+				[3759] = true,
+				[3763] = true,
+				[3767] = true,
 				[3771] = true,
 				[3775] = true,
 				[3779] = true,
-				[9146] = true,
+				[54978] = true,
 				[24138] = true,
 				[60607] = true,
 				[60671] = true,
-				[44359] = true,
+				[60735] = true,
 				[32454] = true,
 				[19086] = true,
 				[52739] = true,
 				[19054] = true,
 				[56961] = true,
-				[54978] = true,
+				[61119] = true,
 				[50948] = true,
 				[57153] = true,
 				[57217] = true,
@@ -3241,24 +3260,24 @@ ZygorGuidesViewerSettings = {
 				[10552] = true,
 				[42662] = true,
 				[35532] = true,
-				[64254] = true,
+				[22923] = true,
 				[64318] = true,
 				[2740] = true,
 				[58305] = true,
 				[67083] = true,
 				[60660] = true,
-				[19053] = true,
 				[60608] = true,
+				[19053] = true,
 				[19085] = true,
 				[26279] = true,
 				[20876] = true,
 				[34530] = true,
 				[19066] = true,
 				[38475] = true,
+				[57026] = true,
 				[61120] = true,
-				[54979] = true,
 				[50949] = true,
-				[57154] = true,
+				[29608] = true,
 				[57218] = true,
 				[29672] = true,
 				[29657] = true,
@@ -3294,8 +3313,8 @@ ZygorGuidesViewerSettings = {
 				[57219] = true,
 				[19070] = true,
 				[55300] = true,
-				[29608] = true,
-				[57026] = true,
+				[57154] = true,
+				[54979] = true,
 				[41163] = true,
 				[50962] = true,
 				[22928] = true,
@@ -3303,7 +3322,7 @@ ZygorGuidesViewerSettings = {
 				[3117] = true,
 				[16655] = true,
 				[54551] = true,
-				[22923] = true,
+				[64254] = true,
 				[35534] = true,
 				[64256] = true,
 				[10520] = true,
@@ -3314,17 +3333,17 @@ ZygorGuidesViewerSettings = {
 				[9194] = true,
 				[10554] = true,
 				[10570] = true,
+				[9146] = true,
 				[57025] = true,
-				[61119] = true,
-				[3763] = true,
+				[64253] = true,
 				[2152] = true,
 				[10650] = true,
 				[54917] = true,
-				[2160] = true,
+				[29545] = true,
 				[50951] = true,
 				[2168] = true,
 				[57220] = true,
-				[57024] = true,
+				[61118] = true,
 				[55301] = true,
 				[60658] = true,
 				[23628] = true,
@@ -3338,11 +3357,11 @@ ZygorGuidesViewerSettings = {
 				[60645] = true,
 				[35535] = true,
 				[64257] = true,
-				[57151] = true,
+				[7149] = true,
 				[6518] = true,
 				[58308] = true,
 				[55055] = true,
-				[3511] = true,
+				[64315] = true,
 				[24140] = true,
 				[60611] = true,
 				[29557] = true,
@@ -3358,7 +3377,7 @@ ZygorGuidesViewerSettings = {
 				[55174] = true,
 				[57696] = true,
 				[55302] = true,
-				[20874] = true,
+				[22921] = true,
 				[29728] = true,
 				[63187] = true,
 				[63196] = true,
@@ -3378,12 +3397,12 @@ ZygorGuidesViewerSettings = {
 				[64282] = true,
 				[19055] = true,
 				[19087] = true,
-				[29669] = true,
-				[57212] = true,
-				[10632] = true,
-				[19082] = true,
+				[57276] = true,
+				[27590] = true,
+				[36358] = true,
+				[10568] = true,
 				[60996] = true,
-				[20873] = true,
+				[35590] = true,
 				[57030] = true,
 				[50953] = true,
 				[29610] = true,
@@ -3394,9 +3413,9 @@ ZygorGuidesViewerSettings = {
 				[23629] = true,
 				[29556] = true,
 				[10572] = true,
-				[40003] = true,
+				[46144] = true,
 				[50620] = true,
-				[64247] = true,
+				[9928] = true,
 				[16660] = true,
 				[60622] = true,
 				[57012] = true,
@@ -3410,7 +3429,7 @@ ZygorGuidesViewerSettings = {
 				[24141] = true,
 				[60613] = true,
 				[57127] = true,
-				[60600] = true,
+				[19049] = true,
 				[32457] = true,
 				[32489] = true,
 				[10564] = true,
@@ -3426,7 +3445,7 @@ ZygorGuidesViewerSettings = {
 				[24125] = true,
 				[19094] = true,
 				[10548] = true,
-				[35523] = true,
+				[71015] = true,
 				[7222] = true,
 				[57264] = true,
 				[16657] = true,
@@ -3435,7 +3454,7 @@ ZygorGuidesViewerSettings = {
 				[35538] = true,
 				[22926] = true,
 				[34981] = true,
-				[56952] = true,
+				[2667] = true,
 				[58311] = true,
 				[10507] = true,
 				[57248] = true,
@@ -3452,7 +3471,7 @@ ZygorGuidesViewerSettings = {
 				[50955] = true,
 				[29611] = true,
 				[55177] = true,
-				[32481] = true,
+				[50618] = true,
 				[55305] = true,
 				[55369] = true,
 				[36130] = true,
@@ -3473,7 +3492,7 @@ ZygorGuidesViewerSettings = {
 				[55374] = true,
 				[55182] = true,
 				[8368] = true,
-				[35520] = true,
+				[16744] = true,
 				[60743] = true,
 				[9068] = true,
 				[32490] = true,
@@ -3502,7 +3521,7 @@ ZygorGuidesViewerSettings = {
 				[69386] = true,
 				[58313] = true,
 				[19061] = true,
-				[48248] = true,
+				[16967] = true,
 				[16978] = true,
 				[57121] = true,
 				[19089] = true,
@@ -3521,7 +3540,7 @@ ZygorGuidesViewerSettings = {
 				[55371] = true,
 				[32496] = true,
 				[2166] = true,
-				[9942] = true,
+				[64303] = true,
 				[9820] = true,
 				[20855] = true,
 				[56995] = true,
@@ -3547,291 +3566,238 @@ ZygorGuidesViewerSettings = {
 				[57035] = true,
 				[2881] = true,
 			},
-			["guides_history"] = {
-				{
-					["short"] = "Blood Elf (1-13)",
-					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-					["step"] = 1,
-				}, -- [1]
-			},
-			["maint_fetchquestdata"] = true,
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
 				["Krasus' Landing"] = true,
 			},
 			["debuglog"] = {
-				"01:41:16> CacheQuestLog cached 1 quests", -- [1]
-				"01:41:16> CacheQuestLog cached 1 quests", -- [2]
-				"01:41:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [3]
-				"01:41:20> PLAYER_ENTERING_WORLD (dead?)", -- [4]
-				"01:41:20> PLAYER_ALIVE (dead?)", -- [5]
-				"01:41:20> CacheQuestLog cached 1 quests", -- [6]
-				"01:41:20> CacheQuestLog cached 1 quests", -- [7]
-				"01:41:20> ZONE_CHANGED_NEW_AREA (dead?)", -- [8]
-				"01:56:30> Viewer started. ---------------------------", -- [9]
-				"01:56:30> PLAYER_ENTERING_WORLD (dead?)", -- [10]
-				"01:56:30> PLAYER_ALIVE (dead?)", -- [11]
-				"01:56:30> CacheQuestLog cached 1 quests", -- [12]
-				"01:56:30> New Quest: Deliverance from the Pit id 24712", -- [13]
-				"01:56:30> Got completed quests list", -- [14]
-				"01:56:30> CacheQuestLog cached 1 quests", -- [15]
-				"01:56:31> ZONE_CHANGED_NEW_AREA (dead?)", -- [16]
-				"01:56:32> Guides loaded. -----", -- [17]
-				"01:56:32> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [18]
-				"01:56:32> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [19]
-				"01:56:32> FocusStep 1", -- [20]
-				"11:59:34> Viewer started. ---------------------------", -- [21]
-				"11:59:35> PLAYER_ENTERING_WORLD (dead?)", -- [22]
-				"11:59:35> PLAYER_ALIVE (dead?)", -- [23]
-				"11:59:35> CacheQuestLog cached 1 quests", -- [24]
-				"11:59:35> New Quest: Deliverance from the Pit id 24712", -- [25]
-				"11:59:35> Got completed quests list", -- [26]
-				"11:59:35> CacheQuestLog cached 1 quests", -- [27]
-				"11:59:35> ZONE_CHANGED_NEW_AREA (dead?)", -- [28]
-				"11:59:37> Guides loaded. -----", -- [29]
-				"11:59:37> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [30]
-				"11:59:37> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [31]
-				"11:59:37> FocusStep 1", -- [32]
-				"11:59:41> PLAYER_ENTERING_WORLD (dead?)", -- [33]
-				"11:59:41> PLAYER_ALIVE (dead?)", -- [34]
-				"11:59:41> CacheQuestLog cached 1 quests", -- [35]
-				"11:59:41> CacheQuestLog cached 1 quests", -- [36]
-				"11:59:41> CacheQuestLog cached 1 quests", -- [37]
-				"11:59:41> ZONE_CHANGED_NEW_AREA (dead?)", -- [38]
-				"12:01:29> PLAYER_ENTERING_WORLD (dead?)", -- [39]
-				"12:01:29> Player dead!", -- [40]
-				"12:01:29> SetCorpseArrow, mc/mz=4/0", -- [41]
-				"12:01:29> SetCorpseArrow, seeking corpse", -- [42]
-				"12:01:29> SetCorpseArrow, corpse on c=1? 0:0", -- [43]
-				"12:01:29> SetCorpseArrow, corpse on c=2? 0:0", -- [44]
-				"12:01:29> SetCorpseArrow, corpse on c=3? 0:0", -- [45]
-				"12:01:29> SetCorpseArrow, corpse on c=4? 0:0", -- [46]
-				"12:01:29> SetCorpseArrow, corpse on cont 0", -- [47]
-				"12:01:29> PLAYER_ALIVE (dead?)", -- [48]
-				"12:01:29> Player dead!", -- [49]
-				"12:01:29> SetCorpseArrow, mc/mz=4/0", -- [50]
-				"12:01:29> SetCorpseArrow, seeking corpse", -- [51]
-				"12:01:29> SetCorpseArrow, corpse on c=1? 0:0", -- [52]
-				"12:01:29> SetCorpseArrow, corpse on c=2? 0:0", -- [53]
-				"12:01:29> SetCorpseArrow, corpse on c=3? 0:0", -- [54]
-				"12:01:29> SetCorpseArrow, corpse on c=4? 0:0", -- [55]
-				"12:01:29> SetCorpseArrow, corpse on cont 0", -- [56]
-				"12:01:29> CacheQuestLog cached 1 quests", -- [57]
-				"12:01:29> CacheQuestLog cached 1 quests", -- [58]
-				"12:01:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [59]
-				"12:01:29> Player dead!", -- [60]
-				"12:01:29> SetCorpseArrow, mc/mz=4/10", -- [61]
-				"12:01:44> PLAYER_ENTERING_WORLD (dead?)", -- [62]
-				"12:01:44> PLAYER_ALIVE (dead?)", -- [63]
-				"12:01:44> ZONE_CHANGED_NEW_AREA (dead?)", -- [64]
-				"12:01:44> CacheQuestLog cached 1 quests", -- [65]
-				"12:01:44> CacheQuestLog cached 1 quests", -- [66]
-				"12:02:02> PLAYER_ENTERING_WORLD (dead?)", -- [67]
-				"12:02:02> Player dead!", -- [68]
-				"12:02:02> SetCorpseArrow, mc/mz=4/0", -- [69]
-				"12:02:02> SetCorpseArrow, seeking corpse", -- [70]
-				"12:02:02> SetCorpseArrow, corpse on c=1? 0:0", -- [71]
-				"12:02:02> SetCorpseArrow, corpse on c=2? 0:0", -- [72]
-				"12:02:02> SetCorpseArrow, corpse on c=3? 0:0", -- [73]
-				"12:02:02> SetCorpseArrow, corpse on c=4? 0:0", -- [74]
-				"12:02:02> SetCorpseArrow, corpse on cont 0", -- [75]
-				"12:02:02> PLAYER_ALIVE (dead?)", -- [76]
-				"12:02:02> Player dead!", -- [77]
-				"12:02:02> SetCorpseArrow, mc/mz=4/0", -- [78]
-				"12:02:02> SetCorpseArrow, seeking corpse", -- [79]
-				"12:02:02> SetCorpseArrow, corpse on c=1? 0:0", -- [80]
-				"12:02:02> SetCorpseArrow, corpse on c=2? 0:0", -- [81]
-				"12:02:02> SetCorpseArrow, corpse on c=3? 0:0", -- [82]
-				"12:02:02> SetCorpseArrow, corpse on c=4? 0:0", -- [83]
-				"12:02:02> SetCorpseArrow, corpse on cont 0", -- [84]
-				"12:02:02> CacheQuestLog cached 1 quests", -- [85]
-				"12:02:02> CacheQuestLog cached 1 quests", -- [86]
-				"12:02:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [87]
-				"12:02:02> Player dead!", -- [88]
-				"12:02:02> SetCorpseArrow, mc/mz=4/10", -- [89]
-				"12:02:22> PLAYER_ENTERING_WORLD (dead?)", -- [90]
-				"12:02:22> PLAYER_ALIVE (dead?)", -- [91]
-				"12:02:22> CacheQuestLog cached 1 quests", -- [92]
-				"12:02:22> ZONE_CHANGED_NEW_AREA (dead?)", -- [93]
-				"12:02:22> CacheQuestLog cached 1 quests", -- [94]
-				"12:02:22> CacheQuestLog cached 1 quests", -- [95]
-				"12:03:37> PLAYER_ENTERING_WORLD (dead?)", -- [96]
-				"12:03:37> PLAYER_ALIVE (dead?)", -- [97]
-				"12:03:37> CacheQuestLog cached 1 quests", -- [98]
-				"12:03:37> CacheQuestLog cached 1 quests", -- [99]
-				"12:03:37> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
+				"12:02:02> PLAYER_ENTERING_WORLD (dead?)", -- [1]
+				"12:02:02> Player dead!", -- [2]
+				"12:02:02> SetCorpseArrow, mc/mz=4/0", -- [3]
+				"12:02:02> SetCorpseArrow, seeking corpse", -- [4]
+				"12:02:02> SetCorpseArrow, corpse on c=1? 0:0", -- [5]
+				"12:02:02> SetCorpseArrow, corpse on c=2? 0:0", -- [6]
+				"12:02:02> SetCorpseArrow, corpse on c=3? 0:0", -- [7]
+				"12:02:02> SetCorpseArrow, corpse on c=4? 0:0", -- [8]
+				"12:02:02> SetCorpseArrow, corpse on cont 0", -- [9]
+				"12:02:02> PLAYER_ALIVE (dead?)", -- [10]
+				"12:02:02> Player dead!", -- [11]
+				"12:02:02> SetCorpseArrow, mc/mz=4/0", -- [12]
+				"12:02:02> SetCorpseArrow, seeking corpse", -- [13]
+				"12:02:02> SetCorpseArrow, corpse on c=1? 0:0", -- [14]
+				"12:02:02> SetCorpseArrow, corpse on c=2? 0:0", -- [15]
+				"12:02:02> SetCorpseArrow, corpse on c=3? 0:0", -- [16]
+				"12:02:02> SetCorpseArrow, corpse on c=4? 0:0", -- [17]
+				"12:02:02> SetCorpseArrow, corpse on cont 0", -- [18]
+				"12:02:02> CacheQuestLog cached 1 quests", -- [19]
+				"12:02:02> CacheQuestLog cached 1 quests", -- [20]
+				"12:02:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [21]
+				"12:02:02> Player dead!", -- [22]
+				"12:02:02> SetCorpseArrow, mc/mz=4/10", -- [23]
+				"12:02:22> PLAYER_ENTERING_WORLD (dead?)", -- [24]
+				"12:02:22> PLAYER_ALIVE (dead?)", -- [25]
+				"12:02:22> CacheQuestLog cached 1 quests", -- [26]
+				"12:02:22> ZONE_CHANGED_NEW_AREA (dead?)", -- [27]
+				"12:02:22> CacheQuestLog cached 1 quests", -- [28]
+				"12:02:22> CacheQuestLog cached 1 quests", -- [29]
+				"12:03:37> PLAYER_ENTERING_WORLD (dead?)", -- [30]
+				"12:03:37> PLAYER_ALIVE (dead?)", -- [31]
+				"12:03:37> CacheQuestLog cached 1 quests", -- [32]
+				"12:03:37> CacheQuestLog cached 1 quests", -- [33]
+				"12:03:37> ZONE_CHANGED_NEW_AREA (dead?)", -- [34]
+				"23:25:38> Viewer started. ---------------------------", -- [35]
+				"23:25:39> PLAYER_ENTERING_WORLD (dead?)", -- [36]
+				"23:25:39> PLAYER_ALIVE (dead?)", -- [37]
+				"23:25:39> CacheQuestLog cached 1 quests", -- [38]
+				"23:25:39> New Quest: Deliverance from the Pit id 24712", -- [39]
+				"23:25:40> Got completed quests list", -- [40]
+				"23:25:40> CacheQuestLog cached 1 quests", -- [41]
+				"23:25:41> ZONE_CHANGED_NEW_AREA (dead?)", -- [42]
+				"23:25:42> Guides loaded. -----", -- [43]
+				"23:25:42> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [44]
+				"23:25:42> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [45]
+				"23:25:42> FocusStep 1", -- [46]
+				"23:25:54> PLAYER_ENTERING_WORLD (dead?)", -- [47]
+				"23:25:54> PLAYER_ALIVE (dead?)", -- [48]
+				"23:25:55> CacheQuestLog cached 1 quests", -- [49]
+				"23:25:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [50]
+				"23:25:55> CacheQuestLog cached 1 quests", -- [51]
+				"23:26:01> PLAYER_ENTERING_WORLD (dead?)", -- [52]
+				"23:26:01> PLAYER_ALIVE (dead?)", -- [53]
+				"23:26:01> CacheQuestLog cached 1 quests", -- [54]
+				"23:26:01> CacheQuestLog cached 1 quests", -- [55]
+				"23:26:01> ZONE_CHANGED_NEW_AREA (dead?)", -- [56]
+				"23:29:29> PLAYER_ENTERING_WORLD (dead?)", -- [57]
+				"23:29:29> PLAYER_ALIVE (dead?)", -- [58]
+				"23:29:29> CacheQuestLog cached 1 quests", -- [59]
+				"23:29:29> CacheQuestLog cached 1 quests", -- [60]
+				"23:29:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [61]
+				"23:29:36> ZONE_CHANGED_NEW_AREA (dead?)", -- [62]
+				"23:30:27> PLAYER_ENTERING_WORLD (dead?)", -- [63]
+				"23:30:27> PLAYER_ALIVE (dead?)", -- [64]
+				"23:30:27> CacheQuestLog cached 1 quests", -- [65]
+				"23:30:27> CacheQuestLog cached 1 quests", -- [66]
+				"23:30:27> ZONE_CHANGED_NEW_AREA (dead?)", -- [67]
+				"23:30:51> PLAYER_ENTERING_WORLD (dead?)", -- [68]
+				"23:30:51> PLAYER_ALIVE (dead?)", -- [69]
+				"23:30:51> CacheQuestLog cached 1 quests", -- [70]
+				"23:30:51> CacheQuestLog cached 1 quests", -- [71]
+				"23:30:51> ZONE_CHANGED_NEW_AREA (dead?)", -- [72]
+				"23:30:54> PLAYER_ENTERING_WORLD (dead?)", -- [73]
+				"23:30:54> PLAYER_ALIVE (dead?)", -- [74]
+				"23:30:54> CacheQuestLog cached 1 quests", -- [75]
+				"23:30:54> ZONE_CHANGED_NEW_AREA (dead?)", -- [76]
+				"23:30:54> CacheQuestLog cached 1 quests", -- [77]
+				"23:34:29> PLAYER_ENTERING_WORLD (dead?)", -- [78]
+				"23:34:29> PLAYER_ALIVE (dead?)", -- [79]
+				"23:34:29> CacheQuestLog cached 1 quests", -- [80]
+				"23:34:29> CacheQuestLog cached 1 quests", -- [81]
+				"23:34:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [82]
+				"23:34:39> PLAYER_ENTERING_WORLD (dead?)", -- [83]
+				"23:34:39> PLAYER_ALIVE (dead?)", -- [84]
+				"23:34:39> CacheQuestLog cached 1 quests", -- [85]
+				"23:34:39> CacheQuestLog cached 1 quests", -- [86]
+				"23:34:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [87]
+				"23:35:51> PLAYER_ENTERING_WORLD (dead?)", -- [88]
+				"23:35:51> PLAYER_ALIVE (dead?)", -- [89]
+				"23:35:51> CacheQuestLog cached 1 quests", -- [90]
+				"23:35:51> CacheQuestLog cached 1 quests", -- [91]
+				"23:35:51> ZONE_CHANGED_NEW_AREA (dead?)", -- [92]
+				"23:36:26> PLAYER_ENTERING_WORLD (dead?)", -- [93]
+				"23:36:26> PLAYER_ALIVE (dead?)", -- [94]
+				"23:36:26> ZONE_CHANGED_NEW_AREA (dead?)", -- [95]
+				"23:36:26> CacheQuestLog cached 1 quests", -- [96]
+				"23:36:26> CacheQuestLog cached 1 quests", -- [97]
+				"23:40:23> 500 Blacksmithing recipes found", -- [98]
+				"23:40:44> 6 Leatherworking recipes found", -- [99]
+				"23:40:45> 441 Inscription recipes found", -- [100]
 			},
 			["maint_fetchitemdata"] = true,
 		},
-		["Maldira - Frosthold"] = {
-			["starting"] = false,
-			["step"] = 51,
+		["Liadra - Frostmourne"] = {
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["debuglog"] = {
+				"14:25:42> SetCorpseArrow, seeking corpse", -- [1]
+				"14:25:42> SetCorpseArrow, corpse on c=1? 0:0", -- [2]
+				"14:25:42> SetCorpseArrow, corpse on c=2? 0:0", -- [3]
+				"14:25:42> SetCorpseArrow, corpse on c=3? 0:0", -- [4]
+				"14:25:42> SetCorpseArrow, corpse on c=4? 0:0", -- [5]
+				"14:25:42> SetCorpseArrow, corpse on cont 0", -- [6]
+				"14:25:42> CacheQuestLog cached 5 quests", -- [7]
+				"14:25:42> CacheQuestLog cached 5 quests", -- [8]
+				"14:25:42> ZONE_CHANGED_NEW_AREA (dead?)", -- [9]
+				"14:25:42> Player dead!", -- [10]
+				"14:25:42> SetCorpseArrow, mc/mz=2/10", -- [11]
+				"14:26:23> ZONE_CHANGED_NEW_AREA (dead?)", -- [12]
+				"14:26:23> Player dead!", -- [13]
+				"14:27:23> PLAYER_ENTERING_WORLD (dead?)", -- [14]
+				"14:27:23> Player dead!", -- [15]
+				"14:27:23> PLAYER_ALIVE (dead?)", -- [16]
+				"14:27:23> Player dead!", -- [17]
+				"14:27:23> Player unghosted!", -- [18]
+				"14:27:23> CacheQuestLog cached 5 quests", -- [19]
+				"14:27:23> CacheQuestLog cached 5 quests", -- [20]
+				"14:27:24> ZONE_CHANGED_NEW_AREA (dead?)", -- [21]
+				"14:40:22> PLAYER_ENTERING_WORLD (dead?)", -- [22]
+				"14:40:22> Player dead!", -- [23]
+				"14:40:22> SetCorpseArrow, mc/mz=2/0", -- [24]
+				"14:40:22> SetCorpseArrow, seeking corpse", -- [25]
+				"14:40:22> SetCorpseArrow, corpse on c=1? 0:0", -- [26]
+				"14:40:22> SetCorpseArrow, corpse on c=2? 0:0", -- [27]
+				"14:40:22> SetCorpseArrow, corpse on c=3? 0:0", -- [28]
+				"14:40:22> SetCorpseArrow, corpse on c=4? 0:0", -- [29]
+				"14:40:22> SetCorpseArrow, corpse on cont 0", -- [30]
+				"14:40:22> PLAYER_ALIVE (dead?)", -- [31]
+				"14:40:22> Player dead!", -- [32]
+				"14:40:22> SetCorpseArrow, mc/mz=2/0", -- [33]
+				"14:40:22> SetCorpseArrow, seeking corpse", -- [34]
+				"14:40:22> SetCorpseArrow, corpse on c=1? 0:0", -- [35]
+				"14:40:22> SetCorpseArrow, corpse on c=2? 0:0", -- [36]
+				"14:40:22> SetCorpseArrow, corpse on c=3? 0:0", -- [37]
+				"14:40:22> SetCorpseArrow, corpse on c=4? 0:0", -- [38]
+				"14:40:22> SetCorpseArrow, corpse on cont 0", -- [39]
+				"14:40:22> CacheQuestLog cached 5 quests", -- [40]
+				"14:40:22> CacheQuestLog cached 5 quests", -- [41]
+				"14:40:22> ZONE_CHANGED_NEW_AREA (dead?)", -- [42]
+				"14:40:22> Player dead!", -- [43]
+				"14:40:22> SetCorpseArrow, mc/mz=2/10", -- [44]
+				"14:41:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [45]
+				"14:41:02> Player dead!", -- [46]
+				"14:42:02> PLAYER_ENTERING_WORLD (dead?)", -- [47]
+				"14:42:02> Player dead!", -- [48]
+				"14:42:02> PLAYER_ALIVE (dead?)", -- [49]
+				"14:42:02> Player dead!", -- [50]
+				"14:42:02> Player unghosted!", -- [51]
+				"14:42:02> CacheQuestLog cached 5 quests", -- [52]
+				"14:42:03> CacheQuestLog cached 5 quests", -- [53]
+				"14:42:03> ZONE_CHANGED_NEW_AREA (dead?)", -- [54]
+				"14:49:21> PLAYER_ENTERING_WORLD (dead?)", -- [55]
+				"14:49:21> Player dead!", -- [56]
+				"14:49:21> SetCorpseArrow, mc/mz=2/0", -- [57]
+				"14:49:21> SetCorpseArrow, seeking corpse", -- [58]
+				"14:49:21> SetCorpseArrow, corpse on c=1? 0:0", -- [59]
+				"14:49:21> SetCorpseArrow, corpse on c=2? 0:0", -- [60]
+				"14:49:21> SetCorpseArrow, corpse on c=3? 0:0", -- [61]
+				"14:49:21> SetCorpseArrow, corpse on c=4? 0:0", -- [62]
+				"14:49:21> SetCorpseArrow, corpse on cont 0", -- [63]
+				"14:49:21> PLAYER_ALIVE (dead?)", -- [64]
+				"14:49:21> Player dead!", -- [65]
+				"14:49:21> SetCorpseArrow, mc/mz=2/0", -- [66]
+				"14:49:21> SetCorpseArrow, seeking corpse", -- [67]
+				"14:49:21> SetCorpseArrow, corpse on c=1? 0:0", -- [68]
+				"14:49:21> SetCorpseArrow, corpse on c=2? 0:0", -- [69]
+				"14:49:21> SetCorpseArrow, corpse on c=3? 0:0", -- [70]
+				"14:49:21> SetCorpseArrow, corpse on c=4? 0:0", -- [71]
+				"14:49:21> SetCorpseArrow, corpse on cont 0", -- [72]
+				"14:49:21> CacheQuestLog cached 5 quests", -- [73]
+				"14:49:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [74]
+				"14:49:21> Player dead!", -- [75]
+				"14:49:21> SetCorpseArrow, mc/mz=2/10", -- [76]
+				"14:49:21> SetCorpseArrow, seeking corpse", -- [77]
+				"14:49:21> SetCorpseArrow, corpse on c=1? 0:0", -- [78]
+				"14:49:21> SetCorpseArrow, corpse on c=2? 0:0", -- [79]
+				"14:49:21> SetCorpseArrow, corpse on c=3? 0:0", -- [80]
+				"14:49:21> SetCorpseArrow, corpse on c=4? 0:0", -- [81]
+				"14:49:21> SetCorpseArrow, corpse on cont 0", -- [82]
+				"14:49:22> CacheQuestLog cached 5 quests", -- [83]
+				"14:50:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [84]
+				"14:50:02> Player dead!", -- [85]
+				"14:50:02> SetCorpseArrow, mc/mz=2/21", -- [86]
+				"14:51:02> PLAYER_ENTERING_WORLD (dead?)", -- [87]
+				"14:51:02> Player dead!", -- [88]
+				"14:51:02> PLAYER_ALIVE (dead?)", -- [89]
+				"14:51:02> Player dead!", -- [90]
+				"14:51:02> CacheQuestLog cached 5 quests", -- [91]
+				"14:51:02> Player unghosted!", -- [92]
+				"14:51:02> CacheQuestLog cached 5 quests", -- [93]
+				"14:51:02> ZONE_CHANGED_NEW_AREA (dead?)", -- [94]
+				"14:57:08> PLAYER_ENTERING_WORLD (dead?)", -- [95]
+				"14:57:08> PLAYER_ALIVE (dead?)", -- [96]
+				"14:57:08> CacheQuestLog cached 5 quests", -- [97]
+				"14:57:08> CacheQuestLog cached 5 quests", -- [98]
+				"14:57:08> ZONE_CHANGED_NEW_AREA (dead?)", -- [99]
+				"15:02:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
+			},
+			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
 				{
 					["short"] = "Blood Elf (1-13)",
 					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-					["step"] = 51,
+					["step"] = 152,
 				}, -- [1]
 			},
+			["step"] = 152,
 			["maint_fetchquestdata"] = true,
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
+				[2] = true,
+				["Silvermoon City"] = true,
+				["The Sepulcher"] = true,
+				["Grom'gol Base Camp"] = true,
+				["Grom'gol"] = true,
 			},
-			["debuglog"] = {
-				"19:42:45> CacheQuestLog cached 1 quests", -- [1]
-				"19:42:45> New Quest: Slain by the Wretched id 9704", -- [2]
-				"19:42:45> Lost Quest: Aiding the Outrunners, id: 8347, complete: false", -- [3]
-				"19:42:45> Skipping step: 36 (complete)", -- [4]
-				"19:42:45> SkipStep 1 fast", -- [5]
-				"19:42:45> FocusStep 37 (quiet)", -- [6]
-				"19:42:45> FocusStep 37", -- [7]
-				"19:42:45> Translated: accept/turnin Slain by the Wretched", -- [8]
-				"19:42:45> frameNeedsUpdating, so updating.", -- [9]
-				"19:43:06> GetQuestId: id of quest 'Slain by the Wretched' = 9704", -- [10]
-				"19:43:06> Completed Quest: Slain by the Wretched, id: 9704", -- [11]
-				"19:43:06> Got completed quests list", -- [12]
-				"19:43:06> CacheQuestLog cached 0 quests", -- [13]
-				"19:43:06> Lost Quest: Slain by the Wretched, id: 9704, complete: false", -- [14]
-				"19:43:06> Skipping step: 37 (impossible)", -- [15]
-				"19:43:06> SkipStep 1 fast", -- [16]
-				"19:43:06> FocusStep 38 (quiet)", -- [17]
-				"19:43:06> FocusStep 38", -- [18]
-				"19:43:06> Translated: accept/turnin Package Recovery", -- [19]
-				"19:43:06> frameNeedsUpdating, so updating.", -- [20]
-				"19:43:07> Skipping step: 38 (impossible)", -- [21]
-				"19:43:07> SkipStep 1 fast", -- [22]
-				"19:43:07> FocusStep 39 (quiet)", -- [23]
-				"19:43:07> FocusStep 39", -- [24]
-				"19:43:07> frameNeedsUpdating, so updating.", -- [25]
-				"19:43:07> Skipping step: 39 (impossible)", -- [26]
-				"19:43:07> SkipStep 1 fast", -- [27]
-				"19:43:07> FocusStep 40 (quiet)", -- [28]
-				"19:43:07> FocusStep 40", -- [29]
-				"19:43:07> Translated: accept/turnin Completing the Delivery", -- [30]
-				"19:43:07> frameNeedsUpdating, so updating.", -- [31]
-				"19:43:08> CacheQuestLog cached 1 quests", -- [32]
-				"19:43:08> New Quest: Package Recovery id 9705", -- [33]
-				"19:43:08> Skipping step: 40 (impossible)", -- [34]
-				"19:43:08> SkipStep 1 fast", -- [35]
-				"19:43:08> FocusStep 41 (quiet)", -- [36]
-				"19:43:08> FocusStep 41", -- [37]
-				"19:43:08> frameNeedsUpdating, so updating.", -- [38]
-				"19:43:08> Skipping step: 41 (possible?)", -- [39]
-				"19:43:08> SkipStep 1 fast", -- [40]
-				"19:43:08> FocusStep 42 (quiet)", -- [41]
-				"19:43:08> FocusStep 42", -- [42]
-				"19:43:08> CacheQuestLog cached 1 quests", -- [43]
-				"19:43:08> Skipping step: 42 (impossible)", -- [44]
-				"19:43:08> SkipStep 1 fast", -- [45]
-				"19:43:08> FocusStep 43 (quiet)", -- [46]
-				"19:43:08> FocusStep 43", -- [47]
-				"19:43:08> frameNeedsUpdating, so updating.", -- [48]
-				"19:43:08> Skipping step: 43 (impossible)", -- [49]
-				"19:43:08> SkipStep 1 fast", -- [50]
-				"19:43:08> FocusStep 44 (quiet)", -- [51]
-				"19:43:08> FocusStep 44", -- [52]
-				"19:43:08> Missing from NPC database: Arcane Patroller #15638", -- [53]
-				"19:43:08> frameNeedsUpdating, so updating.", -- [54]
-				"19:43:08> Skipping step: 44 (impossible)", -- [55]
-				"19:43:08> SkipStep 1 fast", -- [56]
-				"19:43:08> FocusStep 45 (quiet)", -- [57]
-				"19:43:08> FocusStep 45", -- [58]
-				"19:43:08> Missing from NPC database: Thaelis the Hungerer #15949", -- [59]
-				"19:43:08> frameNeedsUpdating, so updating.", -- [60]
-				"19:43:09> Skipping step: 45 (impossible)", -- [61]
-				"19:43:09> SkipStep 1 fast", -- [62]
-				"19:43:09> FocusStep 46 (quiet)", -- [63]
-				"19:43:09> FocusStep 46", -- [64]
-				"19:43:09> Translated: accept/turnin Major Malfunction", -- [65]
-				"19:43:09> frameNeedsUpdating, so updating.", -- [66]
-				"19:43:09> Skipping step: 46 (impossible)", -- [67]
-				"19:43:09> SkipStep 1 fast", -- [68]
-				"19:43:09> FocusStep 47 (quiet)", -- [69]
-				"19:43:09> FocusStep 47", -- [70]
-				"19:43:09> frameNeedsUpdating, so updating.", -- [71]
-				"19:43:09> Skipping step: 47 (complete)", -- [72]
-				"19:43:09> SkipStep 1 fast", -- [73]
-				"19:43:09> FocusStep 48 (quiet)", -- [74]
-				"19:43:09> FocusStep 48", -- [75]
-				"19:43:09> Translated: accept/turnin Wanted: Thaelis the Hungerer", -- [76]
-				"19:43:09> frameNeedsUpdating, so updating.", -- [77]
-				"19:43:09> Skipping step: 48 (impossible)", -- [78]
-				"19:43:09> SkipStep 1 fast", -- [79]
-				"19:43:09> FocusStep 49 (quiet)", -- [80]
-				"19:43:09> FocusStep 49", -- [81]
-				"19:43:09> Translated: accept/turnin Unstable Mana Crystals", -- [82]
-				"19:43:09> frameNeedsUpdating, so updating.", -- [83]
-				"19:43:09> Skipping step: 49 (impossible)", -- [84]
-				"19:43:09> SkipStep 1 fast", -- [85]
-				"19:43:09> FocusStep 50 (quiet)", -- [86]
-				"19:43:09> FocusStep 50", -- [87]
-				"19:43:09> Translated: accept/turnin Delivery to the North Sanctum", -- [88]
-				"19:43:09> frameNeedsUpdating, so updating.", -- [89]
-				"19:43:10> Skipping step: 50 (impossible)", -- [90]
-				"19:43:10> SkipStep 1 fast", -- [91]
-				"19:43:10> FocusStep 51 (quiet)", -- [92]
-				"19:43:10> FocusStep 51", -- [93]
-				"19:43:10> frameNeedsUpdating, so updating.", -- [94]
-				"19:44:16> CacheQuestLog cached 2 quests", -- [95]
-				"19:44:16> New Quest: Major Malfunction id 8472", -- [96]
-				"19:44:31> CacheQuestLog cached 3 quests", -- [97]
-				"19:44:31> New Quest: Unstable Mana Crystals id 8463", -- [98]
-				"19:44:33> CacheQuestLog cached 4 quests", -- [99]
-				"19:44:33> New Quest: Wanted: Thaelis the Hungerer id 8468", -- [100]
-			},
-			["maint_fetchitemdata"] = true,
-		},
-		["Themken - Lordaeron"] = {
-			["maint_fetchitemdata"] = true,
-			["guides_history"] = {
-				{
-					["short"] = "Night Elf (1-13)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
-					["step"] = 1,
-				}, -- [1]
-			},
-			["maint_fetchquestdata"] = true,
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
-			["taxis"] = {
-			},
-			["debuglog"] = {
-				"22:20:06> Viewer started. ---------------------------", -- [1]
-				"22:20:07> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"22:20:07> PLAYER_ALIVE (dead?)", -- [3]
-				"22:20:07> CacheQuestLog cached 6 quests", -- [4]
-				"22:20:07> New Quest: Crown of the Earth id 928", -- [5]
-				"22:20:07> New Quest: Denalan's Earth id 997", -- [6]
-				"22:20:07> New Quest: Zenn's Bidding id 488", -- [7]
-				"22:20:07> New Quest: A Troubling Breeze id 475", -- [8]
-				"22:20:07> New Quest: The Emerald Dreamcatcher id 2438", -- [9]
-				"22:20:07> New Quest: Twisted Hatred id 932", -- [10]
-				"22:20:07> Got completed quests list", -- [11]
-				"22:20:07> ZONE_CHANGED_NEW_AREA (dead?)", -- [12]
-				"22:20:07> CacheQuestLog cached 6 quests", -- [13]
-				"22:20:10> Guides loaded. -----", -- [14]
-				"22:20:10> SetGuide Zygor's Alliance Leveling Guides\\Night Elf (1-13) (1", -- [15]
-				"22:20:10> Guide loaded: Zygor's Alliance Leveling Guides\\Night Elf (1-13)", -- [16]
-				"22:20:10> FocusStep 1", -- [17]
-				"22:20:10> frameNeedsUpdating, so updating.", -- [18]
-				"22:20:13> Hiding arrow with guide", -- [19]
-				"19:15:15> Viewer started. ---------------------------", -- [20]
-				"19:15:16> PLAYER_ENTERING_WORLD (dead?)", -- [21]
-				"19:15:16> PLAYER_ALIVE (dead?)", -- [22]
-				"19:15:16> CacheQuestLog cached 6 quests", -- [23]
-				"19:15:16> New Quest: Crown of the Earth id 928", -- [24]
-				"19:15:16> New Quest: Denalan's Earth id 997", -- [25]
-				"19:15:16> New Quest: Zenn's Bidding id 488", -- [26]
-				"19:15:16> New Quest: A Troubling Breeze id 475", -- [27]
-				"19:15:16> New Quest: The Emerald Dreamcatcher id 2438", -- [28]
-				"19:15:16> New Quest: Twisted Hatred id 932", -- [29]
-				"19:15:16> Got completed quests list", -- [30]
-				"19:15:16> CacheQuestLog cached 6 quests", -- [31]
-				"19:15:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [32]
-				"19:15:19> Guides loaded. -----", -- [33]
-				"19:15:19> SetGuide Zygor's Alliance Leveling Guides\\Night Elf (1-13) (1", -- [34]
-				"19:15:19> Guide loaded: Zygor's Alliance Leveling Guides\\Night Elf (1-13)", -- [35]
-				"19:15:19> FocusStep 1", -- [36]
-				"19:15:43> Got completed quests list", -- [37]
+			["RecipesKnown"] = {
+				[7183] = true,
+				[2329] = true,
+				[2330] = true,
 			},
 			["starting"] = false,
 		},
@@ -3967,6 +3933,71 @@ ZygorGuidesViewerSettings = {
 				"15:10:43> CacheQuestLog cached 7 quests", -- [99]
 				"15:10:43> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
 			},
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				["Marshal's Refuge"] = true,
+				["Mudsprocket"] = true,
+				["Ratchet"] = true,
+				["Stars' Rest"] = true,
+				["Ebon Watch"] = true,
+				["Fizzcrank Airstrip"] = true,
+				["Unu'pe"] = true,
+				["Orebor Harborage"] = true,
+				["River's Heart"] = true,
+				["Valgarde Port"] = true,
+				["Dubra'Jin"] = true,
+				["Zim'Torga"] = true,
+				["Gadgetzan"] = true,
+				["Lakeside Landing"] = true,
+				["Westguard Keep"] = true,
+				["Amber Ledge"] = true,
+				["Amberpine Lodge"] = true,
+				["Shattrath City"] = true,
+				["Thalanaar"] = true,
+				["Auberdine"] = true,
+				["Temple of Telhamat"] = true,
+				["Moa'ki Harbor"] = true,
+				["Astranaar"] = true,
+				["Telredor"] = true,
+				["Fordragon Hold"] = true,
+				["Wintergarde Keep"] = true,
+				["Death's Rise"] = true,
+				["Windrunner's Overlook"] = true,
+				["The Shadow Vault"] = true,
+				["Sylvanaar"] = true,
+				["Light's Breach"] = true,
+				["Ironforge"] = true,
+				["Theramore"] = true,
+				["Gundrak"] = true,
+				["Shattered Sun Staging Area"] = true,
+				["Krasus' Landing"] = true,
+				["Telaar"] = true,
+				["Menethil Harbor"] = true,
+				["Argent Tournament Grounds"] = true,
+				["Dalaran"] = true,
+				["Rut'theran Village"] = true,
+				["Hellfire Peninsula, The Dark Portal"] = true,
+				["Booty Bay"] = true,
+				["Shatter Point"] = true,
+				["Shattrath"] = true,
+				["Darkshire"] = true,
+				["Nethergarde Keep"] = true,
+				["The Argent Vanguard"] = true,
+				["Valiance Keep"] = true,
+				["Moa'ki"] = true,
+				["The Argent Stand"] = true,
+				["Stormwind"] = true,
+				["Wyrmrest Temple"] = true,
+				["Valgarde"] = true,
+				["Crusaders' Pinnacle"] = true,
+				["Rebel Camp"] = true,
+				["Honor Hold"] = true,
+				["Transitus Shield"] = true,
+			},
 			["RecipesKnown"] = {
 				[56473] = true,
 				[3977] = true,
@@ -4030,36 +4061,36 @@ ZygorGuidesViewerSettings = {
 				[56459] = true,
 				[3973] = true,
 				[3918] = true,
-				[3920] = true,
-				[3919] = true,
-				[39895] = true,
 				[67326] = true,
+				[3919] = true,
+				[23071] = true,
+				[3920] = true,
 				[16153] = true,
 				[56462] = true,
 				[61482] = true,
 				[3922] = true,
 				[49258] = true,
-				[3923] = true,
-				[23071] = true,
+				[35751] = true,
+				[56470] = true,
 				[3924] = true,
 				[56478] = true,
 				[3925] = true,
-				[3928] = true,
+				[12591] = true,
 				[3926] = true,
 				[12585] = true,
-				[56470] = true,
+				[39895] = true,
 				[12589] = true,
-				[55211] = true,
+				[3928] = true,
 				[54999] = true,
 				[12595] = true,
-				[12603] = true,
+				[3931] = true,
 				[12599] = true,
-				[2657] = true,
-				[19788] = true,
-				[19792] = true,
 				[3932] = true,
+				[12603] = true,
+				[19792] = true,
+				[2657] = true,
 				[19800] = true,
-				[3933] = true,
+				[2658] = true,
 				[56574] = true,
 				[3934] = true,
 				[41314] = true,
@@ -4068,17 +4099,17 @@ ZygorGuidesViewerSettings = {
 				[3936] = true,
 				[63770] = true,
 				[3937] = true,
-				[2540] = true,
+				[56463] = true,
 				[3938] = true,
 				[30303] = true,
 				[30307] = true,
 				[30311] = true,
 				[3940] = true,
 				[2538] = true,
-				[3941] = true,
+				[62049] = true,
 				[2539] = true,
 				[10097] = true,
-				[56463] = true,
+				[2540] = true,
 				[56471] = true,
 				[2541] = true,
 				[67839] = true,
@@ -4100,8 +4131,8 @@ ZygorGuidesViewerSettings = {
 				[63750] = true,
 				[3304] = true,
 				[3953] = true,
-				[49252] = true,
 				[3954] = true,
+				[49252] = true,
 				[67920] = true,
 				[3955] = true,
 				[62050] = true,
@@ -4126,90 +4157,476 @@ ZygorGuidesViewerSettings = {
 				[3965] = true,
 				[9271] = true,
 				[21175] = true,
-				[62049] = true,
+				[3941] = true,
 				[3967] = true,
 				[19825] = true,
-				[2658] = true,
-				[3931] = true,
+				[3933] = true,
+				[19788] = true,
 				[6500] = true,
-				[12591] = true,
+				[55211] = true,
 				[54353] = true,
 				[30304] = true,
 				[30308] = true,
 				[30312] = true,
 				[20626] = true,
-				[35751] = true,
+				[3923] = true,
 				[62051] = true,
 				[56468] = true,
 				[35750] = true,
 				[55016] = true,
 				[8339] = true,
 			},
+			["starting"] = false,
+		},
+		["Themken - Lordaeron"] = {
+			["maint_fetchitemdata"] = true,
+			["guides_history"] = {
+				{
+					["short"] = "Night Elf (1-13)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
+					["step"] = 1,
+				}, -- [1]
+			},
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
+			["taxis"] = {
+			},
+			["debuglog"] = {
+				"22:20:06> Viewer started. ---------------------------", -- [1]
+				"22:20:07> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"22:20:07> PLAYER_ALIVE (dead?)", -- [3]
+				"22:20:07> CacheQuestLog cached 6 quests", -- [4]
+				"22:20:07> New Quest: Crown of the Earth id 928", -- [5]
+				"22:20:07> New Quest: Denalan's Earth id 997", -- [6]
+				"22:20:07> New Quest: Zenn's Bidding id 488", -- [7]
+				"22:20:07> New Quest: A Troubling Breeze id 475", -- [8]
+				"22:20:07> New Quest: The Emerald Dreamcatcher id 2438", -- [9]
+				"22:20:07> New Quest: Twisted Hatred id 932", -- [10]
+				"22:20:07> Got completed quests list", -- [11]
+				"22:20:07> ZONE_CHANGED_NEW_AREA (dead?)", -- [12]
+				"22:20:07> CacheQuestLog cached 6 quests", -- [13]
+				"22:20:10> Guides loaded. -----", -- [14]
+				"22:20:10> SetGuide Zygor's Alliance Leveling Guides\\Night Elf (1-13) (1", -- [15]
+				"22:20:10> Guide loaded: Zygor's Alliance Leveling Guides\\Night Elf (1-13)", -- [16]
+				"22:20:10> FocusStep 1", -- [17]
+				"22:20:10> frameNeedsUpdating, so updating.", -- [18]
+				"22:20:13> Hiding arrow with guide", -- [19]
+				"19:15:15> Viewer started. ---------------------------", -- [20]
+				"19:15:16> PLAYER_ENTERING_WORLD (dead?)", -- [21]
+				"19:15:16> PLAYER_ALIVE (dead?)", -- [22]
+				"19:15:16> CacheQuestLog cached 6 quests", -- [23]
+				"19:15:16> New Quest: Crown of the Earth id 928", -- [24]
+				"19:15:16> New Quest: Denalan's Earth id 997", -- [25]
+				"19:15:16> New Quest: Zenn's Bidding id 488", -- [26]
+				"19:15:16> New Quest: A Troubling Breeze id 475", -- [27]
+				"19:15:16> New Quest: The Emerald Dreamcatcher id 2438", -- [28]
+				"19:15:16> New Quest: Twisted Hatred id 932", -- [29]
+				"19:15:16> Got completed quests list", -- [30]
+				"19:15:16> CacheQuestLog cached 6 quests", -- [31]
+				"19:15:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [32]
+				"19:15:19> Guides loaded. -----", -- [33]
+				"19:15:19> SetGuide Zygor's Alliance Leveling Guides\\Night Elf (1-13) (1", -- [34]
+				"19:15:19> Guide loaded: Zygor's Alliance Leveling Guides\\Night Elf (1-13)", -- [35]
+				"19:15:19> FocusStep 1", -- [36]
+				"19:15:43> Got completed quests list", -- [37]
+			},
+			["starting"] = false,
+		},
+		["Maldira - Frosthold"] = {
+			["starting"] = false,
+			["step"] = 51,
+			["guides_history"] = {
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 51,
+				}, -- [1]
+			},
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["taxis"] = {
+			},
+			["debuglog"] = {
+				"19:42:45> CacheQuestLog cached 1 quests", -- [1]
+				"19:42:45> New Quest: Slain by the Wretched id 9704", -- [2]
+				"19:42:45> Lost Quest: Aiding the Outrunners, id: 8347, complete: false", -- [3]
+				"19:42:45> Skipping step: 36 (complete)", -- [4]
+				"19:42:45> SkipStep 1 fast", -- [5]
+				"19:42:45> FocusStep 37 (quiet)", -- [6]
+				"19:42:45> FocusStep 37", -- [7]
+				"19:42:45> Translated: accept/turnin Slain by the Wretched", -- [8]
+				"19:42:45> frameNeedsUpdating, so updating.", -- [9]
+				"19:43:06> GetQuestId: id of quest 'Slain by the Wretched' = 9704", -- [10]
+				"19:43:06> Completed Quest: Slain by the Wretched, id: 9704", -- [11]
+				"19:43:06> Got completed quests list", -- [12]
+				"19:43:06> CacheQuestLog cached 0 quests", -- [13]
+				"19:43:06> Lost Quest: Slain by the Wretched, id: 9704, complete: false", -- [14]
+				"19:43:06> Skipping step: 37 (impossible)", -- [15]
+				"19:43:06> SkipStep 1 fast", -- [16]
+				"19:43:06> FocusStep 38 (quiet)", -- [17]
+				"19:43:06> FocusStep 38", -- [18]
+				"19:43:06> Translated: accept/turnin Package Recovery", -- [19]
+				"19:43:06> frameNeedsUpdating, so updating.", -- [20]
+				"19:43:07> Skipping step: 38 (impossible)", -- [21]
+				"19:43:07> SkipStep 1 fast", -- [22]
+				"19:43:07> FocusStep 39 (quiet)", -- [23]
+				"19:43:07> FocusStep 39", -- [24]
+				"19:43:07> frameNeedsUpdating, so updating.", -- [25]
+				"19:43:07> Skipping step: 39 (impossible)", -- [26]
+				"19:43:07> SkipStep 1 fast", -- [27]
+				"19:43:07> FocusStep 40 (quiet)", -- [28]
+				"19:43:07> FocusStep 40", -- [29]
+				"19:43:07> Translated: accept/turnin Completing the Delivery", -- [30]
+				"19:43:07> frameNeedsUpdating, so updating.", -- [31]
+				"19:43:08> CacheQuestLog cached 1 quests", -- [32]
+				"19:43:08> New Quest: Package Recovery id 9705", -- [33]
+				"19:43:08> Skipping step: 40 (impossible)", -- [34]
+				"19:43:08> SkipStep 1 fast", -- [35]
+				"19:43:08> FocusStep 41 (quiet)", -- [36]
+				"19:43:08> FocusStep 41", -- [37]
+				"19:43:08> frameNeedsUpdating, so updating.", -- [38]
+				"19:43:08> Skipping step: 41 (possible?)", -- [39]
+				"19:43:08> SkipStep 1 fast", -- [40]
+				"19:43:08> FocusStep 42 (quiet)", -- [41]
+				"19:43:08> FocusStep 42", -- [42]
+				"19:43:08> CacheQuestLog cached 1 quests", -- [43]
+				"19:43:08> Skipping step: 42 (impossible)", -- [44]
+				"19:43:08> SkipStep 1 fast", -- [45]
+				"19:43:08> FocusStep 43 (quiet)", -- [46]
+				"19:43:08> FocusStep 43", -- [47]
+				"19:43:08> frameNeedsUpdating, so updating.", -- [48]
+				"19:43:08> Skipping step: 43 (impossible)", -- [49]
+				"19:43:08> SkipStep 1 fast", -- [50]
+				"19:43:08> FocusStep 44 (quiet)", -- [51]
+				"19:43:08> FocusStep 44", -- [52]
+				"19:43:08> Missing from NPC database: Arcane Patroller #15638", -- [53]
+				"19:43:08> frameNeedsUpdating, so updating.", -- [54]
+				"19:43:08> Skipping step: 44 (impossible)", -- [55]
+				"19:43:08> SkipStep 1 fast", -- [56]
+				"19:43:08> FocusStep 45 (quiet)", -- [57]
+				"19:43:08> FocusStep 45", -- [58]
+				"19:43:08> Missing from NPC database: Thaelis the Hungerer #15949", -- [59]
+				"19:43:08> frameNeedsUpdating, so updating.", -- [60]
+				"19:43:09> Skipping step: 45 (impossible)", -- [61]
+				"19:43:09> SkipStep 1 fast", -- [62]
+				"19:43:09> FocusStep 46 (quiet)", -- [63]
+				"19:43:09> FocusStep 46", -- [64]
+				"19:43:09> Translated: accept/turnin Major Malfunction", -- [65]
+				"19:43:09> frameNeedsUpdating, so updating.", -- [66]
+				"19:43:09> Skipping step: 46 (impossible)", -- [67]
+				"19:43:09> SkipStep 1 fast", -- [68]
+				"19:43:09> FocusStep 47 (quiet)", -- [69]
+				"19:43:09> FocusStep 47", -- [70]
+				"19:43:09> frameNeedsUpdating, so updating.", -- [71]
+				"19:43:09> Skipping step: 47 (complete)", -- [72]
+				"19:43:09> SkipStep 1 fast", -- [73]
+				"19:43:09> FocusStep 48 (quiet)", -- [74]
+				"19:43:09> FocusStep 48", -- [75]
+				"19:43:09> Translated: accept/turnin Wanted: Thaelis the Hungerer", -- [76]
+				"19:43:09> frameNeedsUpdating, so updating.", -- [77]
+				"19:43:09> Skipping step: 48 (impossible)", -- [78]
+				"19:43:09> SkipStep 1 fast", -- [79]
+				"19:43:09> FocusStep 49 (quiet)", -- [80]
+				"19:43:09> FocusStep 49", -- [81]
+				"19:43:09> Translated: accept/turnin Unstable Mana Crystals", -- [82]
+				"19:43:09> frameNeedsUpdating, so updating.", -- [83]
+				"19:43:09> Skipping step: 49 (impossible)", -- [84]
+				"19:43:09> SkipStep 1 fast", -- [85]
+				"19:43:09> FocusStep 50 (quiet)", -- [86]
+				"19:43:09> FocusStep 50", -- [87]
+				"19:43:09> Translated: accept/turnin Delivery to the North Sanctum", -- [88]
+				"19:43:09> frameNeedsUpdating, so updating.", -- [89]
+				"19:43:10> Skipping step: 50 (impossible)", -- [90]
+				"19:43:10> SkipStep 1 fast", -- [91]
+				"19:43:10> FocusStep 51 (quiet)", -- [92]
+				"19:43:10> FocusStep 51", -- [93]
+				"19:43:10> frameNeedsUpdating, so updating.", -- [94]
+				"19:44:16> CacheQuestLog cached 2 quests", -- [95]
+				"19:44:16> New Quest: Major Malfunction id 8472", -- [96]
+				"19:44:31> CacheQuestLog cached 3 quests", -- [97]
+				"19:44:31> New Quest: Unstable Mana Crystals id 8463", -- [98]
+				"19:44:33> CacheQuestLog cached 4 quests", -- [99]
+				"19:44:33> New Quest: Wanted: Thaelis the Hungerer id 8468", -- [100]
+			},
+			["maint_fetchitemdata"] = true,
+		},
+		["Tabinia - Icecrown"] = {
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Northrend (74-76)",
+			["step"] = 2,
+			["maint_fetchitemdata"] = true,
+			["guides_history"] = {
+				{
+					["short"] = "Draenei (1-13)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Draenei (1-13)",
+					["step"] = 195,
+				}, -- [1]
+				{
+					["short"] = "Levels (30-35)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Levels (30-35)",
+					["step"] = 39,
+				}, -- [2]
+				{
+					["short"] = "Levels (45-50)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Levels (45-50)",
+					["step"] = 2,
+				}, -- [3]
+				{
+					["short"] = "Northrend (70-72)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
+					["step"] = 10,
+				}, -- [4]
+				{
+					["short"] = "Northrend (74-76)",
+					["step"] = 2,
+					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (74-76)",
+				}, -- [5]
+			},
+			["debuglog"] = {
+				"23:11:53> FocusStep 2", -- [1]
+				"23:26:58> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"23:26:58> PLAYER_ALIVE (dead?)", -- [3]
+				"23:26:58> CacheQuestLog cached 11 quests", -- [4]
+				"23:26:58> CacheQuestLog cached 11 quests", -- [5]
+				"23:26:58> ZONE_CHANGED_NEW_AREA (dead?)", -- [6]
+				"23:32:25> CacheQuestLog cached 11 quests", -- [7]
+				"23:37:34> PLAYER_ENTERING_WORLD (dead?)", -- [8]
+				"23:37:34> PLAYER_ALIVE (dead?)", -- [9]
+				"23:37:34> CacheQuestLog cached 11 quests", -- [10]
+				"23:37:34> CacheQuestLog cached 11 quests", -- [11]
+				"23:37:35> ZONE_CHANGED_NEW_AREA (dead?)", -- [12]
+				"23:38:29> Viewer started. ---------------------------", -- [13]
+				"23:38:32> PLAYER_ENTERING_WORLD (dead?)", -- [14]
+				"23:38:32> PLAYER_ALIVE (dead?)", -- [15]
+				"23:38:32> CacheQuestLog cached 11 quests", -- [16]
+				"23:38:32> New Quest: The Obsidian Dragonshrine id 12447", -- [17]
+				"23:38:32> New Quest: The Plume of Alystros id 12456", -- [18]
+				"23:38:32> New Quest: Mystery of the Infinite id 12470", -- [19]
+				"23:38:32> New Quest: Frostmourne id 24711", -- [20]
+				"23:38:32> New Quest: Judgment Day Comes! id 13226", -- [21]
+				"23:38:32> New Quest: Blackwatch id 13106", -- [22]
+				"23:38:32> New Quest: Eliminate the Competition id 12955", -- [23]
+				"23:38:32> New Quest: Shadow Vault Decree id 12943", -- [24]
+				"23:38:32> New Quest: Elemental Mastery id 8410", -- [25]
+				"23:38:32> New Quest: Dispelling Illusions id 13149", -- [26]
+				"23:38:32> New Quest: Flame Leviathan Must Die! id 24585", -- [27]
+				"23:38:33> Got completed quests list", -- [28]
+				"23:38:33> CacheQuestLog cached 11 quests", -- [29]
+				"23:38:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [30]
+				"23:38:37> Guides loaded. -----", -- [31]
+				"23:38:37> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [32]
+				"23:38:37> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [33]
+				"23:38:37> FocusStep 2", -- [34]
+				"23:39:33> Viewer started. ---------------------------", -- [35]
+				"23:39:35> PLAYER_ENTERING_WORLD (dead?)", -- [36]
+				"23:39:35> PLAYER_ALIVE (dead?)", -- [37]
+				"23:39:35> CacheQuestLog cached 11 quests", -- [38]
+				"23:39:35> New Quest: The Obsidian Dragonshrine id 12447", -- [39]
+				"23:39:35> New Quest: The Plume of Alystros id 12456", -- [40]
+				"23:39:35> New Quest: Mystery of the Infinite id 12470", -- [41]
+				"23:39:35> New Quest: Frostmourne id 24711", -- [42]
+				"23:39:35> New Quest: Judgment Day Comes! id 13226", -- [43]
+				"23:39:35> New Quest: Blackwatch id 13106", -- [44]
+				"23:39:35> New Quest: Eliminate the Competition id 12955", -- [45]
+				"23:39:35> New Quest: Shadow Vault Decree id 12943", -- [46]
+				"23:39:35> New Quest: Elemental Mastery id 8410", -- [47]
+				"23:39:35> New Quest: Dispelling Illusions id 13149", -- [48]
+				"23:39:35> New Quest: Flame Leviathan Must Die! id 24585", -- [49]
+				"23:39:36> Got completed quests list", -- [50]
+				"23:39:36> CacheQuestLog cached 11 quests", -- [51]
+				"23:39:37> ZONE_CHANGED_NEW_AREA (dead?)", -- [52]
+				"23:39:39> Guides loaded. -----", -- [53]
+				"23:39:39> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [54]
+				"23:39:39> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [55]
+				"23:39:39> FocusStep 2", -- [56]
+				"23:41:36> Viewer started. ---------------------------", -- [57]
+				"23:41:38> PLAYER_ENTERING_WORLD (dead?)", -- [58]
+				"23:41:38> PLAYER_ALIVE (dead?)", -- [59]
+				"23:41:38> CacheQuestLog cached 11 quests", -- [60]
+				"23:41:38> New Quest: The Obsidian Dragonshrine id 12447", -- [61]
+				"23:41:38> New Quest: The Plume of Alystros id 12456", -- [62]
+				"23:41:38> New Quest: Mystery of the Infinite id 12470", -- [63]
+				"23:41:38> New Quest: Frostmourne id 24711", -- [64]
+				"23:41:38> New Quest: Judgment Day Comes! id 13226", -- [65]
+				"23:41:38> New Quest: Blackwatch id 13106", -- [66]
+				"23:41:38> New Quest: Eliminate the Competition id 12955", -- [67]
+				"23:41:38> New Quest: Shadow Vault Decree id 12943", -- [68]
+				"23:41:38> New Quest: Elemental Mastery id 8410", -- [69]
+				"23:41:38> New Quest: Dispelling Illusions id 13149", -- [70]
+				"23:41:38> New Quest: Flame Leviathan Must Die! id 24585", -- [71]
+				"23:41:39> Got completed quests list", -- [72]
+				"23:41:39> CacheQuestLog cached 11 quests", -- [73]
+				"23:41:40> ZONE_CHANGED_NEW_AREA (dead?)", -- [74]
+				"23:41:43> Guides loaded. -----", -- [75]
+				"23:41:43> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [76]
+				"23:41:43> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [77]
+				"23:41:43> FocusStep 2", -- [78]
+				"23:57:51> Viewer started. ---------------------------", -- [79]
+				"23:57:53> PLAYER_ENTERING_WORLD (dead?)", -- [80]
+				"23:57:53> PLAYER_ALIVE (dead?)", -- [81]
+				"23:57:53> CacheQuestLog cached 11 quests", -- [82]
+				"23:57:53> New Quest: The Obsidian Dragonshrine id 12447", -- [83]
+				"23:57:53> New Quest: The Plume of Alystros id 12456", -- [84]
+				"23:57:53> New Quest: Mystery of the Infinite id 12470", -- [85]
+				"23:57:53> New Quest: Frostmourne id 24711", -- [86]
+				"23:57:53> New Quest: Judgment Day Comes! id 13226", -- [87]
+				"23:57:53> New Quest: Blackwatch id 13106", -- [88]
+				"23:57:53> New Quest: Eliminate the Competition id 12955", -- [89]
+				"23:57:53> New Quest: Shadow Vault Decree id 12943", -- [90]
+				"23:57:53> New Quest: Elemental Mastery id 8410", -- [91]
+				"23:57:53> New Quest: Dispelling Illusions id 13149", -- [92]
+				"23:57:53> New Quest: Flame Leviathan Must Die! id 24585", -- [93]
+				"23:57:54> Got completed quests list", -- [94]
+				"23:57:54> CacheQuestLog cached 11 quests", -- [95]
+				"23:57:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [96]
+				"23:57:57> Guides loaded. -----", -- [97]
+				"23:57:57> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [98]
+				"23:57:57> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [99]
+				"23:57:57> FocusStep 2", -- [100]
+			},
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 				true, -- [1]
 				true, -- [2]
 				true, -- [3]
 				true, -- [4]
 				["Marshal's Refuge"] = true,
-				["Mudsprocket"] = true,
-				["Ratchet"] = true,
-				["Stars' Rest"] = true,
-				["Ebon Watch"] = true,
-				["Fizzcrank Airstrip"] = true,
-				["Unu'pe"] = true,
-				["Orebor Harborage"] = true,
-				["River's Heart"] = true,
-				["Valgarde Port"] = true,
-				["Dubra'Jin"] = true,
-				["Zim'Torga"] = true,
-				["Gadgetzan"] = true,
-				["Lakeside Landing"] = true,
-				["Westguard Keep"] = true,
-				["Amber Ledge"] = true,
-				["Moa'ki Harbor"] = true,
-				["Amberpine Lodge"] = true,
-				["Thalanaar"] = true,
-				["The Argent Vanguard"] = true,
-				["Temple of Telhamat"] = true,
-				["Shattrath City"] = true,
-				["Astranaar"] = true,
-				["Auberdine"] = true,
-				["Moa'ki"] = true,
-				["Wintergarde Keep"] = true,
-				["Death's Rise"] = true,
-				["Windrunner's Overlook"] = true,
-				["Shatter Point"] = true,
-				["Sylvanaar"] = true,
+				["Transitus Shield"] = true,
 				["Light's Breach"] = true,
-				["Booty Bay"] = true,
-				["Telredor"] = true,
-				["Gundrak"] = true,
-				["The Shadow Vault"] = true,
-				["Rut'theran Village"] = true,
+				["Blood Watch"] = true,
+				["Auberdine"] = true,
+				["Ebon Watch"] = true,
+				["Ironforge"] = true,
+				["Stars' Rest"] = true,
 				["Telaar"] = true,
-				["Menethil Harbor"] = true,
+				["Krasus' Landing"] = true,
 				["Argent Tournament Grounds"] = true,
 				["Dalaran"] = true,
-				["Krasus' Landing"] = true,
-				["Hellfire Peninsula, The Dark Portal"] = true,
-				["Ironforge"] = true,
 				["Shattered Sun Staging Area"] = true,
-				["Shattrath"] = true,
-				["Darkshire"] = true,
-				["Nethergarde Keep"] = true,
-				["Theramore"] = true,
+				["Hellfire Peninsula, The Dark Portal"] = true,
+				["Frosthold"] = true,
+				["The Shadow Vault"] = true,
+				["Gadgetzan"] = true,
+				["The Exodar"] = true,
 				["Valiance Keep"] = true,
-				["Fordragon Hold"] = true,
+				["Amber Ledge"] = true,
+				["K3"] = true,
+				["Shattrath"] = true,
 				["The Argent Stand"] = true,
 				["Stormwind"] = true,
 				["Wyrmrest Temple"] = true,
-				["Valgarde"] = true,
-				["Crusaders' Pinnacle"] = true,
-				["Rebel Camp"] = true,
+				["Shattrath City"] = true,
+				["Astranaar"] = true,
+				["Cenarion Hold"] = true,
 				["Honor Hold"] = true,
-				["Transitus Shield"] = true,
+				["The Argent Vanguard"] = true,
+			},
+			["RecipesKnown"] = {
+				[37836] = true,
+				[58484] = true,
+				[62050] = true,
+				[3275] = true,
+				[2539] = true,
+				[2541] = true,
+				[45382] = true,
+				[52843] = true,
+				[48114] = true,
+				[58472] = true,
+				[48116] = true,
+				[2544] = true,
+				[3276] = true,
+				[8604] = true,
+				[52739] = true,
+				[2538] = true,
+				[2540] = true,
+				[62044] = true,
+				[48248] = true,
+				[2546] = true,
+				[33277] = true,
+				[6499] = true,
+				[52738] = true,
+			},
+			["starting"] = false,
+		},
+		["Hunty - Frozen Nexus"] = {
+			["maint_fetchitemdata"] = true,
+			["guides_history"] = {
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 1,
+				}, -- [1]
 			},
 			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["taxis"] = {
+				["Krasus' Landing"] = true,
+			},
+			["debuglog"] = {
+				"23:35:56> Viewer started. ---------------------------", -- [1]
+				"23:35:56> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"23:35:56> PLAYER_ALIVE (dead?)", -- [3]
+				"23:35:57> CacheQuestLog cached 0 quests", -- [4]
+				"23:35:58> Got completed quests list", -- [5]
+				"23:35:58> ZONE_CHANGED_NEW_AREA (dead?)", -- [6]
+				"23:35:58> CacheQuestLog cached 0 quests", -- [7]
+				"23:35:58> Hiding arrow with guide", -- [8]
+				"23:36:02> Guides loaded. -----", -- [9]
+				"23:36:02> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [10]
+				"23:36:02> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [11]
+				"23:36:02> FocusStep 1", -- [12]
+				"23:36:02> Translated: accept/turnin Reclaiming Sunstrider Isle", -- [13]
+				"23:36:02> unpausing", -- [14]
+				"23:36:02> frameNeedsUpdating, so updating.", -- [15]
+				"23:36:03> Hiding arrow with guide", -- [16]
+				"23:36:19> CacheQuestLog cached 0 quests", -- [17]
+				"23:36:19> CacheQuestLog cached 1 quests", -- [18]
+				"23:36:19> New Quest: Welcome to Shadowburn id 950500", -- [19]
+				"23:36:35> GetQuestId: id of quest 'Welcome to Shadowburn' = 950500", -- [20]
+				"23:36:35> Completed Quest: Welcome to Shadowburn, id: 950500", -- [21]
+				"23:36:35> CacheQuestLog cached 0 quests", -- [22]
+				"23:36:35> Lost Quest: Welcome to Shadowburn, id: 950500, complete: false", -- [23]
+				"23:37:12> PLAYER_ENTERING_WORLD (dead?)", -- [24]
+				"23:37:12> PLAYER_ALIVE (dead?)", -- [25]
+				"23:37:12> CacheQuestLog cached 0 quests", -- [26]
+				"23:37:12> CacheQuestLog cached 0 quests", -- [27]
+				"23:37:13> ZONE_CHANGED_NEW_AREA (dead?)", -- [28]
+				"23:43:29> PLAYER_ENTERING_WORLD (dead?)", -- [29]
+				"23:43:29> PLAYER_ALIVE (dead?)", -- [30]
+				"23:43:29> CacheQuestLog cached 0 quests", -- [31]
+				"23:43:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [32]
+				"23:43:29> CacheQuestLog cached 0 quests", -- [33]
+				"00:20:35> Viewer started. ---------------------------", -- [34]
+				"00:20:36> PLAYER_ENTERING_WORLD (dead?)", -- [35]
+				"00:20:36> PLAYER_ALIVE (dead?)", -- [36]
+				"00:20:36> CacheQuestLog cached 0 quests", -- [37]
+				"00:20:36> Got completed quests list", -- [38]
+				"00:20:36> CacheQuestLog cached 0 quests", -- [39]
+				"00:20:37> ZONE_CHANGED_NEW_AREA (dead?)", -- [40]
+				"00:20:38> Guides loaded. -----", -- [41]
+				"00:20:38> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [42]
+				"00:20:38> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [43]
+				"00:20:38> FocusStep 1", -- [44]
+				"00:21:30> PLAYER_ENTERING_WORLD (dead?)", -- [45]
+				"00:21:30> PLAYER_ALIVE (dead?)", -- [46]
+				"00:21:30> CacheQuestLog cached 0 quests", -- [47]
+				"00:21:30> CacheQuestLog cached 0 quests", -- [48]
+				"00:21:30> ZONE_CHANGED_NEW_AREA (dead?)", -- [49]
+				"00:22:42> PLAYER_ENTERING_WORLD (dead?)", -- [50]
+				"00:22:42> PLAYER_ALIVE (dead?)", -- [51]
+				"00:22:42> ZONE_CHANGED_NEW_AREA (dead?)", -- [52]
+				"00:22:42> CacheQuestLog cached 0 quests", -- [53]
+				"00:22:42> CacheQuestLog cached 0 quests", -- [54]
+				"00:27:42> PLAYER_ENTERING_WORLD (dead?)", -- [55]
+				"00:27:42> PLAYER_ALIVE (dead?)", -- [56]
+				"00:27:42> CacheQuestLog cached 0 quests", -- [57]
+				"00:27:43> CacheQuestLog cached 0 quests", -- [58]
+				"00:27:43> ZONE_CHANGED_NEW_AREA (dead?)", -- [59]
+				"00:28:21> PLAYER_ENTERING_WORLD (dead?)", -- [60]
+				"00:28:21> PLAYER_ALIVE (dead?)", -- [61]
+				"00:28:21> CacheQuestLog cached 0 quests", -- [62]
+				"00:28:21> CacheQuestLog cached 0 quests", -- [63]
+				"00:28:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [64]
+			},
 			["starting"] = false,
 		},
 		["Dranah - Frozen Nexus"] = {
@@ -4354,17 +4771,17 @@ ZygorGuidesViewerSettings = {
 				["Quest - Naglevar"] = true,
 				["Menethil Harbor"] = true,
 				["Argent Tournament Grounds"] = true,
-				["Agmar's Hammer"] = true,
+				["Camp Oneqwah"] = true,
 				["Vengeance Landing"] = true,
 				["Gundrak"] = true,
 				["AAAAQuest [Transport] Icecrown Raid - Saurfang Ship (START)"] = true,
 				["Kor'koron Vanguard"] = true,
 				["Wyrmrest Temple"] = true,
-				["CC Prologue - GT - Battle Flight - End"] = true,
+				["Thondoril River"] = true,
 				["Flavor - Stormwind Harbor - Stop"] = true,
 				["Taunka'le Village"] = true,
 				["Tranquillien"] = true,
-				["Thondoril River"] = true,
+				["CC Prologue - GT - Battle Flight - End"] = true,
 				["Transport: Thunder Bluff <-> Org (Zep)"] = true,
 				["Rebel Camp"] = true,
 				["Southshore"] = true,
@@ -4374,16 +4791,16 @@ ZygorGuidesViewerSettings = {
 				["Eastwall Tower"] = true,
 				["Transitus Shield"] = true,
 				["Amber Ledge"] = true,
-				["Apothecary Camp"] = true,
+				["Quest - Sunwell Daily - Dead Scar Bombing - End"] = true,
 				["Grom'arsh Crash-Site"] = true,
 				["Development Land - Pat Test End"] = true,
 				["Ebon Watch"] = true,
 				["Bor'gorok Outpost"] = true,
-				["Chillwind Camp"] = true,
+				["Zim'Torga"] = true,
 				["Conquest Hold"] = true,
-				["River's Heart"] = true,
-				["Naxxramas"] = true,
 				["Flame Crest"] = true,
+				["Naxxramas"] = true,
+				["River's Heart"] = true,
 				["Warsong Camp"] = true,
 				["CC Prologue - GT - Quest - Vent Horizon - End"] = true,
 				["The Shadow Vault"] = true,
@@ -4419,319 +4836,22 @@ ZygorGuidesViewerSettings = {
 				["Krasus' Landing"] = true,
 				["Bouldercrag's Refuge"] = true,
 				["Shattered Sun Staging Area"] = true,
-				["Zim'Torga"] = true,
+				["Chillwind Camp"] = true,
 				["Darkshire"] = true,
 				["Nethergarde Keep"] = true,
 				["Northpass Tower"] = true,
 				["K3"] = true,
-				["Quest - Sunwell Daily - Dead Scar Bombing - End"] = true,
+				["Apothecary Camp"] = true,
 				["The Argent Stand"] = true,
-				["Stormwind"] = true,
 				["Generic"] = true,
+				["Stormwind"] = true,
 				["Sentinel Hill"] = true,
 				["Plaguewood Tower"] = true,
-				["Camp Oneqwah"] = true,
+				["Agmar's Hammer"] = true,
 				["Grom'gol"] = true,
 				["Morgan's Vigil"] = true,
 			},
 			["step"] = 46,
-			["maint_fetchitemdata"] = true,
-		},
-		["Maldir - Icecrown"] = {
-			["starting"] = false,
-			["guides_history"] = {
-				{
-					["short"] = "Blood Elf (1-13)",
-					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-					["step"] = 1,
-				}, -- [1]
-			},
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-			["maint_fetchquestdata"] = true,
-			["taxis"] = {
-				[2] = true,
-				["Silvermoon City"] = true,
-			},
-			["debuglog"] = {
-				"15:08:07> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [1]
-				"15:08:07> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [2]
-				"15:08:07> FocusStep 1", -- [3]
-				"15:36:39> Viewer started. ---------------------------", -- [4]
-				"15:36:39> PLAYER_ENTERING_WORLD (dead?)", -- [5]
-				"15:36:39> PLAYER_ALIVE (dead?)", -- [6]
-				"15:36:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [7]
-				"15:36:39> CacheQuestLog cached 1 quests", -- [8]
-				"15:36:39> New Quest: A Fistful of Slivers id 8336", -- [9]
-				"15:36:39> Got completed quests list", -- [10]
-				"15:36:39> CacheQuestLog cached 1 quests", -- [11]
-				"15:36:42> Guides loaded. -----", -- [12]
-				"15:36:42> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [13]
-				"15:36:42> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [14]
-				"15:36:42> FocusStep 1", -- [15]
-				"00:02:20> Viewer started. ---------------------------", -- [16]
-				"00:02:21> PLAYER_ENTERING_WORLD (dead?)", -- [17]
-				"00:02:21> PLAYER_ALIVE (dead?)", -- [18]
-				"00:02:21> CacheQuestLog cached 1 quests", -- [19]
-				"00:02:21> New Quest: A Fistful of Slivers id 8336", -- [20]
-				"00:02:21> Got completed quests list", -- [21]
-				"00:02:21> CacheQuestLog cached 1 quests", -- [22]
-				"00:02:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [23]
-				"00:02:23> Guides loaded. -----", -- [24]
-				"00:02:23> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [25]
-				"00:02:23> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [26]
-				"00:02:23> FocusStep 1", -- [27]
-				"13:26:54> Viewer started. ---------------------------", -- [28]
-				"13:26:55> PLAYER_ENTERING_WORLD (dead?)", -- [29]
-				"13:26:55> PLAYER_ALIVE (dead?)", -- [30]
-				"13:26:55> CacheQuestLog cached 1 quests", -- [31]
-				"13:26:55> New Quest: A Fistful of Slivers id 8336", -- [32]
-				"13:26:55> Got completed quests list", -- [33]
-				"13:26:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [34]
-				"13:26:55> CacheQuestLog cached 1 quests", -- [35]
-				"13:26:57> Guides loaded. -----", -- [36]
-				"13:26:57> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [37]
-				"13:26:57> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [38]
-				"13:26:57> FocusStep 1", -- [39]
-				"23:32:32> Viewer started. ---------------------------", -- [40]
-				"23:32:33> PLAYER_ENTERING_WORLD (dead?)", -- [41]
-				"23:32:33> PLAYER_ALIVE (dead?)", -- [42]
-				"23:32:33> CacheQuestLog cached 1 quests", -- [43]
-				"23:32:33> New Quest: A Fistful of Slivers id 8336", -- [44]
-				"23:32:34> Got completed quests list", -- [45]
-				"23:32:34> CacheQuestLog cached 1 quests", -- [46]
-				"23:32:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [47]
-				"23:32:37> Guides loaded. -----", -- [48]
-				"23:32:37> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [49]
-				"23:32:37> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [50]
-				"23:32:37> FocusStep 1", -- [51]
-				"11:55:33> Viewer started. ---------------------------", -- [52]
-				"11:55:34> PLAYER_ENTERING_WORLD (dead?)", -- [53]
-				"11:55:34> PLAYER_ALIVE (dead?)", -- [54]
-				"11:55:34> CacheQuestLog cached 1 quests", -- [55]
-				"11:55:34> New Quest: A Fistful of Slivers id 8336", -- [56]
-				"11:55:34> Got completed quests list", -- [57]
-				"11:55:34> CacheQuestLog cached 1 quests", -- [58]
-				"11:55:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [59]
-				"11:55:36> Guides loaded. -----", -- [60]
-				"11:55:36> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [61]
-				"11:55:36> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [62]
-				"11:55:36> FocusStep 1", -- [63]
-				"18:51:50> Viewer started. ---------------------------", -- [64]
-				"18:51:50> PLAYER_ENTERING_WORLD (dead?)", -- [65]
-				"18:51:51> PLAYER_ALIVE (dead?)", -- [66]
-				"18:51:51> ZONE_CHANGED_NEW_AREA (dead?)", -- [67]
-				"18:51:51> CacheQuestLog cached 1 quests", -- [68]
-				"18:51:51> New Quest: A Fistful of Slivers id 8336", -- [69]
-				"18:51:51> Got completed quests list", -- [70]
-				"18:51:51> CacheQuestLog cached 1 quests", -- [71]
-				"18:51:53> Guides loaded. -----", -- [72]
-				"18:51:53> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [73]
-				"18:51:53> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [74]
-				"18:51:53> FocusStep 1", -- [75]
-				"13:49:45> Viewer started. ---------------------------", -- [76]
-				"13:49:46> PLAYER_ENTERING_WORLD (dead?)", -- [77]
-				"13:49:46> PLAYER_ALIVE (dead?)", -- [78]
-				"13:49:46> CacheQuestLog cached 0 quests", -- [79]
-				"13:49:46> Got completed quests list", -- [80]
-				"13:49:46> CacheQuestLog cached 1 quests", -- [81]
-				"13:49:46> New Quest: A Fistful of Slivers id 8336", -- [82]
-				"13:49:47> CacheQuestLog cached 1 quests", -- [83]
-				"13:49:47> ZONE_CHANGED_NEW_AREA (dead?)", -- [84]
-				"13:49:50> Guides loaded. -----", -- [85]
-				"13:49:50> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [86]
-				"13:49:50> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [87]
-				"13:49:50> FocusStep 1", -- [88]
-				"11:32:23> Viewer started. ---------------------------", -- [89]
-				"11:32:24> PLAYER_ENTERING_WORLD (dead?)", -- [90]
-				"11:32:24> PLAYER_ALIVE (dead?)", -- [91]
-				"11:32:24> ZONE_CHANGED_NEW_AREA (dead?)", -- [92]
-				"11:32:24> CacheQuestLog cached 1 quests", -- [93]
-				"11:32:24> New Quest: A Fistful of Slivers id 8336", -- [94]
-				"11:32:24> Got completed quests list", -- [95]
-				"11:32:24> CacheQuestLog cached 1 quests", -- [96]
-				"11:32:26> Guides loaded. -----", -- [97]
-				"11:32:26> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [98]
-				"11:32:26> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [99]
-				"11:32:26> FocusStep 1", -- [100]
-			},
-			["maint_fetchitemdata"] = true,
-		},
-		["Maulh - Icecrown"] = {
-			["guidename"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
-			["debuglog"] = {
-				"02:05:21> PLAYER_ALIVE (dead?)", -- [1]
-				"02:05:21> CacheQuestLog cached 22 quests", -- [2]
-				"02:05:21> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [3]
-				"02:05:21> New Quest: Search Indu'le Village id 12106", -- [4]
-				"02:05:21> New Quest: Wanted: Dreadtalon id 12091", -- [5]
-				"02:05:21> New Quest: Wanted: Gigantaur id 12090", -- [6]
-				"02:05:21> New Quest: Halls of Stone id 13207", -- [7]
-				"02:05:21> New Quest: Honor Above All Else id 13036", -- [8]
-				"02:05:21> New Quest: Blackwatch id 13106", -- [9]
-				"02:05:21> New Quest: Eliminate the Competition id 12955", -- [10]
-				"02:05:21> New Quest: Still At It id 12644", -- [11]
-				"02:05:21> New Quest: The Part-time Hunter id 12654", -- [12]
-				"02:05:21> New Quest: Wipe That Grin Off His Face id 12525", -- [13]
-				"02:05:21> New Quest: An Embarassing Incident id 12699", -- [14]
-				"02:05:21> New Quest: Malygos Must Die! id 24584", -- [15]
-				"02:05:21> New Quest: Inside the Frozen Citadel id 24506", -- [16]
-				"02:05:21> New Quest: Prisoner of War id 11973", -- [17]
-				"02:05:21> New Quest: Assault on the Sanctum id 26013", -- [18]
-				"02:05:21> New Quest: Containment id 13159", -- [19]
-				"02:05:21> New Quest: Into the Breach! id 12789", -- [20]
-				"02:05:21> New Quest: Taking a Stand id 12795", -- [21]
-				"02:05:21> New Quest: Wanted: Ragemane's Flipper id 12857", -- [22]
-				"02:05:21> New Quest: You Can Run, But You Can't Hide id 12629", -- [23]
-				"02:05:21> New Quest: Gymer's Salvation id 12914", -- [24]
-				"02:05:22> Got completed quests list", -- [25]
-				"02:05:22> CacheQuestLog cached 22 quests", -- [26]
-				"02:05:22> ZONE_CHANGED_NEW_AREA (dead?)", -- [27]
-				"02:05:24> Guides loaded. -----", -- [28]
-				"02:05:24> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [29]
-				"02:05:24> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [30]
-				"02:05:24> FocusStep 193", -- [31]
-				"02:05:24> unpausing", -- [32]
-				"01:22:53> Viewer started. ---------------------------", -- [33]
-				"01:22:55> PLAYER_ENTERING_WORLD (dead?)", -- [34]
-				"01:22:55> PLAYER_ALIVE (dead?)", -- [35]
-				"01:22:55> CacheQuestLog cached 22 quests", -- [36]
-				"01:22:55> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [37]
-				"01:22:55> New Quest: Search Indu'le Village id 12106", -- [38]
-				"01:22:55> New Quest: Wanted: Dreadtalon id 12091", -- [39]
-				"01:22:55> New Quest: Wanted: Gigantaur id 12090", -- [40]
-				"01:22:55> New Quest: Halls of Stone id 13207", -- [41]
-				"01:22:55> New Quest: Honor Above All Else id 13036", -- [42]
-				"01:22:55> New Quest: Blackwatch id 13106", -- [43]
-				"01:22:55> New Quest: Eliminate the Competition id 12955", -- [44]
-				"01:22:55> New Quest: Still At It id 12644", -- [45]
-				"01:22:55> New Quest: The Part-time Hunter id 12654", -- [46]
-				"01:22:55> New Quest: Wipe That Grin Off His Face id 12525", -- [47]
-				"01:22:55> New Quest: An Embarassing Incident id 12699", -- [48]
-				"01:22:55> New Quest: Malygos Must Die! id 24584", -- [49]
-				"01:22:55> New Quest: Inside the Frozen Citadel id 24506", -- [50]
-				"01:22:55> New Quest: Prisoner of War id 11973", -- [51]
-				"01:22:55> New Quest: Assault on the Sanctum id 26013", -- [52]
-				"01:22:55> New Quest: Containment id 13159", -- [53]
-				"01:22:55> New Quest: Into the Breach! id 12789", -- [54]
-				"01:22:55> New Quest: Taking a Stand id 12795", -- [55]
-				"01:22:55> New Quest: Wanted: Ragemane's Flipper id 12857", -- [56]
-				"01:22:55> New Quest: You Can Run, But You Can't Hide id 12629", -- [57]
-				"01:22:55> New Quest: Gymer's Salvation id 12914", -- [58]
-				"01:22:55> Got completed quests list", -- [59]
-				"01:22:55> CacheQuestLog cached 22 quests", -- [60]
-				"01:22:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [61]
-				"01:22:58> Guides loaded. -----", -- [62]
-				"01:22:58> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [63]
-				"01:22:58> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [64]
-				"01:22:58> FocusStep 193", -- [65]
-				"01:22:58> unpausing", -- [66]
-				"01:47:34> Viewer started. ---------------------------", -- [67]
-				"01:47:35> PLAYER_ENTERING_WORLD (dead?)", -- [68]
-				"01:47:35> PLAYER_ALIVE (dead?)", -- [69]
-				"01:47:35> CacheQuestLog cached 22 quests", -- [70]
-				"01:47:35> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [71]
-				"01:47:35> New Quest: Search Indu'le Village id 12106", -- [72]
-				"01:47:35> New Quest: Wanted: Dreadtalon id 12091", -- [73]
-				"01:47:35> New Quest: Wanted: Gigantaur id 12090", -- [74]
-				"01:47:35> New Quest: Halls of Stone id 13207", -- [75]
-				"01:47:35> New Quest: Honor Above All Else id 13036", -- [76]
-				"01:47:35> New Quest: Blackwatch id 13106", -- [77]
-				"01:47:35> New Quest: Eliminate the Competition id 12955", -- [78]
-				"01:47:35> New Quest: Still At It id 12644", -- [79]
-				"01:47:35> New Quest: The Part-time Hunter id 12654", -- [80]
-				"01:47:35> New Quest: Wipe That Grin Off His Face id 12525", -- [81]
-				"01:47:35> New Quest: An Embarassing Incident id 12699", -- [82]
-				"01:47:35> New Quest: Malygos Must Die! id 24584", -- [83]
-				"01:47:35> New Quest: Inside the Frozen Citadel id 24506", -- [84]
-				"01:47:35> New Quest: Prisoner of War id 11973", -- [85]
-				"01:47:35> New Quest: Assault on the Sanctum id 26013", -- [86]
-				"01:47:35> New Quest: Containment id 13159", -- [87]
-				"01:47:35> New Quest: Into the Breach! id 12789", -- [88]
-				"01:47:35> New Quest: Taking a Stand id 12795", -- [89]
-				"01:47:35> New Quest: Wanted: Ragemane's Flipper id 12857", -- [90]
-				"01:47:35> New Quest: You Can Run, But You Can't Hide id 12629", -- [91]
-				"01:47:35> New Quest: Gymer's Salvation id 12914", -- [92]
-				"01:47:36> Got completed quests list", -- [93]
-				"01:47:36> CacheQuestLog cached 22 quests", -- [94]
-				"01:47:36> ZONE_CHANGED_NEW_AREA (dead?)", -- [95]
-				"01:47:38> Guides loaded. -----", -- [96]
-				"01:47:38> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [97]
-				"01:47:38> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [98]
-				"01:47:38> FocusStep 193", -- [99]
-				"01:47:38> unpausing", -- [100]
-			},
-			["starting"] = false,
-			["guides_history"] = {
-				{
-					["short"] = "Death Knight (55-60)",
-					["full"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
-					["step"] = 174,
-				}, -- [1]
-				{
-					["short"] = "Northrend (76-78)",
-					["full"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
-					["step"] = 193,
-				}, -- [2]
-			},
-			["step"] = 193,
-			["RecipesKnown"] = {
-				[53323] = true,
-				[53331] = true,
-				[53341] = true,
-				[53342] = true,
-				[53343] = true,
-				[54446] = true,
-				[53344] = true,
-				[54447] = true,
-				[62158] = true,
-				[70164] = true,
-			},
-			["taxis"] = {
-				nil, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				["Kargath"] = true,
-				["Light's Hope Chapel"] = true,
-				["Apothecary Camp"] = true,
-				["Venomspite"] = true,
-				["Revantusk Village"] = true,
-				["Hammerfall"] = true,
-				["Conquest Hold"] = true,
-				["Silvermoon City"] = true,
-				["Flame Crest"] = true,
-				["Undercity"] = true,
-				["Zul'Aman"] = true,
-				["Warsong Hold"] = true,
-				["Amber Ledge"] = true,
-				["Tarren Mill"] = true,
-				["Grom'gol"] = true,
-				["Moa'ki"] = true,
-				["Acherus: The Ebon Hold"] = true,
-				["Light's Breach"] = true,
-				["Thorium Point"] = true,
-				["Nesingwary Base Camp"] = true,
-				["Booty Bay"] = true,
-				["Dalaran"] = true,
-				["Krasus' Landing"] = true,
-				["Shattered Sun Staging Area"] = true,
-				["The Shadow Vault"] = true,
-				["Vengeance Landing"] = true,
-				["River's Heart"] = true,
-				["Lakeside Landing"] = true,
-				["Ebon Watch"] = true,
-				["Transitus Shield"] = true,
-				["Tranquillien"] = true,
-				["Hellfire Peninsula, The Dark Portal"] = true,
-				["Thondoril River"] = true,
-				["Wyrmrest Temple"] = true,
-				["Thrallmar"] = true,
-				["The Sepulcher"] = true,
-				["The Bulwark"] = true,
-				["Stonard"] = true,
-				["Agmar's Hammer"] = true,
-			},
-			["maint_fetchquestdata"] = true,
 			["maint_fetchitemdata"] = true,
 		},
 		["Lawras - Lordaeron"] = {
@@ -4851,6 +4971,418 @@ ZygorGuidesViewerSettings = {
 			},
 			["starting"] = false,
 		},
+		["Maulh - Icecrown"] = {
+			["guidename"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
+			["debuglog"] = {
+				"02:05:21> PLAYER_ALIVE (dead?)", -- [1]
+				"02:05:21> CacheQuestLog cached 22 quests", -- [2]
+				"02:05:21> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [3]
+				"02:05:21> New Quest: Search Indu'le Village id 12106", -- [4]
+				"02:05:21> New Quest: Wanted: Dreadtalon id 12091", -- [5]
+				"02:05:21> New Quest: Wanted: Gigantaur id 12090", -- [6]
+				"02:05:21> New Quest: Halls of Stone id 13207", -- [7]
+				"02:05:21> New Quest: Honor Above All Else id 13036", -- [8]
+				"02:05:21> New Quest: Blackwatch id 13106", -- [9]
+				"02:05:21> New Quest: Eliminate the Competition id 12955", -- [10]
+				"02:05:21> New Quest: Still At It id 12644", -- [11]
+				"02:05:21> New Quest: The Part-time Hunter id 12654", -- [12]
+				"02:05:21> New Quest: Wipe That Grin Off His Face id 12525", -- [13]
+				"02:05:21> New Quest: An Embarassing Incident id 12699", -- [14]
+				"02:05:21> New Quest: Malygos Must Die! id 24584", -- [15]
+				"02:05:21> New Quest: Inside the Frozen Citadel id 24506", -- [16]
+				"02:05:21> New Quest: Prisoner of War id 11973", -- [17]
+				"02:05:21> New Quest: Assault on the Sanctum id 26013", -- [18]
+				"02:05:21> New Quest: Containment id 13159", -- [19]
+				"02:05:21> New Quest: Into the Breach! id 12789", -- [20]
+				"02:05:21> New Quest: Taking a Stand id 12795", -- [21]
+				"02:05:21> New Quest: Wanted: Ragemane's Flipper id 12857", -- [22]
+				"02:05:21> New Quest: You Can Run, But You Can't Hide id 12629", -- [23]
+				"02:05:21> New Quest: Gymer's Salvation id 12914", -- [24]
+				"02:05:22> Got completed quests list", -- [25]
+				"02:05:22> CacheQuestLog cached 22 quests", -- [26]
+				"02:05:22> ZONE_CHANGED_NEW_AREA (dead?)", -- [27]
+				"02:05:24> Guides loaded. -----", -- [28]
+				"02:05:24> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [29]
+				"02:05:24> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [30]
+				"02:05:24> FocusStep 193", -- [31]
+				"02:05:24> unpausing", -- [32]
+				"01:22:53> Viewer started. ---------------------------", -- [33]
+				"01:22:55> PLAYER_ENTERING_WORLD (dead?)", -- [34]
+				"01:22:55> PLAYER_ALIVE (dead?)", -- [35]
+				"01:22:55> CacheQuestLog cached 22 quests", -- [36]
+				"01:22:55> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [37]
+				"01:22:55> New Quest: Search Indu'le Village id 12106", -- [38]
+				"01:22:55> New Quest: Wanted: Dreadtalon id 12091", -- [39]
+				"01:22:55> New Quest: Wanted: Gigantaur id 12090", -- [40]
+				"01:22:55> New Quest: Halls of Stone id 13207", -- [41]
+				"01:22:55> New Quest: Honor Above All Else id 13036", -- [42]
+				"01:22:55> New Quest: Blackwatch id 13106", -- [43]
+				"01:22:55> New Quest: Eliminate the Competition id 12955", -- [44]
+				"01:22:55> New Quest: Still At It id 12644", -- [45]
+				"01:22:55> New Quest: The Part-time Hunter id 12654", -- [46]
+				"01:22:55> New Quest: Wipe That Grin Off His Face id 12525", -- [47]
+				"01:22:55> New Quest: An Embarassing Incident id 12699", -- [48]
+				"01:22:55> New Quest: Malygos Must Die! id 24584", -- [49]
+				"01:22:55> New Quest: Inside the Frozen Citadel id 24506", -- [50]
+				"01:22:55> New Quest: Prisoner of War id 11973", -- [51]
+				"01:22:55> New Quest: Assault on the Sanctum id 26013", -- [52]
+				"01:22:55> New Quest: Containment id 13159", -- [53]
+				"01:22:55> New Quest: Into the Breach! id 12789", -- [54]
+				"01:22:55> New Quest: Taking a Stand id 12795", -- [55]
+				"01:22:55> New Quest: Wanted: Ragemane's Flipper id 12857", -- [56]
+				"01:22:55> New Quest: You Can Run, But You Can't Hide id 12629", -- [57]
+				"01:22:55> New Quest: Gymer's Salvation id 12914", -- [58]
+				"01:22:55> Got completed quests list", -- [59]
+				"01:22:55> CacheQuestLog cached 22 quests", -- [60]
+				"01:22:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [61]
+				"01:22:58> Guides loaded. -----", -- [62]
+				"01:22:58> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [63]
+				"01:22:58> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [64]
+				"01:22:58> FocusStep 193", -- [65]
+				"01:22:58> unpausing", -- [66]
+				"01:47:34> Viewer started. ---------------------------", -- [67]
+				"01:47:35> PLAYER_ENTERING_WORLD (dead?)", -- [68]
+				"01:47:35> PLAYER_ALIVE (dead?)", -- [69]
+				"01:47:35> CacheQuestLog cached 22 quests", -- [70]
+				"01:47:35> New Quest: Marked for Death: High Cultist Zangus id 12056", -- [71]
+				"01:47:35> New Quest: Search Indu'le Village id 12106", -- [72]
+				"01:47:35> New Quest: Wanted: Dreadtalon id 12091", -- [73]
+				"01:47:35> New Quest: Wanted: Gigantaur id 12090", -- [74]
+				"01:47:35> New Quest: Halls of Stone id 13207", -- [75]
+				"01:47:35> New Quest: Honor Above All Else id 13036", -- [76]
+				"01:47:35> New Quest: Blackwatch id 13106", -- [77]
+				"01:47:35> New Quest: Eliminate the Competition id 12955", -- [78]
+				"01:47:35> New Quest: Still At It id 12644", -- [79]
+				"01:47:35> New Quest: The Part-time Hunter id 12654", -- [80]
+				"01:47:35> New Quest: Wipe That Grin Off His Face id 12525", -- [81]
+				"01:47:35> New Quest: An Embarassing Incident id 12699", -- [82]
+				"01:47:35> New Quest: Malygos Must Die! id 24584", -- [83]
+				"01:47:35> New Quest: Inside the Frozen Citadel id 24506", -- [84]
+				"01:47:35> New Quest: Prisoner of War id 11973", -- [85]
+				"01:47:35> New Quest: Assault on the Sanctum id 26013", -- [86]
+				"01:47:35> New Quest: Containment id 13159", -- [87]
+				"01:47:35> New Quest: Into the Breach! id 12789", -- [88]
+				"01:47:35> New Quest: Taking a Stand id 12795", -- [89]
+				"01:47:35> New Quest: Wanted: Ragemane's Flipper id 12857", -- [90]
+				"01:47:35> New Quest: You Can Run, But You Can't Hide id 12629", -- [91]
+				"01:47:35> New Quest: Gymer's Salvation id 12914", -- [92]
+				"01:47:36> Got completed quests list", -- [93]
+				"01:47:36> CacheQuestLog cached 22 quests", -- [94]
+				"01:47:36> ZONE_CHANGED_NEW_AREA (dead?)", -- [95]
+				"01:47:38> Guides loaded. -----", -- [96]
+				"01:47:38> SetGuide Zygor's Horde Leveling Guides\\Northrend (76-78) (193", -- [97]
+				"01:47:38> Guide loaded: Zygor's Horde Leveling Guides\\Northrend (76-78)", -- [98]
+				"01:47:38> FocusStep 193", -- [99]
+				"01:47:38> unpausing", -- [100]
+			},
+			["starting"] = false,
+			["guides_history"] = {
+				{
+					["short"] = "Death Knight (55-60)",
+					["full"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
+					["step"] = 174,
+				}, -- [1]
+				{
+					["short"] = "Northrend (76-78)",
+					["full"] = "Zygor's Horde Leveling Guides\\Northrend (76-78)",
+					["step"] = 193,
+				}, -- [2]
+			},
+			["step"] = 193,
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+				nil, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				["Kargath"] = true,
+				["Light's Hope Chapel"] = true,
+				["Apothecary Camp"] = true,
+				["Venomspite"] = true,
+				["Revantusk Village"] = true,
+				["Hammerfall"] = true,
+				["Conquest Hold"] = true,
+				["Silvermoon City"] = true,
+				["Flame Crest"] = true,
+				["Undercity"] = true,
+				["Zul'Aman"] = true,
+				["Warsong Hold"] = true,
+				["Amber Ledge"] = true,
+				["Tarren Mill"] = true,
+				["Grom'gol"] = true,
+				["Moa'ki"] = true,
+				["Acherus: The Ebon Hold"] = true,
+				["Light's Breach"] = true,
+				["Thorium Point"] = true,
+				["Nesingwary Base Camp"] = true,
+				["Booty Bay"] = true,
+				["Dalaran"] = true,
+				["Krasus' Landing"] = true,
+				["Agmar's Hammer"] = true,
+				["Shattered Sun Staging Area"] = true,
+				["Vengeance Landing"] = true,
+				["River's Heart"] = true,
+				["Lakeside Landing"] = true,
+				["Ebon Watch"] = true,
+				["Transitus Shield"] = true,
+				["Tranquillien"] = true,
+				["Hellfire Peninsula, The Dark Portal"] = true,
+				["Thondoril River"] = true,
+				["Wyrmrest Temple"] = true,
+				["Thrallmar"] = true,
+				["The Sepulcher"] = true,
+				["The Bulwark"] = true,
+				["Stonard"] = true,
+				["The Shadow Vault"] = true,
+			},
+			["RecipesKnown"] = {
+				[53323] = true,
+				[53331] = true,
+				[53341] = true,
+				[53342] = true,
+				[53343] = true,
+				[54446] = true,
+				[53344] = true,
+				[54447] = true,
+				[62158] = true,
+				[70164] = true,
+			},
+			["maint_fetchitemdata"] = true,
+		},
+		["Warmat - Icecrown"] = {
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
+			["debuglog"] = {
+				"01:47:51> New Quest: It Could Kill Us All id 13135", -- [1]
+				"01:47:51> New Quest: The Stone That Started A Revolution id 13130", -- [2]
+				"01:47:51> New Quest: Blackwatch id 13106", -- [3]
+				"01:47:51> New Quest: Crush Dem Vrykuls! id 12992", -- [4]
+				"01:47:51> New Quest: The Bone Witch id 12999", -- [5]
+				"01:47:51> New Quest: Patchwerk Must Die! id 24583", -- [6]
+				"01:47:51> New Quest: The Path to the Citadel id 24498", -- [7]
+				"01:47:51> New Quest: Dispelling Illusions id 13149", -- [8]
+				"01:47:51> New Quest: Trouble at Wyrmrest id 26012", -- [9]
+				"01:47:51> New Quest: Disarmament id 13205", -- [10]
+				"01:47:51> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [11]
+				"01:47:51> New Quest: The Islander id 1718", -- [12]
+				"01:47:51> New Quest: Eggs for Dubra'Jin id 13556", -- [13]
+				"01:47:51> Got completed quests list", -- [14]
+				"01:47:51> CacheQuestLog cached 14 quests", -- [15]
+				"01:47:52> ZONE_CHANGED_NEW_AREA (dead?)", -- [16]
+				"01:47:55> Guides loaded. -----", -- [17]
+				"01:47:55> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [18]
+				"01:47:55> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [19]
+				"01:47:55> FocusStep 77", -- [20]
+				"01:48:40> PLAYER_ENTERING_WORLD (dead?)", -- [21]
+				"01:48:41> PLAYER_ALIVE (dead?)", -- [22]
+				"01:48:41> CacheQuestLog cached 14 quests", -- [23]
+				"01:48:41> CacheQuestLog cached 14 quests", -- [24]
+				"01:48:41> ZONE_CHANGED_NEW_AREA (dead?)", -- [25]
+				"02:03:16> PLAYER_ENTERING_WORLD (dead?)", -- [26]
+				"02:03:16> PLAYER_ALIVE (dead?)", -- [27]
+				"02:03:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [28]
+				"02:03:16> CacheQuestLog cached 14 quests", -- [29]
+				"02:03:17> CacheQuestLog cached 14 quests", -- [30]
+				"12:06:47> Viewer started. ---------------------------", -- [31]
+				"12:06:50> PLAYER_ENTERING_WORLD (dead?)", -- [32]
+				"12:06:50> PLAYER_ALIVE (dead?)", -- [33]
+				"12:06:50> CacheQuestLog cached 14 quests", -- [34]
+				"12:06:50> New Quest: One of a Kind id 13111", -- [35]
+				"12:06:50> New Quest: It Could Kill Us All id 13135", -- [36]
+				"12:06:50> New Quest: The Stone That Started A Revolution id 13130", -- [37]
+				"12:06:50> New Quest: Blackwatch id 13106", -- [38]
+				"12:06:50> New Quest: Crush Dem Vrykuls! id 12992", -- [39]
+				"12:06:50> New Quest: The Bone Witch id 12999", -- [40]
+				"12:06:50> New Quest: Patchwerk Must Die! id 24583", -- [41]
+				"12:06:50> New Quest: The Path to the Citadel id 24498", -- [42]
+				"12:06:50> New Quest: Dispelling Illusions id 13149", -- [43]
+				"12:06:50> New Quest: Trouble at Wyrmrest id 26012", -- [44]
+				"12:06:50> New Quest: Disarmament id 13205", -- [45]
+				"12:06:50> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [46]
+				"12:06:50> New Quest: The Islander id 1718", -- [47]
+				"12:06:50> New Quest: Eggs for Dubra'Jin id 13556", -- [48]
+				"12:06:50> Got completed quests list", -- [49]
+				"12:06:50> ZONE_CHANGED_NEW_AREA (dead?)", -- [50]
+				"12:06:50> CacheQuestLog cached 14 quests", -- [51]
+				"12:06:54> Guides loaded. -----", -- [52]
+				"12:06:54> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [53]
+				"12:06:54> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [54]
+				"12:06:54> FocusStep 77", -- [55]
+				"01:04:18> Viewer started. ---------------------------", -- [56]
+				"01:04:20> PLAYER_ENTERING_WORLD (dead?)", -- [57]
+				"01:04:20> PLAYER_ALIVE (dead?)", -- [58]
+				"01:04:20> CacheQuestLog cached 14 quests", -- [59]
+				"01:04:20> New Quest: One of a Kind id 13111", -- [60]
+				"01:04:20> New Quest: It Could Kill Us All id 13135", -- [61]
+				"01:04:20> New Quest: The Stone That Started A Revolution id 13130", -- [62]
+				"01:04:20> New Quest: Blackwatch id 13106", -- [63]
+				"01:04:20> New Quest: Crush Dem Vrykuls! id 12992", -- [64]
+				"01:04:20> New Quest: The Bone Witch id 12999", -- [65]
+				"01:04:20> New Quest: Patchwerk Must Die! id 24583", -- [66]
+				"01:04:20> New Quest: The Path to the Citadel id 24498", -- [67]
+				"01:04:20> New Quest: Dispelling Illusions id 13149", -- [68]
+				"01:04:20> New Quest: Trouble at Wyrmrest id 26012", -- [69]
+				"01:04:20> New Quest: Disarmament id 13205", -- [70]
+				"01:04:20> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [71]
+				"01:04:20> New Quest: The Islander id 1718", -- [72]
+				"01:04:20> New Quest: Eggs for Dubra'Jin id 13556", -- [73]
+				"01:04:21> Got completed quests list", -- [74]
+				"01:04:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [75]
+				"01:04:21> CacheQuestLog cached 14 quests", -- [76]
+				"01:04:24> Guides loaded. -----", -- [77]
+				"01:04:24> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [78]
+				"01:04:24> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [79]
+				"01:04:24> FocusStep 77", -- [80]
+				"01:05:04> PLAYER_ENTERING_WORLD (dead?)", -- [81]
+				"01:05:04> PLAYER_ALIVE (dead?)", -- [82]
+				"01:05:04> CacheQuestLog cached 14 quests", -- [83]
+				"01:05:04> CacheQuestLog cached 14 quests", -- [84]
+				"01:05:04> ZONE_CHANGED_NEW_AREA (dead?)", -- [85]
+				"01:18:28> PLAYER_ENTERING_WORLD (dead?)", -- [86]
+				"01:18:28> PLAYER_ALIVE (dead?)", -- [87]
+				"01:18:28> CacheQuestLog cached 14 quests", -- [88]
+				"01:18:29> CacheQuestLog cached 14 quests", -- [89]
+				"01:18:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [90]
+				"01:18:31> PLAYER_ENTERING_WORLD (dead?)", -- [91]
+				"01:18:31> PLAYER_ALIVE (dead?)", -- [92]
+				"01:18:31> CacheQuestLog cached 14 quests", -- [93]
+				"01:18:31> CacheQuestLog cached 14 quests", -- [94]
+				"01:18:31> ZONE_CHANGED_NEW_AREA (dead?)", -- [95]
+				"01:21:58> PLAYER_ENTERING_WORLD (dead?)", -- [96]
+				"01:21:58> PLAYER_ALIVE (dead?)", -- [97]
+				"01:21:58> CacheQuestLog cached 14 quests", -- [98]
+				"01:21:58> CacheQuestLog cached 14 quests", -- [99]
+				"01:21:59> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
+			},
+			["maint_fetchitemdata"] = true,
+			["guides_history"] = {
+				{
+					["short"] = "Human (1-13)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
+					["step"] = 1,
+				}, -- [1]
+				{
+					["short"] = "Levels (45-50)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Levels (45-50)",
+					["step"] = 1,
+				}, -- [2]
+				{
+					["short"] = "Outland (60-62)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Outland (60-62)",
+					["step"] = 39,
+				}, -- [3]
+				{
+					["short"] = "Northrend (70-72)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
+					["step"] = 77,
+				}, -- [4]
+			},
+			["step"] = 77,
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+				nil, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				["Morgan's Vigil"] = true,
+				["Dubra'Jin"] = true,
+				["Stars' Rest"] = true,
+				["Bouldercrag's Refuge"] = true,
+				["Frosthold"] = true,
+				["Altar of Sha'tar"] = true,
+				["Allerian Stronghold"] = true,
+				["Shattrath City"] = true,
+				["Fordragon Hold"] = true,
+				["Sanctum of the Stars"] = true,
+				["Refuge Pointe"] = true,
+				["Temple of Telhamat"] = true,
+				["Thorium Point"] = true,
+				["The Argent Vanguard"] = true,
+				["Aerie Peak"] = true,
+				["Lakeshire"] = true,
+				["Ironforge"] = true,
+				["Dalaran"] = true,
+				["Krasus' Landing"] = true,
+				["Shattered Sun Staging Area"] = true,
+				["Shattrath"] = true,
+				["The Shadow Vault"] = true,
+				["Southshore"] = true,
+				["Valiance Keep"] = true,
+				["Transitus Shield"] = true,
+				["Gundrak"] = true,
+				["Stormwind"] = true,
+				["Wyrmrest Temple"] = true,
+				["Redridge Mountains"] = true,
+				["Shatter Point"] = true,
+				["Hellfire Peninsula, The Dark Portal"] = true,
+				["Honor Hold"] = true,
+				["Amber Ledge"] = true,
+			},
+			["RecipesKnown"] = {
+				[2538] = true,
+				[70524] = true,
+				[7408] = true,
+				[7928] = true,
+				[3326] = true,
+				[2657] = true,
+				[2665] = true,
+				[7929] = true,
+				[2658] = true,
+				[3319] = true,
+				[3115] = true,
+				[2666] = true,
+				[45545] = true,
+				[49252] = true,
+				[2540] = true,
+				[3304] = true,
+				[10097] = true,
+				[3320] = true,
+				[10098] = true,
+				[3294] = true,
+				[3116] = true,
+				[2659] = true,
+				[27033] = true,
+				[2738] = true,
+				[27032] = true,
+				[2663] = true,
+				[7751] = true,
+				[7934] = true,
+				[29360] = true,
+				[2660] = true,
+				[18630] = true,
+				[2739] = true,
+				[16153] = true,
+				[29359] = true,
+				[18629] = true,
+				[35751] = true,
+				[3307] = true,
+				[2661] = true,
+				[37836] = true,
+				[8880] = true,
+				[9983] = true,
+				[3323] = true,
+				[3277] = true,
+				[3276] = true,
+				[3275] = true,
+				[2662] = true,
+				[29356] = true,
+				[3308] = true,
+				[29358] = true,
+				[3324] = true,
+				[45546] = true,
+				[29361] = true,
+				[3293] = true,
+				[10840] = true,
+				[8604] = true,
+				[10841] = true,
+				[3569] = true,
+				[2737] = true,
+				[12260] = true,
+				[3278] = true,
+				[35750] = true,
+				[29686] = true,
+			},
+			["starting"] = false,
+		},
 		["Dud - Frozen Nexus"] = {
 			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
@@ -4903,100 +5435,106 @@ ZygorGuidesViewerSettings = {
 			["taxis"] = {
 			},
 			["debuglog"] = {
-				"19:39:45> Viewer started. ---------------------------", -- [1]
-				"19:39:45> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"19:39:45> PLAYER_ALIVE (dead?)", -- [3]
-				"19:39:45> CacheQuestLog cached 0 quests", -- [4]
-				"19:39:45> Got completed quests list", -- [5]
-				"19:39:45> CacheQuestLog cached 0 quests", -- [6]
-				"19:39:45> ZONE_CHANGED_NEW_AREA (dead?)", -- [7]
-				"19:39:46> Hiding arrow with guide", -- [8]
-				"19:39:50> Guides loaded. -----", -- [9]
-				"19:39:50> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [10]
-				"19:39:50> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [11]
-				"19:39:50> FocusStep 1", -- [12]
-				"19:39:50> unpausing", -- [13]
-				"19:39:50> frameNeedsUpdating, so updating.", -- [14]
-				"19:39:59> Hiding arrow with guide", -- [15]
-				"19:40:13> CacheQuestLog cached 1 quests", -- [16]
-				"19:40:13> New Quest: Your Place In The World id 4641", -- [17]
-				"19:40:17> CacheQuestLog cached 1 quests", -- [18]
-				"19:40:17> CacheQuestLog cached 2 quests", -- [19]
-				"19:40:17> New Quest: Welcome to Shadowburn id 950500", -- [20]
-				"19:40:48> Got completed quests list", -- [21]
-				"19:40:50> GetQuestId: id of quest 'Welcome to Shadowburn' = 950500", -- [22]
-				"19:40:50> Completed Quest: Welcome to Shadowburn, id: 950500", -- [23]
-				"19:40:50> CacheQuestLog cached 1 quests", -- [24]
-				"19:40:50> Lost Quest: Welcome to Shadowburn, id: 950500, complete: false", -- [25]
-				"19:41:01> GetQuestId: id of quest 'Your Place In The World' = 4641", -- [26]
-				"19:41:01> Completed Quest: Your Place In The World, id: 4641", -- [27]
-				"19:41:01> CacheQuestLog cached 0 quests", -- [28]
-				"19:41:01> Lost Quest: Your Place In The World, id: 4641, complete: false", -- [29]
-				"19:41:01> CacheQuestLog cached 1 quests", -- [30]
-				"19:41:01> New Quest: Cutting Teeth id 788", -- [31]
-				"19:42:57> CacheQuestLog cached 1 quests", -- [32]
-				"19:43:06> CacheQuestLog cached 1 quests", -- [33]
-				"19:43:10> CacheQuestLog cached 1 quests", -- [34]
-				"19:43:17> CacheQuestLog cached 1 quests", -- [35]
-				"19:43:26> CacheQuestLog cached 1 quests", -- [36]
-				"19:43:32> CacheQuestLog cached 1 quests", -- [37]
-				"19:43:41> CacheQuestLog cached 1 quests", -- [38]
-				"19:43:53> CacheQuestLog cached 1 quests", -- [39]
-				"19:44:35> ZONE_CHANGED_NEW_AREA (dead?)", -- [40]
-				"19:50:21> PLAYER_ENTERING_WORLD (dead?)", -- [41]
-				"19:50:21> PLAYER_ALIVE (dead?)", -- [42]
-				"19:50:21> CacheQuestLog cached 1 quests", -- [43]
-				"19:50:21> CacheQuestLog cached 1 quests", -- [44]
-				"19:50:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [45]
-				"19:51:39> PLAYER_ENTERING_WORLD (dead?)", -- [46]
-				"19:51:39> PLAYER_ALIVE (dead?)", -- [47]
-				"19:51:39> CacheQuestLog cached 1 quests", -- [48]
-				"19:51:39> CacheQuestLog cached 1 quests", -- [49]
-				"19:51:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [50]
-				"20:00:09> PLAYER_ENTERING_WORLD (dead?)", -- [51]
-				"20:00:09> PLAYER_ALIVE (dead?)", -- [52]
-				"20:00:09> CacheQuestLog cached 1 quests", -- [53]
-				"20:00:09> CacheQuestLog cached 1 quests", -- [54]
-				"20:00:09> ZONE_CHANGED_NEW_AREA (dead?)", -- [55]
-				"20:17:32> Viewer started. ---------------------------", -- [56]
-				"20:17:32> PLAYER_ENTERING_WORLD (dead?)", -- [57]
-				"20:17:32> PLAYER_ALIVE (dead?)", -- [58]
-				"20:17:32> ZONE_CHANGED_NEW_AREA (dead?)", -- [59]
-				"20:17:32> CacheQuestLog cached 1 quests", -- [60]
-				"20:17:32> New Quest: Cutting Teeth id 788", -- [61]
-				"20:17:33> Got completed quests list", -- [62]
-				"20:17:33> CacheQuestLog cached 1 quests", -- [63]
-				"20:17:35> Guides loaded. -----", -- [64]
-				"20:17:35> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [65]
-				"20:17:35> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [66]
-				"20:17:35> FocusStep 1", -- [67]
-				"19:58:03> Viewer started. ---------------------------", -- [68]
-				"19:58:04> PLAYER_ENTERING_WORLD (dead?)", -- [69]
-				"19:58:04> PLAYER_ALIVE (dead?)", -- [70]
-				"19:58:04> CacheQuestLog cached 0 quests", -- [71]
-				"19:58:05> Got completed quests list", -- [72]
-				"19:58:05> CacheQuestLog cached 1 quests", -- [73]
-				"19:58:05> New Quest: Cutting Teeth id 788", -- [74]
-				"19:58:05> ZONE_CHANGED_NEW_AREA (dead?)", -- [75]
-				"19:58:05> CacheQuestLog cached 1 quests", -- [76]
-				"19:58:07> CacheQuestLog cached 1 quests", -- [77]
-				"19:58:07> CacheQuestLog cached 1 quests", -- [78]
-				"19:58:07> Guides loaded. -----", -- [79]
-				"19:58:07> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [80]
-				"19:58:07> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [81]
-				"19:58:07> FocusStep 1", -- [82]
-				"22:58:26> Viewer started. ---------------------------", -- [83]
-				"22:58:26> PLAYER_ENTERING_WORLD (dead?)", -- [84]
-				"22:58:26> PLAYER_ALIVE (dead?)", -- [85]
-				"22:58:27> CacheQuestLog cached 1 quests", -- [86]
-				"22:58:27> New Quest: Cutting Teeth id 788", -- [87]
-				"22:58:27> Got completed quests list", -- [88]
-				"22:58:27> CacheQuestLog cached 1 quests", -- [89]
-				"22:58:27> ZONE_CHANGED_NEW_AREA (dead?)", -- [90]
-				"22:58:29> Guides loaded. -----", -- [91]
-				"22:58:29> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [92]
-				"22:58:29> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [93]
-				"22:58:29> FocusStep 1", -- [94]
+				"23:02:58> Player dead!", -- [1]
+				"23:02:58> SetCorpseArrow, mc/mz=4/8", -- [2]
+				"23:03:39> PLAYER_ENTERING_WORLD (dead?)", -- [3]
+				"23:03:39> PLAYER_ALIVE (dead?)", -- [4]
+				"23:03:39> CacheQuestLog cached 1 quests", -- [5]
+				"23:03:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [6]
+				"23:03:39> CacheQuestLog cached 1 quests", -- [7]
+				"23:03:39> CacheQuestLog cached 1 quests", -- [8]
+				"23:08:03> CacheQuestLog cached 1 quests", -- [9]
+				"23:09:02> CacheQuestLog cached 1 quests", -- [10]
+				"23:12:44> CacheQuestLog cached 1 quests", -- [11]
+				"23:12:46> GetQuestId: id of quest 'Wrath of the Lich King' = 24802", -- [12]
+				"23:12:46> Completed Quest: Wrath of the Lich King, id: 24802", -- [13]
+				"23:12:46> CacheQuestLog cached 0 quests", -- [14]
+				"23:12:46> Lost Quest: Wrath of the Lich King, id: 24802, complete: true", -- [15]
+				"23:13:15> PLAYER_ENTERING_WORLD (dead?)", -- [16]
+				"23:13:15> PLAYER_ALIVE (dead?)", -- [17]
+				"23:13:15> CacheQuestLog cached 0 quests", -- [18]
+				"23:13:15> CacheQuestLog cached 0 quests", -- [19]
+				"23:13:15> ZONE_CHANGED_NEW_AREA (dead?)", -- [20]
+				"23:13:26> PLAYER_ENTERING_WORLD (dead?)", -- [21]
+				"23:13:27> PLAYER_ALIVE (dead?)", -- [22]
+				"23:13:27> CacheQuestLog cached 0 quests", -- [23]
+				"23:13:27> CacheQuestLog cached 0 quests", -- [24]
+				"23:13:27> ZONE_CHANGED_NEW_AREA (dead?)", -- [25]
+				"23:18:17> PLAYER_ENTERING_WORLD (dead?)", -- [26]
+				"23:18:17> PLAYER_ALIVE (dead?)", -- [27]
+				"23:18:17> CacheQuestLog cached 0 quests", -- [28]
+				"23:18:18> CacheQuestLog cached 0 quests", -- [29]
+				"23:18:18> ZONE_CHANGED_NEW_AREA (dead?)", -- [30]
+				"23:51:57> Viewer started. ---------------------------", -- [31]
+				"23:51:57> PLAYER_ENTERING_WORLD (dead?)", -- [32]
+				"23:51:57> PLAYER_ALIVE (dead?)", -- [33]
+				"23:51:57> CacheQuestLog cached 0 quests", -- [34]
+				"23:51:58> Got completed quests list", -- [35]
+				"23:51:58> CacheQuestLog cached 0 quests", -- [36]
+				"23:51:58> ZONE_CHANGED_NEW_AREA (dead?)", -- [37]
+				"23:51:59> Guides loaded. -----", -- [38]
+				"23:51:59> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [39]
+				"23:51:59> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [40]
+				"23:51:59> FocusStep 1", -- [41]
+				"23:52:57> ZONE_CHANGED_NEW_AREA (dead?)", -- [42]
+				"23:53:26> PLAYER_ENTERING_WORLD (dead?)", -- [43]
+				"23:53:26> PLAYER_ALIVE (dead?)", -- [44]
+				"23:53:26> CacheQuestLog cached 0 quests", -- [45]
+				"23:53:26> CacheQuestLog cached 0 quests", -- [46]
+				"23:53:26> ZONE_CHANGED_NEW_AREA (dead?)", -- [47]
+				"23:58:18> PLAYER_ENTERING_WORLD (dead?)", -- [48]
+				"23:58:18> PLAYER_ALIVE (dead?)", -- [49]
+				"23:58:18> CacheQuestLog cached 0 quests", -- [50]
+				"23:58:18> ZONE_CHANGED_NEW_AREA (dead?)", -- [51]
+				"23:58:18> CacheQuestLog cached 0 quests", -- [52]
+				"23:58:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [53]
+				"23:59:01> PLAYER_ENTERING_WORLD (dead?)", -- [54]
+				"23:59:01> PLAYER_ALIVE (dead?)", -- [55]
+				"23:59:01> CacheQuestLog cached 0 quests", -- [56]
+				"23:59:01> CacheQuestLog cached 0 quests", -- [57]
+				"23:59:01> ZONE_CHANGED_NEW_AREA (dead?)", -- [58]
+				"00:07:40> PLAYER_ENTERING_WORLD (dead?)", -- [59]
+				"00:07:40> Player dead!", -- [60]
+				"00:07:40> SetCorpseArrow, mc/mz=4/0", -- [61]
+				"00:07:40> SetCorpseArrow, seeking corpse", -- [62]
+				"00:07:40> SetCorpseArrow, corpse on c=1? 0:0", -- [63]
+				"00:07:40> SetCorpseArrow, corpse on c=2? 0:0", -- [64]
+				"00:07:40> SetCorpseArrow, corpse on c=3? 0:0", -- [65]
+				"00:07:40> SetCorpseArrow, corpse on c=4? 0:0", -- [66]
+				"00:07:40> SetCorpseArrow, corpse on cont 0", -- [67]
+				"00:07:40> PLAYER_ALIVE (dead?)", -- [68]
+				"00:07:40> Player dead!", -- [69]
+				"00:07:40> SetCorpseArrow, mc/mz=4/0", -- [70]
+				"00:07:40> SetCorpseArrow, seeking corpse", -- [71]
+				"00:07:40> SetCorpseArrow, corpse on c=1? 0:0", -- [72]
+				"00:07:40> SetCorpseArrow, corpse on c=2? 0:0", -- [73]
+				"00:07:40> SetCorpseArrow, corpse on c=3? 0:0", -- [74]
+				"00:07:40> SetCorpseArrow, corpse on c=4? 0:0", -- [75]
+				"00:07:40> SetCorpseArrow, corpse on cont 0", -- [76]
+				"00:07:40> CacheQuestLog cached 0 quests", -- [77]
+				"00:07:40> CacheQuestLog cached 0 quests", -- [78]
+				"00:07:40> ZONE_CHANGED_NEW_AREA (dead?)", -- [79]
+				"00:07:40> Player dead!", -- [80]
+				"00:07:40> SetCorpseArrow, mc/mz=4/11", -- [81]
+				"00:07:56> Player unghosted!", -- [82]
+				"00:08:29> PLAYER_ENTERING_WORLD (dead?)", -- [83]
+				"00:08:29> PLAYER_ALIVE (dead?)", -- [84]
+				"00:08:29> CacheQuestLog cached 0 quests", -- [85]
+				"00:08:29> CacheQuestLog cached 0 quests", -- [86]
+				"00:08:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [87]
+				"00:08:47> Viewer started. ---------------------------", -- [88]
+				"00:08:47> PLAYER_ENTERING_WORLD (dead?)", -- [89]
+				"00:08:48> Got completed quests list", -- [90]
+				"00:08:48> CacheQuestLog cached 0 quests", -- [91]
+				"00:08:49> Guides loaded. -----", -- [92]
+				"00:08:49> SetGuide Zygor's Horde Leveling Guides\\Troll (1-13) (1", -- [93]
+				"00:08:49> Guide loaded: Zygor's Horde Leveling Guides\\Troll (1-13)", -- [94]
+				"00:08:49> FocusStep 1", -- [95]
+				"00:11:46> PLAYER_ENTERING_WORLD (dead?)", -- [96]
+				"00:11:46> PLAYER_ALIVE (dead?)", -- [97]
+				"00:11:46> CacheQuestLog cached 0 quests", -- [98]
+				"00:11:46> ZONE_CHANGED_NEW_AREA (dead?)", -- [99]
+				"00:11:46> CacheQuestLog cached 0 quests", -- [100]
 			},
 			["maint_fetchitemdata"] = true,
 		},
@@ -5031,7 +5569,6 @@ ZygorGuidesViewerSettings = {
 					["step"] = 72,
 				}, -- [5]
 			},
-			["maint_fetchquestdata"] = true,
 			["RecipesKnown"] = {
 				[26770] = true,
 				[3848] = true,
@@ -5070,7 +5607,7 @@ ZygorGuidesViewerSettings = {
 				[13640] = true,
 				[13642] = true,
 				[13644] = true,
-				[13646] = true,
+				[25954] = true,
 				[13648] = true,
 				[13905] = true,
 				[20009] = true,
@@ -5086,11 +5623,11 @@ ZygorGuidesViewerSettings = {
 				[26771] = true,
 				[7745] = true,
 				[13421] = true,
-				[13935] = true,
 				[7748] = true,
+				[13935] = true,
 				[3372] = true,
 				[3755] = true,
-				[7751] = true,
+				[32664] = true,
 				[13943] = true,
 				[7421] = true,
 				[3757] = true,
@@ -5105,12 +5642,12 @@ ZygorGuidesViewerSettings = {
 				[31460] = true,
 				[12074] = true,
 				[17180] = true,
-				[18444] = true,
+				[7766] = true,
 				[3839] = true,
 				[12072] = true,
 				[17181] = true,
+				[7771] = true,
 				[27899] = true,
-				[33996] = true,
 				[34004] = true,
 				[13937] = true,
 				[6499] = true,
@@ -5124,88 +5661,88 @@ ZygorGuidesViewerSettings = {
 				[25126] = true,
 				[3865] = true,
 				[12088] = true,
-				[2387] = true,
+				[18401] = true,
 				[13501] = true,
 				[13503] = true,
 				[7788] = true,
-				[13858] = true,
-				[25704] = true,
-				[12045] = true,
-				[8467] = true,
-				[7793] = true,
 				[12073] = true,
+				[25704] = true,
+				[2389] = true,
+				[2387] = true,
+				[7793] = true,
+				[8758] = true,
 				[7795] = true,
 				[6521] = true,
-				[12077] = true,
+				[13607] = true,
 				[20008] = true,
-				[2397] = true,
+				[8762] = true,
 				[13529] = true,
-				[18401] = true,
-				[2389] = true,
-				[14810] = true,
-				[2392] = true,
+				[8467] = true,
+				[18417] = true,
+				[28027] = true,
+				[18441] = true,
 				[13794] = true,
 				[26764] = true,
-				[12061] = true,
-				[12065] = true,
+				[2393] = true,
+				[2394] = true,
 				[13464] = true,
 				[3275] = true,
 				[12069] = true,
-				[2396] = true,
+				[13858] = true,
 				[3914] = true,
-				[8762] = true,
-				[2385] = true,
-				[8764] = true,
+				[12077] = true,
+				[3915] = true,
+				[12079] = true,
 				[2386] = true,
 				[8465] = true,
 				[13822] = true,
-				[2399] = true,
+				[8770] = true,
 				[18409] = true,
 				[18413] = true,
-				[18417] = true,
+				[12045] = true,
 				[18421] = true,
 				[12049] = true,
 				[13836] = true,
-				[8483] = true,
+				[12053] = true,
 				[18437] = true,
-				[18441] = true,
+				[2392] = true,
 				[8489] = true,
-				[18449] = true,
+				[12061] = true,
 				[18453] = true,
-				[2394] = true,
-				[12067] = true,
+				[12065] = true,
+				[33990] = true,
 				[2395] = true,
-				[27944] = true,
-				[8758] = true,
+				[8776] = true,
+				[2396] = true,
 				[8760] = true,
-				[13607] = true,
-				[12079] = true,
+				[2397] = true,
+				[8764] = true,
 				[8766] = true,
 				[20023] = true,
-				[8770] = true,
+				[2399] = true,
 				[8772] = true,
 				[8774] = true,
-				[8776] = true,
+				[27944] = true,
 				[2401] = true,
-				[13659] = true,
-				[2402] = true,
+				[26745] = true,
+				[8782] = true,
 				[8784] = true,
 				[13631] = true,
 				[13378] = true,
-				[13890] = true,
+				[13635] = true,
 				[13637] = true,
-				[33991] = true,
+				[2538] = true,
 				[63746] = true,
-				[7857] = true,
+				[2406] = true,
 				[2548] = true,
 				[26765] = true,
-				[8804] = true,
+				[42613] = true,
 				[7861] = true,
 				[13653] = true,
 				[7863] = true,
 				[13657] = true,
-				[26745] = true,
-				[13661] = true,
+				[13659] = true,
+				[33991] = true,
 				[62049] = true,
 				[2539] = true,
 				[7629] = true,
@@ -5226,25 +5763,25 @@ ZygorGuidesViewerSettings = {
 				[18406] = true,
 				[18410] = true,
 				[18414] = true,
-				[2538] = true,
-				[42613] = true,
-				[2406] = true,
-				[13635] = true,
-				[8782] = true,
+				[13661] = true,
+				[8804] = true,
+				[7857] = true,
+				[13890] = true,
+				[2402] = true,
 				[18438] = true,
 				[18442] = true,
 				[18446] = true,
 				[18450] = true,
-				[33990] = true,
-				[2393] = true,
-				[12053] = true,
+				[12067] = true,
+				[18449] = true,
+				[8483] = true,
 				[62050] = true,
 				[27905] = true,
-				[3915] = true,
+				[2385] = true,
 				[27658] = true,
 				[20012] = true,
 				[20016] = true,
-				[28027] = true,
+				[14810] = true,
 				[25124] = true,
 				[20028] = true,
 				[18420] = true,
@@ -5255,16 +5792,16 @@ ZygorGuidesViewerSettings = {
 				[27957] = true,
 				[27961] = true,
 				[13941] = true,
-				[7771] = true,
+				[33996] = true,
 				[18415] = true,
 				[4094] = true,
-				[7766] = true,
+				[18444] = true,
 				[3840] = true,
 				[18416] = true,
 				[3841] = true,
 				[12046] = true,
 				[3842] = true,
-				[32664] = true,
+				[7751] = true,
 				[3843] = true,
 				[14293] = true,
 				[7418] = true,
@@ -5273,9 +5810,10 @@ ZygorGuidesViewerSettings = {
 				[34001] = true,
 				[13538] = true,
 				[34002] = true,
-				[25954] = true,
+				[13646] = true,
 				[15855] = true,
 			},
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 				true, -- [1]
 				true, -- [2]
@@ -5406,240 +5944,6 @@ ZygorGuidesViewerSettings = {
 			},
 			["starting"] = false,
 		},
-		["Warmat - Icecrown"] = {
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
-			["debuglog"] = {
-				"01:47:51> New Quest: It Could Kill Us All id 13135", -- [1]
-				"01:47:51> New Quest: The Stone That Started A Revolution id 13130", -- [2]
-				"01:47:51> New Quest: Blackwatch id 13106", -- [3]
-				"01:47:51> New Quest: Crush Dem Vrykuls! id 12992", -- [4]
-				"01:47:51> New Quest: The Bone Witch id 12999", -- [5]
-				"01:47:51> New Quest: Patchwerk Must Die! id 24583", -- [6]
-				"01:47:51> New Quest: The Path to the Citadel id 24498", -- [7]
-				"01:47:51> New Quest: Dispelling Illusions id 13149", -- [8]
-				"01:47:51> New Quest: Trouble at Wyrmrest id 26012", -- [9]
-				"01:47:51> New Quest: Disarmament id 13205", -- [10]
-				"01:47:51> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [11]
-				"01:47:51> New Quest: The Islander id 1718", -- [12]
-				"01:47:51> New Quest: Eggs for Dubra'Jin id 13556", -- [13]
-				"01:47:51> Got completed quests list", -- [14]
-				"01:47:51> CacheQuestLog cached 14 quests", -- [15]
-				"01:47:52> ZONE_CHANGED_NEW_AREA (dead?)", -- [16]
-				"01:47:55> Guides loaded. -----", -- [17]
-				"01:47:55> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [18]
-				"01:47:55> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [19]
-				"01:47:55> FocusStep 77", -- [20]
-				"01:48:40> PLAYER_ENTERING_WORLD (dead?)", -- [21]
-				"01:48:41> PLAYER_ALIVE (dead?)", -- [22]
-				"01:48:41> CacheQuestLog cached 14 quests", -- [23]
-				"01:48:41> CacheQuestLog cached 14 quests", -- [24]
-				"01:48:41> ZONE_CHANGED_NEW_AREA (dead?)", -- [25]
-				"02:03:16> PLAYER_ENTERING_WORLD (dead?)", -- [26]
-				"02:03:16> PLAYER_ALIVE (dead?)", -- [27]
-				"02:03:16> ZONE_CHANGED_NEW_AREA (dead?)", -- [28]
-				"02:03:16> CacheQuestLog cached 14 quests", -- [29]
-				"02:03:17> CacheQuestLog cached 14 quests", -- [30]
-				"12:06:47> Viewer started. ---------------------------", -- [31]
-				"12:06:50> PLAYER_ENTERING_WORLD (dead?)", -- [32]
-				"12:06:50> PLAYER_ALIVE (dead?)", -- [33]
-				"12:06:50> CacheQuestLog cached 14 quests", -- [34]
-				"12:06:50> New Quest: One of a Kind id 13111", -- [35]
-				"12:06:50> New Quest: It Could Kill Us All id 13135", -- [36]
-				"12:06:50> New Quest: The Stone That Started A Revolution id 13130", -- [37]
-				"12:06:50> New Quest: Blackwatch id 13106", -- [38]
-				"12:06:50> New Quest: Crush Dem Vrykuls! id 12992", -- [39]
-				"12:06:50> New Quest: The Bone Witch id 12999", -- [40]
-				"12:06:50> New Quest: Patchwerk Must Die! id 24583", -- [41]
-				"12:06:50> New Quest: The Path to the Citadel id 24498", -- [42]
-				"12:06:50> New Quest: Dispelling Illusions id 13149", -- [43]
-				"12:06:50> New Quest: Trouble at Wyrmrest id 26012", -- [44]
-				"12:06:50> New Quest: Disarmament id 13205", -- [45]
-				"12:06:50> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [46]
-				"12:06:50> New Quest: The Islander id 1718", -- [47]
-				"12:06:50> New Quest: Eggs for Dubra'Jin id 13556", -- [48]
-				"12:06:50> Got completed quests list", -- [49]
-				"12:06:50> ZONE_CHANGED_NEW_AREA (dead?)", -- [50]
-				"12:06:50> CacheQuestLog cached 14 quests", -- [51]
-				"12:06:54> Guides loaded. -----", -- [52]
-				"12:06:54> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [53]
-				"12:06:54> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [54]
-				"12:06:54> FocusStep 77", -- [55]
-				"01:04:18> Viewer started. ---------------------------", -- [56]
-				"01:04:20> PLAYER_ENTERING_WORLD (dead?)", -- [57]
-				"01:04:20> PLAYER_ALIVE (dead?)", -- [58]
-				"01:04:20> CacheQuestLog cached 14 quests", -- [59]
-				"01:04:20> New Quest: One of a Kind id 13111", -- [60]
-				"01:04:20> New Quest: It Could Kill Us All id 13135", -- [61]
-				"01:04:20> New Quest: The Stone That Started A Revolution id 13130", -- [62]
-				"01:04:20> New Quest: Blackwatch id 13106", -- [63]
-				"01:04:20> New Quest: Crush Dem Vrykuls! id 12992", -- [64]
-				"01:04:20> New Quest: The Bone Witch id 12999", -- [65]
-				"01:04:20> New Quest: Patchwerk Must Die! id 24583", -- [66]
-				"01:04:20> New Quest: The Path to the Citadel id 24498", -- [67]
-				"01:04:20> New Quest: Dispelling Illusions id 13149", -- [68]
-				"01:04:20> New Quest: Trouble at Wyrmrest id 26012", -- [69]
-				"01:04:20> New Quest: Disarmament id 13205", -- [70]
-				"01:04:20> New Quest: Proof of Demise: Ingvar the Plunderer id 13245", -- [71]
-				"01:04:20> New Quest: The Islander id 1718", -- [72]
-				"01:04:20> New Quest: Eggs for Dubra'Jin id 13556", -- [73]
-				"01:04:21> Got completed quests list", -- [74]
-				"01:04:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [75]
-				"01:04:21> CacheQuestLog cached 14 quests", -- [76]
-				"01:04:24> Guides loaded. -----", -- [77]
-				"01:04:24> SetGuide Zygor's Alliance Leveling Guides\\Northrend (70-72) (77", -- [78]
-				"01:04:24> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (70-72)", -- [79]
-				"01:04:24> FocusStep 77", -- [80]
-				"01:05:04> PLAYER_ENTERING_WORLD (dead?)", -- [81]
-				"01:05:04> PLAYER_ALIVE (dead?)", -- [82]
-				"01:05:04> CacheQuestLog cached 14 quests", -- [83]
-				"01:05:04> CacheQuestLog cached 14 quests", -- [84]
-				"01:05:04> ZONE_CHANGED_NEW_AREA (dead?)", -- [85]
-				"01:18:28> PLAYER_ENTERING_WORLD (dead?)", -- [86]
-				"01:18:28> PLAYER_ALIVE (dead?)", -- [87]
-				"01:18:28> CacheQuestLog cached 14 quests", -- [88]
-				"01:18:29> CacheQuestLog cached 14 quests", -- [89]
-				"01:18:29> ZONE_CHANGED_NEW_AREA (dead?)", -- [90]
-				"01:18:31> PLAYER_ENTERING_WORLD (dead?)", -- [91]
-				"01:18:31> PLAYER_ALIVE (dead?)", -- [92]
-				"01:18:31> CacheQuestLog cached 14 quests", -- [93]
-				"01:18:31> CacheQuestLog cached 14 quests", -- [94]
-				"01:18:31> ZONE_CHANGED_NEW_AREA (dead?)", -- [95]
-				"01:21:58> PLAYER_ENTERING_WORLD (dead?)", -- [96]
-				"01:21:58> PLAYER_ALIVE (dead?)", -- [97]
-				"01:21:58> CacheQuestLog cached 14 quests", -- [98]
-				"01:21:58> CacheQuestLog cached 14 quests", -- [99]
-				"01:21:59> ZONE_CHANGED_NEW_AREA (dead?)", -- [100]
-			},
-			["maint_fetchitemdata"] = true,
-			["guides_history"] = {
-				{
-					["short"] = "Human (1-13)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
-					["step"] = 1,
-				}, -- [1]
-				{
-					["short"] = "Levels (45-50)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Levels (45-50)",
-					["step"] = 1,
-				}, -- [2]
-				{
-					["short"] = "Outland (60-62)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Outland (60-62)",
-					["step"] = 39,
-				}, -- [3]
-				{
-					["short"] = "Northrend (70-72)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
-					["step"] = 77,
-				}, -- [4]
-			},
-			["step"] = 77,
-			["RecipesKnown"] = {
-				[2538] = true,
-				[70524] = true,
-				[7408] = true,
-				[7928] = true,
-				[3326] = true,
-				[2657] = true,
-				[2665] = true,
-				[7929] = true,
-				[49252] = true,
-				[3319] = true,
-				[2737] = true,
-				[2666] = true,
-				[10098] = true,
-				[2658] = true,
-				[2540] = true,
-				[3304] = true,
-				[10097] = true,
-				[3320] = true,
-				[45545] = true,
-				[3294] = true,
-				[3116] = true,
-				[2659] = true,
-				[27033] = true,
-				[2738] = true,
-				[27032] = true,
-				[2663] = true,
-				[7751] = true,
-				[7934] = true,
-				[29360] = true,
-				[2660] = true,
-				[18630] = true,
-				[2739] = true,
-				[16153] = true,
-				[29359] = true,
-				[18629] = true,
-				[35751] = true,
-				[3307] = true,
-				[2661] = true,
-				[37836] = true,
-				[8880] = true,
-				[9983] = true,
-				[3323] = true,
-				[3277] = true,
-				[3276] = true,
-				[3275] = true,
-				[2662] = true,
-				[29356] = true,
-				[3308] = true,
-				[29358] = true,
-				[3324] = true,
-				[45546] = true,
-				[29361] = true,
-				[3293] = true,
-				[10840] = true,
-				[8604] = true,
-				[10841] = true,
-				[3569] = true,
-				[3115] = true,
-				[12260] = true,
-				[3278] = true,
-				[35750] = true,
-				[29686] = true,
-			},
-			["taxis"] = {
-				nil, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				["Morgan's Vigil"] = true,
-				["Dubra'Jin"] = true,
-				["Stars' Rest"] = true,
-				["Bouldercrag's Refuge"] = true,
-				["Frosthold"] = true,
-				["Altar of Sha'tar"] = true,
-				["Allerian Stronghold"] = true,
-				["Shattrath City"] = true,
-				["Fordragon Hold"] = true,
-				["Sanctum of the Stars"] = true,
-				["Refuge Pointe"] = true,
-				["Temple of Telhamat"] = true,
-				["Thorium Point"] = true,
-				["The Argent Vanguard"] = true,
-				["Aerie Peak"] = true,
-				["Lakeshire"] = true,
-				["Ironforge"] = true,
-				["Dalaran"] = true,
-				["Krasus' Landing"] = true,
-				["Shattered Sun Staging Area"] = true,
-				["Shattrath"] = true,
-				["The Shadow Vault"] = true,
-				["Southshore"] = true,
-				["Valiance Keep"] = true,
-				["Transitus Shield"] = true,
-				["Gundrak"] = true,
-				["Stormwind"] = true,
-				["Wyrmrest Temple"] = true,
-				["Redridge Mountains"] = true,
-				["Shatter Point"] = true,
-				["Hellfire Peninsula, The Dark Portal"] = true,
-				["Honor Hold"] = true,
-				["Amber Ledge"] = true,
-			},
-			["maint_fetchquestdata"] = true,
-			["starting"] = false,
-		},
 		["Wilinia - Icecrown"] = {
 			["starting"] = false,
 			["guides_history"] = {
@@ -5681,6 +5985,125 @@ ZygorGuidesViewerSettings = {
 				"23:00:50> Guide loaded: Zygor's Alliance Leveling Guides\\Human (1-13)", -- [25]
 				"23:00:50> FocusStep 1", -- [26]
 				"23:00:50> unpausing", -- [27]
+			},
+			["maint_fetchitemdata"] = true,
+		},
+		["Maldir - Icecrown"] = {
+			["starting"] = false,
+			["guides_history"] = {
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 1,
+				}, -- [1]
+			},
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+				[2] = true,
+				["Silvermoon City"] = true,
+			},
+			["debuglog"] = {
+				"15:08:07> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [1]
+				"15:08:07> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [2]
+				"15:08:07> FocusStep 1", -- [3]
+				"15:36:39> Viewer started. ---------------------------", -- [4]
+				"15:36:39> PLAYER_ENTERING_WORLD (dead?)", -- [5]
+				"15:36:39> PLAYER_ALIVE (dead?)", -- [6]
+				"15:36:39> ZONE_CHANGED_NEW_AREA (dead?)", -- [7]
+				"15:36:39> CacheQuestLog cached 1 quests", -- [8]
+				"15:36:39> New Quest: A Fistful of Slivers id 8336", -- [9]
+				"15:36:39> Got completed quests list", -- [10]
+				"15:36:39> CacheQuestLog cached 1 quests", -- [11]
+				"15:36:42> Guides loaded. -----", -- [12]
+				"15:36:42> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [13]
+				"15:36:42> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [14]
+				"15:36:42> FocusStep 1", -- [15]
+				"00:02:20> Viewer started. ---------------------------", -- [16]
+				"00:02:21> PLAYER_ENTERING_WORLD (dead?)", -- [17]
+				"00:02:21> PLAYER_ALIVE (dead?)", -- [18]
+				"00:02:21> CacheQuestLog cached 1 quests", -- [19]
+				"00:02:21> New Quest: A Fistful of Slivers id 8336", -- [20]
+				"00:02:21> Got completed quests list", -- [21]
+				"00:02:21> CacheQuestLog cached 1 quests", -- [22]
+				"00:02:21> ZONE_CHANGED_NEW_AREA (dead?)", -- [23]
+				"00:02:23> Guides loaded. -----", -- [24]
+				"00:02:23> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [25]
+				"00:02:23> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [26]
+				"00:02:23> FocusStep 1", -- [27]
+				"13:26:54> Viewer started. ---------------------------", -- [28]
+				"13:26:55> PLAYER_ENTERING_WORLD (dead?)", -- [29]
+				"13:26:55> PLAYER_ALIVE (dead?)", -- [30]
+				"13:26:55> CacheQuestLog cached 1 quests", -- [31]
+				"13:26:55> New Quest: A Fistful of Slivers id 8336", -- [32]
+				"13:26:55> Got completed quests list", -- [33]
+				"13:26:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [34]
+				"13:26:55> CacheQuestLog cached 1 quests", -- [35]
+				"13:26:57> Guides loaded. -----", -- [36]
+				"13:26:57> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [37]
+				"13:26:57> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [38]
+				"13:26:57> FocusStep 1", -- [39]
+				"23:32:32> Viewer started. ---------------------------", -- [40]
+				"23:32:33> PLAYER_ENTERING_WORLD (dead?)", -- [41]
+				"23:32:33> PLAYER_ALIVE (dead?)", -- [42]
+				"23:32:33> CacheQuestLog cached 1 quests", -- [43]
+				"23:32:33> New Quest: A Fistful of Slivers id 8336", -- [44]
+				"23:32:34> Got completed quests list", -- [45]
+				"23:32:34> CacheQuestLog cached 1 quests", -- [46]
+				"23:32:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [47]
+				"23:32:37> Guides loaded. -----", -- [48]
+				"23:32:37> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [49]
+				"23:32:37> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [50]
+				"23:32:37> FocusStep 1", -- [51]
+				"11:55:33> Viewer started. ---------------------------", -- [52]
+				"11:55:34> PLAYER_ENTERING_WORLD (dead?)", -- [53]
+				"11:55:34> PLAYER_ALIVE (dead?)", -- [54]
+				"11:55:34> CacheQuestLog cached 1 quests", -- [55]
+				"11:55:34> New Quest: A Fistful of Slivers id 8336", -- [56]
+				"11:55:34> Got completed quests list", -- [57]
+				"11:55:34> CacheQuestLog cached 1 quests", -- [58]
+				"11:55:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [59]
+				"11:55:36> Guides loaded. -----", -- [60]
+				"11:55:36> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [61]
+				"11:55:36> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [62]
+				"11:55:36> FocusStep 1", -- [63]
+				"18:51:50> Viewer started. ---------------------------", -- [64]
+				"18:51:50> PLAYER_ENTERING_WORLD (dead?)", -- [65]
+				"18:51:51> PLAYER_ALIVE (dead?)", -- [66]
+				"18:51:51> ZONE_CHANGED_NEW_AREA (dead?)", -- [67]
+				"18:51:51> CacheQuestLog cached 1 quests", -- [68]
+				"18:51:51> New Quest: A Fistful of Slivers id 8336", -- [69]
+				"18:51:51> Got completed quests list", -- [70]
+				"18:51:51> CacheQuestLog cached 1 quests", -- [71]
+				"18:51:53> Guides loaded. -----", -- [72]
+				"18:51:53> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [73]
+				"18:51:53> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [74]
+				"18:51:53> FocusStep 1", -- [75]
+				"13:49:45> Viewer started. ---------------------------", -- [76]
+				"13:49:46> PLAYER_ENTERING_WORLD (dead?)", -- [77]
+				"13:49:46> PLAYER_ALIVE (dead?)", -- [78]
+				"13:49:46> CacheQuestLog cached 0 quests", -- [79]
+				"13:49:46> Got completed quests list", -- [80]
+				"13:49:46> CacheQuestLog cached 1 quests", -- [81]
+				"13:49:46> New Quest: A Fistful of Slivers id 8336", -- [82]
+				"13:49:47> CacheQuestLog cached 1 quests", -- [83]
+				"13:49:47> ZONE_CHANGED_NEW_AREA (dead?)", -- [84]
+				"13:49:50> Guides loaded. -----", -- [85]
+				"13:49:50> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [86]
+				"13:49:50> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [87]
+				"13:49:50> FocusStep 1", -- [88]
+				"11:32:23> Viewer started. ---------------------------", -- [89]
+				"11:32:24> PLAYER_ENTERING_WORLD (dead?)", -- [90]
+				"11:32:24> PLAYER_ALIVE (dead?)", -- [91]
+				"11:32:24> ZONE_CHANGED_NEW_AREA (dead?)", -- [92]
+				"11:32:24> CacheQuestLog cached 1 quests", -- [93]
+				"11:32:24> New Quest: A Fistful of Slivers id 8336", -- [94]
+				"11:32:24> Got completed quests list", -- [95]
+				"11:32:24> CacheQuestLog cached 1 quests", -- [96]
+				"11:32:26> Guides loaded. -----", -- [97]
+				"11:32:26> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [98]
+				"11:32:26> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [99]
+				"11:32:26> FocusStep 1", -- [100]
 			},
 			["maint_fetchitemdata"] = true,
 		},
@@ -5805,7 +6228,7 @@ ZygorGuidesViewerSettings = {
 		},
 		["Modos - Icecrown"] = {
 			["starting"] = false,
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
+			["maint_fetchquestdata"] = true,
 			["guides_history"] = {
 				{
 					["short"] = "Night Elf (1-13)",
@@ -5813,7 +6236,6 @@ ZygorGuidesViewerSettings = {
 					["step"] = 1,
 				}, -- [1]
 			},
-			["maint_fetchquestdata"] = true,
 			["RecipesKnown"] = {
 				[2160] = true,
 				[7126] = true,
@@ -5825,12 +6247,13 @@ ZygorGuidesViewerSettings = {
 				[2149] = true,
 				[9062] = true,
 				[9060] = true,
-				[3816] = true,
 				[3756] = true,
+				[3816] = true,
 				[2153] = true,
 				[2152] = true,
 				[9059] = true,
 			},
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Night Elf (1-13)",
 			["taxis"] = {
 				true, -- [1]
 				["Astranaar"] = true,
@@ -6005,202 +6428,37 @@ ZygorGuidesViewerSettings = {
 			},
 			["maint_fetchitemdata"] = true,
 		},
-		["Tabinia - Icecrown"] = {
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Northrend (74-76)",
-			["step"] = 2,
-			["maint_fetchitemdata"] = true,
+		["Lock - Frozen Nexus"] = {
+			["starting"] = false,
 			["guides_history"] = {
 				{
-					["short"] = "Draenei (1-13)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Draenei (1-13)",
-					["step"] = 195,
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 				}, -- [1]
-				{
-					["short"] = "Levels (30-35)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Levels (30-35)",
-					["step"] = 39,
-				}, -- [2]
-				{
-					["short"] = "Levels (45-50)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Levels (45-50)",
-					["step"] = 2,
-				}, -- [3]
-				{
-					["short"] = "Northrend (70-72)",
-					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (70-72)",
-					["step"] = 10,
-				}, -- [4]
-				{
-					["short"] = "Northrend (74-76)",
-					["step"] = 2,
-					["full"] = "Zygor's Alliance Leveling Guides\\Northrend (74-76)",
-				}, -- [5]
-			},
-			["debuglog"] = {
-				"23:11:53> FocusStep 2", -- [1]
-				"23:26:58> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"23:26:58> PLAYER_ALIVE (dead?)", -- [3]
-				"23:26:58> CacheQuestLog cached 11 quests", -- [4]
-				"23:26:58> CacheQuestLog cached 11 quests", -- [5]
-				"23:26:58> ZONE_CHANGED_NEW_AREA (dead?)", -- [6]
-				"23:32:25> CacheQuestLog cached 11 quests", -- [7]
-				"23:37:34> PLAYER_ENTERING_WORLD (dead?)", -- [8]
-				"23:37:34> PLAYER_ALIVE (dead?)", -- [9]
-				"23:37:34> CacheQuestLog cached 11 quests", -- [10]
-				"23:37:34> CacheQuestLog cached 11 quests", -- [11]
-				"23:37:35> ZONE_CHANGED_NEW_AREA (dead?)", -- [12]
-				"23:38:29> Viewer started. ---------------------------", -- [13]
-				"23:38:32> PLAYER_ENTERING_WORLD (dead?)", -- [14]
-				"23:38:32> PLAYER_ALIVE (dead?)", -- [15]
-				"23:38:32> CacheQuestLog cached 11 quests", -- [16]
-				"23:38:32> New Quest: The Obsidian Dragonshrine id 12447", -- [17]
-				"23:38:32> New Quest: The Plume of Alystros id 12456", -- [18]
-				"23:38:32> New Quest: Mystery of the Infinite id 12470", -- [19]
-				"23:38:32> New Quest: Frostmourne id 24711", -- [20]
-				"23:38:32> New Quest: Judgment Day Comes! id 13226", -- [21]
-				"23:38:32> New Quest: Blackwatch id 13106", -- [22]
-				"23:38:32> New Quest: Eliminate the Competition id 12955", -- [23]
-				"23:38:32> New Quest: Shadow Vault Decree id 12943", -- [24]
-				"23:38:32> New Quest: Elemental Mastery id 8410", -- [25]
-				"23:38:32> New Quest: Dispelling Illusions id 13149", -- [26]
-				"23:38:32> New Quest: Flame Leviathan Must Die! id 24585", -- [27]
-				"23:38:33> Got completed quests list", -- [28]
-				"23:38:33> CacheQuestLog cached 11 quests", -- [29]
-				"23:38:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [30]
-				"23:38:37> Guides loaded. -----", -- [31]
-				"23:38:37> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [32]
-				"23:38:37> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [33]
-				"23:38:37> FocusStep 2", -- [34]
-				"23:39:33> Viewer started. ---------------------------", -- [35]
-				"23:39:35> PLAYER_ENTERING_WORLD (dead?)", -- [36]
-				"23:39:35> PLAYER_ALIVE (dead?)", -- [37]
-				"23:39:35> CacheQuestLog cached 11 quests", -- [38]
-				"23:39:35> New Quest: The Obsidian Dragonshrine id 12447", -- [39]
-				"23:39:35> New Quest: The Plume of Alystros id 12456", -- [40]
-				"23:39:35> New Quest: Mystery of the Infinite id 12470", -- [41]
-				"23:39:35> New Quest: Frostmourne id 24711", -- [42]
-				"23:39:35> New Quest: Judgment Day Comes! id 13226", -- [43]
-				"23:39:35> New Quest: Blackwatch id 13106", -- [44]
-				"23:39:35> New Quest: Eliminate the Competition id 12955", -- [45]
-				"23:39:35> New Quest: Shadow Vault Decree id 12943", -- [46]
-				"23:39:35> New Quest: Elemental Mastery id 8410", -- [47]
-				"23:39:35> New Quest: Dispelling Illusions id 13149", -- [48]
-				"23:39:35> New Quest: Flame Leviathan Must Die! id 24585", -- [49]
-				"23:39:36> Got completed quests list", -- [50]
-				"23:39:36> CacheQuestLog cached 11 quests", -- [51]
-				"23:39:37> ZONE_CHANGED_NEW_AREA (dead?)", -- [52]
-				"23:39:39> Guides loaded. -----", -- [53]
-				"23:39:39> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [54]
-				"23:39:39> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [55]
-				"23:39:39> FocusStep 2", -- [56]
-				"23:41:36> Viewer started. ---------------------------", -- [57]
-				"23:41:38> PLAYER_ENTERING_WORLD (dead?)", -- [58]
-				"23:41:38> PLAYER_ALIVE (dead?)", -- [59]
-				"23:41:38> CacheQuestLog cached 11 quests", -- [60]
-				"23:41:38> New Quest: The Obsidian Dragonshrine id 12447", -- [61]
-				"23:41:38> New Quest: The Plume of Alystros id 12456", -- [62]
-				"23:41:38> New Quest: Mystery of the Infinite id 12470", -- [63]
-				"23:41:38> New Quest: Frostmourne id 24711", -- [64]
-				"23:41:38> New Quest: Judgment Day Comes! id 13226", -- [65]
-				"23:41:38> New Quest: Blackwatch id 13106", -- [66]
-				"23:41:38> New Quest: Eliminate the Competition id 12955", -- [67]
-				"23:41:38> New Quest: Shadow Vault Decree id 12943", -- [68]
-				"23:41:38> New Quest: Elemental Mastery id 8410", -- [69]
-				"23:41:38> New Quest: Dispelling Illusions id 13149", -- [70]
-				"23:41:38> New Quest: Flame Leviathan Must Die! id 24585", -- [71]
-				"23:41:39> Got completed quests list", -- [72]
-				"23:41:39> CacheQuestLog cached 11 quests", -- [73]
-				"23:41:40> ZONE_CHANGED_NEW_AREA (dead?)", -- [74]
-				"23:41:43> Guides loaded. -----", -- [75]
-				"23:41:43> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [76]
-				"23:41:43> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [77]
-				"23:41:43> FocusStep 2", -- [78]
-				"23:57:51> Viewer started. ---------------------------", -- [79]
-				"23:57:53> PLAYER_ENTERING_WORLD (dead?)", -- [80]
-				"23:57:53> PLAYER_ALIVE (dead?)", -- [81]
-				"23:57:53> CacheQuestLog cached 11 quests", -- [82]
-				"23:57:53> New Quest: The Obsidian Dragonshrine id 12447", -- [83]
-				"23:57:53> New Quest: The Plume of Alystros id 12456", -- [84]
-				"23:57:53> New Quest: Mystery of the Infinite id 12470", -- [85]
-				"23:57:53> New Quest: Frostmourne id 24711", -- [86]
-				"23:57:53> New Quest: Judgment Day Comes! id 13226", -- [87]
-				"23:57:53> New Quest: Blackwatch id 13106", -- [88]
-				"23:57:53> New Quest: Eliminate the Competition id 12955", -- [89]
-				"23:57:53> New Quest: Shadow Vault Decree id 12943", -- [90]
-				"23:57:53> New Quest: Elemental Mastery id 8410", -- [91]
-				"23:57:53> New Quest: Dispelling Illusions id 13149", -- [92]
-				"23:57:53> New Quest: Flame Leviathan Must Die! id 24585", -- [93]
-				"23:57:54> Got completed quests list", -- [94]
-				"23:57:54> CacheQuestLog cached 11 quests", -- [95]
-				"23:57:55> ZONE_CHANGED_NEW_AREA (dead?)", -- [96]
-				"23:57:57> Guides loaded. -----", -- [97]
-				"23:57:57> SetGuide Zygor's Alliance Leveling Guides\\Northrend (74-76) (2", -- [98]
-				"23:57:57> Guide loaded: Zygor's Alliance Leveling Guides\\Northrend (74-76)", -- [99]
-				"23:57:57> FocusStep 2", -- [100]
-			},
-			["RecipesKnown"] = {
-				[37836] = true,
-				[58484] = true,
-				[62050] = true,
-				[3275] = true,
-				[2539] = true,
-				[2541] = true,
-				[45382] = true,
-				[52843] = true,
-				[48114] = true,
-				[3276] = true,
-				[48116] = true,
-				[2544] = true,
-				[58472] = true,
-				[52738] = true,
-				[52739] = true,
-				[6499] = true,
-				[2540] = true,
-				[62044] = true,
-				[48248] = true,
-				[2546] = true,
-				[33277] = true,
-				[2538] = true,
-				[8604] = true,
-			},
-			["taxis"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				["Marshal's Refuge"] = true,
-				["Transitus Shield"] = true,
-				["Light's Breach"] = true,
-				["Blood Watch"] = true,
-				["Auberdine"] = true,
-				["Ebon Watch"] = true,
-				["Ironforge"] = true,
-				["Stars' Rest"] = true,
-				["Telaar"] = true,
-				["Krasus' Landing"] = true,
-				["Argent Tournament Grounds"] = true,
-				["Dalaran"] = true,
-				["Shattered Sun Staging Area"] = true,
-				["Hellfire Peninsula, The Dark Portal"] = true,
-				["Frosthold"] = true,
-				["The Shadow Vault"] = true,
-				["Gadgetzan"] = true,
-				["The Exodar"] = true,
-				["Valiance Keep"] = true,
-				["Amber Ledge"] = true,
-				["K3"] = true,
-				["Shattrath"] = true,
-				["The Argent Stand"] = true,
-				["Stormwind"] = true,
-				["Wyrmrest Temple"] = true,
-				["Shattrath City"] = true,
-				["Astranaar"] = true,
-				["Cenarion Hold"] = true,
-				["Honor Hold"] = true,
-				["The Argent Vanguard"] = true,
 			},
 			["maint_fetchquestdata"] = true,
-			["starting"] = false,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["taxis"] = {
+			},
+			["debuglog"] = {
+				"21:42:30> Viewer started. ---------------------------", -- [1]
+				"21:42:30> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"21:42:30> PLAYER_ALIVE (dead?)", -- [3]
+				"21:42:31> CacheQuestLog cached 0 quests", -- [4]
+				"21:42:32> Got completed quests list", -- [5]
+				"21:42:32> CacheQuestLog cached 0 quests", -- [6]
+				"21:42:32> Hiding arrow with guide", -- [7]
+				"21:42:34> ZONE_CHANGED_NEW_AREA (dead?)", -- [8]
+				"21:42:35> Guides loaded. -----", -- [9]
+				"21:42:35> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [10]
+				"21:42:35> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [11]
+				"21:42:35> FocusStep 1", -- [12]
+				"21:42:35> Translated: accept/turnin Reclaiming Sunstrider Isle", -- [13]
+				"21:42:35> unpausing", -- [14]
+				"21:42:35> frameNeedsUpdating, so updating.", -- [15]
+				"21:42:40> Hiding arrow with guide", -- [16]
+			},
+			["maint_fetchitemdata"] = true,
 		},
 		["Lawras - Icecrown"] = {
 			["guidename"] = "Zygor's Alliance Dailies Guides\\Netherdrake Mount Guide\\Netherwing Reputation (Neutral) - Pre-Quests",
@@ -6332,6 +6590,12 @@ ZygorGuidesViewerSettings = {
 					["step"] = 1,
 				}, -- [5]
 			},
+			["permaCompletedDailies"] = {
+				[13670] = true,
+				[13671] = true,
+				[13625] = true,
+			},
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 				true, -- [1]
 				true, -- [2]
@@ -6350,43 +6614,43 @@ ZygorGuidesViewerSettings = {
 				["Amber Ledge"] = true,
 				["Kamagua"] = true,
 				["Theramore Isle"] = true,
-				["Auberdine"] = true,
-				["Light's Breach"] = true,
+				["The Argent Vanguard"] = true,
+				["Temple of Telhamat"] = true,
 				["Sentinel Hill"] = true,
 				["Amberpine Lodge"] = true,
 				["Fort Wildervar"] = true,
-				["The Argent Vanguard"] = true,
+				["Theramore"] = true,
 				["Fordragon Hold"] = true,
 				["Wintergarde Keep"] = true,
 				["Death's Rise"] = true,
 				["Windrunner's Overlook"] = true,
 				["Lakeshire"] = true,
 				["Ironforge"] = true,
-				["Temple of Telhamat"] = true,
+				["Light's Breach"] = true,
 				["Thorium Point"] = true,
-				["Theramore"] = true,
-				["Hellfire Peninsula, The Dark Portal"] = true,
+				["Auberdine"] = true,
+				["Rut'theran Village"] = true,
 				["Valiance Keep"] = true,
 				["Redridge Mountains"] = true,
-				["Shatter Point"] = true,
+				["The Shadow Vault"] = true,
 				["Menethil Harbor"] = true,
-				["Booty Bay"] = true,
+				["Argent Tournament Grounds"] = true,
 				["Dalaran"] = true,
 				["Westfall Brigade"] = true,
-				["Rut'theran Village"] = true,
+				["Hellfire Peninsula, The Dark Portal"] = true,
 				["The Exodar"] = true,
-				["Shattered Sun Staging Area"] = true,
-				["Westfall Brigade Encampment"] = true,
+				["Shatter Point"] = true,
+				["Shattrath"] = true,
 				["Darkshire"] = true,
 				["Nethergarde Keep"] = true,
-				["Shattrath"] = true,
+				["Westfall Brigade Encampment"] = true,
 				["K3"] = true,
-				["The Shadow Vault"] = true,
+				["Shattered Sun Staging Area"] = true,
 				["The Argent Stand"] = true,
 				["Stormwind"] = true,
 				["Wyrmrest Temple"] = true,
 				["Valgarde"] = true,
-				["Argent Tournament Grounds"] = true,
+				["Booty Bay"] = true,
 				["Rebel Camp"] = true,
 				["Honor Hold"] = true,
 				["Ebon Watch"] = true,
@@ -6399,7 +6663,7 @@ ZygorGuidesViewerSettings = {
 				[2657] = true,
 				[2539] = true,
 				[2547] = true,
-				[6499] = true,
+				[45549] = true,
 				[2541] = true,
 				[2540] = true,
 				[2548] = true,
@@ -6407,7 +6671,7 @@ ZygorGuidesViewerSettings = {
 				[62049] = true,
 				[62051] = true,
 				[3376] = true,
-				[45549] = true,
+				[6499] = true,
 				[45551] = true,
 				[45553] = true,
 				[2549] = true,
@@ -6416,9 +6680,9 @@ ZygorGuidesViewerSettings = {
 				[45561] = true,
 				[45563] = true,
 				[45565] = true,
-				[21175] = true,
-				[2542] = true,
 				[3372] = true,
+				[2542] = true,
+				[21175] = true,
 				[3377] = true,
 				[8604] = true,
 				[45552] = true,
@@ -6431,9 +6695,9 @@ ZygorGuidesViewerSettings = {
 				[58065] = true,
 				[37836] = true,
 				[3276] = true,
-				[62044] = true,
 				[25954] = true,
 				[2544] = true,
+				[62044] = true,
 				[3371] = true,
 				[25704] = true,
 				[62050] = true,
@@ -6450,12 +6714,6 @@ ZygorGuidesViewerSettings = {
 				[45566] = true,
 				[6415] = true,
 			},
-			["permaCompletedDailies"] = {
-				[13670] = true,
-				[13671] = true,
-				[13625] = true,
-			},
-			["maint_fetchquestdata"] = true,
 			["starting"] = false,
 		},
 	},
@@ -6465,22 +6723,25 @@ ZygorGuidesViewerSettings = {
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Delras - Icecrown"] = "Lawras - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Maldira - Frosthold"] = "Maldira - Frosthold",
-		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 		["Themken - Icecrown"] = "Lawras - Icecrown",
+		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Maldira - Frosthold"] = "Maldira - Frosthold",
+		["Tabinia - Icecrown"] = "Default",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
 		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
 		["Elendraa - Icecrown"] = "Default",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Tabinia - Icecrown"] = "Default",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Default",
 	},
 	["profiles"] = {
@@ -6560,28 +6821,53 @@ ZygorGuidesViewerSettings = {
 			["arrowsmooth"] = true,
 			["arrowcam"] = false,
 		},
-		["Riv - Frozen Nexus"] = {
-			["arrowsmooth"] = true,
-			["arrowcam"] = false,
+		["Liadra - Frostmourne"] = {
 			["visible"] = false,
+			["arrowposy"] = 589.912266694368,
+			["windowlocked"] = true,
+			["fixblizzardautoaccept"] = true,
+			["arrowmeters"] = true,
+			["skipimpossible"] = true,
+			["autoturnin"] = true,
+			["arrowsmooth"] = true,
+			["fullheight"] = 400.0000054709792,
+			["contractmobs"] = true,
+			["autoaccept"] = true,
+			["arrowcam"] = false,
+			["arrowposx"] = 504.6490611013313,
+		},
+		["Riv - Frozen Nexus"] = {
+			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
+		},
+		["Tabinia - Icecrown"] = {
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
 		},
 		["Themken - Icecrown"] = {
 			["arrowcam"] = false,
 			["arrowsmooth"] = true,
 		},
+		["Themken - Lordaeron"] = {
+			["arrowsmooth"] = true,
+			["arrowcam"] = false,
+			["visible"] = false,
+		},
 		["Maldira - Frosthold"] = {
 			["arrowsmooth"] = true,
 			["autoturnin"] = true,
-			["arrowmeters"] = true,
+			["arrowcam"] = false,
 			["fullheight"] = 400.0000054709792,
 			["contractmobs"] = true,
 			["fixblizzardautoaccept"] = true,
-			["arrowcam"] = false,
+			["arrowmeters"] = true,
 			["autoaccept"] = true,
 		},
-		["Tabinia - Icecrown"] = {
-			["arrowcam"] = false,
+		["Hunty - Frozen Nexus"] = {
 			["arrowsmooth"] = true,
+			["arrowcam"] = false,
+			["visible"] = false,
 		},
 		["Maldir - Icecrown"] = {
 			["visible"] = false,
@@ -6593,38 +6879,6 @@ ZygorGuidesViewerSettings = {
 			["contractmobs"] = true,
 			["arrowcam"] = false,
 			["arrowsmooth"] = true,
-		},
-		["Suprema - Icecrown"] = {
-			["arrowsmooth"] = true,
-			["arrowcam"] = false,
-		},
-		["Maulh - Icecrown"] = {
-			["visible"] = false,
-			["arrowposy"] = 407.8806555135741,
-			["fixblizzardautoaccept"] = true,
-			["arrowmeters"] = true,
-			["autoturnin"] = true,
-			["levelsahead"] = 15,
-			["arrowsmooth"] = true,
-			["contractmobs"] = true,
-			["autoaccept"] = true,
-			["arrowcam"] = false,
-			["arrowposx"] = 434.1357728794126,
-		},
-		["Lawras - Lordaeron"] = {
-			["visible"] = false,
-			["arrowcam"] = false,
-			["arrowsmooth"] = true,
-		},
-		["Dud - Frozen Nexus"] = {
-			["visible"] = false,
-			["arrowcam"] = false,
-			["arrowsmooth"] = true,
-		},
-		["Shamanta - Frozen Nexus"] = {
-			["arrowsmooth"] = true,
-			["arrowcam"] = false,
-			["visible"] = false,
 		},
 		["Warmat - Icecrown"] = {
 			["arrowsmooth"] = true,
@@ -6656,6 +6910,38 @@ ZygorGuidesViewerSettings = {
 			["goalcolorize"] = true,
 			["visible"] = false,
 			["hidestepborders"] = true,
+		},
+		["Maulh - Icecrown"] = {
+			["visible"] = false,
+			["arrowposy"] = 407.8806555135741,
+			["fixblizzardautoaccept"] = true,
+			["arrowmeters"] = true,
+			["autoturnin"] = true,
+			["levelsahead"] = 15,
+			["arrowsmooth"] = true,
+			["contractmobs"] = true,
+			["autoaccept"] = true,
+			["arrowcam"] = false,
+			["arrowposx"] = 434.1357728794126,
+		},
+		["Lawras - Lordaeron"] = {
+			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
+		},
+		["Dud - Frozen Nexus"] = {
+			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
+		},
+		["Shamanta - Frozen Nexus"] = {
+			["arrowsmooth"] = true,
+			["arrowcam"] = false,
+			["visible"] = false,
+		},
+		["Suprema - Icecrown"] = {
+			["arrowsmooth"] = true,
+			["arrowcam"] = false,
 		},
 		["Wilinia - Icecrown"] = {
 			["arrowsmooth"] = true,
@@ -6708,10 +6994,10 @@ ZygorGuidesViewerSettings = {
 			["arrowcam"] = false,
 			["visible"] = false,
 		},
-		["Themken - Lordaeron"] = {
-			["arrowsmooth"] = true,
-			["arrowcam"] = false,
+		["Lock - Frozen Nexus"] = {
 			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
 		},
 		["Lawras - Icecrown"] = {
 			["arrowsmooth"] = true,

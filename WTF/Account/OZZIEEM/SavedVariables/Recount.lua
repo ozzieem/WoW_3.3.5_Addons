@@ -1,69 +1,77 @@
 
 RecountDB = {
 	["profileKeys"] = {
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
+		["Themken - Icecrown"] = "Themken - Icecrown",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
 		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Themken - Icecrown"] = "Themken - Icecrown",
-		["Warmat - Icecrown"] = "Default",
-		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Warmat - Icecrown"] = "Default",
 		["Dranah - Icecrown"] = "Dranah - Icecrown",
+		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
-		["Dranah - Frozen Nexus"] = {
+		["Dranah - Icecrown"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
+				["HideTotalBar"] = false,
 				["Position"] = {
-					["y"] = -438.481796171696,
-					["x"] = -640.0001488106331,
-					["w"] = 214.3859468052593,
-					["h"] = 134.6864644077587,
+					["y"] = -440.763190103327,
+					["h"] = 127.0000012993576,
+					["w"] = 241.0000107367966,
+					["x"] = -646.7456691558026,
 				},
 			},
 			["DetailWindowX"] = 0,
-			["MainWindowHeight"] = 134.686455654192,
-			["CurDataSet"] = "OverallData",
+			["MainWindowHeight"] = 127.4912164455445,
+			["BarTexture"] = "Armory",
+			["RealtimeWindows"] = {
+				["Realtime_FPS_FPS"] = {
+					"FPS", -- [1]
+					"FPS", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.0000202426229, -- [6]
+					231.9999786631813, -- [7]
+					false, -- [8]
+				},
+				["Realtime_Upstream Traffic_UP_TRAFFIC"] = {
+					"Upstream Traffic", -- [1]
+					"UP_TRAFFIC", -- [2]
+					"", -- [3]
+					0, -- [4]
+					0, -- [5]
+					200.0000027354896, -- [6]
+					232.0000136774479, -- [7]
+					false, -- [8]
+				},
+			},
+			["DetailWindowY"] = 0,
+			["CurDataSet"] = "CurrentFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
 						["a"] = 1,
 					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["MainWindowWidth"] = 214.3859468052593,
-			["GraphWindowX"] = 0,
-		},
-		["Maldir - Icecrown"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -440.3515580083475,
-					["x"] = -640.3508954727716,
-					["w"] = 205.2632772628637,
-					["h"] = 123.5088338190765,
-				},
-			},
-			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Pit of Saron",
-			["CurDataSet"] = "LastFightData",
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
+					["Total Bar"] = {
 						["a"] = 1,
 					},
 				},
 			},
-			["DetailWindowY"] = 0,
 			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 205.263294769997,
-			["MainWindowHeight"] = 123.5088513262098,
+			["Font"] = "ABF",
+			["LastInstanceName"] = "The Nexus",
+			["MainWindowWidth"] = 241.0877915031727,
+			["BarTextColorSwap"] = false,
 		},
 		["Elendraa - Icecrown"] = {
 			["GraphWindowY"] = 0,
@@ -89,6 +97,116 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["MainWindowWidth"] = 227.0175710753709,
 			["MainWindowHeight"] = 122.8070603806666,
+		},
+		["Pala - Frozen Nexus"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -439.7631826491179,
+					["x"] = -641.7456318847571,
+					["w"] = 220.9999666954144,
+					["h"] = 135.0000171651971,
+				},
+				["HideTotalBar"] = false,
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -368.2105528212438,
+			["DetailWindowX"] = 469.947410623178,
+			["GraphWindowX"] = 0,
+			["Filters"] = {
+				["TimeData"] = {
+					["Self"] = true,
+					["Grouped"] = true,
+				},
+			},
+			["BarTextColorSwap"] = false,
+			["CurDataSet"] = "LastFightData",
+			["LastInstanceName"] = "Halls of Reflection",
+			["MainWindowWidth"] = 220.7017151724818,
+			["MainWindowHeight"] = 134.6864031327921,
+		},
+		["Riv - Frozen Nexus"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -439.649023009639,
+					["x"] = -628.0701316611651,
+					["w"] = 182.1053490378702,
+					["h"] = 112.280773932918,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Pit of Saron",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowHeight"] = 112.2807651793514,
+			["MainWindowWidth"] = 182.1053140236036,
+			["GraphWindowX"] = 0,
+		},
+		["Dranah - Frozen Nexus"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -438.481796171696,
+					["x"] = -640.0001488106331,
+					["w"] = 214.3859468052593,
+					["h"] = 134.6864644077587,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["MainWindowHeight"] = 134.686455654192,
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowWidth"] = 214.3859468052593,
+			["GraphWindowX"] = 0,
+		},
+		["Liadra - Frostmourne"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -443.8595148294651,
+					["x"] = -666.3159841973503,
+					["w"] = 199.6490897555847,
+					["h"] = 130.5262880890424,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "Stormwind Stockade",
+			["CurDataSet"] = "CurrentFightData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 199.6490897555847,
+			["MainWindowHeight"] = 130.5262880890424,
 		},
 		["Themken - Icecrown"] = {
 			["GraphWindowY"] = 0,
@@ -155,54 +273,18 @@ RecountDB = {
 			["MainWindowWidth"] = 200.3510732795942,
 			["GraphWindowX"] = 0,
 		},
-		["Pala - Frozen Nexus"] = {
+		["Shamanta - Frozen Nexus"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -439.7631826491179,
-					["x"] = -641.7456318847571,
-					["w"] = 220.9999666954144,
-					["h"] = 135.0000171651971,
-				},
-				["HideTotalBar"] = false,
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 63.45608838257408,
-			["DetailWindowX"] = 290.8596436026371,
-			["GraphWindowX"] = 0,
-			["Filters"] = {
-				["TimeData"] = {
-					["Self"] = true,
-					["Grouped"] = true,
-				},
-			},
-			["BarTextColorSwap"] = false,
-			["CurDataSet"] = "LastFightData",
-			["LastInstanceName"] = "The Culling of Stratholme",
-			["MainWindowWidth"] = 220.7017151724818,
-			["MainWindowHeight"] = 134.6864031327921,
-		},
-		["Mandatum - Icecrown"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -447.6549869240179,
-					["x"] = -637.1929675213271,
-					["w"] = 200.351003251061,
-					["h"] = 132.4848023379682,
+					["y"] = -442.8846301115444,
+					["x"] = -634.7377365095741,
+					["w"] = 201.0527241680709,
+					["h"] = 124.412368215225,
 				},
 			},
 			["DetailWindowX"] = 0,
-			["MainWindowHeight"] = 132.4848023379682,
+			["LastInstanceName"] = "Vault of Archavon",
 			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
@@ -212,8 +294,33 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Stormwind Stockade",
-			["MainWindowWidth"] = 200.351003251061,
+			["MainWindowHeight"] = 124.412368215225,
+			["MainWindowWidth"] = 201.0527241680709,
+			["GraphWindowX"] = 0,
+		},
+		["Hunty - Frozen Nexus"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -436.4912569991775,
+					["x"] = -633.3332923921727,
+					["w"] = 196.842328637478,
+					["h"] = 135.438614622245,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["LastInstanceName"] = "The Forge of Souls",
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowHeight"] = 135.4386058686783,
+			["MainWindowWidth"] = 196.8422936232113,
 			["GraphWindowX"] = 0,
 		},
 		["Warmat - Icecrown"] = {
@@ -268,25 +375,25 @@ RecountDB = {
 					},
 				},
 			},
-			["DetailWindowY"] = -62.45611156584826,
+			["GraphWindowX"] = 0,
 			["LastInstanceName"] = "The Nexus",
 			["CurDataSet"] = "LastFightData",
 			["MainWindowWidth"] = 245.9649812198382,
-			["GraphWindowX"] = 0,
+			["DetailWindowY"] = -62.45611156584826,
 		},
-		["Riv - Frozen Nexus"] = {
+		["Mandatum - Icecrown"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -439.649023009639,
-					["x"] = -628.0701316611651,
-					["w"] = 182.1053490378702,
-					["h"] = 112.280773932918,
+					["y"] = -447.6549869240179,
+					["x"] = -637.1929675213271,
+					["w"] = 200.351003251061,
+					["h"] = 132.4848023379682,
 				},
 			},
 			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Halls of Stone",
-			["CurDataSet"] = "OverallData",
+			["MainWindowHeight"] = 132.4848023379682,
+			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -295,77 +402,23 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = 0,
-			["MainWindowHeight"] = 112.2807651793514,
-			["MainWindowWidth"] = 182.1053140236036,
+			["LastInstanceName"] = "Stormwind Stockade",
+			["MainWindowWidth"] = 200.351003251061,
 			["GraphWindowX"] = 0,
 		},
-		["Dranah - Icecrown"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["HideTotalBar"] = false,
-				["Position"] = {
-					["y"] = -440.763190103327,
-					["h"] = 127.0000012993576,
-					["w"] = 241.0000107367966,
-					["x"] = -646.7456691558026,
-				},
-			},
-			["DetailWindowX"] = 0,
-			["MainWindowHeight"] = 127.4912164455445,
-			["BarTexture"] = "Armory",
-			["RealtimeWindows"] = {
-				["Realtime_FPS_FPS"] = {
-					"FPS", -- [1]
-					"FPS", -- [2]
-					"", -- [3]
-					0, -- [4]
-					0, -- [5]
-					200.0000202426229, -- [6]
-					231.9999786631813, -- [7]
-					false, -- [8]
-				},
-				["Realtime_Upstream Traffic_UP_TRAFFIC"] = {
-					"Upstream Traffic", -- [1]
-					"UP_TRAFFIC", -- [2]
-					"", -- [3]
-					0, -- [4]
-					0, -- [5]
-					200.0000027354896, -- [6]
-					232.0000136774479, -- [7]
-					false, -- [8]
-				},
-			},
-			["GraphWindowX"] = 0,
-			["CurDataSet"] = "CurrentFightData",
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-					["Total Bar"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["Font"] = "ABF",
-			["LastInstanceName"] = "The Nexus",
-			["MainWindowWidth"] = 241.0877915031727,
-			["BarTextColorSwap"] = false,
-		},
-		["Shamanta - Frozen Nexus"] = {
+		["Maldir - Icecrown"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = -442.8846301115444,
-					["x"] = -634.7377365095741,
-					["w"] = 201.0527241680709,
-					["h"] = 124.412368215225,
+					["y"] = -440.3515580083475,
+					["x"] = -640.3508954727716,
+					["w"] = 205.2632772628637,
+					["h"] = 123.5088338190765,
 				},
 			},
 			["DetailWindowX"] = 0,
-			["LastInstanceName"] = "Gnomeregan",
-			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "Pit of Saron",
+			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -375,8 +428,8 @@ RecountDB = {
 			},
 			["DetailWindowY"] = 0,
 			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 201.0527241680709,
-			["MainWindowHeight"] = 124.412368215225,
+			["MainWindowWidth"] = 205.263294769997,
+			["MainWindowHeight"] = 123.5088513262098,
 		},
 		["Tabinia - Icecrown"] = {
 			["GraphWindowY"] = 0,
@@ -405,6 +458,30 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["MainWindowWidth"] = 200.3509857439277,
 			["MainWindowHeight"] = 122.8070341199667,
+		},
+		["Lock - Frozen Nexus"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -439.6491630667054,
+					["x"] = -635.7894031373742,
+					["w"] = 207.3684925352935,
+					["h"] = 115.0877188759244,
+				},
+			},
+			["DetailWindowX"] = 0,
+			["MainWindowHeight"] = 115.0876926152245,
+			["CurDataSet"] = "OverallData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["MainWindowWidth"] = 207.3684925352935,
+			["GraphWindowX"] = 0,
 		},
 		["Lawras - Icecrown"] = {
 			["GraphWindowY"] = 0,

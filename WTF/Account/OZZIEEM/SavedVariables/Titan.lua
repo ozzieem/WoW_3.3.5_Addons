@@ -233,7 +233,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -255,8 +255,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
 				["AuxScreenAdjust"] = false,
-				["AuxAutoHide"] = false,
 				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -272,16 +272,16 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.5,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 			},
 		},
 		["Warmat@Icecrown"] = {
@@ -499,10 +499,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -513,8 +513,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["AuxButtonAlign"] = 1,
-				["LockButtons"] = false,
+				["FrameStrata"] = "DIALOG",
+				["AuxAutoHide"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -527,13 +527,13 @@ TitanSettings = {
 					"AuxAutoHide", -- [8]
 					"Repair", -- [9]
 				},
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.7,
-				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -776,7 +776,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -797,8 +797,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -813,16 +813,276 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.7,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
+				["ScreenAdjust"] = false,
+			},
+		},
+		["Hunty@Frozen Nexus"] = {
+			["Plugins"] = {
+				["LDBT_X-Perl UnitFrames"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Bag"] = {
+					["CountProfBagSlots"] = false,
+					["ShowColoredText"] = 1,
+					["CountShardBagSlots"] = false,
+					["ShowUsedSlots"] = 1,
+					["CountAmmoPouchSlots"] = false,
+					["ShowIcon"] = 1,
+					["ShowDetailedInfo"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartMount"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Reagent Restocker"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Ammo"] = {
+					["ShowColoredText"] = 1,
+					["ShowAmmoName"] = false,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_ZOMGBuffs"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_DrDamage"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["RandomRoll"] = 100,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+					["DungeonDiffType"] = "AUTO",
+					["ShowDungeonDiff"] = false,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["HideGameTimeMinimap"] = false,
+					["DisplayOnRightSide"] = 1,
+					["ShowColoredText"] = false,
+					["Format"] = "12H",
+					["TimeMode"] = "Server",
+					["ShowLabelText"] = false,
+				},
+				["XP"] = {
+					["ShowSimpleNumOfKills"] = false,
+					["ShowIcon"] = 1,
+					["ShowSimpleRested"] = false,
+					["ShowSimpleToLevel"] = false,
+					["DisplayType"] = "ShowXPPerHourSession",
+					["ShowSimpleNumOfGains"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["AuxAutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "AuxBar",
+				},
+				["AutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "Bar",
+				},
+				["Repair"] = {
+					["ShowColoredText"] = false,
+					["IgnoreThrown"] = false,
+					["AutoRepair"] = false,
+					["DiscountFriendly"] = false,
+					["ShowIcon"] = 1,
+					["ShowDiscounts"] = true,
+					["ShowDurabilityFrame"] = 1,
+					["ShowUndamaged"] = false,
+					["ShowPercentage"] = false,
+					["DiscountRevered"] = false,
+					["ShowInventory"] = 1,
+					["UseGuildBank"] = false,
+					["ShowRepairCost"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowCosts"] = true,
+					["DiscountExalted"] = false,
+					["ShowMostDmgPer"] = 1,
+					["ShowItems"] = true,
+					["AutoRepairReport"] = false,
+					["DiscountHonored"] = false,
+					["ShowPopup"] = false,
+					["ShowMostDamaged"] = false,
+				},
+				["Volume"] = {
+					["VolumeInboundChat"] = 1,
+					["VolumeMaster"] = 1,
+					["VolumeSFX"] = 0.5,
+					["VolumeAmbience"] = 0.5,
+					["VolumeMusic"] = 0.5,
+					["VolumeOutboundChat"] = 1,
+					["OverrideBlizzSettings"] = false,
+				},
+				["LDBT_Omen"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["TitanRegen"] = {
+					["ShowPercentage"] = false,
+					["ShowColoredText"] = false,
+					["ShowHPRegen"] = 1,
+					["ShowMPRegen"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Atlas"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Coords"] = {
+					["ShowColoredText"] = 1,
+					["ShowZoneText"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowIcon"] = 1,
+					["ShowLocOnMiniMap"] = 1,
+					["ShowCoordsOnMap"] = 1,
+					["CoordsFormat2"] = false,
+					["CoordsFormat1"] = 1,
+					["CoordsFormat3"] = false,
+				},
+				["LDBT_AtlasLoot"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Grid"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Armory"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_TimeToDie"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Volumizer"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartRes2"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Performance"] = {
+					["ShowAddonMemory"] = false,
+					["ShowMemory"] = 1,
+					["AddonMemoryType"] = 1,
+					["ShowLatency"] = 1,
+					["ShowLabelText"] = false,
+					["ShowIcon"] = 1,
+					["ShowAddonIncRate"] = false,
+					["ShowColoredText"] = 1,
+					["NumOfAddons"] = 5,
+					["ShowFPS"] = 1,
+				},
+			},
+			["Panel"] = {
+				["HideTipsInCombat"] = false,
+				["FontSize"] = 10,
+				["ButtonAlign"] = 1,
+				["Scale"] = 1,
 				["LogAdjust"] = false,
+				["ButtonSpacing"] = 20,
+				["MinimapAdjust"] = false,
+				["BothBars"] = false,
+				["VersionShown"] = 1,
+				["Location"] = {
+					"Bar", -- [1]
+					"Bar", -- [2]
+					"Bar", -- [3]
+					"Bar", -- [4]
+					"Bar", -- [5]
+					"Bar", -- [6]
+					"Bar", -- [7]
+					"AuxBar", -- [8]
+					"Bar", -- [9]
+				},
+				["AutoHide"] = false,
+				["TooltipTrans"] = 1,
+				["AuxTransparency"] = 0.7,
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
+				["AuxScreenAdjust"] = false,
+				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
+				["BagAdjust"] = 1,
+				["Buttons"] = {
+					"Coords", -- [1]
+					"XP", -- [2]
+					"GoldTracker", -- [3]
+					"Clock", -- [4]
+					"Volume", -- [5]
+					"AutoHide", -- [6]
+					"Bag", -- [7]
+					"AuxAutoHide", -- [8]
+					"Repair", -- [9]
+				},
+				["FontName"] = "Friz Quadrata TT",
+				["DoubleBar"] = 1,
+				["AuxButtonAlign"] = 1,
+				["DisableTooltipFont"] = 1,
+				["ToolTipsShown"] = 1,
+				["Transparency"] = 0.7,
+				["FrameStrata"] = "DIALOG",
+				["Position"] = 1,
+				["TicketAdjust"] = 1,
+				["TooltipFont"] = 1,
+				["AuxDoubleBar"] = 1,
+				["ScreenAdjust"] = false,
 			},
 		},
 		["Elendraa@Icecrown"] = {
@@ -1047,10 +1307,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -1061,8 +1321,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -1076,13 +1336,13 @@ TitanSettings = {
 					"GoldTracker", -- [9]
 					"Bag", -- [10]
 				},
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.5,
-				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -1344,10 +1604,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -1358,8 +1618,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["AuxButtonAlign"] = 1,
-				["LockButtons"] = false,
+				["FrameStrata"] = "DIALOG",
+				["AuxAutoHide"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -1373,13 +1633,13 @@ TitanSettings = {
 					"GoldTracker", -- [9]
 					"Bag", -- [10]
 				},
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.5,
-				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -1462,9 +1722,9 @@ TitanSettings = {
 					["OffsetHour"] = 0,
 					["HideGameTimeMinimap"] = false,
 					["DisplayOnRightSide"] = 1,
-					["ShowColoredText"] = false,
+					["ShowColoredText"] = 1,
 					["Format"] = "12H",
-					["TimeMode"] = "Server",
+					["TimeMode"] = "Local",
 					["ShowLabelText"] = false,
 				},
 				["XP"] = {
@@ -1545,7 +1805,7 @@ TitanSettings = {
 					["ShowLabelText"] = 1,
 				},
 				["Repair"] = {
-					["ShowColoredText"] = false,
+					["ShowColoredText"] = 1,
 					["IgnoreThrown"] = false,
 					["AutoRepair"] = false,
 					["DiscountFriendly"] = false,
@@ -1609,7 +1869,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -1618,44 +1878,46 @@ TitanSettings = {
 					"Bar", -- [1]
 					"Bar", -- [2]
 					"Bar", -- [3]
-					"Bar", -- [4]
+					"AuxBar", -- [4]
 					"Bar", -- [5]
 					"Bar", -- [6]
 					"Bar", -- [7]
-					"AuxBar", -- [8]
+					"Bar", -- [8]
 					"Bar", -- [9]
+					"Bar", -- [10]
 				},
 				["AutoHide"] = false,
 				["TooltipTrans"] = 1,
 				["AuxTransparency"] = 0.7,
-				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
 				["AuxScreenAdjust"] = false,
-				["AuxAutoHide"] = false,
 				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
-					"Coords", -- [1]
-					"XP", -- [2]
-					"GoldTracker", -- [3]
-					"Clock", -- [4]
-					"Volume", -- [5]
-					"AutoHide", -- [6]
-					"Bag", -- [7]
-					"AuxAutoHide", -- [8]
-					"Repair", -- [9]
+					"Repair", -- [1]
+					"Clock", -- [2]
+					"AutoHide", -- [3]
+					"AuxAutoHide", -- [4]
+					"Performance", -- [5]
+					"Coords", -- [6]
+					"XP", -- [7]
+					"TitanRegen", -- [8]
+					"GoldTracker", -- [9]
+					"Bag", -- [10]
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
-				["Transparency"] = 0.7,
-				["FrameStrata"] = "DIALOG",
+				["Transparency"] = 0.5,
+				["AuxButtonAlign"] = 1,
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 			},
 		},
 		["Dranah@Frozen Nexus"] = {
@@ -1897,7 +2159,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -1919,8 +2181,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
 				["AuxScreenAdjust"] = false,
-				["AuxAutoHide"] = false,
 				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -1936,16 +2198,16 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.5,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 			},
 		},
 		["Mandatum@Icecrown"] = {
@@ -2163,10 +2425,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -2177,8 +2439,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -2191,13 +2453,273 @@ TitanSettings = {
 					"AuxAutoHide", -- [8]
 					"Repair", -- [9]
 				},
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.7,
+				["AuxAutoHide"] = false,
+				["Position"] = 1,
+				["Location"] = {
+					"Bar", -- [1]
+					"Bar", -- [2]
+					"Bar", -- [3]
+					"Bar", -- [4]
+					"Bar", -- [5]
+					"Bar", -- [6]
+					"Bar", -- [7]
+					"AuxBar", -- [8]
+					"Bar", -- [9]
+				},
+				["TooltipFont"] = 1,
+				["MinimapAdjust"] = false,
+				["FontSize"] = 10,
+			},
+		},
+		["Lock@Frozen Nexus"] = {
+			["Plugins"] = {
+				["LDBT_X-Perl UnitFrames"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Bag"] = {
+					["ShowColoredText"] = 1,
+					["CountProfBagSlots"] = false,
+					["CountShardBagSlots"] = false,
+					["ShowUsedSlots"] = 1,
+					["CountAmmoPouchSlots"] = false,
+					["ShowIcon"] = 1,
+					["ShowDetailedInfo"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartMount"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Reagent Restocker"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Ammo"] = {
+					["ShowAmmoName"] = false,
+					["ShowColoredText"] = 1,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_ZOMGBuffs"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_DrDamage"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["RandomRoll"] = 100,
+					["ShowIcon"] = 1,
+					["ShowDungeonDiff"] = false,
+					["DungeonDiffType"] = "AUTO",
+					["ShowLabelText"] = 1,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["HideGameTimeMinimap"] = false,
+					["DisplayOnRightSide"] = 1,
+					["ShowColoredText"] = false,
+					["Format"] = "12H",
+					["TimeMode"] = "Server",
+					["ShowLabelText"] = false,
+				},
+				["XP"] = {
+					["ShowSimpleNumOfKills"] = false,
+					["ShowIcon"] = 1,
+					["ShowSimpleRested"] = false,
+					["ShowSimpleToLevel"] = false,
+					["ShowLabelText"] = 1,
+					["ShowSimpleNumOfGains"] = false,
+					["DisplayType"] = "ShowXPPerHourSession",
+				},
+				["AuxAutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "AuxBar",
+				},
+				["Performance"] = {
+					["ShowAddonMemory"] = false,
+					["ShowMemory"] = 1,
+					["AddonMemoryType"] = 1,
+					["ShowLatency"] = 1,
+					["ShowLabelText"] = false,
+					["ShowIcon"] = 1,
+					["ShowAddonIncRate"] = false,
+					["ShowColoredText"] = 1,
+					["NumOfAddons"] = 5,
+					["ShowFPS"] = 1,
+				},
+				["Repair"] = {
+					["ShowColoredText"] = false,
+					["IgnoreThrown"] = false,
+					["AutoRepair"] = false,
+					["DiscountFriendly"] = false,
+					["ShowIcon"] = 1,
+					["ShowDiscounts"] = true,
+					["ShowDurabilityFrame"] = 1,
+					["ShowUndamaged"] = false,
+					["ShowPercentage"] = false,
+					["DiscountRevered"] = false,
+					["ShowInventory"] = 1,
+					["UseGuildBank"] = false,
+					["ShowRepairCost"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowCosts"] = true,
+					["DiscountExalted"] = false,
+					["ShowMostDmgPer"] = 1,
+					["ShowItems"] = true,
+					["AutoRepairReport"] = false,
+					["DiscountHonored"] = false,
+					["ShowPopup"] = false,
+					["ShowMostDamaged"] = false,
+				},
+				["Volume"] = {
+					["VolumeInboundChat"] = 1,
+					["VolumeMaster"] = 1,
+					["VolumeSFX"] = 0.5,
+					["OverrideBlizzSettings"] = false,
+					["VolumeMusic"] = 0.5,
+					["VolumeOutboundChat"] = 1,
+					["VolumeAmbience"] = 0.5,
+				},
+				["LDBT_TimeToDie"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Armory"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Atlas"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Grid"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_AtlasLoot"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Coords"] = {
+					["ShowColoredText"] = 1,
+					["ShowZoneText"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowIcon"] = 1,
+					["CoordsFormat3"] = false,
+					["CoordsFormat1"] = 1,
+					["CoordsFormat2"] = false,
+					["ShowCoordsOnMap"] = 1,
+					["ShowLocOnMiniMap"] = 1,
+				},
+				["TitanRegen"] = {
+					["ShowPercentage"] = false,
+					["ShowColoredText"] = false,
+					["ShowHPRegen"] = 1,
+					["ShowMPRegen"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Omen"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Volumizer"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartRes2"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["AutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "Bar",
+				},
+			},
+			["Panel"] = {
+				["HideTipsInCombat"] = false,
+				["LogAdjust"] = false,
+				["ButtonAlign"] = 1,
+				["Scale"] = 1,
+				["ScreenAdjust"] = false,
+				["ButtonSpacing"] = 20,
+				["AuxDoubleBar"] = 1,
+				["BothBars"] = false,
+				["AuxTransparency"] = 0.7,
+				["TicketAdjust"] = 1,
+				["AutoHide"] = false,
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
+				["VersionShown"] = 1,
+				["TooltipTrans"] = 1,
+				["AuxScreenAdjust"] = false,
+				["AuxButtonAlign"] = 1,
 				["LockButtons"] = false,
+				["BagAdjust"] = 1,
+				["Buttons"] = {
+					"Coords", -- [1]
+					"XP", -- [2]
+					"GoldTracker", -- [3]
+					"Clock", -- [4]
+					"Volume", -- [5]
+					"AutoHide", -- [6]
+					"Bag", -- [7]
+					"AuxAutoHide", -- [8]
+					"Repair", -- [9]
+				},
+				["FrameStrata"] = "DIALOG",
+				["DoubleBar"] = 1,
+				["FontName"] = "Friz Quadrata TT",
+				["ToolTipsShown"] = 1,
+				["DisableTooltipFont"] = 1,
+				["Transparency"] = 0.7,
+				["AuxAutoHide"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -2232,6 +2754,13 @@ TitanSettings = {
 					["CountAmmoPouchSlots"] = false,
 					["ShowIcon"] = 1,
 					["ShowDetailedInfo"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartMount"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
 				},
 				["LDBT_Reagent Restocker"] = {
@@ -2416,10 +2945,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -2430,8 +2959,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -2444,259 +2973,13 @@ TitanSettings = {
 					"AuxAutoHide", -- [8]
 					"Repair", -- [9]
 				},
-				["AuxButtonAlign"] = 1,
-				["DoubleBar"] = 1,
-				["FontName"] = "Friz Quadrata TT",
-				["ToolTipsShown"] = 1,
-				["DisableTooltipFont"] = 1,
-				["Transparency"] = 0.7,
-				["LockButtons"] = false,
-				["Position"] = 1,
-				["Location"] = {
-					"Bar", -- [1]
-					"Bar", -- [2]
-					"Bar", -- [3]
-					"Bar", -- [4]
-					"Bar", -- [5]
-					"Bar", -- [6]
-					"Bar", -- [7]
-					"AuxBar", -- [8]
-					"Bar", -- [9]
-				},
-				["TooltipFont"] = 1,
-				["MinimapAdjust"] = false,
-				["FontSize"] = 10,
-			},
-		},
-		["Dud@Frozen Nexus"] = {
-			["Plugins"] = {
-				["LDBT_X-Perl UnitFrames"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Bag"] = {
-					["ShowColoredText"] = 1,
-					["CountProfBagSlots"] = false,
-					["CountShardBagSlots"] = false,
-					["ShowUsedSlots"] = 1,
-					["CountAmmoPouchSlots"] = false,
-					["ShowIcon"] = 1,
-					["ShowDetailedInfo"] = false,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_Reagent Restocker"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Ammo"] = {
-					["ShowAmmoName"] = false,
-					["ShowColoredText"] = 1,
-					["ShowIcon"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_ZOMGBuffs"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_DrDamage"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LootType"] = {
-					["RandomRoll"] = 100,
-					["ShowIcon"] = 1,
-					["ShowDungeonDiff"] = false,
-					["DungeonDiffType"] = "AUTO",
-					["ShowLabelText"] = 1,
-				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["HideGameTimeMinimap"] = false,
-					["DisplayOnRightSide"] = 1,
-					["ShowColoredText"] = false,
-					["Format"] = "12H",
-					["TimeMode"] = "Server",
-					["ShowLabelText"] = false,
-				},
-				["XP"] = {
-					["ShowSimpleNumOfKills"] = false,
-					["ShowIcon"] = 1,
-					["ShowSimpleRested"] = false,
-					["ShowSimpleToLevel"] = false,
-					["ShowLabelText"] = 1,
-					["ShowSimpleNumOfGains"] = false,
-					["DisplayType"] = "ShowXPPerHourSession",
-				},
-				["AuxAutoHide"] = {
-					["DisplayOnRightSide"] = 1,
-					["ForceBar"] = "AuxBar",
-				},
-				["LDBT_Grid"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["AutoHide"] = {
-					["DisplayOnRightSide"] = 1,
-					["ForceBar"] = "Bar",
-				},
-				["LDBT_Armory"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = false,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_Omen"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_Atlas"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Repair"] = {
-					["ShowColoredText"] = false,
-					["IgnoreThrown"] = false,
-					["AutoRepair"] = false,
-					["DiscountFriendly"] = false,
-					["ShowIcon"] = 1,
-					["ShowDiscounts"] = true,
-					["ShowDurabilityFrame"] = 1,
-					["ShowUndamaged"] = false,
-					["ShowPercentage"] = false,
-					["DiscountRevered"] = false,
-					["ShowInventory"] = 1,
-					["UseGuildBank"] = false,
-					["ShowRepairCost"] = 1,
-					["ShowLabelText"] = 1,
-					["ShowCosts"] = true,
-					["DiscountExalted"] = false,
-					["ShowMostDmgPer"] = 1,
-					["ShowItems"] = true,
-					["AutoRepairReport"] = false,
-					["DiscountHonored"] = false,
-					["ShowPopup"] = false,
-					["ShowMostDamaged"] = false,
-				},
-				["LDBT_AtlasLoot"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Coords"] = {
-					["ShowColoredText"] = 1,
-					["ShowZoneText"] = 1,
-					["ShowLabelText"] = 1,
-					["ShowIcon"] = 1,
-					["CoordsFormat3"] = false,
-					["CoordsFormat1"] = 1,
-					["CoordsFormat2"] = false,
-					["ShowCoordsOnMap"] = 1,
-					["ShowLocOnMiniMap"] = 1,
-				},
-				["Volume"] = {
-					["VolumeInboundChat"] = 1,
-					["VolumeMaster"] = 1,
-					["VolumeSFX"] = 0.5,
-					["OverrideBlizzSettings"] = false,
-					["VolumeMusic"] = 0.5,
-					["VolumeOutboundChat"] = 1,
-					["VolumeAmbience"] = 0.5,
-				},
-				["TitanRegen"] = {
-					["ShowPercentage"] = false,
-					["ShowColoredText"] = false,
-					["ShowHPRegen"] = 1,
-					["ShowMPRegen"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_Volumizer"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = false,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_SmartRes2"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Performance"] = {
-					["ShowAddonMemory"] = false,
-					["ShowMemory"] = 1,
-					["AddonMemoryType"] = 1,
-					["ShowLatency"] = 1,
-					["ShowLabelText"] = false,
-					["ShowIcon"] = 1,
-					["ShowAddonIncRate"] = false,
-					["ShowColoredText"] = 1,
-					["NumOfAddons"] = 5,
-					["ShowFPS"] = 1,
-				},
-			},
-			["Panel"] = {
-				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
-				["ButtonAlign"] = 1,
-				["Scale"] = 1,
-				["LogAdjust"] = false,
-				["ButtonSpacing"] = 20,
-				["AuxDoubleBar"] = 1,
-				["BothBars"] = false,
-				["AuxTransparency"] = 0.7,
-				["TicketAdjust"] = 1,
-				["AutoHide"] = false,
-				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
-				["VersionShown"] = 1,
-				["TooltipTrans"] = 1,
-				["AuxScreenAdjust"] = false,
 				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
-				["BagAdjust"] = 1,
-				["Buttons"] = {
-					"Coords", -- [1]
-					"XP", -- [2]
-					"GoldTracker", -- [3]
-					"Clock", -- [4]
-					"Volume", -- [5]
-					"AutoHide", -- [6]
-					"Bag", -- [7]
-					"AuxAutoHide", -- [8]
-					"Repair", -- [9]
-				},
-				["AuxButtonAlign"] = 1,
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.7,
-				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -2960,7 +3243,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -2982,8 +3265,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -2999,19 +3282,19 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.5,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 			},
 		},
-		["Riv@Frozen Nexus"] = {
+		["Liadra@Frostmourne"] = {
 			["Plugins"] = {
 				["LDBT_X-Perl UnitFrames"] = {
 					["ShowColoredText"] = false,
@@ -3037,7 +3320,7 @@ TitanSettings = {
 					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["LDBT_Reagent Restocker"] = {
+				["LDBT_QuestHelper"] = {
 					["ShowColoredText"] = false,
 					["ShowIcon"] = 1,
 					["ShowRegularText"] = 1,
@@ -3048,6 +3331,13 @@ TitanSettings = {
 					["ShowColoredText"] = 1,
 					["ShowAmmoName"] = false,
 					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Gatherer"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
 				},
 				["LDBT_ZOMGBuffs"] = {
@@ -3075,9 +3365,9 @@ TitanSettings = {
 					["OffsetHour"] = 0,
 					["HideGameTimeMinimap"] = false,
 					["DisplayOnRightSide"] = 1,
-					["ShowColoredText"] = 1,
+					["ShowColoredText"] = false,
 					["Format"] = "12H",
-					["TimeMode"] = "Local",
+					["TimeMode"] = "Server",
 					["ShowLabelText"] = false,
 				},
 				["XP"] = {
@@ -3089,26 +3379,6 @@ TitanSettings = {
 					["ShowSimpleNumOfGains"] = false,
 					["ShowLabelText"] = 1,
 				},
-				["AuxAutoHide"] = {
-					["DisplayOnRightSide"] = 1,
-					["ForceBar"] = "AuxBar",
-				},
-				["Performance"] = {
-					["ShowAddonMemory"] = false,
-					["ShowMemory"] = 1,
-					["AddonMemoryType"] = 1,
-					["ShowLatency"] = 1,
-					["ShowLabelText"] = false,
-					["ShowIcon"] = 1,
-					["ShowAddonIncRate"] = false,
-					["ShowColoredText"] = 1,
-					["NumOfAddons"] = 5,
-					["ShowFPS"] = 1,
-				},
-				["AutoHide"] = {
-					["DisplayOnRightSide"] = 1,
-					["ForceBar"] = "Bar",
-				},
 				["LDBT_Armory"] = {
 					["ShowColoredText"] = false,
 					["ShowIcon"] = 1,
@@ -3116,25 +3386,26 @@ TitanSettings = {
 					["DisplayOnRightSide"] = false,
 					["ShowLabelText"] = 1,
 				},
-				["LDBT_TimeToDie"] = {
+				["AuxAutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "AuxBar",
+				},
+				["LDBT_Reagent Restocker"] = {
 					["ShowColoredText"] = false,
 					["ShowIcon"] = 1,
 					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = false,
+					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
+				},
+				["AutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "Bar",
 				},
 				["TitanRegen"] = {
 					["ShowPercentage"] = false,
 					["ShowColoredText"] = false,
 					["ShowHPRegen"] = 1,
 					["ShowMPRegen"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["LDBT_Atlas"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
 				},
 				["Volume"] = {
@@ -3146,26 +3417,8 @@ TitanSettings = {
 					["VolumeOutboundChat"] = 1,
 					["OverrideBlizzSettings"] = false,
 				},
-				["LDBT_AtlasLoot"] = {
-					["ShowColoredText"] = false,
-					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Coords"] = {
-					["ShowColoredText"] = 1,
-					["ShowZoneText"] = 1,
-					["ShowLabelText"] = 1,
-					["ShowIcon"] = 1,
-					["ShowLocOnMiniMap"] = 1,
-					["ShowCoordsOnMap"] = 1,
-					["CoordsFormat2"] = false,
-					["CoordsFormat1"] = 1,
-					["CoordsFormat3"] = false,
-				},
 				["Repair"] = {
-					["ShowColoredText"] = 1,
+					["ShowColoredText"] = false,
 					["IgnoreThrown"] = false,
 					["AutoRepair"] = false,
 					["DiscountFriendly"] = false,
@@ -3188,11 +3441,50 @@ TitanSettings = {
 					["ShowPopup"] = false,
 					["ShowMostDamaged"] = false,
 				},
+				["LDBT_Atlas"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Coords"] = {
+					["ShowColoredText"] = 1,
+					["ShowZoneText"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowIcon"] = 1,
+					["ShowLocOnMiniMap"] = 1,
+					["ShowCoordsOnMap"] = 1,
+					["CoordsFormat2"] = false,
+					["CoordsFormat1"] = 1,
+					["CoordsFormat3"] = false,
+				},
+				["LDBT_AtlasLoot"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
 				["LDBT_Omen"] = {
 					["ShowColoredText"] = false,
 					["ShowIcon"] = 1,
 					["ShowRegularText"] = 1,
 					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Grid"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_TimeToDie"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
 					["ShowLabelText"] = 1,
 				},
 				["LDBT_Volumizer"] = {
@@ -3209,12 +3501,17 @@ TitanSettings = {
 					["DisplayOnRightSide"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["LDBT_Grid"] = {
-					["ShowColoredText"] = false,
+				["Performance"] = {
+					["ShowAddonMemory"] = false,
+					["ShowMemory"] = 1,
+					["AddonMemoryType"] = 1,
+					["ShowLatency"] = 1,
+					["ShowLabelText"] = false,
 					["ShowIcon"] = 1,
-					["ShowRegularText"] = 1,
-					["DisplayOnRightSide"] = 1,
-					["ShowLabelText"] = 1,
+					["ShowAddonIncRate"] = false,
+					["ShowColoredText"] = 1,
+					["NumOfAddons"] = 5,
+					["ShowFPS"] = 1,
 				},
 			},
 			["Panel"] = {
@@ -3222,7 +3519,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -3231,46 +3528,44 @@ TitanSettings = {
 					"Bar", -- [1]
 					"Bar", -- [2]
 					"Bar", -- [3]
-					"AuxBar", -- [4]
+					"Bar", -- [4]
 					"Bar", -- [5]
 					"Bar", -- [6]
 					"Bar", -- [7]
-					"Bar", -- [8]
+					"AuxBar", -- [8]
 					"Bar", -- [9]
-					"Bar", -- [10]
 				},
 				["AutoHide"] = false,
 				["TooltipTrans"] = 1,
 				["AuxTransparency"] = 0.7,
-				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
-					"Repair", -- [1]
-					"Clock", -- [2]
-					"AutoHide", -- [3]
-					"AuxAutoHide", -- [4]
-					"Performance", -- [5]
-					"Coords", -- [6]
-					"XP", -- [7]
-					"TitanRegen", -- [8]
-					"GoldTracker", -- [9]
-					"Bag", -- [10]
+					"Coords", -- [1]
+					"XP", -- [2]
+					"GoldTracker", -- [3]
+					"Clock", -- [4]
+					"Volume", -- [5]
+					"AutoHide", -- [6]
+					"Bag", -- [7]
+					"AuxAutoHide", -- [8]
+					"Repair", -- [9]
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
-				["Transparency"] = 0.5,
-				["AuxButtonAlign"] = 1,
+				["Transparency"] = 0.7,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 			},
 		},
 		["Def@TitanCustomProfile"] = {
@@ -3505,7 +3800,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -3528,8 +3823,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -3546,16 +3841,278 @@ TitanSettings = {
 				},
 				["FontName"] = "ABF",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.5,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
+				["ScreenAdjust"] = false,
+			},
+		},
+		["Riv@Frozen Nexus"] = {
+			["Plugins"] = {
+				["LDBT_X-Perl UnitFrames"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Bag"] = {
+					["CountProfBagSlots"] = false,
+					["ShowColoredText"] = 1,
+					["CountShardBagSlots"] = false,
+					["ShowUsedSlots"] = 1,
+					["CountAmmoPouchSlots"] = false,
+					["ShowIcon"] = 1,
+					["ShowDetailedInfo"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartMount"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Reagent Restocker"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Ammo"] = {
+					["ShowColoredText"] = 1,
+					["ShowAmmoName"] = false,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_ZOMGBuffs"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_DrDamage"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["RandomRoll"] = 100,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+					["DungeonDiffType"] = "AUTO",
+					["ShowDungeonDiff"] = false,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["HideGameTimeMinimap"] = false,
+					["DisplayOnRightSide"] = 1,
+					["ShowColoredText"] = 1,
+					["Format"] = "12H",
+					["TimeMode"] = "Local",
+					["ShowLabelText"] = false,
+				},
+				["XP"] = {
+					["ShowSimpleNumOfKills"] = false,
+					["ShowIcon"] = 1,
+					["ShowSimpleRested"] = false,
+					["ShowSimpleToLevel"] = false,
+					["DisplayType"] = "ShowXPPerHourSession",
+					["ShowSimpleNumOfGains"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["AuxAutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "AuxBar",
+				},
+				["Performance"] = {
+					["ShowAddonMemory"] = false,
+					["ShowMemory"] = 1,
+					["AddonMemoryType"] = 1,
+					["ShowLatency"] = 1,
+					["ShowLabelText"] = false,
+					["ShowIcon"] = 1,
+					["ShowAddonIncRate"] = false,
+					["ShowColoredText"] = 1,
+					["NumOfAddons"] = 5,
+					["ShowFPS"] = 1,
+				},
+				["AutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "Bar",
+				},
+				["LDBT_Armory"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_TimeToDie"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["TitanRegen"] = {
+					["ShowPercentage"] = false,
+					["ShowColoredText"] = false,
+					["ShowHPRegen"] = 1,
+					["ShowMPRegen"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Atlas"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Volume"] = {
+					["VolumeInboundChat"] = 1,
+					["VolumeMaster"] = 1,
+					["VolumeSFX"] = 0.5,
+					["VolumeAmbience"] = 0.5,
+					["VolumeMusic"] = 0.5,
+					["VolumeOutboundChat"] = 1,
+					["OverrideBlizzSettings"] = false,
+				},
+				["LDBT_AtlasLoot"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Coords"] = {
+					["ShowColoredText"] = 1,
+					["ShowZoneText"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowIcon"] = 1,
+					["ShowLocOnMiniMap"] = 1,
+					["ShowCoordsOnMap"] = 1,
+					["CoordsFormat2"] = false,
+					["CoordsFormat1"] = 1,
+					["CoordsFormat3"] = false,
+				},
+				["Repair"] = {
+					["ShowColoredText"] = 1,
+					["IgnoreThrown"] = false,
+					["AutoRepair"] = false,
+					["DiscountFriendly"] = false,
+					["ShowIcon"] = 1,
+					["ShowDiscounts"] = true,
+					["ShowDurabilityFrame"] = 1,
+					["ShowUndamaged"] = false,
+					["ShowPercentage"] = false,
+					["DiscountRevered"] = false,
+					["ShowInventory"] = 1,
+					["UseGuildBank"] = false,
+					["ShowRepairCost"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowCosts"] = true,
+					["DiscountExalted"] = false,
+					["ShowMostDmgPer"] = 1,
+					["ShowItems"] = true,
+					["AutoRepairReport"] = false,
+					["DiscountHonored"] = false,
+					["ShowPopup"] = false,
+					["ShowMostDamaged"] = false,
+				},
+				["LDBT_Omen"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Volumizer"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartRes2"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Grid"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+			},
+			["Panel"] = {
+				["HideTipsInCombat"] = false,
+				["FontSize"] = 10,
+				["ButtonAlign"] = 1,
+				["Scale"] = 1,
 				["LogAdjust"] = false,
+				["ButtonSpacing"] = 20,
+				["MinimapAdjust"] = false,
+				["BothBars"] = false,
+				["VersionShown"] = 1,
+				["Location"] = {
+					"Bar", -- [1]
+					"Bar", -- [2]
+					"Bar", -- [3]
+					"AuxBar", -- [4]
+					"Bar", -- [5]
+					"Bar", -- [6]
+					"Bar", -- [7]
+					"Bar", -- [8]
+					"Bar", -- [9]
+					"Bar", -- [10]
+				},
+				["AutoHide"] = false,
+				["TooltipTrans"] = 1,
+				["AuxTransparency"] = 0.7,
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\Custom\\X-Perl\\",
+				["AuxScreenAdjust"] = false,
+				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
+				["BagAdjust"] = 1,
+				["Buttons"] = {
+					"Repair", -- [1]
+					"Clock", -- [2]
+					"AutoHide", -- [3]
+					"AuxAutoHide", -- [4]
+					"Performance", -- [5]
+					"Coords", -- [6]
+					"XP", -- [7]
+					"TitanRegen", -- [8]
+					"GoldTracker", -- [9]
+					"Bag", -- [10]
+				},
+				["FontName"] = "Friz Quadrata TT",
+				["DoubleBar"] = 1,
+				["AuxButtonAlign"] = 1,
+				["DisableTooltipFont"] = 1,
+				["ToolTipsShown"] = 1,
+				["Transparency"] = 0.5,
+				["FrameStrata"] = "DIALOG",
+				["Position"] = 1,
+				["TicketAdjust"] = 1,
+				["TooltipFont"] = 1,
+				["AuxDoubleBar"] = 1,
+				["ScreenAdjust"] = false,
 			},
 		},
 		["Maldir@Icecrown"] = {
@@ -3790,7 +4347,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -3811,8 +4368,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -3827,16 +4384,262 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.7,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
+				["ScreenAdjust"] = false,
+			},
+		},
+		["Dud@Frozen Nexus"] = {
+			["Plugins"] = {
+				["LDBT_X-Perl UnitFrames"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Bag"] = {
+					["ShowColoredText"] = 1,
+					["CountProfBagSlots"] = false,
+					["CountShardBagSlots"] = false,
+					["ShowUsedSlots"] = 1,
+					["CountAmmoPouchSlots"] = false,
+					["ShowIcon"] = 1,
+					["ShowDetailedInfo"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Reagent Restocker"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Ammo"] = {
+					["ShowAmmoName"] = false,
+					["ShowColoredText"] = 1,
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_ZOMGBuffs"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_DrDamage"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["RandomRoll"] = 100,
+					["ShowIcon"] = 1,
+					["ShowDungeonDiff"] = false,
+					["DungeonDiffType"] = "AUTO",
+					["ShowLabelText"] = 1,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["HideGameTimeMinimap"] = false,
+					["DisplayOnRightSide"] = 1,
+					["ShowColoredText"] = false,
+					["Format"] = "12H",
+					["TimeMode"] = "Server",
+					["ShowLabelText"] = false,
+				},
+				["XP"] = {
+					["ShowSimpleNumOfKills"] = false,
+					["ShowIcon"] = 1,
+					["ShowSimpleRested"] = false,
+					["ShowSimpleToLevel"] = false,
+					["ShowLabelText"] = 1,
+					["ShowSimpleNumOfGains"] = false,
+					["DisplayType"] = "ShowXPPerHourSession",
+				},
+				["AuxAutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "AuxBar",
+				},
+				["LDBT_Grid"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["AutoHide"] = {
+					["DisplayOnRightSide"] = 1,
+					["ForceBar"] = "Bar",
+				},
+				["LDBT_Armory"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Omen"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Atlas"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Repair"] = {
+					["ShowColoredText"] = false,
+					["IgnoreThrown"] = false,
+					["AutoRepair"] = false,
+					["DiscountFriendly"] = false,
+					["ShowIcon"] = 1,
+					["ShowDiscounts"] = true,
+					["ShowDurabilityFrame"] = 1,
+					["ShowUndamaged"] = false,
+					["ShowPercentage"] = false,
+					["DiscountRevered"] = false,
+					["ShowInventory"] = 1,
+					["UseGuildBank"] = false,
+					["ShowRepairCost"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowCosts"] = true,
+					["DiscountExalted"] = false,
+					["ShowMostDmgPer"] = 1,
+					["ShowItems"] = true,
+					["AutoRepairReport"] = false,
+					["DiscountHonored"] = false,
+					["ShowPopup"] = false,
+					["ShowMostDamaged"] = false,
+				},
+				["LDBT_AtlasLoot"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Coords"] = {
+					["ShowColoredText"] = 1,
+					["ShowZoneText"] = 1,
+					["ShowLabelText"] = 1,
+					["ShowIcon"] = 1,
+					["CoordsFormat3"] = false,
+					["CoordsFormat1"] = 1,
+					["CoordsFormat2"] = false,
+					["ShowCoordsOnMap"] = 1,
+					["ShowLocOnMiniMap"] = 1,
+				},
+				["Volume"] = {
+					["VolumeInboundChat"] = 1,
+					["VolumeMaster"] = 1,
+					["VolumeSFX"] = 0.5,
+					["OverrideBlizzSettings"] = false,
+					["VolumeMusic"] = 0.5,
+					["VolumeOutboundChat"] = 1,
+					["VolumeAmbience"] = 0.5,
+				},
+				["TitanRegen"] = {
+					["ShowPercentage"] = false,
+					["ShowColoredText"] = false,
+					["ShowHPRegen"] = 1,
+					["ShowMPRegen"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_Volumizer"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = false,
+					["ShowLabelText"] = 1,
+				},
+				["LDBT_SmartRes2"] = {
+					["ShowColoredText"] = false,
+					["ShowIcon"] = 1,
+					["ShowRegularText"] = 1,
+					["DisplayOnRightSide"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Performance"] = {
+					["ShowAddonMemory"] = false,
+					["ShowMemory"] = 1,
+					["AddonMemoryType"] = 1,
+					["ShowLatency"] = 1,
+					["ShowLabelText"] = false,
+					["ShowIcon"] = 1,
+					["ShowAddonIncRate"] = false,
+					["ShowColoredText"] = 1,
+					["NumOfAddons"] = 5,
+					["ShowFPS"] = 1,
+				},
+			},
+			["Panel"] = {
+				["HideTipsInCombat"] = false,
 				["LogAdjust"] = false,
+				["ButtonAlign"] = 1,
+				["Scale"] = 1,
+				["ScreenAdjust"] = false,
+				["ButtonSpacing"] = 20,
+				["AuxDoubleBar"] = 1,
+				["BothBars"] = false,
+				["AuxTransparency"] = 0.7,
+				["TicketAdjust"] = 1,
+				["AutoHide"] = false,
+				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
+				["VersionShown"] = 1,
+				["TooltipTrans"] = 1,
+				["AuxScreenAdjust"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
+				["BagAdjust"] = 1,
+				["Buttons"] = {
+					"Coords", -- [1]
+					"XP", -- [2]
+					"GoldTracker", -- [3]
+					"Clock", -- [4]
+					"Volume", -- [5]
+					"AutoHide", -- [6]
+					"Bag", -- [7]
+					"AuxAutoHide", -- [8]
+					"Repair", -- [9]
+				},
+				["FrameStrata"] = "DIALOG",
+				["DoubleBar"] = 1,
+				["FontName"] = "Friz Quadrata TT",
+				["ToolTipsShown"] = 1,
+				["DisableTooltipFont"] = 1,
+				["Transparency"] = 0.7,
+				["AuxAutoHide"] = false,
+				["Position"] = 1,
+				["Location"] = {
+					"Bar", -- [1]
+					"Bar", -- [2]
+					"Bar", -- [3]
+					"Bar", -- [4]
+					"Bar", -- [5]
+					"Bar", -- [6]
+					"Bar", -- [7]
+					"AuxBar", -- [8]
+					"Bar", -- [9]
+				},
+				["TooltipFont"] = 1,
+				["MinimapAdjust"] = false,
+				["FontSize"] = 10,
 			},
 		},
 		["Maulh@Icecrown"] = {
@@ -4050,7 +4853,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -4071,8 +4874,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -4087,16 +4890,16 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.7,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 			},
 		},
 		["Lawras@Icecrown"] = {
@@ -4314,10 +5117,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -4328,8 +5131,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Repair", -- [1]
@@ -4343,13 +5146,13 @@ TitanSettings = {
 					"GoldTracker", -- [9]
 					"Bag", -- [10]
 				},
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.5,
-				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -4576,10 +5379,10 @@ TitanSettings = {
 			},
 			["Panel"] = {
 				["HideTipsInCombat"] = false,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["AuxDoubleBar"] = 1,
 				["BothBars"] = false,
@@ -4590,8 +5393,8 @@ TitanSettings = {
 				["VersionShown"] = 1,
 				["TooltipTrans"] = 1,
 				["AuxScreenAdjust"] = false,
-				["FrameStrata"] = "DIALOG",
-				["AuxAutoHide"] = false,
+				["AuxButtonAlign"] = 1,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -4604,13 +5407,13 @@ TitanSettings = {
 					"AuxAutoHide", -- [8]
 					"Repair", -- [9]
 				},
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["DoubleBar"] = 1,
 				["FontName"] = "Friz Quadrata TT",
 				["ToolTipsShown"] = 1,
 				["DisableTooltipFont"] = 1,
 				["Transparency"] = 0.7,
-				["LockButtons"] = false,
+				["AuxAutoHide"] = false,
 				["Position"] = 1,
 				["Location"] = {
 					"Bar", -- [1]
@@ -4860,7 +5663,7 @@ TitanSettings = {
 				["FontSize"] = 10,
 				["ButtonAlign"] = 1,
 				["Scale"] = 1,
-				["ScreenAdjust"] = false,
+				["LogAdjust"] = false,
 				["ButtonSpacing"] = 20,
 				["MinimapAdjust"] = false,
 				["BothBars"] = false,
@@ -4881,8 +5684,8 @@ TitanSettings = {
 				["AuxTransparency"] = 0.7,
 				["TexturePath"] = "Interface\\AddOns\\Titan\\Artwork\\",
 				["AuxScreenAdjust"] = false,
-				["LockButtons"] = false,
 				["AuxAutoHide"] = false,
+				["LockButtons"] = false,
 				["BagAdjust"] = 1,
 				["Buttons"] = {
 					"Coords", -- [1]
@@ -4897,16 +5700,16 @@ TitanSettings = {
 				},
 				["FontName"] = "Friz Quadrata TT",
 				["DoubleBar"] = 1,
-				["FrameStrata"] = "DIALOG",
+				["AuxButtonAlign"] = 1,
 				["DisableTooltipFont"] = 1,
 				["ToolTipsShown"] = 1,
 				["Transparency"] = 0.7,
-				["AuxButtonAlign"] = 1,
+				["FrameStrata"] = "DIALOG",
 				["Position"] = 1,
 				["TicketAdjust"] = 1,
 				["TooltipFont"] = 1,
 				["AuxDoubleBar"] = 1,
-				["LogAdjust"] = false,
+				["ScreenAdjust"] = false,
 			},
 		},
 	},
@@ -5022,14 +5825,16 @@ TitanSkins = {
 	}, -- [21]
 }
 ServerTimeOffsets = {
-	["Icecrown"] = 0,
-	["Lordaeron"] = 0,
-	["Frosthold"] = 0,
 	["Frozen Nexus"] = 0,
+	["Lordaeron"] = 0,
+	["Frostmourne"] = 0,
+	["Icecrown"] = 0,
+	["Frosthold"] = 0,
 }
 ServerHourFormat = {
-	["Icecrown"] = "24H",
-	["Lordaeron"] = "12H",
-	["Frosthold"] = "12H",
 	["Frozen Nexus"] = "12H",
+	["Lordaeron"] = "12H",
+	["Frostmourne"] = "12H",
+	["Icecrown"] = "24H",
+	["Frosthold"] = "12H",
 }

@@ -1,7 +1,7 @@
 
 QuestHelper_Pref = {
 	["arrow_textsize"] = 1.1,
-	["submit_nag_next_time"] = 1586626263,
+	["submit_nag_next_time"] = 1588632227.022431,
 	["arrow"] = false,
 	["arrow_locked"] = false,
 	["track_minimized"] = false,
@@ -10,11 +10,11 @@ QuestHelper_Pref = {
 	["solo"] = false,
 	["metric"] = true,
 	["filter_done"] = false,
-	["submit_nag_type"] = "ON",
+	["submit_nag_type"] = "OFF",
 	["hide"] = false,
 }
 QuestHelper_UID = "eMhjQBsSfX9P49AMMmZR568CIdIv0roR"
-QuestHelper_SaveDate = 1586453430
+QuestHelper_SaveDate = 1587120352
 QuestHelper_Errors = {
 	["version"] = 1,
 	["crash"] = {
@@ -4746,54 +4746,104 @@ QuestHelper_Errors = {
 			["toc_version"] = "1.4.1",
 			["message"] = "Assertion Failed",
 			["silent"] = false,
-			["locale"] = "enUS",
 			["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  CLCRet\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  Enchantrix, v5.8.4723\n  EnchantrixBarker, v5.8.4723 (CreepyKangaroo)\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  OverachieverTabs, v0.56\n  Pawn, v1.3.8\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
 			["stack"] = "Interface\\AddOns\\QuestHelper\\utility.lua:347: in function `Assert'\nInterface\\AddOns\\QuestHelper\\collect_flight.lua:55: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
-			["local_version"] = "1.4.1",
 			["timestamp"] = "2020-04-09 19:30:57",
+			["local_version"] = "1.4.1",
+			["locale"] = "enUS",
 		}, -- [402]
 		{
 			["game_version"] = "3.3.5",
 			["toc_version"] = "1.4.1",
 			["message"] = "Interface\\AddOns\\QuestHelper\\utility.lua:126: Abort!",
 			["silent"] = false,
-			["locale"] = "enUS",
 			["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  CLCRet\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  Enchantrix, v5.8.4723\n  EnchantrixBarker, v5.8.4723 (CreepyKangaroo)\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  OverachieverTabs, v0.56\n  Pawn, v1.3.8\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
 			["stack"] = "[C]: ?\n[C]: in function `error'\nInterface\\AddOns\\QuestHelper\\utility.lua:126: in function `Error'\nInterface\\AddOns\\QuestHelper\\utility.lua:347: in function `Assert'\nInterface\\AddOns\\QuestHelper\\collect_flight.lua:55: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
-			["local_version"] = "1.4.1",
 			["timestamp"] = "2020-04-09 19:30:57",
+			["local_version"] = "1.4.1",
+			["locale"] = "enUS",
 		}, -- [403]
+		{
+			["game_version"] = "3.3.5",
+			["toc_version"] = "1.4.1",
+			["message"] = "Interface\\AddOns\\QuestHelper\\collect_loot.lua:54: table index is nil",
+			["locale"] = "enUS",
+			["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucScanData, v1.3\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoDestroy, v1.08\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DataStore\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  MageNuggets, v1.86\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  Pawn, v1.3.8\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartMount, vv3.3-112\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TimeToDie, v1.89\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsBlessings, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
+			["timestamp"] = "2020-04-16 00:26:58",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\QuestHelper\\collect_loot.lua:54: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
+			["local_version"] = "1.4.1",
+			["silent"] = false,
+		}, -- [404]
+		{
+			["game_version"] = "3.3.5",
+			["toc_version"] = "1.4.1",
+			["message"] = "Interface\\AddOns\\QuestHelper\\collect_loot.lua:54: table index is nil",
+			["silent"] = false,
+			["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucScanData, v1.3\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoDestroy, v1.08\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DataStore\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LightHeadedDataA, v306\n  LightHeadedDataB, v306\n  LightHeadedDataC, v306\n  LightHeadedDataQIDNames, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  MageNuggets, v1.86\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  OverachieverTabs, v0.56\n  Pawn, v1.3.8\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartMount, vv3.3-112\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  Talented, vv2.4.6c-release\n  TalentedInspect, vv3.0.2-release\n  TalentedSpecTabs, vv2.4.6c-release\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TimeToDie, v1.89\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlCustomHighlight\n  XPerlOptions\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsBlessings, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsBlessingsPP, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\QuestHelper\\collect_loot.lua:54: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
+			["timestamp"] = "2020-04-16 01:33:50",
+			["local_version"] = "1.4.1",
+			["locale"] = "enUS",
+		}, -- [405]
+		{
+			["game_version"] = "3.3.5",
+			["toc_version"] = "1.4.1",
+			["next_loud"] = {
+				["game_version"] = "3.3.5",
+				["toc_version"] = "1.4.1",
+				["message"] = "Interface\\AddOns\\QuestHelper\\collect_loot.lua:54: table index is nil",
+				["silent"] = false,
+				["locale"] = "enUS",
+				["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  AckisRecipeList, vDevel\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucScanData, v1.3\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoDestroy, v1.08\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DataStore\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LightHeadedDataB, v306\n  LightHeadedDataC, v306\n  LightHeadedDataE, v306\n  LightHeadedDataQIDNames, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  MageNuggets, v1.86\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  OverachieverTabs, v0.56\n  OverachieverTrade, v0.56\n  Pawn, v1.3.8\n  Postal, v3.3.2\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartMount, vv3.3-112\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  Talented, vv2.4.6c-release\n  TalentedInspect, vv3.0.2-release\n  TalentedSpecTabs, vv2.4.6c-release\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TimeToDie, v1.89\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlCustomHighlight\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsBlessings, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
+				["stack"] = "[C]: ?\nInterface\\AddOns\\QuestHelper\\collect_loot.lua:54: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
+				["local_version"] = "1.4.1",
+				["timestamp"] = "2020-04-17 14:14:00",
+			},
+			["message"] = "Too many stored objectives (14352 0 1)",
+			["silent"] = true,
+			["locale"] = "enUS",
+			["addons"] = "",
+			["stack"] = "Interface\\AddOns\\QuestHelper\\director_quest.lua:734: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
+			["local_version"] = "1.4.1",
+			["timestamp"] = "2020-04-17 13:52:43",
+		}, -- [406]
+		{
+			["game_version"] = "3.3.5",
+			["toc_version"] = "1.4.1",
+			["message"] = "Interface\\AddOns\\QuestHelper\\collect_loot.lua:54: table index is nil",
+			["silent"] = false,
+			["locale"] = "enUS",
+			["addons"] = "  NPCScan, v3.3.5.5\n  Ace, v1.4\n  AckisRecipeList, vDevel\n  ACP, v3.2.0.118 \n  AddonLoader, v2.0\n  AdvancedTradeSkillWindow\n  AllStats, v1.1\n  Armory, vv8.2.8\n  ArmoryGuildBank, vv8.2.8\n  Atlas, v1.17.0\n  AtlasBattlegrounds, v1.17.0\n  AtlasDungeonLocs, v1.17.0\n  AtlasOutdoorRaids, v1.17.0\n  AtlasTransportation, v1.17.0\n  AtlasLoot, v|cffFF8400AtlasLoot Enhanced v5.11.04|r\n  AtlasLootFu, vv5.11.04\n  AtlasQuest, v|cff0070ddAtlasQuest 4.4.3\n  AucAdvanced, v5.8.4723\n  AucFilterBasic, v5.8.4723 (CreepyKangaroo)\n  AucScanData, v1.3\n  AucStatHistogram, v5.8.4723 (CreepyKangaroo)\n  AucStatiLevel, v5.8.4723 (CreepyKangaroo)\n  AucStatPurchased, v5.8.4723 (CreepyKangaroo)\n  AucStatSimple, v5.8.4723 (CreepyKangaroo)\n  AucStatStdDev, v5.8.4723 (CreepyKangaroo)\n  AucUtilFixAH, v5.8.4723 (CreepyKangaroo)\n  Auctionator, v2.6.3\n  AutoDestroy, v1.08\n  AutoCrusaderAura, v0.1\n  AutoRepair\n  AutoRes, v3\n  BadBoy, v6.012\n  CantHealYou, v3.12\n  Carbonite, v3.34\n  CarboniteTransfer, v1.01\n  Chatter, v1.0\n  Clique, vSVN\n  CloseUp, v5.0.001\n  Collectinator, v1.0.4\n  ConfirmLootRoll\n  CooldownCount, v3.0\n  Cooldowns\n  CrapAway\n  DataStore\n  DrDamage, v1.7.8_release\n  EasyLoot, v3.3.1\n  EventAlert, v4.3.6\n  Fatality, v1.1.4\n  FishingAce, v0.4.5j\n  Gatherer, v3.1.16\n  GearScoreLite, v3x04\n  Grid, v1.30300.1308\n  GridIndicatorCornerIcons, v30300-5\n  GridIndicatorSideIcons, v30300-5\n  HandyNotes, v1.1.5\n  HoloFriends, v0.453\n  Informant, v5.8.4723\n  InspectEquip, v1.7.7\n  Ace2\n  LibGroupTalents10, v$Rev: 51 $\n  LightHeaded, v306\n  LightHeadedDataB, v306\n  LightHeadedDataC, v306\n  LightHeadedDataE, v306\n  LightHeadedDataQIDNames, v306\n  LootHog, v3.3.3\n  LootRolls, v0.97\n  MageNuggets, v1.86\n  Mapster, v1.3.9\n  MikScrollingBattleText, v5.4.78\n  MoveAnything, v11.b2\n  Omen, v3.0.9\n  Overachiever, v0.56\n  OverachieverTabs, v0.56\n  OverachieverTrade, v0.56\n  Pawn, v1.3.8\n  Postal, v3.3.2\n  PowerAuras, v3.0.0S\n  Quartz, v3.0.3.1\n  QuestReward, v1.2\n  QuestHelper, v1.4.1\n  RaidBrowser, vv1.2.1\n  RankWatch, vv1.11\n  RatingBuster, v1.5.0 (r286)\n  ReagentRestocker, v8.1\n  Recount, v1143\n  SharedMedia, v3.0.1-177\n  SlideBar, v5.8.4723 (CreepyKangaroo)\n  SmartMount, vv3.3-112\n  SmartRes2, vRelease 1.00\n  Stubby, v130\n  Swatter, v5.8.4723\n  Talented, vv2.4.6c-release\n  TalentedInspect, vv3.0.2-release\n  TalentedSpecTabs, vv2.4.6c-release\n  TBag, v20101006-381\n  TidyPlates, v5.13.3 (R39)\n  TidyPlatesGrey\n  TidyPlatesNeon\n  TimeToDie, v1.89\n  TipTac, v10.05.01\n  TipTacItemRef, v10.02.27\n  TipTacTalents, v10.02.27\n  TitanAmmo, v4.3.8.30300\n  TitanBag, v4.3.8.30300\n  TitanClock, v4.3.8.30300\n  TitanCoords, v4.3.8.30300\n  TitanGoldTracker, v4.3.8.30300\n  TitanLootType, v4.3.8.30300\n  TitanPerformance, v4.3.8.30300\n  TitanRegen, v4.3.8.30300\n  TitanRepair, v4.3.8.30300\n  TitanVolume, v4.3.8.30300\n  TitanXP, v4.3.8.30300\n  Titan, v4.3.8.30300\n  TomTom, vSVN\n  Volumizer, v4.0.1-1.2.4\n  WarmaneAHfix, v1.5\n  XPerl, v3.1.0 Beta 1\n  XPerlArcaneBar\n  XPerlCustomHighlight\n  XPerlPartyPet\n  XPerlParty\n  XPerlPlayerBuffs\n  XPerlPlayerPet\n  XPerlPlayer\n  XPerlRaidAdmin\n  XPerlRaidHelper\n  XPerlRaidPets\n  XPerlRaidFrames\n  XPerlTargetTarget\n  XPerlTarget\n  XLoot, v0.91.1\n  ZOMGBuffs, v152\n  ZOMGBuffsBlessingsManager, v$Revision: 141 $\n  ZOMGBuffsBlessings, v$Revision: 141 $\n  ZOMGBuffsLog, v$Revision: 141 $\n  ZOMGBuffsPortalz, v$Revision: 141 $\n  ZOMGBuffsBuffTehRaid, v$Revision: 141 $\n  ZOMGBuffsSelfBuffs, v$Revision: 141 $\n  DBMCore\n  DBMBurningCrusade\n  ZygorGuidesViewer, v2.0.1196\n",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\QuestHelper\\collect_loot.lua:54: in function `func'\nInterface\\AddOns\\QuestHelper\\manager_event.lua:43: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:25>\nInterface\\AddOns\\QuestHelper\\manager_event.lua:58: in function <Interface\\AddOns\\QuestHelper\\manager_event.lua:52>\n",
+			["local_version"] = "1.4.1",
+			["timestamp"] = "2020-04-17 14:14:00",
+		}, -- [407]
 	},
 }
 QuestHelper_Collector = {
 	["1.4.1 on 3.3.5/enUS/2"] = {
 		["monster"] = {
-			[121] = {
-				"\000Ô∑Ø\000Vak\000\000\n\0007r±\000‹l\000ˇ\000\000 ˇe\000aëı\000ˇ\000\000 ˇe\000aëı\000ˇ", -- [1]
-				"\000ßÚ∂\000>yp\000", -- [2]
-				["reaction_5"] = 3,
-				["reaction_4"] = 2,
+			[120] = {
+				"\000'°Ø\000xπk\000\000å©Ø\000¯òk\000\000{¸≥\000”Ωl\000\000\nPu\000.u=\000ˇ", -- [1]
+				"\000äˇ∂\000ÖÑp\000\000-¶≥\000º˚n\000", -- [2]
+				["name_Kor'kron Reaver"] = 5,
+				["reaction_5"] = 6,
+				["name_Catalina Landon"] = 1,
 				["level_80"] = 3,
-				["chat_talk"] = 3,
-				["name_Heroic Training Dummy"] = 1,
-				["name_Grandmaster's Training Dummy"] = 1,
-				["name_Sky-Reaver Klum"] = 2,
-				["name_Officer Van Rossem"] = 1,
-				["level_-1"] = 1,
-			},
-			[37] = {
-				"\0003]°\000Âîa\000ˇ\000€@ú\000Û#t\000\n", -- [1]
-				["reaction_5"] = 1,
-				["reaction_4"] = 1,
-				["name_Grimble"] = 1,
-				["name_Brann Bronzebeard"] = 1,
 				["chat_talk"] = 1,
 				["level_-1"] = 1,
 			},
-			[138] = {
-				"\000ÁG∫\000L2>\000ˇ", -- [1]
-				["reaction_2"] = 1,
-				["name_Icehowl"] = 1,
+			[121] = {
+				"\000Ô∑Ø\000Vak\000\000\n\0007r±\000‹l\000ˇ\000\000 ˇe\000aëı\000ˇ\000\000 ˇe\000aëı\000ˇ\000ßÚ∂\000>yp\000\000Ω1”\000`J[\000\000_˘“\000\\¡\\\000\000Â”\000«˝U\000", -- [1]
+				["reaction_5"] = 3,
+				["reaction_4"] = 5,
+				["level_80"] = 5,
+				["chat_talk"] = 3,
+				["name_Heroic Training Dummy"] = 2,
+				["name_Grandmaster's Training Dummy"] = 3,
+				["name_Sky-Reaver Klum"] = 2,
+				["name_Officer Van Rossem"] = 1,
+				["level_-1"] = 2,
 			},
 			[122] = {
 				"\000÷∞\000eq\000\n\000Ä∫\000x$t\000", -- [1]
@@ -4803,92 +4853,12 @@ QuestHelper_Collector = {
 				["chat_talk"] = 2,
 				["level_78"] = 1,
 			},
-			[75] = {
-				"\000Ïrú\000=@å\000\000\n", -- [1]
-				["name_Red Hawkstrider"] = 1,
-				["level_70"] = 1,
-				["reaction_5"] = 1,
-			},
-			[359] = {
-				"\000\000¥»e\000*ı\000ˇ", -- [1]
-				["name_Knindza"] = 1,
-				["reaction_5"] = 1,
-				["chat_talk"] = 1,
-				["level_-1"] = 1,
-			},
-			[2350] = {
-				"\000ˇNa\000»Û5\000\000\n\000q~z\000hs\000ˇ\000\000Vf\000ÅŒı\000\000\000Áúe\000Ñ∏ı\000\000\n", -- [1]
-				["shop_42984@@1@@-1@@100"] = 9,
-				["shop_44096@@1@@-1@@100"] = 9,
-				["shop_42992@@1@@-1@@100"] = 9,
-				["shop_48689@@1@@-1@@100"] = 9,
-				["chat_shop"] = 11,
-				["shop_44094@@1@@-1@@100"] = 9,
-				["shop_44105@@1@@-1@@100"] = 9,
-				["shop_42950@@1@@-1@@100"] = 9,
-				["shop_44092@@1@@-1@@100"] = 9,
-				["shop_44102@@1@@-1@@100"] = 9,
-				["shop_42943@@1@@-1@@100"] = 9,
-				["shop_44091@@1@@-1@@100"] = 9,
-				["shop_44100@@1@@-1@@100"] = 9,
-				["name_Karlee Sweet"] = 2,
-				["reaction_5"] = 4,
-				["name_Sirina Warmluck"] = 2,
-				["shop_42944@@1@@-1@@100"] = 9,
-				["shop_44101@@1@@-1@@100"] = 9,
-				["level_80"] = 3,
-				["shop_42946@@1@@-1@@100"] = 9,
-				["shop_42985@@1@@-1@@100"] = 9,
-				["shop_44663@@1@@-1@@1000000"] = 2,
-				["shop_22026@@1@@-1@@0"] = 9,
-				["shop_48691@@1@@-1@@100"] = 9,
-				["shop_44107@@1@@-1@@100"] = 9,
-				["shop_44099@@1@@-1@@100"] = 9,
-				["shop_48716@@1@@-1@@100"] = 9,
-				["shop_42952@@1@@-1@@100"] = 9,
-				["shop_42948@@1@@-1@@100"] = 9,
-				["shop_42949@@1@@-1@@100"] = 9,
-				["shop_48677@@1@@-1@@100"] = 9,
-				["shop_44095@@1@@-1@@100"] = 9,
-				["shop_50255@@1@@-1@@100"] = 9,
-				["shop_42945@@1@@-1@@100"] = 9,
-				["shop_42951@@1@@-1@@100"] = 9,
-				["shop_48683@@1@@-1@@100"] = 9,
-				["shop_48687@@1@@-1@@100"] = 9,
-				["shop_48685@@1@@-1@@100"] = 9,
-				["shop_44093@@1@@-1@@100"] = 9,
-				["shop_42947@@1@@-1@@100"] = 9,
-				["shop_42991@@1@@-1@@100"] = 9,
-				["shop_40752@@1@@-1@@0"] = 2,
-				["shop_44103@@1@@-1@@100"] = 9,
-				["shop_44097@@1@@-1@@100"] = 9,
-				["shop_48718@@1@@-1@@100"] = 9,
-			},
 			[123] = {
 				"\000°Xß\000àƒS\000\000\n", -- [1]
 				["level_75"] = 1,
 				["chat_talk"] = 1,
 				["reaction_4"] = 1,
 				["name_Uda the Beast"] = 1,
-			},
-			[214] = {
-				"\000\000Öáe\000&µı\000", -- [1]
-				["name_Caylia Sunburst"] = 1,
-				["reaction_5"] = 1,
-				["chat_talk"] = 4,
-				["level_80"] = 1,
-			},
-			[46] = {
-				"\000\000Ì©e\000úvı\000\000\n", -- [1]
-				["chat_talk"] = 1,
-				["reaction_5"] = 1,
-				["name_Woo Ping"] = 1,
-				["level_50"] = 1,
-			},
-			[54] = {
-				"\000xŸ\000Fˇ∂\000\000\n", -- [1]
-				["reaction_4"] = 1,
-				["name_Frostwolf Ambassador Rokhstrom"] = 1,
 			},
 			[124] = {
 				"\000Ω¶\000À…S\000\000\n\000°Xß\000àƒS\000\000\n", -- [1]
@@ -4899,35 +4869,6 @@ QuestHelper_Collector = {
 				["name_Stabled Hunter Pet"] = 1,
 				["name_Nargut"] = 1,
 				["reaction_4"] = 2,
-			},
-			[77] = {
-				"\000˝ë\000\r°Ñ\000ˇ", -- [1]
-				["reaction_5"] = 1,
-				["level_25"] = 1,
-				["name_Jero'me"] = 1,
-			},
-			[131] = {
-				"\000Œ∫\000;\000\000 ˝∫\000¥÷:\000\000Nπ\000¬:\000\000±Aπ\000¶;\000\000n-π\000˘G;\000\000\n\000ﬂ9π\000ì;\000\000\n\000ÁG∫\000L2>\000ˇ\000ÁG∫\000L2>\000", -- [1]
-				"\000ÁG∫\000L2>\000\000ÁG∫\000L2>\000", -- [2]
-				"\000ÁG∫\000L2>\000", -- [3]
-				["reaction_5"] = 5,
-				["reaction_4"] = 4,
-				["reaction_1"] = 2,
-				["chat_talk"] = 2,
-				["name_Darnassus Valiant"] = 2,
-				["name_Thunder Bluff Champion"] = 1,
-				["name_Argent Peacekeeper"] = 4,
-				["name_Gnomeregan Champion"] = 2,
-				["name_Silvermoon Champion"] = 2,
-			},
-			[140] = {
-				"\000›π\000y:\000\000◊Õ∫\000Vµ:\000ˇ", -- [1]
-				"\000ìÃ∫\000<¥:\000ˇ", -- [2]
-				["reaction_2"] = 2,
-				["name_Fjola Lightbane"] = 1,
-				["reaction_4"] = 1,
-				["name_Eydis Darkbane"] = 1,
-				["name_Sunreaver Dragonhawk"] = 1,
 			},
 			[125] = {
 				"\000P‡ß\000càS\000ˇ\000\000πe\000Õ◊ı\000\000\n", -- [1]
@@ -4953,31 +4894,6 @@ QuestHelper_Collector = {
 				["reaction_5"] = 1,
 				["reaction_4"] = 2,
 				["shop_25474@@1@@-1@@500000"] = 1,
-			},
-			[78] = {
-				"\000Ïrú\000=@å\000\000\n\000Ïrú\000=@å\000\000\n", -- [1]
-				"\000Ïrú\000=@å\000\000\n", -- [2]
-				["level_70"] = 3,
-				["name_Purple Hawkstrider"] = 1,
-				["name_Black Hawkstrider"] = 1,
-				["reaction_5"] = 3,
-				["name_Blue Hawkstrider"] = 1,
-			},
-			[130] = {
-				"\000\000Îòe\000’2ı\000\000\000ôe\000ò3ı\000", -- [1]
-				"\000	∫\000ƒ;\000\000\n", -- [2]
-				["reaction_5"] = 2,
-				["name_\"Spectral Tiger\""] = 2,
-				["name_Gnomeregan Valiant"] = 1,
-				["level_1"] = 2,
-				["reaction_1"] = 1,
-			},
-			[110] = {
-				"\000π´¨\000}îm\000\n\000qK∏\000ÛÙt\000ˇ", -- [1]
-				["chat_talk"] = 1,
-				["level_80"] = 1,
-				["reaction_4"] = 2,
-				["name_Archmage Pentarus"] = 2,
 			},
 			[126] = {
 				"\000X®\000•|S\000\000\n	åt\000¶`I\000ˇ\000\nI¡s\000õtH\000ˇ\000\n„q\000C˝G\000\000\n\000\nÊXr\000|ÀG\000ˇ\000\n{ƒs\000gE\000\000\né∏s\000ÌXE\000\000\n9Üs\000¸èF\000\000\n", -- [1]
@@ -5010,89 +4926,30 @@ QuestHelper_Collector = {
 				["shop_41586@@200@@-1@@3000"] = 1,
 				["shop_28056@@200@@-1@@3000"] = 1,
 				["shop_38426@@1@@-1@@30000"] = 1,
-				["name_Chester Copperpot"] = 1,
-				["shop_29014@@1@@-1@@800"] = 1,
-				["shop_35948@@5@@-1@@16000"] = 1,
 				["shop_6532@@1@@-1@@500"] = 1,
+				["shop_29014@@1@@-1@@800"] = 1,
+				["name_Chester Copperpot"] = 1,
+				["shop_35948@@5@@-1@@16000"] = 1,
 				["shop_35949@@5@@-1@@8500"] = 1,
-			},
-			[150] = {
-				"\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000", -- [1]
-				"\000\nGùv\000o=\000\000\nGùv\000o=\000\000\n", -- [2]
-				["name_Argent Crusader"] = 2,
-				["level_81"] = 6,
-				["reaction_4"] = 6,
-				["name_Knight of the Ebon Blade"] = 4,
-			},
-			[63] = {
-				"\000¸›t\000„ÍM\000\000\n\000X@é\000wÖ\000ˇ\000Jú\000∑å\000ˇ\000Ïrú\000=@å\000\000\n\000≈Ôê\000\nhÄ\000\000√Ìê\000∆¸\000\000Có∂\000π‹\000\n\000º+z\000?yu\000", -- [1]
-				"\000o‘{\000ß˚u\000\000\n\000≠Ú{\000·u\000\000\n\000o&|\000=‘u\000\000\n\000ô¸{\0001ïv\000\000\n", -- [2]
-				["reaction_5"] = 12,
-				["level_75"] = 3,
-				["name_Silvermoon City Guardian"] = 3,
-				["name_Winaestra"] = 1,
-				["level_12"] = 3,
-				["level_15"] = 2,
-				["name_Perascamin"] = 1,
-				["name_Silvermoon Guardian"] = 1,
-				["name_Skymaster Sunwing"] = 1,
-				["chat_talk"] = 5,
-				["level_11"] = 1,
-				["name_Geron"] = 1,
-				["name_Noellene"] = 1,
-				["name_Telenus"] = 1,
-				["name_Farsil"] = 1,
-				["level_13"] = 1,
-				["name_Hannovia"] = 1,
-			},
-			[66] = {
-				"\000D2{\000ﬂFv\000\000\n\000o‘{\000ß˚u\000\000\n", -- [1]
-				["reaction_5"] = 2,
-				["name_Novice Ranger"] = 1,
-				["name_Duelist Larenis"] = 1,
-				["level_30"] = 1,
-				["chat_talk"] = 1,
-				["level_7"] = 1,
 			},
 			[127] = {
 				"\000Va≠\000ß o\000\n\000˚”ç\000Kh\000\000\n\000Ût\000¢‘j\000ˇ\0009µt\000ü(l\000ˇ\000?≤\000Wüh\000\000°Ú™\000∫l\000\000\n\000∏∑™\000ú@o\000\000‘∫\000ßÒt\000ˇ", -- [1]
-				"\000Èü∂\000ZËq\000\000\n\000ü∂\000§ˇw\000", -- [2]
+				"\000Èü∂\000ZËq\000\000\n\000ü∂\000§ˇw\000\000˝”\000Òú]\000\000\n\000Uö“\000•∫d\000\000\n", -- [2]
+				"\000tÛ‰\000vëZ\000ˇ", -- [3]
 				["name_Adorean Lew"] = 1,
 				["name_Dalaran Visitor"] = 6,
-				["level_80"] = 4,
-				["name_Darthalia Ebonscorch"] = 1,
-				["name_Arcanist Alec"] = 1,
-				["level_77"] = 1,
-				["level_79"] = 2,
 				["name_Bitty Frostflinger"] = 1,
-				["reaction_4"] = 10,
+				["level_80"] = 4,
+				["reaction_4"] = 13,
+				["name_Arcanist Alec"] = 1,
+				["level_60"] = 1,
+				["level_70"] = 1,
+				["name_Darthalia Ebonscorch"] = 1,
+				["level_77"] = 1,
+				["name_Expert's Training Dummy"] = 1,
+				["level_79"] = 2,
+				["name_Master's Training Dummy"] = 2,
 				["level_74"] = 1,
-			},
-			[0] = {
-				"\000\000{ae\000˚àı\000\000\n", -- [1]
-				["name_Gozart Fasthead"] = 1,
-				["level_-1"] = 1,
-				["chat_talk"] = 1,
-				["reaction_5"] = 1,
-			},
-			[61] = {
-				"\000ÍÍå\000RîÑ\000ˇ\000è\000(QÜ\000ˇ\000ïÁê\000™ƒá\000\n\000ú\000OΩã\000ˇ", -- [1]
-				"\0000\\l\000f]\000ˇ\000|Gy\000⁄„u\000ˇ", -- [2]
-				["reaction_2"] = 3,
-				["reaction_4"] = 3,
-				["level_7"] = 1,
-				["level_5"] = 2,
-				["name_Wretched Urchin"] = 2,
-				["name_Springpaw Stalker"] = 1,
-				["name_Feral Dragonhawk Hatchling"] = 3,
-			},
-			[112] = {
-				"\000õ∑\000®0s\000\000\n\000/˙∑\000O\000s\000\000\n", -- [1]
-				"\000,∂\000ˇx\000\n", -- [2]
-				["level_75"] = 1,
-				["chat_talk"] = 3,
-				["name_Aludane Whitecloud"] = 3,
-				["reaction_4"] = 3,
 			},
 			[129] = {
 				"\000\000Lﬁe\000·ı\000\000\n", -- [1]
@@ -5100,166 +4957,317 @@ QuestHelper_Collector = {
 				["level_-1"] = 1,
 				["reaction_5"] = 1,
 			},
-			[120] = {
-				"\000'°Ø\000xπk\000\000å©Ø\000¯òk\000\000{¸≥\000”Ωl\000\000\nPu\000.u=\000ˇ", -- [1]
-				"\000äˇ∂\000ÖÑp\000\000-¶≥\000º˚n\000", -- [2]
-				["name_Kor'kron Reaver"] = 5,
-				["reaction_5"] = 6,
-				["name_Catalina Landon"] = 1,
-				["level_80"] = 3,
-				["chat_talk"] = 1,
-				["level_-1"] = 1,
-			},
-			[24] = {
-				"\000d¿d\000ù÷3\000\000\n\000xd\000UÙ4\000", -- [1]
-				"\000˜d\000xû4\000", -- [2]
-				["name_Cat"] = 3,
-				["reaction_4"] = 3,
-			},
-			[113] = {
-				"\000\n*∫t\000Õœ=\000ˇ", -- [1]
-				["shop_40035@@1@@-1@@50"] = 1,
-				["shop_33444@@5@@-1@@8500"] = 1,
-				["name_Arille Azuregaze"] = 1,
-				["level_75"] = 1,
-				["shop_35954@@5@@-1@@6000"] = 1,
-				["chat_shop"] = 1,
-				["shop_40042@@1@@-1@@1500"] = 1,
-				["shop_40036@@1@@-1@@150"] = 1,
-				["shop_33445@@5@@-1@@11000"] = 1,
-				["reaction_4"] = 1,
-			},
-			[33] = {
-				"\000Êh|\000Ú∂w\000\000\nˆôv\000uR?\000\000\n", -- [1]
-				["name_Magni Bronzebeard"] = 1,
-				["reaction_5"] = 1,
-				["reaction_4"] = 1,
-				["name_Auctioneer Thathung"] = 1,
-				["level_-1"] = 1,
-				["chat_talk"] = 3,
-				["level_50"] = 1,
-			},
-			[2558] = {
-				"\000\000“íe\000TQı\000", -- [1]
-				["reaction_5"] = 1,
-				["name_Darriel Tinderblood"] = 1,
-				["level_80"] = 1,
-			},
-			[132] = {
-				"\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000", -- [1]
-				"\000Ûπ\000óP:\000\000\n\000B`∫\000ìπ:\000", -- [2]
-				"\000«€π\000m1:\000", -- [3]
-				["name_Thomas Partridge"] = 1,
-				["reaction_5"] = 6,
-				["reaction_4"] = 1,
-				["name_Stabled Orgrimmar Wolf"] = 1,
-				["shop_45674@@1@@-1@@250000"] = 1,
-				["shop_45672@@1@@-1@@250000"] = 1,
+			[131] = {
+				"\000Œ∫\000;\000\000 ˝∫\000¥÷:\000\000Nπ\000¬:\000\000±Aπ\000¶;\000\000n-π\000˘G;\000\000\n\000ﬂ9π\000ì;\000\000\n\000ÁG∫\000L2>\000ˇ\000ÁG∫\000L2>\000", -- [1]
+				"\000ÁG∫\000L2>\000\000ÁG∫\000L2>\000", -- [2]
+				"\000ÁG∫\000L2>\000", -- [3]
+				["reaction_5"] = 5,
+				["reaction_4"] = 4,
+				["reaction_1"] = 2,
 				["chat_talk"] = 2,
-				["name_Helidan Lightwing"] = 1,
-				["name_Broxel Goldgrasp"] = 1,
-				["shop_45664@@1@@-1@@250000"] = 1,
-				["shop_45669@@1@@-1@@250000"] = 1,
-				["chat_shop"] = 1,
-				["shop_45673@@1@@-1@@250000"] = 1,
-				["name_Stabled Argent Warhorse"] = 1,
-				["name_Stabled Quel'dorei Steed"] = 1,
-				["name_Stabled Sunreaver Hawkstrider"] = 1,
-			},
-			[114] = {
-				"\000Ëú\000WS\000\000Sßå\000Ï~_\000\000\n\000\nì¨t\000tt>\000ˇ\000\n∏£t\000zb>\000ˇ\000\nÌœs\0000=\000\000\nVör\0005÷<\000ˇ\000\nG4r\000˙Ω<\000ˇ\000\nÆ\rq\000\n±=\000", -- [1]
-				["reaction_4"] = 2,
-				["level_78"] = 2,
-				["loot_loot"] = {
-					[43852] = 1,
-					[42780] = 2,
-					[37097] = 1,
-					["gold"] = 17740,
-				},
-				["level_80"] = 2,
-				["name_Stormforged Raider"] = 6,
-				["kills"] = 4,
-				["name_Sunreaver Guardian Mage"] = 2,
-				["level_79"] = 4,
-				["loot_count"] = 4,
-				["reaction_2"] = 6,
+				["name_Darnassus Valiant"] = 2,
+				["name_Thunder Bluff Champion"] = 1,
+				["name_Argent Peacekeeper"] = 4,
+				["name_Gnomeregan Champion"] = 2,
+				["name_Silvermoon Champion"] = 2,
 			},
 			[133] = {
 				"\000ôê∂\000pVt\000\000x,∏\000aƒx\000\000\n", -- [1]
 				"\000≈ò¥\000+x\000\000\n", -- [2]
-				["chat_talk"] = 1,
-				["level_80"] = 1,
 				["name_Jean Pierre Poulain"] = 3,
+				["level_80"] = 1,
 				["reaction_4"] = 3,
-			},
-			[390] = {
-				"\000\000ä•e\000tÅı\000\000\n", -- [1]
-				["name_Kristofer Royal"] = 1,
-				["level_-1"] = 1,
 				["chat_talk"] = 1,
+			},
+			[273] = {
+				"\000\000 ˇe\000aëı\000ˇ", -- [1]
 				["reaction_5"] = 1,
+				["level_80"] = 1,
+				["name_Dobbs Hartford"] = 1,
 			},
 			[8] = {
-				"\000\nì¨t\000tt>\000ˇ", -- [1]
-				["reaction_5"] = 1,
+				"\000\nì¨t\000tt>\000ˇ\000¸Ìt\000î>l\000\000\n\000æ&q\000€Âi\000\000s©t\000ÊBl\000\000\n", -- [1]
+				["level_65"] = 1,
+				["reaction_5"] = 4,
 				["name_Steam Tank"] = 1,
+				["name_Karos Razok"] = 2,
+				["name_Shadow Priest Allister"] = 1,
+				["chat_quest"] = 1,
+				["chat_talk"] = 1,
 				["level_80"] = 1,
 			},
-			[115] = {
-				"\000\nÄAl\000‚f“\000ˇ\000\nßor\000Ã<\000", -- [1]
-				"\000\n.q\000∫=\000", -- [2]
-				["reaction_2"] = 1,
+			[143] = {
+				"\000Âıß\0007ÅS\000ˇ", -- [1]
+				["level_80"] = 1,
+				["reaction_4"] = 1,
+				["name_Magister Hathorel"] = 1,
+			},
+			[37] = {
+				"\0003]°\000Âîa\000ˇ\000€@ú\000Û#t\000\n", -- [1]
+				"\000æjú\000Ø“ñ\000", -- [2]
+				["name_Zapetta"] = 1,
+				["level_-1"] = 1,
+				["reaction_4"] = 1,
+				["level_45"] = 1,
+				["name_Grimble"] = 1,
 				["reaction_5"] = 2,
-				["name_Earthen Defender"] = 2,
-				["level_77"] = 1,
-				["level_79"] = 2,
-				["name_Snowblind Follower"] = 1,
+				["chat_talk"] = 1,
+				["name_Brann Bronzebeard"] = 1,
 			},
-			[34] = {
-				"\0006é\000G¶\000\000\n\0004\r{\000^{\000\000\n", -- [1]
-				"\000\000Ä¬e\000?ˆ\000ˇ", -- [2]
+			[38] = {
+				"\000~Ïo\000l\\i\000", -- [1]
+				["name_Sarah Goode"] = 1,
 				["reaction_5"] = 1,
-				["name_Auctioneer Wabang"] = 1,
-				["reaction_1"] = 2,
-				["level_50"] = 2,
-				["name_Auctioneer Fitch"] = 2,
 			},
-			[116] = {
-				"\000\n„q\000C˝G\000\000\n", -- [1]
-				["name_Shavalius the Fancy"] = 1,
-				["level_80"] = 1,
+			[742] = {
+				"\000Ì0a\000 ı5\000\000úR\000≥˚∑\000\000\n\000K∞\000Ç⁄l\000ˇ\000\000˛òe\000;3ı\000", -- [1]
+				"\000\000p~e\000Äı\000\000qK∏\000ÛÙt\000ˇ", -- [2]
+				["reaction_5"] = 6,
+				["name_Velenren Silentbane"] = 5,
+				["level_-1"] = 3,
+				["chat_talk"] = 17,
+				["name_Warpweaver"] = 1,
+			},
+			[46] = {
+				"\000\000Ì©e\000úvı\000\000\n", -- [1]
+				["chat_talk"] = 1,
 				["reaction_5"] = 1,
+				["name_Woo Ping"] = 1,
+				["level_50"] = 1,
+			},
+			[11] = {
+				"2n\000·i\000\000\n2n\000·i\0002n\000·i\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000`€ö\000÷ù£\000\000\n", -- [1]
+				"`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n", -- [2]
+				["reaction_2"] = 3,
+				["level_26"] = 1,
+				["reaction_4"] = 7,
+				["name_Snake"] = 7,
+				["name_Healing Ward V"] = 2,
+				["name_Unknown"] = 1,
+				["level_1"] = 4,
+				["level_25"] = 2,
 			},
 			[12] = {
 				"\000ëà\000|©\000ˇ\000†Q~\000&x∞\000\000\n\000µ·t\000⁄ë£\000\000\n\0003t\000á^£\000\n", -- [1]
 				"\000≈`é\000DUU\000ˇ\000-fé\0004YU\000ˇ", -- [2]
-				["reaction_5"] = 4,
+				"\000rñù\000>\000ó\000", -- [3]
+				["reaction_5"] = 5,
 				["name_Sunscale Screecher"] = 1,
 				["name_Kaja"] = 1,
 				["name_Doras"] = 1,
 				["chat_talk"] = 2,
 				["reaction_2"] = 1,
+				["level_45"] = 1,
 				["name_Orgrimmar Grunt"] = 1,
+				["reaction_4"] = 1,
 				["name_Karus"] = 1,
 				["name_Zhevra Runner"] = 1,
+				["name_Hin Denburg"] = 1,
+			},
+			[54] = {
+				"\000xŸ\000Fˇ∂\000\000\n", -- [1]
 				["reaction_4"] = 1,
+				["name_Frostwolf Ambassador Rokhstrom"] = 1,
+			},
+			[13] = {
+				"\000º”É\000–¬M\000ˇ\0006°\000ß{a\000ˇ\000n\000xñh\000\000w‡n\000a~h\000\000\n", -- [1]
+				"\000‡∆n\0004Éh\000\000\n\000„¨n\000V˝h\000\n", -- [2]
+				["reaction_5"] = 5,
+				["reaction_4"] = 1,
+				["name_Thork"] = 1,
+				["name_Johan Focht"] = 1,
+				["name_Guillaume Sorouy"] = 1,
+				["name_Sebastian Meloche"] = 1,
+				["name_Wharfmaster Dizzywig"] = 1,
+				["name_Andrew Hilbert"] = 1,
+				["chat_talk"] = 2,
+			},
+			[57] = {
+				"\000\0006we\000.õı\000", -- [1]
+				["reaction_4"] = 1,
+				["chat_talk"] = 1,
+				["name_Professor Thaddeus Paleo"] = 1,
+				["level_35"] = 1,
+			},
+			[9] = {
+				"\000fR\000‰ºJ\000\000\n", -- [1]
+				["name_Far Seer Mok'thardin"] = 1,
+				["reaction_5"] = 1,
+				["level_45"] = 1,
 			},
 			[14] = {
-				"\000º”É\000–¬M\000\000\n", -- [1]
+				"\000º”É\000–¬M\000\000\n2n\000·i\0002n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\0002n\000·i\0002n\000·i\000\000\n2n\000·i\000ˇ2n\000·i\000≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n‡#z\000MY\000\000\n‡#z\000MY\000ˇ‡#z\000MY\000ˇ", -- [1]
+				"ÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä2n\000·i\0002n\000·i\0002n\000·i\0002n\000·i\0002n\000·i\000ˇ", -- [2]
+				"2n\000·i\000ˇ2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n", -- [3]
+				"2n\000·i\0002n\000·i\000", -- [4]
+				["reaction_5"] = 4,
+				["level_20"] = 3,
+				["name_Disciple of Naralex"] = 2,
+				["name_Evolving Ectoplasm"] = 5,
+				["mine_no"] = 4,
+				["kills"] = 4.400000000000001,
+				["name_Naralex"] = 1,
 				["name_Devrak"] = 1,
-				["reaction_5"] = 1,
+				["name_Biletoad"] = 2,
+				["name_Kresh"] = 1,
+				["level_1"] = 1,
+				["name_Deviate Guardian"] = 7,
+				["skin_no"] = 4,
+				["eng_no"] = 4,
+				["reaction_4"] = 3,
+				["herb_no"] = 4,
+				["loot_loot"] = {
+					[6465] = 1,
+					[10441] = 1,
+					[1774] = 1,
+					[6473] = 1,
+					[5124] = 3,
+					["gold"] = 1332,
+					[6461] = 1,
+					[3180] = 3,
+					[6449] = 1,
+					[6446] = 1,
+				},
+				["chat_talk"] = 3,
+				["name_Lord Serpentis"] = 1,
+				["name_Mutanus the Devourer"] = 1,
+				["loot_count"] = 8,
+				["name_Deviate Ravager"] = 4,
+				["reaction_2"] = 23,
+				["name_Lord Cobrahn"] = 1,
+				["name_Lady Anacondra"] = 1,
+				["name_Skum"] = 2,
+				["level_17"] = 1,
+				["name_Lord Pythas"] = 1,
 			},
-			[69] = {
-				"\000¨xk\000äZ\000\000\n", -- [1]
-				["reaction_5"] = 1,
-				["name_Slain Outrunner"] = 1,
+			[59] = {
+				"\000Ì0a\000 ı5\000\000\n\000˝kc\000q}5\000\000˝kc\000q}5\000\000Ì0a\000 ı5\000\000\n\000Ì0a\000 ı5\000\000\n\000X≤c\000ö6\000\000\n\000˘—c\000{±6\000\000ﬁ£d\000!5\000\000∫4d\000Ô14\000\000∏ec\000J2\000\000\n\000cZc\000,Î1\000ˇ\000U@b\000Á1\000\000\n\000€∆`\000ï€0\000ˇ\000◊__\000({0\000\000\n\000¡À^\000£¶1\000\000’(^\000Ói2\000\000QÔ]\000bõ2\000\000  ^\000¡˛2\000\000\n\000s(^\000≈b3\000\000L.]\000Î3\000ˇ\000ÈB\\\000/X3\000ˇ\000—Á[\000ô¸1\000\000h9\\\000Z‹2\000ˇ\000¿md\000ÇÙ4\000\000Ì0a\000 ı5\000\000\n\000æia\0008˘5\000\000\n\000\r%_\0004\000\000)›^\000í®3\000\000\n\000)›^\000í®3\000\000u√]\000≠0\000\000„f\\\000/s0\000\000 [\000té0\000\000ôY\000eŒ/\000\000£ùX\000ÌK0\000\000°X\000éU0\000\000\n\000ƒûd\000X€4\000\000\n\000º≤d\000B∏4\000\000\n\000âod\000¶π6\000\000\n\000ÛAd\000=∆6\000\000Î„c\000ŒO6\000ˇ\000ﬁ€c\000Ò6\000ˇ\000dc\000÷¯1\000\000\n\000Àib\000Ãc1\000\n\000¯T_\000sã0\000\000\n\000∏YY\000z4\000\000ÿ2Y\000Ôm4\000\000ﬁf\\\000&C7\000\000 ]\000ŒŸ7\000\000s≠^\000hY=\000\000\n\000\\¬^\000*J=\000\000\n\000A_\000âÌ<\000ˇ\000|“_\000äí=\000\000y`\000s\000?\000\000›hY\000åÚ?\000ˇ\000	ñX\000ÏÁ9\000ˇ\000∏._\000ª1\000\000\n\000mU\000h§>\000ˇ\000æ‡U\000`ç=\000\000¬ÆU\000Ù:>\000\000\n\000]¸T\000\000Q>\000\000¥@T\000>\000\000\n\000»ÃS\000û>\000\000˙-S\000¨\000>\000ˇ\000˙-S\000¨\000>\000ˇ\000*8R\000„=\000\000ÎR\000ëﬁ<\000ˇ\000∞ﬁO\000ÑX<\000\000.ßO\000c;\000\000\n\000sO\000”H9\000\000\n\000<bO\000Ë:9\000\000l÷O\00068\000\000\000ËO\000u˘7\000\000ñP\000Nƒ7\000ˇ\000ãÓM\000|é4\000\000ª[\000Â–F\000\000\n\000åå]\000ONA\000\000\nsQ\000÷VC\000\000_Q\000«0D\000\000\n\000ØvQ\000&≈E\000\000∏∆Q\000äΩF\000\000\n\000q∂Q\000ÊG\000\000ÁQ\000•PK\000\000ÙØP\000_ZK\000\000ŸN\000±¡L\000\000CÏM\000]⁄J\000\000GN\000K›I\000ˇ\000´|O\000ÇF\000\000y0N\000^$C\000\000≈ÌN\000SeE\000\000Y∫N\000òE\000\000’àN\000ŸÆE\000\000±õ`\000?≈9\000\000\n\000‰◊f\000ágQ\000\000Ì0a\000 ı5\000\000\n\000´_a\000˛5\000\000\n\000Ü˙`\000Q6\000ˇ\000Ü˙`\000Q6\000ˇ\000§è`\000Ûˇ4\000ˇ\000`\000Èﬁ4\000ˇ\000úÁ[\000#ñ2\000\000®=\\\000S˛2\000\000\n\000Aﬂ^\000Ö4\000\000Ø+[\000Ú5\000ˇ\000-Y\000tœ4\000\000-Y\000tœ4\000ˇ\000◊Y\000!n4\000\000\n\000‰WY\000.L3\000\000ñlY\000°•0\000\000pÌX\000\"√1\000\000\n\000∆›^\000Râ1\000\000‰A^\000≈1\000ˇ\0004\\\000ûß0\000\000\n\000SX\0009î3\000\000\n\000KaW\000à{2\000\n\000ÙX\000]0\000\000\n\000¸d\000•¬4\000\000\n\000Vc\000.2\000\000\n\0000b\000—81\000\000\n\000n6`\000ƒë0\000\000\n\000&:Y\000ò3\000\n\000Q(X\000N4\000\000SæX\000˘π1\000\000æX\000Å∂1\000\000∫fW\000°0\000\000m≈W\000c$1\000\000?—V\000üÎ4\000\000\n\000êU\000¶#:\000\000\n†V\000ø<\000", -- [1]
+				"\000LàV\000¨<\000\000≥ÒX\000VÕ?\000ˇ\000»˘X\0007@\000ˇ\000$Y\000C|F\000\n\000LxY\000p¸D\000ˇ\000'QX\000«D\000\n\000«MW\000ÊµC\000\000.G_\000P∂0\000\000\n\000@≈Z\000Æ∑9\000\000\n\000X>X\000ìMC\000ˇ\000ºY\000\rE\000\000òˆY\000tE\000\000yÈ[\000f<G\000\000\n\000üm\\\000!πG\000\000€\\\000éMI\000\000<\\\000ôJ\000", -- [2]
+				"\000Íœ[\000èK\000\000zÖ\\\000ÄúL\000\000û]\000KiL\000\000W]\000ÉQL\000\n\000|F]\000R	K\000\000d\\\000∏jL\000\000gX\000¸ãD\000\000ÏV\000ŸE\000", -- [3]
+				"\000=&V\000uùF\000ˇ\000 Æf\000qQQ\000\000ÍˆΩ\000¡Õ\000\000\n\000RUæ\000ÜCÕ\000\000\n", -- [4]
+				"\000˛kº\000o“\000", -- [5]
+				["name_Frostwolf Emissary"] = 2,
 				["level_6"] = 1,
+				["level_3"] = 31,
+				["name_Summoner Teli'Larien"] = 3,
+				["name_Pathstalker Kariel"] = 2,
+				["level_2"] = 11,
+				["name_Outrunner Alarion"] = 2,
+				["reaction_4"] = 118,
+				["level_5"] = 5,
+				["chat_talk"] = 66,
+				["loot_count"] = 62,
+				["name_Faraden Thelryn"] = 2,
+				["name_Arcanist Ithanas"] = 3,
+				["name_Arcanist Helion"] = 3,
+				["reaction_5"] = 39,
+				["loot_trivial_loot"] = {
+					[2589] = 3,
+					[118] = 2,
+					[20842] = 2,
+					[20843] = 2,
+					[117] = 1,
+				},
+				["name_Shara Sunwing"] = 2,
+				["name_Magistrix Erona"] = 7,
+				["name_Tender"] = 20,
+				["level_30"] = 1,
+				["name_Jainthess Thelryn"] = 3,
+				["name_Warsong Emissary"] = 1,
+				["level_1"] = 2,
+				["loot_loot"] = {
+					[117] = 11,
+					[2589] = 44,
+					[20842] = 32,
+					[21013] = 1,
+					[20843] = 22,
+					[21014] = 1,
+					[21015] = 1,
+					[20845] = 28,
+					[21016] = 1,
+					[20846] = 18,
+					[21017] = 1,
+					[20847] = 9,
+					[21018] = 1,
+					[20848] = 12,
+					[118] = 2,
+					[21021] = 1,
+					[20482] = 9,
+					[20483] = 2,
+					[21010] = 1,
+				},
+				["kills"] = 67,
+				["name_Lanthan Perilon"] = 2,
+				["name_Mana Wyrm"] = 55,
+				["eng_no"] = 12,
+				["skin_no"] = 12,
+				["name_Matron Arena"] = 2,
+				["name_Arcane Wraith"] = 11,
+				["name_Julia Sunstriker"] = 2,
+				["level_4"] = 8,
+				["name_Well Watcher Solanian"] = 3,
+				["name_Jesthenis Sunstriker"] = 3,
+				["name_Feral Tender"] = 25,
+				["name_Tainted Arcane Wraith"] = 4,
+				["mine_no"] = 12,
+				["herb_no"] = 12,
+				["loot_trivial_count"] = 2,
 			},
-			[85] = {
-				"\000i)ë\000»¥Y\000ˇ", -- [1]
-				["name_Eye of the Storm Envoy"] = 1,
+			[29] = {
+				"\000fR\000‰ºJ\000\000\n", -- [1]
 				["reaction_5"] = 1,
-				["level_55"] = 1,
+				["level_40"] = 1,
+				["name_Nargatt"] = 1,
+			},
+			[60] = {
+				"\000∏(a\000æ†5\000\000∏(a\000æ†5\000ˇ\000±c\000óé6\000\000\n\000yd\000I{4\000\000nMc\000QŸ1\000ˇ\000˙ua\000\r6\000ˇ\000xa\000›6\000\000xa\000›6\000\000\n\000í^\000YÅ1\000\000∆ _\000∂4\000ˇ\000D_\000\n4\000ˇ\000ö˙d\000≤Ω4\000\000d\000d©6\000\n\000¢e\000]í4\000\000»Ÿ]\000M¿8\000\000˙¬]\000Ê8\000\000¯ [\000Èø;\000ˇ\000gW\000J<\000\000çíU\000¡*;\000\000*©T\000_Ù:\000ˇ\000ÿ«T\000q”8\000ˇ\000cx\\\000Ì˙9\000ˇ\00011]\000≈¨;\000\000\n\000Ä…[\000”p9\000\n\000pX\000O8\000\000\n\000Y\000í0=\000\000wM[\000ÒÆ=\000\000\n\000\\9]\000˘CB\000\000≤b\000	6\000\000¬\"b\000.6\000\n\000êa\000Ü/3\000\000ÀN\000*°E\000\000\n", -- [1]
+				"\000pb\000oI\000ˇ\000∫uv\000G#v\000ˇ\000G{\0005≈u\000\000\n\000)\r{\000%%z\000\000\n\000ZJa\000∆˛5\000\000ZJa\000∆˛5\000\000x\"Z\000Úö0\000\000ïb^\000|$1\000\000?∆V\000§#5\000\n\0001V\000≈V8\000\000ºıT\000∆:\000\000W\000z·;\000ˇ\000±≠W\0008<\000ˇ\000JY\0004J@\000\000q÷Y\000†Î?\000\000±Z\000È€=\000", -- [2]
+				"\000Xû\\\000î};\000\000bf\000öµP\000\000^nx\000h“u\000\000Û+{\000Îáv\000\n\000¡Àz\000∑8z\000\000\n\000V2`\000áÙë\000ˇ\000é˙\\\000sß™\000\000\n\000p\000A&∂\000\000\n", -- [3]
+				"\000∑Æä\000°¬µ\000\000\n", -- [4]
+				["level_65"] = 4,
+				["name_Springpaw Cub"] = 13,
+				["name_Sunstrider Guardian"] = 14,
+				["name_Marsilla Dawnstar"] = 1,
+				["reaction_5"] = 27,
+				["name_Yasmine Teli'Larien"] = 2,
+				["kills"] = 21,
+				["name_Felendren the Banished"] = 1,
+				["level_12"] = 1,
+				["name_Magister Jaronis"] = 2,
+				["level_30"] = 7,
+				["level_1"] = 1,
+				["level_2"] = 1,
+				["name_Innkeeper Delaniel"] = 2,
+				["name_Ley-Keeper Velania"] = 1,
+				["reaction_4"] = 28,
+				["name_Velendris Whitemorn"] = 1,
+				["name_Apprentice Mirveda"] = 1,
+				["name_Aeldon Sunbrand"] = 2,
+				["chat_talk"] = 13,
+				["level_5"] = 3,
+				["loot_count"] = 20,
+				["level_3"] = 3,
+				["loot_loot"] = {
+					[20797] = 16,
+					[20812] = 27,
+					[20813] = 19,
+					[2589] = 17,
+					[159] = 1,
+					[117] = 2,
+					[21011] = 1,
+				},
+				["name_Marniel Amberlight"] = 1,
+				["reaction_6"] = 2,
+				["level_9"] = 1,
+				["name_Ranger Sallina"] = 2,
+				["name_Springpaw Lynx"] = 14,
+			},
+			[5] = {
+				"\000(S\000˛K\000\000\n", -- [1]
+				["level_65"] = 1,
+				["reaction_5"] = 1,
+				["chat_talk"] = 1,
+				["name_Thysta"] = 1,
 			},
 			[2347] = {
 				"\000Ÿ“é\000Ò*i\000\000\000zÒe\000Aı\000\000\000tÂe\000ı\000\000\n\000\000üoe\000Öîı\000ˇ\000\000.îe\000¶ı\000\000\n\000\000@™e\000é…ı\000\000\000Zøe\000(Áı\000\000\n\000\000¶≈e\000Åóı\000\000\n", -- [1]
@@ -5277,28 +5285,867 @@ QuestHelper_Collector = {
 				["level_1"] = 2,
 				["level_80"] = 5,
 			},
-			[118] = {
-				"\000f∞\000êXl\000ˇ\000	\\∞\000Øl\000\000⁄U∞\000©≤l\000ˇ\000ﬂÊπ\000å:\000\000\n", -- [1]
-				["name_Skybreaker Marine"] = 3,
-				["reaction_5"] = 3,
-				["level_80"] = 3,
+			[0] = {
+				"\000\000{ae\000˚àı\000\000\n", -- [1]
+				["name_Gozart Fasthead"] = 1,
+				["level_-1"] = 1,
+				["chat_talk"] = 1,
+				["reaction_5"] = 1,
+			},
+			[62] = {
+				"\000&t\000…Ôè\000\000\n\000bßr\000&Võ\000\000∑»X\000ãäï\000\000/Å]\000;@•\000ˇ\000#]\000’c™\000\000\n\000°]\000√§™\000\000\n\000Á©\\\000∞k™\000\000\n\000ñ©\\\000≈™\000\000\n\000è©\\\000ÅÒ™\000\000\n\000c∞\\\000˝´\000\000\n\000V}C\000V\"∞\000\000˘±w\000Íx∑\000\000éƒw\000Èv∑\000\000\n\000“x\000ƒπ∑\000\000ûjù\000ó\000\000æjú\000Ø“ñ\000", -- [1]
+				"\000ãû\000üAó\000\000\n\000ãû\000üAó\000", -- [2]
+				["reaction_5"] = 13,
+				["name_Mmmrrrggglll"] = 1,
+				["level_75"] = 4,
+				["name_Captain Kelisendra"] = 1,
+				["name_Ranger Sareyn"] = 1,
+				["name_Darnassian Scout"] = 1,
+				["kills"] = 2,
+				["level_12"] = 8,
+				["name_Apprentice Meledor"] = 1,
+				["loot_count"] = 2,
+				["level_15"] = 1,
+				["name_Steamwheedle Bruiser"] = 4,
+				["level_9"] = 1,
+				["eng_no"] = 10,
+				["name_Eversong Ranger"] = 8,
+				["herb_no"] = 10,
 				["reaction_1"] = 1,
-				["name_Silver Covenant Hippogryph"] = 1,
+				["chat_talk"] = 10,
+				["level_11"] = 1,
+				["reaction_2"] = 1,
+				["name_Apprentice Ralen"] = 1,
+				["level_8"] = 2,
+				["loot_loot"] = {
+					[1422] = 1,
+					["gold"] = 57,
+					[20765] = 1,
+					[779] = 1,
+					[2589] = 2,
+				},
+				["skin_no"] = 10,
+				["reaction_6"] = 3,
+				["mine_no"] = 10,
+				["level_7"] = 1,
+			},
+			[15] = {
+				"\000€{ú\000bÔã\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\0002n\000·i\0002n\000·i\000ˇ2n\000·i\000\000\n2n\000·i\0002n\000·i\0002n\000·i\000\000\n2n\000·i\000\000\n≥-z\000\nKY\000ˇ≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000ˇ‡#z\000MY\000ˇ‡#z\000MY\000ˇ‡#z\000MY\000ˇ‡#z\000MY\000\000\n‡#z\000MY\000", -- [1]
+				"‡#z\000MY\000ˇ‡#z\000MY\000\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000ÄˇÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000ÄˇÄÄ\000\000\000Ä\000\000\000Ä2n\000·i\000Sœù\000÷ •\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\n", -- [2]
+				"uµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000\000\nuµ\000@àò\000", -- [3]
+				"uµ\000@àò\000uµ\000@àò\000uµ\000@àò\000uµ\000@àò\000\000\n", -- [4]
+				"uµ\000@àò\000\000\n", -- [5]
+				["name_Rat"] = 2,
+				["level_20"] = 4,
+				["mine_no"] = 5,
+				["level_21"] = 2,
+				["kills"] = 10.2,
+				["name_Rethilgore"] = 1,
+				["level_18"] = 4,
+				["level_1"] = 1,
+				["eng_no"] = 5,
+				["level_19"] = 28,
+				["loot_loot"] = {
+					[10413] = 4,
+					[2589] = 7,
+					[4537] = 2,
+					[1753] = 1,
+					[2592] = 4,
+					[15484] = 1,
+					["gold"] = 2322,
+					[1819] = 1,
+					[5635] = 2,
+				},
+				["loot_count"] = 11,
+				["reaction_4"] = 2,
+				["name_Druid of the Fang"] = 44,
+				["herb_no"] = 5,
+				["skin_no"] = 5,
+				["name_Bleak Worg"] = 7,
+				["name_Shadowfang Whitescalp"] = 7,
+				["reaction_2"] = 59,
+			},
+			[63] = {
+				"\000¸›t\000„ÍM\000\000\n\000X@é\000wÖ\000ˇ\000Jú\000∑å\000ˇ\000Ïrú\000=@å\000\000\n\000≈Ôê\000\nhÄ\000\000√Ìê\000∆¸\000\000Có∂\000π‹\000\n\000º+z\000?yu\000\000o‘{\000ß˚u\000\000\n\000≠Ú{\000·u\000\000\n\000o&|\000=‘u\000\000\n\000ô¸{\0001ïv\000\000\n\000ªoo\000ñf\000ˇ\000Q®y\000øw\000\000j≤{\000˛Èu\000\000\n\000m|\000}€u\000\000\n\000«|\000¡u\000\000\n\0008˛{\000èÖv\000\000\n\000Èäy\0001x\000\000œ{\000S!z\000\000vz\0007ëy\000\000\n\000∏r[\000)≠\000\000s√X\000Nò∞\000\000\n\000Ø`S\000¯œÆ\000\n\000•U\000Ô,Æ\000\000\n\000!•Q\000⁄∞\000\000\n\000-sP\000-Z±\000\000ò∂O\000B˝≥\000ˇ\000ƒHP\000åzµ\000\000\n\000ª„H\000Ω∞\000ˇ\000 T\000‘ú∂\000\000\n\000ø”M\0003±\000\000‘ÏT\000¬≥\000\000\n\000ü˜T\000ƒ√±\000\000„;R\0005Æ±\000\000\n\000nxS\000b9≤\000\000Ñ–S\000‡	∞\000\000\n\000π∑S\000µ)≥\000\000π∑S\000µ)≥\000\000rœp\000%”¥\000\000\n\000à≈p\000ïÏ¥\000\000pÕp\000P¸¥\000\000ˇT}\000^Œ„\000\000\n\000ˇT}\000^Œ„\000\000\n\000€/z\000d2x\000\000\n\000Ê+ã\0009^Ç\000\000\n\000*∏ê\000,ï\000\000\n\000√v÷\000ÿöì\000\000\n\000ô·\000u `\000\n\000€Ôø\000˜¥_\000\000Ê%ú\000˚dJ\000\000}∞õ\000ÁI\000\000§Ën\000ÃÍg\000\000\n\000¨x‡\000¬®^\000\000≤	Â\000t[\000\000ÅÔØ\000àö\000\000\n\000!€∑\000\rÃ\000ˇ\000ë&∏\000)oÃ\000ˇ\000hÎ∏\000}éÕ\000ˇ\000K≈\000T≈±\000\000• ∫\000‚\\›\000\000\n\000ú\000~å\000\000\n\000Bœú\000#{ä\000\000\n\000T|ë\000z2Ä\000", -- [1]
+				"\0007∫\000öá◊\000\000hò\000π¢\000\000yÂ\0006cZ\000\000|Â\000°xZ\000\000B9Ã\000ï¶¨\000\000(Ò∫\000l©”\000\000¡≥â\000•0É\000\000\n\000[ïâ\000•0É\000\000\n", -- [2]
+				"\000ßƒn\000Íxc\000\000\n\000IÄê\000êyÄ\000", -- [3]
+				"\000îC◊\000B˝å\000ˇ", -- [4]
+				["name_Sathein"] = 1,
+				["level_65"] = 1,
+				["name_Anathos"] = 1,
+				["shop_2399@@1@@-1@@207"] = 1,
+				["shop_2376@@1@@-1@@425"] = 1,
+				["name_Mathreyn"] = 1,
+				["name_Areyn"] = 1,
+				["level_7"] = 9,
+				["shop_2493@@1@@-1@@665"] = 1,
+				["kills"] = 16,
+				["name_Winaestra"] = 2,
+				["level_12"] = 8,
+				["name_Sheri"] = 1,
+				["name_Courier Dawnstrider"] = 1,
+				["level_6"] = 8,
+				["name_Telenus"] = 1,
+				["name_Advisor Sorrelon"] = 1,
+				["chat_shop"] = 2,
+				["reaction_4"] = 1,
+				["name_Silvermoon Guardian"] = 8,
+				["herb_no"] = 5,
+				["shop_2492@@1@@-1@@270"] = 1,
+				["shop_2494@@1@@-1@@381"] = 1,
+				["level_11"] = 4,
+				["loot_count"] = 15,
+				["level_23"] = 1,
+				["shop_2491@@1@@-1@@459"] = 1,
+				["level_10"] = 2,
+				["skin_no"] = 5,
+				["name_Farsil"] = 2,
+				["shop_2403@@1@@-1@@209"] = 1,
+				["name_Hannovia"] = 2,
+				["shop_2402@@1@@-1@@209"] = 1,
+				["reaction_5"] = 21,
+				["shop_2489@@1@@-1@@325"] = 1,
+				["mine_no"] = 5,
+				["level_24"] = 3,
+				["name_Geron"] = 2,
+				["loot_loot"] = {
+					[2070] = 5,
+					[2589] = 20,
+					[118] = 2,
+					[3363] = 1,
+					["gold"] = 384,
+					[2212] = 1,
+					[22487] = 1,
+					[1372] = 1,
+					[159] = 1,
+				},
+				["name_Skymaster Sunwing"] = 1,
+				["name_Silvermoon City Guardian"] = 25,
+				["chat_talk"] = 19,
+				["shop_2495@@1@@-1@@479"] = 1,
+				["reaction_2"] = 18,
+				["level_15"] = 2,
+				["name_Perascamin"] = 2,
+				["shop_2401@@1@@-1@@314"] = 1,
+				["shop_2490@@1@@-1@@513"] = 1,
+				["level_22"] = 3,
+				["eng_no"] = 5,
+				["name_Noellene"] = 2,
+				["shop_2398@@1@@-1@@412"] = 1,
+				["reaction_6"] = 35,
+				["name_Skymistress Gloaming"] = 1,
+				["level_13"] = 2,
+				["shop_2400@@1@@-1@@415"] = 1,
+				["level_8"] = 1,
+				["shop_17185@@1@@-1@@247"] = 1,
+				["level_75"] = 14,
+				["name_Aldaron the Reckless"] = 1,
+				["name_Wretched Hooligan"] = 17,
+				["name_Apothecary Thedra"] = 1,
+				["shop_2488@@1@@-1@@509"] = 1,
+				["name_Magistrix Landra Dawnstrider"] = 1,
+			},
+			[64] = {
+				"\000\000ßÙç\000wd8\000ˇ\000Cœo\000Q¥∂\000\000\n\000‡8ë\000(ñà\000\000”6í\000AÅ\000\000\n\000À«ﬁ\000[¡]\000\000$M⁄\000ÿ–Z\000ˇ\000s’€\000ßZ\000\000\n\000q|‹\000)´Z\000\000\n", -- [1]
+				"\000@£›\000mÍ`\000\0001¨ê\000lõ\000\000\n", -- [2]
+				"\000^$Ã\000#:î\000\000\n", -- [3]
+				["reaction_5"] = 1,
+				["name_Innkeeper Velandra"] = 1,
+				["name_Deynna"] = 1,
+				["chat_talk"] = 3,
+				["name_Celana"] = 3,
+				["name_Mathaleron"] = 2,
+				["name_Welethelon"] = 1,
+				["reaction_6"] = 10,
+				["level_12"] = 1,
+				["name_Ghostlands Guardian"] = 1,
+				["level_30"] = 7,
+				["name_Galana"] = 1,
+				["name_Ardeyn Riverwind"] = 1,
+			},
+			[130] = {
+				"\000\000Îòe\000’2ı\000\000\000ôe\000ò3ı\000", -- [1]
+				"\000	∫\000ƒ;\000\000\n", -- [2]
+				["reaction_5"] = 2,
+				["name_\"Spectral Tiger\""] = 2,
+				["name_Gnomeregan Valiant"] = 1,
+				["level_1"] = 2,
+				["reaction_1"] = 1,
+			},
+			[66] = {
+				"\000D2{\000ﬂFv\000\000\n\000o‘{\000ß˚u\000\000\n\000Ø≥y\000∞w\000\000Êy\000ow\000\000\n", -- [1]
+				"\0006¯z\000ıûv\000\000\n\000Ó {\000¡˙u\000\000\n", -- [2]
+				"\000+£Q\000EœI\000\n", -- [3]
+				["reaction_5"] = 7,
+				["name_Novice Ranger"] = 2,
+				["name_Duelist Larenis"] = 2,
+				["chat_talk"] = 2,
+				["name_Sergeant Kan'ren"] = 1,
+				["level_4"] = 1,
+				["name_Wretched Captive"] = 1,
+				["level_30"] = 3,
+				["name_Nemeth Hawkeye"] = 1,
+				["level_7"] = 3,
+			},
+			[31] = {
+				"\000ãû\000üAó\000ˇ", -- [1]
+				["level_75"] = 1,
+				["reaction_5"] = 1,
+				["name_Deathguard Elite"] = 1,
+			},
+			[68] = {
+				"\000pÕõ\000êK§\000\000\n\000™Uù\000-∫†\000\000\n\000Ùö\000˚ï£\000\000\n\000ïyô\000Â°\000\000\n\000&$≠\000œvª\000\000\n\000ãGõ\0009£\000\000\n\000`€ö\000÷ù£\000\000?ëô\000˛Î†\000", -- [1]
+				["name_Innkeeper Jovia"] = 1,
+				["name_Jenath"] = 2,
+				["name_Vynna"] = 3,
+				["name_Feynna"] = 2,
+				["reaction_6"] = 8,
+				["chat_talk"] = 1,
+				["level_30"] = 7,
+			},
+			[69] = {
+				"\000¨xk\000äZ\000\000\n\000†ç‰\000k_\000\000≤	Â\000t[\000\000\n\000B+Ø\000∫G\000\000\n\000Û#Â\000†®Z\000\000\n\000œˇÏ\000∆ﬁ_\000\000ì»Ï\000ú«_\000\000\n\000ì»Ï\000ú«_\000\000\n\000¨ÎÕ\000ZØô\000\000\n\000âäÃ\000òõö\000\000\n\000gk\000X[Z\000\000—“l\000ôDK\000\000Bn\000ÅI\000\000\n\000◊n\000…eI\000\000\n\000K‚n\000ª@I\000\000\n\000>o\0009=I\000\000\n", -- [1]
+				"\000>o\0009=I\000\000\n\000>o\0009=I\000\000\n\000¿În\000ÑTI\000\n\000‘œn\000J\rI\000\000\n\000˚…n\000B0I\000\000»Ón\000U1I\000\000\n\000·…n\000«$I\000\000\n\000o\000+˜H\000\000\n", -- [2]
+				"\000u*n\000\"ﬂH\000", -- [3]
+				["name_Magister Astalor Bloodsworn"] = 1,
+				["reaction_5"] = 1,
+				["name_Slain Outrunner"] = 2,
+				["name_Champion Bloodwrath"] = 3,
+				["name_ C‰>ÇÁ∞#"] = 1,
+				["level_60"] = 2,
+				["level_6"] = 2,
+				["name_Sangrias Stillblade"] = 1,
+				["name_Master Kelerun Bloodmourn"] = 1,
+				["name_Champion Lightrend"] = 4,
+				["name_Knight-Lord Bloodvalor"] = 3,
+				["name_Champion Swiftblade"] = 4,
+				["name_Champion Sunstriker"] = 2,
+				["chat_talk"] = 6,
+				["kills"] = 3,
+				["reaction_2"] = 6,
+				["name_ 6‰>ÇÁ∞#"] = 1,
+				["level_20"] = 13,
+				["reaction_6"] = 18,
+				["level_30"] = 1,
+				["name_Blood Elf Magister"] = 2,
+			},
+			[140] = {
+				"\000›π\000y:\000\000◊Õ∫\000Vµ:\000ˇ", -- [1]
+				"\000ìÃ∫\000<¥:\000ˇ", -- [2]
+				["reaction_2"] = 2,
+				["name_Fjola Lightbane"] = 1,
+				["reaction_4"] = 1,
+				["name_Eydis Darkbane"] = 1,
+				["name_Sunreaver Dragonhawk"] = 1,
+			},
+			[2350] = {
+				"\000ˇNa\000»Û5\000\000\n\000q~z\000hs\000ˇ\000\000Vf\000ÅŒı\000\000\000Áúe\000Ñ∏ı\000\000\n", -- [1]
+				["shop_42984@@1@@-1@@100"] = 9,
+				["shop_44096@@1@@-1@@100"] = 9,
+				["shop_42992@@1@@-1@@100"] = 9,
+				["shop_48689@@1@@-1@@100"] = 9,
+				["chat_shop"] = 11,
+				["shop_44094@@1@@-1@@100"] = 9,
+				["shop_44105@@1@@-1@@100"] = 9,
+				["shop_42950@@1@@-1@@100"] = 9,
+				["shop_44092@@1@@-1@@100"] = 9,
+				["shop_44102@@1@@-1@@100"] = 9,
+				["shop_42943@@1@@-1@@100"] = 9,
+				["shop_44091@@1@@-1@@100"] = 9,
+				["shop_44100@@1@@-1@@100"] = 9,
+				["name_Karlee Sweet"] = 2,
+				["reaction_5"] = 4,
+				["name_Sirina Warmluck"] = 2,
+				["shop_42944@@1@@-1@@100"] = 9,
+				["shop_44101@@1@@-1@@100"] = 9,
+				["level_80"] = 3,
+				["shop_42946@@1@@-1@@100"] = 9,
+				["shop_42985@@1@@-1@@100"] = 9,
+				["shop_44663@@1@@-1@@1000000"] = 2,
+				["shop_44099@@1@@-1@@100"] = 9,
+				["shop_48691@@1@@-1@@100"] = 9,
+				["shop_44107@@1@@-1@@100"] = 9,
+				["shop_40752@@1@@-1@@0"] = 2,
+				["shop_48716@@1@@-1@@100"] = 9,
+				["shop_42952@@1@@-1@@100"] = 9,
+				["shop_42948@@1@@-1@@100"] = 9,
+				["shop_42949@@1@@-1@@100"] = 9,
+				["shop_48677@@1@@-1@@100"] = 9,
+				["shop_44095@@1@@-1@@100"] = 9,
+				["shop_50255@@1@@-1@@100"] = 9,
+				["shop_42945@@1@@-1@@100"] = 9,
+				["shop_42951@@1@@-1@@100"] = 9,
+				["shop_48683@@1@@-1@@100"] = 9,
+				["shop_48687@@1@@-1@@100"] = 9,
+				["shop_48685@@1@@-1@@100"] = 9,
+				["shop_44093@@1@@-1@@100"] = 9,
+				["shop_42947@@1@@-1@@100"] = 9,
+				["shop_42991@@1@@-1@@100"] = 9,
+				["shop_22026@@1@@-1@@0"] = 9,
+				["shop_44103@@1@@-1@@100"] = 9,
+				["shop_44097@@1@@-1@@100"] = 9,
+				["shop_48718@@1@@-1@@100"] = 9,
+			},
+			[72] = {
+				"\000 ÿ\000√ñ\\\000\000 !ó\000Ø/ë\000", -- [1]
+				["name_Silvermoon Farstrider"] = 1,
+				["name_Conjurer Tyren"] = 1,
+				["level_57"] = 1,
+				["reaction_6"] = 2,
+				["level_55"] = 1,
+			},
+			[73] = {
+				"\000Øãy\000yéu\000\000óFx\000˚Äy\000\000\n\000›ù\000Esû\000\000\n\000‰Kö\0007<û\000\000\n", -- [1]
+				"\000¯∑\000V+Ã\000ˇ\000u0π\000+¿÷\000\000\n", -- [2]
+				"\000Ußô\000°\000", -- [3]
+				["reaction_5"] = 2,
+				["shop_2489@@1@@-1@@325"] = 1,
+				["name_Gatewatcher Aendor"] = 2,
+				["shop_2493@@1@@-1@@665"] = 1,
+				["shop_2495@@1@@-1@@479"] = 1,
+				["chat_shop"] = 1,
+				["level_30"] = 3,
+				["shop_2492@@1@@-1@@270"] = 1,
+				["shop_2494@@1@@-1@@381"] = 1,
+				["level_20"] = 1,
+				["name_Kyrenna"] = 1,
+				["shop_2490@@1@@-1@@513"] = 1,
+				["shop_2491@@1@@-1@@459"] = 1,
+				["level_10"] = 2,
+				["name_Darise"] = 3,
+				["reaction_6"] = 5,
+				["name_Sleyin"] = 1,
+				["shop_2488@@1@@-1@@509"] = 1,
+			},
+			[74] = {
+				"\000]\000˙œ™\000\000ÂUñ\0004Äù\000\000\n\000˜Zñ\000é√ù\000\000\n\000>Úñ\000yrû\000\000\n", -- [1]
+				"\000æÚñ\000^û\000\000\n", -- [2]
+				["name_Sailor Melinan"] = 1,
+				["reaction_5"] = 1,
+				["chat_talk"] = 2,
+				["level_10"] = 1,
+				["reaction_6"] = 4,
+				["level_1"] = 4,
+				["name_Blood Elf Commoner"] = 4,
+			},
+			[150] = {
+				"\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000\000\nKÅt\000¥\r?\000", -- [1]
+				"\000\nGùv\000o=\000\000\nGùv\000o=\000\000\n", -- [2]
+				["name_Argent Crusader"] = 2,
+				["level_81"] = 6,
+				["reaction_4"] = 6,
+				["name_Knight of the Ebon Blade"] = 4,
+			},
+			[18] = {
+				"`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000", -- [1]
+				"`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n", -- [2]
+				["name_Death's Head Ward Keeper"] = 2,
+				["eng_no"] = 4,
+				["reaction_2"] = 20,
+				["mine_no"] = 4,
+				["name_Quilguard Champion"] = 17,
+				["herb_no"] = 4,
+				["level_27"] = 1,
+				["kills"] = 4.9,
+				["level_26"] = 19,
+				["name_Earthcaller Halmgar"] = 1,
+				["skin_no"] = 4,
+				["loot_loot"] = {
+					[4306] = 3,
+					[14368] = 1,
+					[4538] = 1,
+					[2592] = 1,
+					[929] = 1,
+					[4694] = 1,
+					[6688] = 1,
+					[7364] = 1,
+					["gold"] = 1182,
+				},
+				["loot_count"] = 5,
+			},
+			[77] = {
+				"\000˝ë\000\r°Ñ\000ˇ\000Qè\000çAÇ\000", -- [1]
+				"\000‘[è\000gŸÅ\000", -- [2]
+				["level_25"] = 3,
+				["reaction_5"] = 1,
+				["reaction_6"] = 2,
+				["name_Jero'me"] = 3,
+			},
+			[19] = {
+				"\000\000ıƒe\000Xˆ\000ˇ2n\000·i\000ˇ2n\000·i\000ˇ2n\000·i\000\000\n2n\000·i\0002n\000·i\0002n\000·i\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000ˇ≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n", -- [1]
+				"≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\n‡#z\000MY\000ˇ‡#z\000MY\000‡#z\000MY\000\000\n‡#z\000MY\000\000\n‡#z\000MY\000\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\n", -- [2]
+				"ÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\nÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000ÄÄÄ\000\000\000Ä\000\000\000Ä\000\n", -- [3]
+				"ÄÄ\000\000\000Ä\000\000\000Ä", -- [4]
+				["reaction_5"] = 1,
+				["level_19"] = 28,
+				["name_Deviate Crocolisk"] = 13,
+				["loot_loot"] = {
+					[1747] = 1,
+					[3401] = 3,
+					[6445] = 1,
+					[6444] = 2,
+					[3181] = 2,
+					[2924] = 1,
+				},
+				["name_Terenas Menethil"] = 1,
+				["loot_count"] = 4,
+				["kills"] = 8.000000000000004,
+				["level_-1"] = 1,
+				["reaction_2"] = 56,
+				["level_18"] = 7,
+				["name_Deviate Dreadfang"] = 6,
+				["name_Deviate Adder"] = 7,
+				["name_Deviate Lasher"] = 30,
+			},
+			[79] = {
+				"\000“ıõ\000Ûå\000", -- [1]
+				["name_Swift Green Hawkstrider"] = 1,
+				["reaction_5"] = 1,
+			},
+			[80] = {
+				"\000Ÿö\000ò/ì\000ˇ\000„^Ö\000Ô2\000\n\000à;ì\000\nWê\000ˇ\000≈πê\000ﬁÒá\000\000\n", -- [1]
+				"\000#˜à\000 ü:\000\000+tá\000È@:\000\n", -- [2]
+				["level_35"] = 3,
+				["name_Sorim Lightsong"] = 3,
+				["reaction_6"] = 6,
+				["level_80"] = 3,
+				["chat_talk"] = 6,
+				["name_Royal Guard"] = 3,
+			},
+			[17] = {
+				"`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\n`€ö\000÷ù£\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\n`€ö\000÷ù£\000\n`€ö\000÷ù£\000", -- [1]
+				"`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n", -- [2]
+				"`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000ˇ`€ö\000÷ù£\000", -- [3]
+				["name_Razorfen Quilguard"] = 6,
+				["name_Stone Rumbler"] = 3,
+				["name_Razorfen Spearhide"] = 2,
+				["name_Wind Howler"] = 3,
+				["level_25"] = 46,
+				["kills"] = 18.49999999999999,
+				["level_26"] = 51,
+				["name_Razorfen Beast Trainer"] = 2,
+				["name_Death Speaker Jargba"] = 1,
+				["name_Raging Agam'ar"] = 3,
+				["loot_loot"] = {
+					[3172] = 1,
+					[6686] = 1,
+					[6690] = 1,
+					[2221] = 1,
+					[1205] = 1,
+					[3403] = 1,
+					[2816] = 1,
+					[11391] = 3,
+					["gold"] = 6018,
+					[14368] = 1,
+					[2677] = 1,
+					[14400] = 1,
+					[2592] = 10,
+					[4538] = 4,
+					[49205] = 1,
+					[6693] = 1,
+					[4306] = 25,
+					[2295] = 1,
+					[5637] = 1,
+					[11392] = 3,
+					[11394] = 3,
+					[11393] = 2,
+				},
+				["name_Death's Head Seer"] = 1,
+				["name_Kraul Bat"] = 9,
+				["loot_count"] = 24,
+				["skin_no"] = 7,
+				["name_Greater Kraul Bat"] = 5,
+				["name_Overlord Ramtusk"] = 1,
+				["name_Tamed Hyena"] = 2,
+				["name_Ward Guardian"] = 2,
+				["mine_no"] = 11,
+				["name_Razorfen Dustweaver"] = 3,
+				["name_Aggem Thorncurse"] = 1,
+				["name_Razorfen Defender"] = 15,
+				["name_Death's Head Adept"] = 4,
+				["name_Charlga Razorflank"] = 1,
+				["name_Death's Head Priest"] = 1,
+				["skin_yes"] = 4,
+				["name_Agathelos the Raging"] = 1,
+				["name_Razorfen Beastmaster"] = 3,
+				["name_Razorfen Groundshaker"] = 6,
+				["name_Rotting Agam'ar"] = 1,
+				["level_24"] = 1,
+				["eng_no"] = 11,
+				["name_Agam'ar"] = 3,
+				["name_Death's Head Sage"] = 3,
+				["name_Razorfen Geomancer"] = 2,
+				["name_Tamed Battleboar"] = 5,
+				["name_Razorfen Warrior"] = 2,
+				["name_Razorfen Handler"] = 3,
+				["name_Death's Head Acolyte"] = 2,
+				["name_Razorfen Earthbreaker"] = 4,
+				["level_27"] = 6,
+				["herb_no"] = 11,
+				["reaction_2"] = 104,
+				["name_Razorfen Totemic"] = 4,
+			},
+			[82] = {
+				"\000∏(a\000æ†5\000", -- [1]
+				["name_Senior Sergeant Eveningshade"] = 1,
+				["reaction_5"] = 1,
+			},
+			[2] = {
+				"Sœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000Sœù\000÷ •\000\000\nSœù\000÷ •\000\000\nSœù\000÷ •\000\000\n", -- [1]
+				"Sœù\000÷ •\000\000\nSœù\000÷ •\000<æa\000/]∆\000\n<æa\000/]∆\000\000\n", -- [2]
+				["loot_count"] = 1,
+				["kills"] = 2.4,
+				["reaction_2"] = 20,
+				["level_17"] = 9,
+				["loot_loot"] = {
+					[2589] = 1,
+					[858] = 1,
+					["gold"] = 294,
+				},
+				["name_Defias Miner"] = 15,
+				["name_Defias Overseer"] = 5,
+				["level_18"] = 11,
 			},
 			[70] = {
-				"\000ú√π\000ED»\000\000\n", -- [1]
-				["name_Arcane Guardian"] = 1,
+				"\000ú√π\000ED»\000\000\n\000Œ¡Ÿ\000Y†^\000ˇ\000CŸ\000`´^\000ˇ\0008Yÿ\000£b]\000\000*À◊\000XB^\000\000(k®\000∞o>\000\000(∆∑\000Z‚À\000ˇ\0007∫\000öá◊\000", -- [1]
+				"\000ÛÉÈ\000B¢]\000ˇ\0001{ú\000Ûƒñ\000", -- [2]
+				["level_65"] = 3,
 				["reaction_5"] = 1,
-				["level_65"] = 1,
+				["name_Champion Vranesh"] = 1,
+				["name_Arcane Guardian"] = 5,
+				["level_55"] = 3,
+				["level_60"] = 1,
+				["name_Silvermoon Ranger"] = 3,
+				["reaction_6"] = 9,
+				["name_Yatheon"] = 1,
 			},
-			[234] = {
-				"\000\000≤òe\000ó1ı\000ˇ\000\000{e\000üàı\000", -- [1]
-				["name_Drohem Leanfeather"] = 1,
+			[85] = {
+				"\000i)ë\000»¥Y\000ˇ", -- [1]
+				["name_Eye of the Storm Envoy"] = 1,
+				["reaction_5"] = 1,
+				["level_55"] = 1,
+			},
+			[136] = {
+				"\000/\r”\000ﬁæa\000\000≠˝“\000ˇ%b\000", -- [1]
+				["level_75"] = 2,
+				["name_Isle of Conquest Envoy"] = 2,
+				["reaction_4"] = 2,
+			},
+			[7] = {
+				"\000  n\000di\000\n\000≤n\000é¢h\000\000\n", -- [1]
+				"\000Oq\000(Kf\000\000\n", -- [2]
+				["name_High Executor Hadrec"] = 1,
+				["reaction_5"] = 3,
+				["chat_quest"] = 4,
+				["name_Dalar Dawnweaver"] = 1,
+				["name_Apothecary Renferrel"] = 1,
+			},
+			[359] = {
+				"\000\000¥»e\000*ı\000ˇ", -- [1]
+				["name_Knindza"] = 1,
+				["reaction_5"] = 1,
+				["chat_talk"] = 1,
+				["level_-1"] = 1,
+			},
+			[32] = {
+				"\000€™n\000”Õi\000", -- [1]
 				["reaction_4"] = 1,
-				["name_Lehtu Longrange"] = 1,
-				["reaction_1"] = 1,
-				["chat_talk"] = 2,
-				["level_80"] = 2,
+				["name_Mura Runetotem"] = 1,
+			},
+			[22] = {
+				"\000[dn\000i—i\000ˇ2n\000·i\000\000\n2n\000·i\000\n2n\000·i\0002n\000·i\000ˇ≥-z\000\nKY\000≥-z\000\nKY\000\n≥-z\000\nKY\000≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000ˇ‡#z\000MY\000\000\n‡#z\000MY\000\000\n‡#z\000MY\000‡#z\000MY\000ˇ‡#z\000MY\000‡#z\000MY\000ÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä\000\nÄÄ\000\000\000Ä\000\000\000Ä", -- [1]
+				"ÄÄ\000\000\000Ä\000\000\000Äˇ2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000ˇ2n\000·i\000\000\n2n\000·i\000\000\n", -- [2]
+				"2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\000", -- [3]
+				"2n\000·i\000\000\n", -- [4]
+				["reaction_5"] = 1,
+				["name_Gwyn Farrow"] = 1,
+				["mine_no"] = 10,
+				["level_16"] = 1,
+				["kills"] = 8.800000000000001,
+				["name_Verdan the Everliving"] = 1,
+				["name_Deviate Shambler"] = 17,
+				["name_Deviate Moccasin"] = 3,
+				["name_Nightmare Ectoplasm"] = 6,
+				["eng_no"] = 10,
+				["level_19"] = 22,
+				["loot_loot"] = {
+					[2447] = 1,
+					[6630] = 1,
+					[6445] = 1,
+					["gold"] = 1998,
+					[6470] = 1,
+					[6444] = 2,
+					[765] = 3,
+					[1485] = 1,
+				},
+				["name_Deviate Venomwing"] = 6,
+				["loot_count"] = 8,
+				["skin_no"] = 10,
+				["herb_no"] = 10,
+				["reaction_2"] = 44,
+				["name_Deviate Viper"] = 11,
+			},
+			[34] = {
+				"\0006é\000G¶\000\000\n\0004\r{\000^{\000\000\n\000\000Ä¬e\000?ˆ\000ˇ2n\000·i\000\000\n2n\000·i\000\000\n2n\000·i\0002n\000·i\000\000\n≥-z\000\nKY\000", -- [1]
+				"≥-z\000\nKY\000\000\n≥-z\000\nKY\000\000\n≥-z\000\nKY\000ˇ≥-z\000\nKY\000ˇ", -- [2]
+				"≥-z\000\nKY\000≥-z\000\nKY\000\000\n", -- [3]
+				["level_50"] = 2,
+				["reaction_5"] = 1,
+				["level_19"] = 4,
+				["mine_no"] = 1,
+				["herb_no"] = 1,
+				["reaction_1"] = 2,
+				["loot_loot"] = {
+					[6444] = 2,
+					[9751] = 1,
+				},
+				["name_Auctioneer Fitch"] = 2,
+				["reaction_2"] = 11,
+				["kills"] = 0.6000000000000001,
+				["name_Auctioneer Wabang"] = 1,
+				["skin_yes"] = 1,
+				["loot_count"] = 2,
+				["level_18"] = 3,
+				["eng_no"] = 1,
+				["name_Deviate Python"] = 11,
+			},
+			[65] = {
+				"\000Î%í\000ÜÅ\000\000\n\000fœÍ\000#ƒ\\\000\0002Î\000„m_\000\n\000›Í\0001_\000\000\n\000ıø÷\000oÆW\000ˇ\000Õü’\000ëV\000ˇ\000`_œ\000 \\j\000ˇ\000˜Œ\000zêk\000\000ó[À\000«g\000\000sÀ\000Öc\000\000„¬\000¸[\000ˇ\000\n‘¬\000%n\\\000ˇ\000y>¡\000»A_\000ˇ\000\\i´\000„E1\000\000\n\000ﬂ´\000€S0\000\000\n\000ÔÙ´\000<Ó/\000", -- [1]
+				"\000≈¨\000ùç/\000\000FgÍ\000_Â]\000\000\n\000HÍ\000à'^\000\n\000∏<∆\000øR∂\000\000\n\000ü∂∆\000ä“∑\000\000\n\000\\ˆ∆\000ÿµ\000\000\n\000«÷Î\000åg^\000\000\n\000ØÎ\0002z]\000\000\n", -- [2]
+				"\000Œ§ã\000C:\000\000—íã\000„0:\000", -- [3]
+				"\000	áã\000t>:\000", -- [4]
+				["shop_20815@@1@@-1@@720"] = 1,
+				["name_Razia"] = 1,
+				["name_Gloresse"] = 1,
+				["name_Danwe"] = 1,
+				["shop_18256@@5@@-1@@18000"] = 2,
+				["level_60"] = 2,
+				["chat_shop"] = 3,
+				["shop_20824@@1@@-1@@22500"] = 1,
+				["level_30"] = 14,
+				["shop_2880@@1@@-1@@90"] = 1,
+				["shop_40411@@5@@-1@@45000"] = 2,
+				["shop_23574@@1@@1@@72000"] = 2,
+				["name_Ithelis"] = 3,
+				["chat_talk"] = 18,
+				["level_55"] = 1,
+				["shop_3372@@5@@-1@@180"] = 2,
+				["name_Mirvedon"] = 1,
+				["name_Keelen Sheets"] = 1,
+				["name_Halduron Brightwing"] = 1,
+				["reaction_6"] = 27,
+				["shop_8925@@5@@-1@@2250"] = 2,
+				["name_Shalenn"] = 1,
+				["name_Grand Magister Rommath"] = 1,
+				["name_Champion Bachi"] = 3,
+				["shop_2901@@1@@-1@@72"] = 1,
+				["name_Lor'themar Theron"] = 1,
+				["level_70"] = 1,
+				["name_Bemarrin"] = 1,
+				["name_Melaris"] = 1,
+				["level_-1"] = 2,
+				["level_50"] = 2,
+				["shop_3466@@1@@-1@@1800"] = 1,
+				["name_Botanist Nathera"] = 1,
+				["shop_3857@@1@@-1@@450"] = 1,
+				["name_Camberon"] = 1,
+				["name_Zelan"] = 1,
+				["name_Osselan"] = 1,
+				["name_Alestus"] = 3,
+				["level_40"] = 1,
+				["name_Yatheon"] = 1,
+				["name_Eriden"] = 1,
+				["name_Belil"] = 1,
+				["shop_3371@@5@@-1@@18"] = 2,
+				["shop_22900@@1@@1@@27000"] = 2,
+			},
+			[93] = {
+				"\000|p≈\000“œ\000\000\n", -- [1]
+				["reaction_5"] = 1,
+				["chat_talk"] = 1,
+				["name_Michael Schweitzer"] = 1,
+			},
+			[23] = {
+				"≥-z\000\nKY\000ˇ`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n`€ö\000÷ù£\000\000\n", -- [1]
+				"`€ö\000÷ù£\000", -- [2]
+				["eng_no"] = 2,
+				["level_19"] = 1,
+				["mine_no"] = 2,
+				["loot_loot"] = {
+					[2592] = 1,
+					[3385] = 1,
+					["gold"] = 672,
+				},
+				["herb_no"] = 2,
+				["name_Razorfen Stalker"] = 3,
+				["reaction_2"] = 5,
+				["kills"] = 0.95,
+				["level_26"] = 1,
+				["loot_count"] = 1,
+				["skin_no"] = 2,
+				["name_Deviate Faerie Dragon"] = 1,
+				["level_25"] = 3,
+				["name_Elemental Protection Totem"] = 1,
+			},
+			[2558] = {
+				"\000\000“íe\000TQı\000", -- [1]
+				["reaction_5"] = 1,
+				["name_Darriel Tinderblood"] = 1,
+				["level_80"] = 1,
+			},
+			[75] = {
+				"\000Ïrú\000=@å\000\000\n\000G<ú\000(å\000\000\n", -- [1]
+				["name_Red Hawkstrider"] = 2,
+				["level_70"] = 1,
+				["reaction_5"] = 2,
+			},
+			[24] = {
+				"\000d¿d\000ù÷3\000\000\n\000xd\000UÙ4\000", -- [1]
+				"\000˜d\000xû4\000", -- [2]
+				["name_Cat"] = 3,
+				["reaction_4"] = 3,
+			},
+			[98] = {
+				"\000µ≈\000Övœ\000\000\n", -- [1]
+				["name_Roitau"] = 1,
+				["reaction_5"] = 1,
+			},
+			[6] = {
+				"\000ÕMô\000ßÂò\000ˇ\000πÒï\000ˆıü\000\000\n\000úÉä\000˙a√\000ˇ\000Rë≠\000*l\r\000ˇ\000»Qò\000√™\000\000‰ïÄ\000œ[\000\000ÿ0~\000è„^\000ˇ\000Î|\000@d\000ˇ\000Ì~~\000Ù:d\000\000}	\000≈Õd\000ˇ\000öÅ\000i–g\000\000\n\000◊áÇ\000√Pe\000\000Œ2É\000ÖÔc\000\000\n\000fÅ\000lŒk\000ˇ\000ˆ0Å\000(/n\000\000ikÇ\000íñm\000\000ÉPÑ\000µl\000Sœù\000÷ •\000\000\nSœù\000÷ •\000<æa\000/]∆\000\000\nãû\000üAó\000\000\nãû\000üAó\000\n'˝ã\000;ƒº\000\000\n'˝ã\000;ƒº\000\000\n'˝ã\000;ƒº\000\000\n'˝ã\000;ƒº\000'˝ã\000;ƒº\000'˝ã\000;ƒº\000'˝ã\000;ƒº\000\000\n ¬Ä\000/©\000\000\n ¬Ä\000/©\000 ¬Ä\000/©\000\000\n ¬Ä\000/©\000 ¬Ä\000/©\000 ¬Ä\000/©\000 ¬Ä\000/©\000@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000ˇ@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000ˇ@„Ä\000ÆW©\000ˇ@„Ä\000ÆW©\000@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000ˇ@„Ä\000ÆW©\000@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n@„Ä\000ÆW©\000\000\n0—Ä\000Hm©\000\000\n0—Ä\000Hm©\0000—Ä\000Hm©\000\000\n0—Ä\000Hm©\000\000\n", -- [1]
+				"0—Ä\000Hm©\000\000\n0—Ä\000Hm©\000\000\n0—Ä\000Hm©\000\000\n0—Ä\000Hm©\000ˇ0—Ä\000Hm©\000ˇ0—Ä\000Hm©\000ˇ0—Ä\000Hm©\000\n0—Ä\000Hm©\000\000\n", -- [2]
+				"0—Ä\000Hm©\000\000\n0—Ä\000Hm©\000\000\nlÓÄ\000OJ©\000\000\nlÓÄ\000OJ©\000\000\n", -- [3]
+				"lÓÄ\000OJ©\000\000\nlÓÄ\000OJ©\000\000\n", -- [4]
+				["name_Bazil Thredd"] = 1,
+				["loot_trivial_count"] = 1,
+				["name_Kam Deepfury"] = 1,
+				["mine_no"] = 23,
+				["level_24"] = 24,
+				["name_Defias Insurgent"] = 10,
+				["name_Targorr the Dread"] = 1,
+				["level_25"] = 3,
+				["loot_trivial_loot"] = {
+					[2672] = 1,
+				},
+				["name_Moonrage Whitescalp"] = 6,
+				["name_Worg"] = 2,
+				["name_Defias Inmate"] = 11,
+				["name_Defias Prisoner"] = 9,
+				["level_18"] = 1,
+				["level_17"] = 2,
+				["kills"] = 26.99999999999996,
+				["skin_yes"] = 1,
+				["eng_no"] = 23,
+				["skin_no"] = 22,
+				["name_Mottled Worg"] = 1,
+				["herb_no"] = 23,
+				["name_Defias Convict"] = 12,
+				["name_Cursed Darkhound"] = 2,
+				["loot_count"] = 33,
+				["level_23"] = 31,
+				["name_Defias Captive"] = 12,
+				["loot_loot"] = {
+					[3300] = 1,
+					[2589] = 7,
+					[11406] = 1,
+					[5001] = 1,
+					[2287] = 2,
+					[2940] = 3,
+					[13099] = 1,
+					[14371] = 1,
+					["gold"] = 6297,
+					[15944] = 1,
+					[6347] = 1,
+					[3169] = 7,
+					[1458] = 1,
+					[3173] = 8,
+					[1495] = 1,
+					[3770] = 1,
+					[422] = 1,
+					[2592] = 17,
+					[12006] = 1,
+					[15300] = 1,
+					[929] = 1,
+					[15526] = 1,
+					[3253] = 6,
+					[4306] = 3,
+					[3164] = 2,
+					[14728] = 2,
+					[2672] = 2,
+					[3170] = 8,
+					[1179] = 2,
+				},
+				["name_Ferocious Grizzled Bear"] = 6,
+				["reaction_2"] = 78,
+				["name_Hamhock"] = 1,
+				["name_Defias Evoker"] = 3,
+			},
+			[61] = {
+				"\000ÍÍå\000RîÑ\000ˇ\000è\000(QÜ\000ˇ\000ïÁê\000™ƒá\000\n\000ú\000OΩã\000ˇ\0000\\l\000f]\000ˇ\000|Gy\000⁄„u\000ˇ\000Q∏o\000Ωf\000ˇ\000Èﬂv\000#πÇ\000\000w\000ûRâ\000\n\000Q>s\000hë\000\000Rm\000|kô\000\000lÛh\000àJï\000\000π]\000“ì\000ˇ\000!±Y\000{qî\000\000\n\000-áX\000`ƒï\000\000uŒ\\\000–Rû\000\000\n\000l^T\000ZÇ∑\000ˇ\000’rS\000G√Æ\000\000·˜S\000MpÆ\000\000\n\000DïQ\000!∞\000\000\n\000¢ÕO\0000c≥\000\000ä*F\000ÿA≤\000ˇ\000ª¯E\000I/≤\000ˇ\000‹ÄE\000 Ò±\000ˇ\000í)D\000a~∞\000\000\n\000«‰G\000å∞\000ˇ\000lK\0009≤\000\000\n\000´T\000“ì∂\000\0005\\\000“´\000\000πÈS\000™≥\000\000\n\000I‘S\000	H≥\000\0007R`\000Ø©\000\000≤jc\000	¶\000\000\n\000Ï¿g\000}°\000\000˜Qm\000Ê3û\000ˇ\000äq\000⁄‚¶\000ˇ\000‹p\000‡Ç®\000ˇ\000'˚\000öÈ¥\000\000îaÄ\000VV¥\000ˇ\000ÊƒÅ\0000µ±\000\000ä≥Ç\000¡O∞\000\000!¨Ç\000‰ÂØ\000\000)hÖ\000$«±\000\000$êÖ\000÷7≥\000\000\n\000\"ÒÜ\0003¿¥\000\000NHâ\000…∏\000ˇ\000¿ÁÑ\000÷ﬂ¿\000ˇ\000†Ñ\000t_¡\000ˇ\000KƒÇ\000 f√\000ˇ\000(ËÇ\000ÈÖƒ\000ˇ\000F¡Ç\000`î \000\000$4Ç\000À—\000ˇ\000Ö∂Ä\000ëú’\000ˇ\000\000˛\000πú’\000ˇ\000<{\000€\000\000…Ø|\000\000\000Ÿ\000\000êèù\000wäß\000\000üÖú\000¢(∞\000ˇ\000ﬁÖú\000§±\000\000ÍÖú\000|3±\000\000ü1û\000∑»\000\000—	û\000÷]÷\000\000Yñ\000—üë\000ˇ\000 èÉ\000d⁄Ç\000ˇ", -- [1]
+				["level_8"] = 12,
+				["loot_trivial_loot"] = {
+					[27668] = 1,
+					[4814] = 1,
+				},
+				["mine_no"] = 21,
+				["name_Plaguebone Pillager"] = 1,
+				["name_Wretched Urchin"] = 3,
+				["loot_trivial_count"] = 1,
+				["name_Feral Dragonhawk Hatchling"] = 10,
+				["name_Darkwraith"] = 7,
+				["level_6"] = 9,
+				["name_Grimscale Murloc"] = 4,
+				["name_Eversong Green Keeper"] = 2,
+				["name_Amani Axe Thrower"] = 1,
+				["kills"] = 34,
+				["name_Mana Stalker"] = 2,
+				["name_Crazed Dragonhawk"] = 4,
+				["level_5"] = 6,
+				["eng_no"] = 21,
+				["reaction_4"] = 14,
+				["loot_loot"] = {
+					[6527] = 1,
+					[21771] = 6,
+					[2589] = 42,
+					[6303] = 5,
+					[4757] = 4,
+					["gold"] = 954,
+					[21776] = 1,
+					[6889] = 7,
+					[159] = 3,
+					[779] = 5,
+					[2652] = 1,
+					[1418] = 1,
+					[4604] = 2,
+					[1378] = 1,
+					[1423] = 1,
+					[7096] = 4,
+					[2070] = 6,
+					[1422] = 1,
+					[7097] = 1,
+					[117] = 1,
+					[2774] = 1,
+				},
+				["herb_no"] = 21,
+				["reaction_2"] = 50,
+				["name_Rotlimb Marauder"] = 8,
+				["name_Springpaw Stalker"] = 6,
+				["loot_count"] = 34,
+				["name_Angershade"] = 4,
+				["name_Wretched Thug"] = 10,
+				["level_10"] = 5,
+				["skin_no"] = 21,
+				["level_9"] = 7,
+				["name_Manawraith"] = 2,
+				["level_7"] = 15,
+			},
+			[25] = {
+				"\000πÇ\000õçS\000\000\n\000˛ÿå\000„≠∑\000ˇ", -- [1]
+				"\000∏ò‰\000XÛ(\000\n", -- [2]
+				["level_60"] = 2,
+				["reaction_5"] = 3,
+				["level_13"] = 1,
+				["name_Spirit Healer"] = 2,
+				["name_Astor Hadren"] = 1,
 			},
 			[102] = {
 				"\000\000Ô•e\000ZÃı\000ˇ\000\000⁄Ωe\000¸Êı\000\000\000˙„e\000é€ı\000\000\n\000\000–Ôe\000é—ı\000\000\n\000\000èˆe\000…ı\000\000\n\000\000&˚e\000qºı\000\000\n\000\000{\000f\000≤Æı\000\000\n\000\000Äf\000»®ı\000\000\n\000\000If\000Ùïı\000\000\n\000\000–∑e\000Siı\000\000\n\000\000\000ºe\000•pı\000\000\n\000\000ﬁ≈e\000Çqı\000\000\n\000\000T∆e\000‰nı\000\000\n\000\000™“e\000Îkı\000\000\n\000\000y‹e\000éiı\000\000\n\000\000—‡e\000Ófı\000\000\n", -- [1]
@@ -5314,8 +6161,8 @@ QuestHelper_Collector = {
 				["shop_45758@@1@@-1@@0"] = 2,
 				["chat_shop"] = 9,
 				["shop_42400@@1@@-1@@0"] = 2,
-				["chat_talk"] = 13,
-				["shop_36984@@1@@-1@@0"] = 3,
+				["shop_37079@@1@@-1@@0"] = 1,
+				["name_Cloaks Vendor"] = 1,
 				["shop_37060@@1@@-1@@0"] = 3,
 				["reaction_5"] = 18,
 				["shop_42414@@1@@-1@@0"] = 2,
@@ -5323,9 +6170,9 @@ QuestHelper_Collector = {
 				["name_Weapons Vendor"] = 1,
 				["shop_43250@@1@@-1@@0"] = 1,
 				["name_Paladin Trainer"] = 1,
-				["shop_37079@@1@@-1@@0"] = 1,
+				["name_Shields & Frills"] = 1,
 				["shop_37061@@1@@-1@@0"] = 3,
-				["name_Cloaks Vendor"] = 1,
+				["shop_37050@@1@@-1@@0"] = 3,
 				["shop_43498@@1@@-1@@0"] = 1,
 				["name_Priest Trainer"] = 1,
 				["shop_37112@@1@@-1@@0"] = 3,
@@ -5361,79 +6208,174 @@ QuestHelper_Collector = {
 				["shop_45755@@1@@-1@@0"] = 2,
 				["shop_42417@@1@@-1@@0"] = 2,
 				["shop_43970@@1@@-1@@0"] = 2,
-				["shop_37050@@1@@-1@@0"] = 3,
-				["name_Shields & Frills"] = 1,
+				["shop_36984@@1@@-1@@0"] = 3,
+				["chat_talk"] = 13,
 				["name_Shaman Trainer"] = 1,
 				["name_Necks Vendor"] = 1,
 			},
-			[59] = {
-				"\000Ì0a\000 ı5\000\000\n\000˝kc\000q}5\000\000˝kc\000q}5\000\000Ì0a\000 ı5\000\000\n\000Ì0a\000 ı5\000\000\n\000X≤c\000ö6\000\000\n\000˘—c\000{±6\000\000ﬁ£d\000!5\000\000∫4d\000Ô14\000\000∏ec\000J2\000\000\n\000cZc\000,Î1\000ˇ\000U@b\000Á1\000\000\n\000€∆`\000ï€0\000ˇ\000◊__\000({0\000\000\n\000¡À^\000£¶1\000\000’(^\000Ói2\000\000QÔ]\000bõ2\000\000  ^\000¡˛2\000\000\n\000s(^\000≈b3\000\000L.]\000Î3\000ˇ\000ÈB\\\000/X3\000ˇ\000—Á[\000ô¸1\000\000h9\\\000Z‹2\000ˇ\000¿md\000ÇÙ4\000\000Ì0a\000 ı5\000\000\n\000æia\0008˘5\000\000\n\000\r%_\0004\000\000)›^\000í®3\000\000\n\000)›^\000í®3\000\000u√]\000≠0\000\000„f\\\000/s0\000\000 [\000té0\000\000ôY\000eŒ/\000\000£ùX\000ÌK0\000\000°X\000éU0\000\000\n\000ƒûd\000X€4\000\000\n\000º≤d\000B∏4\000\000\n\000âod\000¶π6\000\000\n\000ÛAd\000=∆6\000\000Î„c\000ŒO6\000ˇ\000ﬁ€c\000Ò6\000ˇ\000dc\000÷¯1\000\000\n\000Àib\000Ãc1\000\n\000¯T_\000sã0\000\000\n\000∏YY\000z4\000\000ÿ2Y\000Ôm4\000\000ﬁf\\\000&C7\000\000 ]\000ŒŸ7\000\000s≠^\000hY=\000\000\n\000\\¬^\000*J=\000\000\n\000A_\000âÌ<\000ˇ\000|“_\000äí=\000\000y`\000s\000?\000\000›hY\000åÚ?\000ˇ\000	ñX\000ÏÁ9\000ˇ\000∏._\000ª1\000\000\n\000mU\000h§>\000ˇ\000æ‡U\000`ç=\000\000¬ÆU\000Ù:>\000\000\n\000]¸T\000\000Q>\000\000¥@T\000>\000\000\n\000»ÃS\000û>\000\000˙-S\000¨\000>\000ˇ\000˙-S\000¨\000>\000ˇ", -- [1]
-				"\000*8R\000„=\000\000ÎR\000ëﬁ<\000ˇ\000∞ﬁO\000ÑX<\000\000.ßO\000c;\000\000\n\000sO\000”H9\000\000\n\000<bO\000Ë:9\000\000l÷O\00068\000\000\000ËO\000u˘7\000\000ñP\000Nƒ7\000ˇ\000ãÓM\000|é4\000\000ª[\000Â–F\000\000\n\000åå]\000ONA\000\000\nsQ\000÷VC\000\000_Q\000«0D\000\000\n\000ØvQ\000&≈E\000\000∏∆Q\000äΩF\000\000\n", -- [2]
-				"\000q∂Q\000ÊG\000\000ÁQ\000•PK\000\000ÙØP\000_ZK\000\000ŸN\000±¡L\000\000CÏM\000]⁄J\000\000GN\000K›I\000ˇ\000´|O\000ÇF\000\000y0N\000^$C\000", -- [3]
-				"\000≈ÌN\000SeE\000\000Y∫N\000òE\000\000’àN\000ŸÆE\000\000±õ`\000?≈9\000\000\n", -- [4]
-				"\000‰◊f\000ágQ\000", -- [5]
-				["reaction_5"] = 29,
-				["name_Jesthenis Sunstriker"] = 2,
-				["name_Shara Sunwing"] = 2,
-				["name_Arcanist Ithanas"] = 2,
-				["name_Magistrix Erona"] = 5,
-				["name_Tender"] = 9,
-				["name_Arcane Wraith"] = 11,
-				["name_Faraden Thelryn"] = 1,
-				["level_4"] = 8,
-				["name_Matron Arena"] = 2,
-				["name_Outrunner Alarion"] = 1,
-				["level_3"] = 20,
-				["name_Summoner Teli'Larien"] = 3,
-				["name_Pathstalker Kariel"] = 2,
-				["level_2"] = 6,
-				["level_1"] = 2,
-				["name_Lanthan Perilon"] = 1,
-				["reaction_4"] = 64,
-				["loot_loot"] = {
-					[21010] = 1,
-					[20842] = 9,
-					[20846] = 7,
-					[20843] = 5,
-					[20847] = 9,
-					[20848] = 12,
-					[20482] = 6,
-					[20845] = 13,
-					[20483] = 2,
-				},
-				["level_5"] = 2,
-				["level_6"] = 1,
-				["chat_talk"] = 48,
-				["name_Jainthess Thelryn"] = 2,
-				["loot_count"] = 34,
-				["name_Mana Wyrm"] = 29,
-				["kills"] = 39,
-				["name_Feral Tender"] = 11,
-				["name_Tainted Arcane Wraith"] = 4,
-				["name_Julia Sunstriker"] = 2,
-				["name_Well Watcher Solanian"] = 2,
-				["name_Arcanist Helion"] = 2,
-			},
-			[19] = {
-				"\000\000ıƒe\000Xˆ\000ˇ", -- [1]
-				["reaction_5"] = 1,
-				["level_-1"] = 1,
-				["name_Terenas Menethil"] = 1,
-			},
-			[742] = {
-				"\000Ì0a\000 ı5\000\000úR\000≥˚∑\000\000\n\000K∞\000Ç⁄l\000ˇ\000\000˛òe\000;3ı\000", -- [1]
-				"\000\000p~e\000Äı\000\000qK∏\000ÛÙt\000ˇ", -- [2]
+			[78] = {
+				"\000Ïrú\000=@å\000\000\n\000Ïrú\000=@å\000\000\n\000Ïrú\000=@å\000\000\n\000G<ú\000(å\000\000\n", -- [1]
+				"\000G<ú\000(å\000\000\n\000G<ú\000(å\000\000\n", -- [2]
+				["level_70"] = 3,
+				["name_Purple Hawkstrider"] = 2,
+				["name_Black Hawkstrider"] = 2,
 				["reaction_5"] = 6,
-				["name_Velenren Silentbane"] = 5,
-				["level_-1"] = 3,
-				["chat_talk"] = 17,
-				["name_Warpweaver"] = 1,
+				["name_Blue Hawkstrider"] = 2,
 			},
-			[273] = {
-				"\000\000 ˇe\000aëı\000ˇ", -- [1]
+			[132] = {
+				"\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000\000Z⁄π\000\\>:\000", -- [1]
+				"\000Ûπ\000óP:\000\000\n\000B`∫\000ìπ:\000", -- [2]
+				"\000«€π\000m1:\000", -- [3]
+				["name_Thomas Partridge"] = 1,
+				["reaction_5"] = 6,
+				["reaction_4"] = 1,
+				["name_Stabled Orgrimmar Wolf"] = 1,
+				["shop_45664@@1@@-1@@250000"] = 1,
+				["shop_45672@@1@@-1@@250000"] = 1,
+				["chat_talk"] = 2,
+				["name_Helidan Lightwing"] = 1,
+				["name_Broxel Goldgrasp"] = 1,
+				["name_Stabled Argent Warhorse"] = 1,
+				["shop_45669@@1@@-1@@250000"] = 1,
+				["chat_shop"] = 1,
+				["shop_45673@@1@@-1@@250000"] = 1,
+				["name_Stabled Sunreaver Hawkstrider"] = 1,
+				["name_Stabled Quel'dorei Steed"] = 1,
+				["shop_45674@@1@@-1@@250000"] = 1,
+			},
+			[33] = {
+				"\000Êh|\000Ú∂w\000\000\nˆôv\000uR?\000\000\n", -- [1]
+				["name_Magni Bronzebeard"] = 1,
+				["reaction_5"] = 1,
+				["reaction_4"] = 1,
+				["name_Auctioneer Thathung"] = 1,
+				["level_-1"] = 1,
+				["chat_talk"] = 3,
+				["level_50"] = 1,
+			},
+			[26] = {
+				"\000™>o\000uÊi\000\0002n\000·i\000\000\n", -- [1]
+				["shop_4606@@5@@-1@@475"] = 1,
+				["shop_1708@@5@@-1@@950"] = 1,
+				["shop_4604@@5@@-1@@23"] = 1,
+				["shop_8766@@5@@-1@@3800"] = 1,
+				["chat_shop"] = 1,
+				["level_30"] = 1,
+				["shop_4607@@5@@-1@@950"] = 1,
+				["shop_4608@@5@@-1@@1900"] = 1,
+				["chat_talk"] = 4,
+				["shop_4605@@5@@-1@@118"] = 1,
+				["name_Innkeeper Bates"] = 2,
+				["reaction_5"] = 2,
+				["shop_8948@@5@@-1@@3800"] = 1,
+				["shop_159@@5@@-1@@23"] = 1,
+				["shop_1205@@5@@-1@@475"] = 1,
+				["shop_1645@@5@@-1@@1900"] = 1,
+				["shop_1179@@5@@-1@@118"] = 1,
+			},
+			[214] = {
+				"\000\000Öáe\000&µı\000", -- [1]
 				["reaction_5"] = 1,
 				["level_80"] = 1,
-				["name_Dobbs Hartford"] = 1,
+				["chat_talk"] = 4,
+				["name_Caylia Sunburst"] = 1,
+			},
+			[138] = {
+				"\000ÁG∫\000L2>\000ˇ", -- [1]
+				["reaction_2"] = 1,
+				["name_Icehowl"] = 1,
+			},
+			[109] = {
+				"\000Û,ã\000ª\"Ç\000\000\n", -- [1]
+				["name_Silvermoon Dragonhawk"] = 1,
+				["reaction_6"] = 1,
+				["level_65"] = 1,
+			},
+			[110] = {
+				"\000π´¨\000}îm\000\n\000qK∏\000ÛÙt\000ˇ", -- [1]
+				["reaction_4"] = 2,
+				["level_80"] = 1,
+				["name_Archmage Pentarus"] = 2,
+				["chat_talk"] = 1,
+			},
+			[390] = {
+				"\000\000ä•e\000tÅı\000\000\n", -- [1]
+				["name_Kristofer Royal"] = 1,
+				["level_-1"] = 1,
+				["chat_talk"] = 1,
+				["reaction_5"] = 1,
+			},
+			[112] = {
+				"\000õ∑\000®0s\000\000\n\000/˙∑\000O\000s\000\000\n", -- [1]
+				"\000,∂\000ˇx\000\n", -- [2]
+				["level_75"] = 1,
+				["name_Aludane Whitecloud"] = 3,
+				["reaction_4"] = 3,
+				["chat_talk"] = 3,
+			},
+			[113] = {
+				"\000\n*∫t\000Õœ=\000ˇ", -- [1]
+				["shop_40035@@1@@-1@@50"] = 1,
+				["shop_33444@@5@@-1@@8500"] = 1,
+				["name_Arille Azuregaze"] = 1,
+				["level_75"] = 1,
+				["shop_35954@@5@@-1@@6000"] = 1,
+				["chat_shop"] = 1,
+				["shop_40042@@1@@-1@@1500"] = 1,
+				["shop_40036@@1@@-1@@150"] = 1,
+				["shop_33445@@5@@-1@@11000"] = 1,
+				["reaction_4"] = 1,
+			},
+			[114] = {
+				"\000Ëú\000WS\000\000Sßå\000Ï~_\000\000\n\000\nì¨t\000tt>\000ˇ\000\n∏£t\000zb>\000ˇ\000\nÌœs\0000=\000\000\nVör\0005÷<\000ˇ\000\nG4r\000˙Ω<\000ˇ\000\nÆ\rq\000\n±=\000", -- [1]
+				["reaction_4"] = 2,
+				["level_78"] = 2,
+				["loot_loot"] = {
+					[43852] = 1,
+					[42780] = 2,
+					[37097] = 1,
+					["gold"] = 17740,
+				},
+				["level_80"] = 2,
+				["name_Stormforged Raider"] = 6,
+				["kills"] = 4,
+				["name_Sunreaver Guardian Mage"] = 2,
+				["level_79"] = 4,
+				["loot_count"] = 4,
+				["reaction_2"] = 6,
+			},
+			[115] = {
+				"\000\nÄAl\000‚f“\000ˇ\000\nßor\000Ã<\000", -- [1]
+				"\000\n.q\000∫=\000", -- [2]
+				["reaction_2"] = 1,
+				["reaction_5"] = 2,
+				["name_Earthen Defender"] = 2,
+				["level_77"] = 1,
+				["level_79"] = 2,
+				["name_Snowblind Follower"] = 1,
+			},
+			[116] = {
+				"\000\n„q\000C˝G\000\000\n", -- [1]
+				["name_Shavalius the Fancy"] = 1,
+				["level_80"] = 1,
+				["reaction_5"] = 1,
+			},
+			[234] = {
+				"\000\000≤òe\000ó1ı\000ˇ\000\000{e\000üàı\000", -- [1]
+				["name_Drohem Leanfeather"] = 1,
+				["reaction_4"] = 1,
+				["name_Lehtu Longrange"] = 1,
+				["reaction_1"] = 1,
+				["chat_talk"] = 2,
+				["level_80"] = 2,
+			},
+			[118] = {
+				"\000f∞\000êXl\000ˇ\000	\\∞\000Øl\000\000⁄U∞\000©≤l\000ˇ\000ﬂÊπ\000å:\000\000\n", -- [1]
+				["name_Skybreaker Marine"] = 3,
+				["reaction_5"] = 3,
+				["level_80"] = 3,
+				["reaction_1"] = 1,
+				["name_Silver Covenant Hippogryph"] = 1,
 			},
 			[119] = {
 				"\000\nêEg\000XDÿ\000ˇ", -- [1]
@@ -5441,77 +6383,30 @@ QuestHelper_Collector = {
 				["name_Weathered Flying Machine"] = 1,
 				["level_77"] = 1,
 			},
-			[143] = {
-				"\000Âıß\0007ÅS\000ˇ", -- [1]
-				["level_80"] = 1,
-				["reaction_4"] = 1,
-				["name_Magister Hathorel"] = 1,
-			},
-			[57] = {
-				"\000\0006we\000.õı\000", -- [1]
-				["chat_talk"] = 1,
-				["name_Professor Thaddeus Paleo"] = 1,
-				["reaction_4"] = 1,
-				["level_35"] = 1,
-			},
-			[82] = {
-				"\000∏(a\000æ†5\000", -- [1]
-				["name_Senior Sergeant Eveningshade"] = 1,
-				["reaction_5"] = 1,
-			},
-			[60] = {
-				"\000∏(a\000æ†5\000\000∏(a\000æ†5\000ˇ\000±c\000óé6\000\000\n\000yd\000I{4\000\000nMc\000QŸ1\000ˇ\000˙ua\000\r6\000ˇ\000xa\000›6\000\000xa\000›6\000\000\n\000í^\000YÅ1\000\000∆ _\000∂4\000ˇ\000D_\000\n4\000ˇ\000ö˙d\000≤Ω4\000\000d\000d©6\000\n\000¢e\000]í4\000\000»Ÿ]\000M¿8\000\000˙¬]\000Ê8\000\000¯ [\000Èø;\000ˇ\000gW\000J<\000\000çíU\000¡*;\000\000*©T\000_Ù:\000ˇ\000ÿ«T\000q”8\000ˇ\000cx\\\000Ì˙9\000ˇ\00011]\000≈¨;\000\000\n\000Ä…[\000”p9\000\n\000pX\000O8\000\000\n\000Y\000í0=\000\000wM[\000ÒÆ=\000\000\n\000\\9]\000˘CB\000\000≤b\000	6\000\000¬\"b\000.6\000\n\000êa\000Ü/3\000\000ÀN\000*°E\000\000\n", -- [1]
-				"\000pb\000oI\000ˇ\000∫uv\000G#v\000ˇ\000G{\0005≈u\000\000\n\000)\r{\000%%z\000\000\n", -- [2]
-				["level_65"] = 3,
-				["reaction_5"] = 19,
-				["name_Sunstrider Guardian"] = 11,
-				["name_Marsilla Dawnstar"] = 1,
-				["name_Yasmine Teli'Larien"] = 2,
-				["kills"] = 12,
-				["level_3"] = 2,
-				["level_30"] = 3,
-				["level_2"] = 1,
-				["name_Innkeeper Delaniel"] = 1,
-				["reaction_4"] = 17,
-				["level_5"] = 2,
-				["chat_talk"] = 3,
-				["loot_count"] = 11,
-				["name_Aeldon Sunbrand"] = 1,
-				["name_Magister Jaronis"] = 1,
-				["loot_loot"] = {
-					[20812] = 11,
-					[20813] = 6,
-					[20797] = 8,
-					[21011] = 1,
-				},
-				["name_Felendren the Banished"] = 1,
-				["name_Springpaw Cub"] = 8,
-				["name_Ranger Sallina"] = 2,
-				["name_Springpaw Lynx"] = 8,
-			},
-			[73] = {
-				"\000Øãy\000yéu\000", -- [1]
-				["name_Kyrenna"] = 1,
-				["reaction_5"] = 1,
-				["level_10"] = 1,
-			},
-			[64] = {
-				"\000\000ßÙç\000wd8\000ˇ", -- [1]
-				["reaction_5"] = 1,
-				["name_Ghostlands Guardian"] = 1,
-			},
-			[13] = {
-				"\000º”É\000–¬M\000ˇ\0006°\000ß{a\000ˇ", -- [1]
-				["name_Wharfmaster Dizzywig"] = 1,
-				["reaction_5"] = 1,
-				["reaction_4"] = 1,
-				["name_Thork"] = 1,
+			[71] = {
+				"\000√cÿ\000´éç\000ˇ\000„bÿ\000ø√å\000ˇ\000œbÿ\000à≠å\000ˇ\000‚Rÿ\000Á2~\000\000\n\0002Rÿ\000VÄ}\000\000\n\000Ü¡ß\000¬/=\000ˇ\000ÖÊƒ\000êü≤\000\000ÿ`◊\000<9Ä\000\000\n", -- [1]
+				"\000lä\000≠8É\000\000\n\000A◊\000∑è\000ˇ\000ÒA◊\000rƒé\000ˇ\000∂C◊\000¿⁄å\000ˇ", -- [2]
+				"\000≈E◊\000Uúä\000ˇ", -- [3]
+				["level_20"] = 1,
+				["reaction_5"] = 5,
+				["reaction_4"] = 3,
+				["name_Lelorian"] = 1,
+				["name_Dela Runetotem"] = 1,
+				["name_Kinamisa"] = 1,
+				["name_Cheneta"] = 2,
+				["name_Tatai"] = 2,
+				["level_60"] = 9,
+				["name_Trayanise"] = 1,
+				["name_Kristine Denny"] = 2,
+				["name_Ambassador Kelemar"] = 2,
+				["reaction_6"] = 5,
+				["name_Olirea"] = 1,
+				["level_12"] = 1,
 			},
 		},
 		["warp"] = {
-			"\000\000@æï\000c-t\000\0006é\000G¶\000\000Áu&\000(±õ\000\000âa]\000ªÑ\000\000)L¢\000øΩ\000\000¿Y\000+Ã$\000\000∞Ñ\000€ÒM\000\000%\000∆ù£\000\000£Pá\000gP\000\000eS%\0004ñß\000\000∂„¢\000\nb\000\0008*Z\000M⁄À\000\000öBb\000®f5\000\000\000v/ï\000ü€t\000\000:6\000}∏\000\000\000ßÙç\000wd8\000\000å•p\000ùÙ\000\000÷Ÿt\000iÍ\000\000≠Ìè\000‚ª|\000\000,“¥\000€·\000\000ƒCß\000Íô\000\000—ˆˇm◊¡ˇ\000ÿb\000jn5\000\000\000˝ß}\000Ù{g\000\000¥Wò\0002ÈS\000\000ú:S\000±W\000\000€Oû\0000úq\000\000‘8»\000V«‹\000\000Ç∏\000_õt\000\000€Â\\\000e¸`\000\000?≤\000Wüh\000\000[\000‘T]\000", -- [1]
-			"\000êp©\000ò‚v\000\000«nX\000?Æa\000\000êp©\000ò‚v\000\000\000Ä¬e\000?ˆ\000\000\0004te\000∏Wı\000\000/©\000üÙv\000\000∆Ö’\000´¥k\000\000‰e\000RB^\000\000ûcÊ\000,ÛÀ\000\000\nˆ|I\000ıt›\000\000\nÿß>\000∑¿«\000\000∞ ⁄\000Oc≥\000\000T⁄\000˝\n÷\000\000≥∑~\000H™P\000\000y&m\000∞q\000\000#Ì\000%´\000", -- [2]
-			"\000qK∏\000ÛÙt\000\000¨¿1\000™n•˚\000ÁG∫\000L2>\000\000Ùj…\000G‘ÿ\000", -- [3]
+			"\000\000@æï\000c-t\000\0006é\000G¶\000\000Áu&\000(±õ\000\000âa]\000ªÑ\000\000)L¢\000øΩ\000\000¿Y\000+Ã$\000\000∞Ñ\000€ÒM\000\000%\000∆ù£\000\000£Pá\000gP\000\000eS%\0004ñß\000\000∂„¢\000\nb\000\0008*Z\000M⁄À\000\000öBb\000®f5\000\000\000v/ï\000ü€t\000\000:6\000}∏\000\000\000ßÙç\000wd8\000\000å•p\000ùÙ\000\000÷Ÿt\000iÍ\000\000≠Ìè\000‚ª|\000\000,“¥\000€·\000\000ƒCß\000Íô\000\000—ˆˇm◊¡ˇ\000ÿb\000jn5\000\000\000˝ß}\000Ù{g\000\000¥Wò\0002ÈS\000\000ú:S\000±W\000\000€Oû\0000úq\000\000‘8»\000V«‹\000\000Ç∏\000_õt\000\000€Â\\\000e¸`\000\000?≤\000Wüh\000\000[\000‘T]\000\000êp©\000ò‚v\000\000«nX\000?Æa\000\000êp©\000ò‚v\000\000\000Ä¬e\000?ˆ\000\000\0004te\000∏Wı\000\000/©\000üÙv\000\000∆Ö’\000´¥k\000\000‰e\000RB^\000\000ûcÊ\000,ÛÀ\000\000\nˆ|I\000ıt›\000\000\nÿß>\000∑¿«\000\000∞ ⁄\000Oc≥\000\000T⁄\000˝\n÷\000\000≥∑~\000H™P\000\000y&m\000∞q\000\000#Ì\000%´\000\000qK∏\000ÛÙt\000\000¨¿1\000™n•˚\000ÁG∫\000L2>\000\000Ùj…\000G‘ÿ\000\000|\000æu\000\000æ7d\000\000k≈\000\000éw\000¥2~\000\000…¨O\000€‹Á\000\000ûß{\000;«Ÿ\000\000ŸŒz\000¡\000\000ÈM}\000@Ï„\000\000E}\000ú?\000\000´Jz\000‰#¿\000\000‡{\000\"z\000\000‰Ìè\000€∂|\000\000‹“¥\000ø√·\000\000Çâ±\000vñ\000\000 è\000ü5j\000\0003á—\000lPï\000\000ˇñ\000TÏi\000\000,tÎ\000à`\000\000+^ù\000<“\\\000\000™È\000ö_`\000\000_Ìú\000	Í\\\000\000_Ìú\000	Í\\\000\000™È\000ö_`\000\000™È\000ö_`\000\000_Ìú\000	Í\\\000\000I⁄\000x3X\000\000¢#ô\000ûÊZ\000\000ò¨ \000Óm\000\000„Mï\000 >`\000\000õæ\000ÛGb\000\000f1í\000b]\000\000Ôë\000S7]\000\000ä?π\000vïa\000\000ÔÙ´\000<Ó/\000\000íøç\000œQ\000\000√@´\000{*+\000\000Aìç\000◊O\000\000\nã´\000\"0\000\000Ü•ç\000.BQ\000\000\nã´\000\"0\000\000Ü•ç\000.BQ\000\000ˆ˝ò\000—cF\000\000eâ\000nÜV\000\000$¨~\0006·%\000\000Äm¸U¶_\000´q©\000”\000\000Èü\n\000ÆBÖ\000\000Ësù\000Ù-à\000\000Æ	\000çe\000\000\000.úp\000»5T\000\000!¶ù\000‡Gá\000\000cï\000Ë°\000\000¿3\000\\:\000\000’mä\000x⁄√\000\000tTÆ\0007?\000\000>\"°\000Æ\000\000(~\000ÃX–\000\000>ôê\000zT#\000\000, n\000±QŸ\000\000˙ã\000ß—+\000\000ì~j\000Ø5·\000\000~ÛÜ\000Æﬁ5\000\000à“e\000≈çÍ\000\000nO\000Ï‹F\000\000rπ^\000øX˙\000\000\000’›g\000ññd\000\0002n\000·i\000\000\000’›g\000ññd\000\0002n\000·i\000\000á“≠\000–#\000\000QÙâ\000\000¡√\000\000û’Ø\000fÄ\000\000””ã\000ÉïΩ\000\000e \000´k)˚\000îµù\000 í•\000\000•∏å\000™Ö\000\000 °Å\000I*\000", -- [1]
+			"\000Ä‡\000Ωk`\000\000∫™ö\000ÉÏ\\\000\0007NŸ\000>i\000\000=Áò\000__\000\000EÁ˘dqˇ˝\000çt≥\000∑úò\000\000\000ı®ê\000≈Œ$\000\000çt≥\000∑úò\000\000oàØ\000˝ƒ\000\000À†é\000lu\000\000Dë\000C z\000\0009D∫\000⁄\000\000,˙∏\000ıhÛ\000\000ûÛê\000ΩÅ\000\000„-í\000m≥|\000\000º˜Ω\000#≤·\000\000\000q‹ê\000f≠&\000\0007∫\000öá◊\000\000ˆîπ\000c∂⁄\000\000êë\000ó˘z\000\000¡ë\000‹2Å\000\000©|π\000%Ù\000\000¿2ù\000/ô›\000\000iﬂ¨\000⁄“\000\000±´\000Û-\000\000iú\000hâ‰\000\000§í\000Ä∞|\000\000ı•Ω\000(¶·\000\000(Ò∫\000l©”\000\0006oë\000>y\000\000√E∏\000lÎ\000\000T»ê\000®\000\0001í\000Ω√|\000\000ªæ\000|ı·\000\000`€ö\000÷ù£\000\000∆äâ\000›om\000\0005í\0001Cí\000\000‘]á\000;,i\000\000 O}\000/Ö&\000\000Äm¸U¶_\000ó—©\000ªπˇˇ\000ﬂnû\000br¶\000\000ﬂ\"¢\000∞ƒ_\000\nõd\000å‘ö\000\000\nFR\000å¥}\000\000„çø\000ºÓ\000\000\nÂ’Q\000Ú~\000\000ø\000nÔ\000\000∏ò‰\000XÛ(\000\nõd\000å‘ö\000\000\nf˛Q\000y÷}\000\000∫hø\000œ\000Ô\000\000∏ò‰\000XÛ(\000\nõd\000å‘ö\000\000\nä\nR\000√µ}\000\000˘Äø\000døÓ\000\000∏ò‰\000XÛ(\000\nõd\000å‘ö\000\000\n~÷Q\000È~\000\000Aø\000rÔ\000\000X&⁄\000R˜\000ãû\000üAó\000\000ï…«\000yD´\000\000oM~\000Èá\\", -- [2]
 		},
 		["flight_times"] = {
 			["Tranquillien, Ghostlands@@Booty Bay, Stranglethorn"] = {
@@ -5578,6 +6473,9 @@ QuestHelper_Collector = {
 			["Tranquillien, Ghostlands@@Kargath, Badlands"] = {
 				["0.609614:0.654771@@0.589948:0.551901@@0.547461:0.542143"] = true,
 			},
+			["The Sepulcher, Silverpine Forest@@Silvermoon City"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
 			["Tranquillien, Ghostlands@@Grom'gol, Stranglethorn"] = {
 				["0.609614:0.654771@@0.589948:0.551901@@0.547461:0.542143@@0.501738:0.343611"] = true,
 			},
@@ -5611,11 +6509,17 @@ QuestHelper_Collector = {
 			["Tranquillien, Ghostlands@@Northpass Tower, Eastern Plaguelands"] = {
 				["@@@ WACKYLAND NONE 999998 @@@"] = true,
 			},
+			["Grom'gol, Stranglethorn@@The Sepulcher, Silverpine Forest"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
+			},
 			["Tranquillien, Ghostlands@@Crown Guard Tower, Eastern Plaguelands"] = {
 				["@@@ WACKYLAND NONE 999998 @@@"] = true,
 			},
 			["Tranquillien, Ghostlands@@Revantusk Village, The Hinterlands"] = {
 				["0.609614:0.654771"] = true,
+			},
+			["Grom'gol, Stranglethorn@@Silvermoon City"] = {
+				["@@@ WACKYLAND NONE 999998 @@@"] = true,
 			},
 			["Tranquillien, Ghostlands@@Eversong - Duskwither Teleport End"] = {
 				["@@@ WACKYLAND NONE 999998 @@@"] = true,
@@ -5748,7 +6652,7 @@ QuestHelper_Collector = {
 				["@@@ WACKYLAND NONE 999998 @@@"] = true,
 			},
 		},
-		["modified"] = 1586453432,
+		["modified"] = 1587120359,
 		["flight_master"] = {
 			[""] = {
 				["y"] = 0.5739583373069763,
@@ -5777,6 +6681,7 @@ QuestHelper_Collector = {
 			["The Sepulcher, Silverpine Forest"] = {
 				["y"] = 0.5905854105949402,
 				["x"] = 0.3726878464221954,
+				["master"] = 8,
 			},
 			["Quest - Naglevar"] = {
 				["y"] = 0.5739583373069763,
@@ -5885,6 +6790,7 @@ QuestHelper_Collector = {
 			["Grom'gol, Stranglethorn"] = {
 				["y"] = 0.1429104208946228,
 				["x"] = 0.4209621548652649,
+				["master"] = 5,
 			},
 			["Transport, Southshore"] = {
 				["y"] = 0.5397073030471802,
@@ -6059,6 +6965,7 @@ QuestHelper_Collector = {
 			["Silvermoon City"] = {
 				["y"] = 0.8161541819572449,
 				["x"] = 0.5915239453315735,
+				["master"] = 63,
 			},
 			["Flame Crest, Burning Steppes"] = {
 				["y"] = 0.3134017288684845,
@@ -6066,60 +6973,275 @@ QuestHelper_Collector = {
 			},
 		},
 		["achievement"] = {
+			[2556] = {
+				[9371] = "2n\000·i\000",
+			},
+			[7] = {
+				["achieved"] = "ÄÄ\000\000\000Ä\000\000\000Ä",
+			},
+			[633] = {
+				["achieved"] = "lÓÄ\000OJ©\000",
+			},
+			[8] = {
+				["achieved"] = "@„Ä\000ÆW©\000",
+			},
+			[1269] = {
+				[5852] = "\000\n¥¨q\000ÊG\000",
+			},
+			[635] = {
+				["achieved"] = "`€ö\000÷ù£\000",
+			},
+			[776] = {
+				[1149] = "'˝ã\000;ƒº\000",
+			},
+			[2716] = {
+				["achieved"] = "\000\000Ô•e\000ZÃı\000",
+			},
 			[858] = {
 				[1504] = "\000V-w\000îN\000",
-			},
-			[6] = {
-				["achieved"] = "\000a\000\\5\000",
+				[1538] = "\0009≠\000À™\000",
 			},
 			[750] = {
 				[929] = "\000Å±ö\000œL^\000",
 				[930] = "\000“§\000)e\000",
 			},
-			[2716] = {
-				["achieved"] = "\000\000Ô•e\000ZÃı\000",
-			},
 			[859] = {
+				[1511] = "\000JPZ\000Â≠\000",
+				[1530] = "\000_‚ö\000ã\000\000πwõ\000_√ã\000",
 				[1508] = "\000Ì0a\000 ı5\000\000ÁIa\00026\000",
-				[1530] = "\000_‚ö\000ã\000",
-				[1521] = "\000b‚è\000éS}\000",
-				[1509] = "\000P@e\000»‘N\000",
+				[1525] = "\000b“ù\000h™ÿ\000",
+				[1509] = "\000P@e\000»‘N\000\000le\000˛˚O\000",
+				[1513] = "\0008DÖ\000©±\000",
+				[1517] = "\000kOp\000ﬂ\r≠\000",
+				[1521] = "\000b‚è\000éS}\000\000¿Ìè\000Ω|\000",
+				[1510] = "\000—£]\000ì\000",
+				[1529] = "\000D\000›Z∞\000",
+				[1518] = "\000k·â\000%R∑\000",
+				[1532] = "\000Ûù\000|ûø\000",
+				[1514] = "\000ß∆ú\000Èdö\000",
+			},
+			[781] = {
+				[1218] = "\000˝;\000ã≤\\",
+				[1198] = "\000!}L\000™I\000",
+			},
+			[891] = {
+				["achieved"] = "\000≥\000êΩu\000\000HÍ\000à'^\000",
+			},
+			[6] = {
+				["achieved"] = "\000a\000\\5\000\000–bC\000xÆ\000",
+			},
+			[768] = {
+				[1043] = "\0003Dù\000¿$ä\000",
+				[1047] = "\000QH¿\000£·¶\000",
+				[1045] = "\000Äm¸U¶_",
+			},
+			[238] = {
+				["achieved"] = "]\000˙œ™\000",
+			},
+			[769] = {
+				[1053] = "\000%ï\000¸t\000",
+				[1060] = "\000\nµv\000]j\000",
+			},
+			[630] = {
+				["achieved"] = "2n\000·i\000",
 			},
 			[728] = {
 				[832] = "\000‹i\000∞ ∏\000",
 			},
-			[891] = {
-				["achieved"] = "\000≥\000êΩu\000",
-			},
-			[1269] = {
-				[5852] = "\000\n¥¨q\000ÊG\000",
-			},
 		},
 		["item"] = {
-			[2449] = {
-				["open_no"] = 14,
-				["type"] = "Trade Goods/Herb",
-				["name"] = "Earthroot",
-				["ilevel"] = 10,
+			[39919] = {
+				["open_no"] = 18,
+				["type"] = "Gem/Blue",
+				["name"] = "Solid Chalcedony",
+				["ilevel"] = 70,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[41516] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Gloves",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 47,
+				["quality"] = 3,
+			},
+			[48718] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Maces",
+				["name"] = "Repurposed Lava Dredger",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 4,
+				["quality"] = 7,
+			},
+			[36981] = {
+				["equiplocation"] = "THROWN",
+				["type"] = "Weapon/Thrown",
+				["name"] = "Hardened Vrykul Throwing Axe",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[3030] = {
+				["equiplocation"] = "AMMO",
+				["type"] = "Projectile/Arrow",
+				["name"] = "Razor Arrow",
+				["ilevel"] = 30,
+				["minlevel"] = 25,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[1774] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Brocade Cloak",
+				["ilevel"] = 24,
+				["minlevel"] = 19,
+				["open_no"] = 180,
+				["quality"] = 0,
+			},
+			[4538] = {
+				["open_no"] = 234,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Snapvine Watermelon",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[4540] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Tough Hunk of Bread",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[46882] = {
+				["open_no"] = 118,
+				["type"] = "Quest/Quest",
+				["name"] = "Riding Training Pamphlet",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[5059] = {
+				["open_no"] = 20,
+				["type"] = "Quest/Quest",
+				["name"] = "Digging Claw",
+				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[52] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Cloth",
-				["name"] = "Neophyte's Pants",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
+			[5075] = {
 				["open_no"] = 10,
+				["type"] = "Quest/Quest",
+				["name"] = "Blood Shard",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[38898] = {
+				["open_no"] = 138,
+				["type"] = "Consumable/Item Enhancement",
+				["name"] = "Scroll of Enchant Bracer - Stats",
+				["ilevel"] = 63,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[159] = {
+				["open_no"] = 36,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Refreshing Spring Water",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[765] = {
+				["open_no"] = 62,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Silverleaf",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[5085] = {
+				["open_no"] = 6,
+				["type"] = "Quest/Quest",
+				["name"] = "Bristleback Quilboar Tusk",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[44663] = {
+				["open_no"] = 20,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Abandoned Adventurer's Satchel",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20838] = {
+				["equiplocation"] = "RANGED",
+				["type"] = "Weapon/Bows",
+				["name"] = "Sunstrider Bow",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 1,
+			},
+			[20846] = {
+				["open_no"] = 102,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Faintly Glowing Eye",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
 				["quality"] = 0,
 			},
-			[43102] = {
-				["open_no"] = 4,
-				["type"] = "Trade Goods/Other",
-				["name"] = "Frozen Orb",
-				["ilevel"] = 80,
+			[21876] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Primal Mooncloth Bag",
+				["ilevel"] = 70,
 				["minlevel"] = 0,
+				["open_no"] = 52,
 				["quality"] = 3,
+			},
+			[50428] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Royal Scepter of Terenas II",
+				["ilevel"] = 271,
+				["minlevel"] = 80,
+				["open_no"] = 522,
+				["quality"] = 4,
+			},
+			[4604] = {
+				["open_no"] = 50,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Forest Mushroom Cap",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[4606] = {
+				["open_no"] = 4,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Spongy Morel",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[2569] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Cloth",
+				["name"] = "Linen Boots",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 8,
+				["quality"] = 2,
 			},
 			[20471] = {
 				["open_no"] = 4,
@@ -6129,144 +7251,70 @@ QuestHelper_Collector = {
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[2583] = {
-				["equiplocation"] = "FEET",
+			[20998] = {
+				["equiplocation"] = "WAIST",
 				["type"] = "Armor/Cloth",
-				["name"] = "Woolen Boots",
-				["ilevel"] = 19,
-				["minlevel"] = 14,
-				["open_no"] = 2,
-				["quality"] = 2,
-			},
-			[20993] = {
-				["equiplocation"] = "HAND",
-				["type"] = "Armor/Leather",
-				["name"] = "Lynxskin Gloves",
+				["name"] = "Wyrm Sash",
 				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 4,
-				["quality"] = 1,
-			},
-			[20997] = {
-				["equiplocation"] = "FEET",
-				["type"] = "Armor/Mail",
-				["name"] = "Green Chain Boots",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["equip_yes"] = "I24146i2NB03",
-				["open_no"] = 50,
-				["quality"] = 1,
-			},
-			[21001] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Cloth",
-				["name"] = "Striding Pants",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 38,
-				["quality"] = 1,
-			},
-			[42417] = {
-				["open_no"] = 28,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Spirit of Redemption",
-				["ilevel"] = 35,
-				["minlevel"] = 30,
-				["quality"] = 1,
-			},
-			[43971] = {
-				["equiplocation"] = "HEAD",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Cowl",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 92,
-				["quality"] = 3,
-			},
-			[6948] = {
-				["open_no"] = 152,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Hearthstone",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[42991] = {
-				["equiplocation"] = "TRINKET",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Swift Hand of Justice",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 66,
-				["quality"] = 7,
-			},
-			[29221] = {
-				["open_no"] = 16,
-				["type"] = "Miscellaneous/Mount",
-				["name"] = "Black Hawkstrider",
-				["ilevel"] = 20,
-				["minlevel"] = 20,
-				["quality"] = 3,
-			},
-			[53486] = {
-				["equiplocation"] = "WRIST",
-				["type"] = "Armor/Cloth",
-				["name"] = "Bracers of Fiery Night",
-				["ilevel"] = 271,
-				["minlevel"] = 80,
-				["open_no"] = 46,
-				["quality"] = 4,
-			},
-			[45087] = {
-				["open_no"] = 2,
-				["type"] = "Trade Goods/Other",
-				["name"] = "Runed Orb",
-				["ilevel"] = 80,
-				["minlevel"] = 0,
-				["quality"] = 3,
-			},
-			[16746] = {
-				["open_no"] = 20,
-				["type"] = "Quest/Quest",
-				["name"] = "Warsong Report",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[24145] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Cloth",
-				["name"] = "Initiate's Pants",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["open_no"] = 20,
-				["quality"] = 0,
-			},
-			[48689] = {
-				["equiplocation"] = "CHEST",
-				["type"] = "Armor/Leather",
-				["name"] = "Stained Shadowcraft Tunic",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["open_no"] = 14,
-				["quality"] = 7,
-			},
-			[44107] = {
-				["equiplocation"] = "SHOULDER",
-				["type"] = "Armor/Cloth",
-				["name"] = "Exquisite Sunderseer Mantle",
-				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["open_no"] = 40,
-				["quality"] = 7,
+				["quality"] = 1,
 			},
-			[20846] = {
-				["open_no"] = 78,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Faintly Glowing Eye",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 0,
+			[43482] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Savage Titanium Ring",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 34,
+				["quality"] = 3,
+			},
+			[43498] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Savage Titanium Band",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 68,
+				["quality"] = 3,
+			},
+			[50684] = {
+				["equiplocation"] = "RANGEDRIGHT",
+				["type"] = "Weapon/Wands",
+				["name"] = "Corpse-Impaling Spike",
+				["ilevel"] = 277,
+				["minlevel"] = 80,
+				["open_no"] = 282,
+				["quality"] = 4,
+			},
+			[14371] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Mystic's Robe",
+				["ilevel"] = 23,
+				["minlevel"] = 18,
+				["open_no"] = 12,
+				["quality"] = 2,
+			},
+			[1802] = {
+				["equip_no"] = "I6527i2NB21",
+			},
+			[51259] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Sanctified Crimson Acolyte Raiments",
+				["ilevel"] = 277,
+				["minlevel"] = 80,
+				["open_no"] = 150,
+				["quality"] = 4,
+			},
+			[2070] = {
+				["open_no"] = 28,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Darnassian Bleu",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
 			},
 			[36983] = {
 				["equiplocation"] = "CLOAK",
@@ -6277,40 +7325,42 @@ QuestHelper_Collector = {
 				["open_no"] = 52,
 				["quality"] = 3,
 			},
-			[33445] = {
-				["open_no"] = 6,
-				["type"] = "Consumable/Food & Drink",
-				["name"] = "Honeymint Tea",
-				["ilevel"] = 85,
-				["minlevel"] = 75,
-				["quality"] = 1,
+			[41598] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Enchanting Bag",
+				["name"] = "Mysterious Bag",
+				["ilevel"] = 80,
+				["minlevel"] = 0,
+				["open_no"] = 18,
+				["quality"] = 3,
 			},
-			[42944] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/Daggers",
-				["name"] = "Balanced Heartseeker",
+			[33470] = {
+			},
+			[24184] = {
+				["open_no"] = 6,
+				["type"] = "Quest/Quest",
+				["name"] = "Filled Shimmering Vessel",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
-				["open_no"] = 2,
-				["quality"] = 7,
+				["quality"] = 1,
 			},
-			[43972] = {
-				["equiplocation"] = "ROBE",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Robe",
+			[37079] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Enchanted Wire Stitching",
 				["ilevel"] = 187,
 				["minlevel"] = 78,
-				["equip_yes"] = "I48691i2PB804",
-				["open_no"] = 58,
+				["equip_yes"] = "I50255i2PB804",
+				["open_no"] = 86,
 				["quality"] = 3,
 			},
-			[38880] = {
-				["open_no"] = 16,
-				["type"] = "Consumable/Item Enhancement",
-				["name"] = "Scroll of Enchant Weapon - Agility",
-				["ilevel"] = 58,
+			[2589] = {
+				["open_no"] = 302,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Linen Cloth",
+				["ilevel"] = 5,
 				["minlevel"] = 0,
-				["quality"] = 3,
+				["quality"] = 1,
 			},
 			[37111] = {
 				["equiplocation"] = "TRINKET",
@@ -6321,49 +7371,63 @@ QuestHelper_Collector = {
 				["open_no"] = 112,
 				["quality"] = 3,
 			},
-			[42992] = {
-				["equiplocation"] = "TRINKET",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Discerning Eye of the Beast",
-				["ilevel"] = 1,
+			[2592] = {
+				["open_no"] = 570,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Wool Cloth",
+				["ilevel"] = 15,
 				["minlevel"] = 0,
-				["open_no"] = 74,
-				["quality"] = 7,
-			},
-			[40211] = {
-				["open_no"] = 6,
-				["type"] = "Consumable/Potion",
-				["name"] = "Potion of Speed",
-				["ilevel"] = 80,
-				["minlevel"] = 70,
 				["quality"] = 1,
 			},
-			[51184] = {
-				["equiplocation"] = "HEAD",
-				["type"] = "Armor/Cloth",
-				["name"] = "Sanctified Crimson Acolyte Cowl",
-				["ilevel"] = 264,
+			[42780] = {
+				["open_no"] = 6,
+				["type"] = "Quest/Quest",
+				["name"] = "Relic of Ulduar",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[40752] = {
+				["open_no"] = 34,
+				["type"] = "Money/Money(OBSOLETE)",
+				["name"] = "Emblem of Heroism",
+				["ilevel"] = 80,
 				["minlevel"] = 80,
-				["open_no"] = 525,
 				["quality"] = 4,
 			},
-			[51973] = {
+			[4676] = {
 				["equiplocation"] = "HAND",
-				["type"] = "Armor/Cloth",
-				["name"] = "Enumerated Handwraps",
-				["ilevel"] = 35,
+				["type"] = "Armor/Mail",
+				["name"] = "Skeletal Gauntlets",
+				["ilevel"] = 17,
+				["minlevel"] = 12,
+				["open_no"] = 20,
+				["quality"] = 2,
+			},
+			[779] = {
+				["open_no"] = 60,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Shiny Seashell",
+				["ilevel"] = 1,
 				["minlevel"] = 0,
-				["open_no"] = 2,
+				["quality"] = 0,
+			},
+			[38884] = {
+				["open_no"] = 104,
+				["type"] = "Consumable/Item Enhancement",
+				["name"] = "Scroll of Enchant Weapon - Mighty Intellect",
+				["ilevel"] = 70,
+				["minlevel"] = 0,
 				["quality"] = 3,
 			},
-			[50714] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Valanar's Other Signet Ring",
-				["ilevel"] = 277,
-				["minlevel"] = 80,
-				["open_no"] = 2,
-				["quality"] = 4,
+			[4694] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Mail",
+				["name"] = "Burnished Pauldrons",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 46,
+				["quality"] = 1,
 			},
 			[5209] = {
 				["equiplocation"] = "RANGEDRIGHT",
@@ -6374,65 +7438,77 @@ QuestHelper_Collector = {
 				["open_no"] = 2,
 				["quality"] = 1,
 			},
-			[2996] = {
-				["open_no"] = 12,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Bolt of Linen Cloth",
-				["ilevel"] = 10,
-				["minlevel"] = 0,
-				["quality"] = 1,
+			[1817] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Stock Shortsword",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 308,
+				["quality"] = 0,
 			},
-			[20472] = {
-				["open_no"] = 6,
-				["type"] = "Consumable/Consumable",
-				["name"] = "Solanian's Journal",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[41598] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Enchanting Bag",
-				["name"] = "Mysterious Bag",
-				["ilevel"] = 80,
-				["minlevel"] = 0,
-				["open_no"] = 18,
-				["quality"] = 3,
-			},
-			[20994] = {
-				["equiplocation"] = "CHEST",
-				["type"] = "Armor/Mail",
-				["name"] = "Green Chain Vest",
-				["ilevel"] = 5,
-				["minlevel"] = 1,
-				["open_no"] = 18,
-				["quality"] = 1,
-			},
-			[20998] = {
-				["equiplocation"] = "WAIST",
-				["type"] = "Armor/Cloth",
-				["name"] = "Wyrm Sash",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 38,
-				["quality"] = 1,
-			},
-			[2489] = {
+			[23346] = {
 				["equiplocation"] = "2HWEAPON",
 				["type"] = "Weapon/Two-Handed Swords",
-				["name"] = "Two-handed Sword",
-				["ilevel"] = 7,
-				["minlevel"] = 2,
-				["open_no"] = 60,
+				["name"] = "Battleworn Claymore",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["open_no"] = 120,
 				["quality"] = 1,
 			},
-			[22026] = {
-				["open_no"] = 962,
-				["type"] = "Consumable/Other",
-				["name"] = "Level Token",
+			[20799] = {
+				["open_no"] = 2,
+				["type"] = "Quest/Quest",
+				["name"] = "Felendren's Head",
 				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["quality"] = 6,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[12974] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "The Black Knight",
+				["ilevel"] = 31,
+				["minlevel"] = 26,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[1819] = {
+				["equip_no"] = "I8178i2NB22",
+			},
+			[12982] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Mail",
+				["name"] = "Silver-linked Footguards",
+				["ilevel"] = 21,
+				["minlevel"] = 16,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[16743] = {
+				["open_no"] = 26,
+				["type"] = "Quest/Quest",
+				["name"] = "Logging Rope",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20839] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Sunstrider Staff",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 1,
+			},
+			[20847] = {
+				["open_no"] = 18,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Wraith Fragment",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
 			},
 			[37048] = {
 				["equiplocation"] = "CLOAK",
@@ -6452,29 +7528,12 @@ QuestHelper_Collector = {
 				["open_no"] = 86,
 				["quality"] = 3,
 			},
-			[38347] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Mining Bag",
-				["name"] = "Mammoth Mining Bag",
-				["ilevel"] = 75,
+			[19338] = {
+				["open_no"] = 24,
+				["type"] = "Quest/Quest",
+				["name"] = "Free Ticket Voucher",
+				["ilevel"] = 1,
 				["minlevel"] = 0,
-				["open_no"] = 6,
-				["quality"] = 3,
-			},
-			[38865] = {
-				["open_no"] = 116,
-				["type"] = "Consumable/Item Enhancement",
-				["name"] = "Scroll of Enchant Chest - Greater Stats",
-				["ilevel"] = 62,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[45758] = {
-				["open_no"] = 42,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Hymn of Hope",
-				["ilevel"] = 45,
-				["minlevel"] = 60,
 				["quality"] = 1,
 			},
 			[37096] = {
@@ -6496,15 +7555,6 @@ QuestHelper_Collector = {
 				["open_no"] = 124,
 				["quality"] = 3,
 			},
-			[42985] = {
-				["equiplocation"] = "SHOULDER",
-				["type"] = "Armor/Cloth",
-				["name"] = "Tattered Dreadmist Mantle",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 188,
-				["quality"] = 7,
-			},
 			[6265] = {
 				["open_no"] = 12,
 				["type"] = "Miscellaneous/Reagent",
@@ -6513,84 +7563,190 @@ QuestHelper_Collector = {
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[20799] = {
-				["open_no"] = 2,
-				["type"] = "Quest/Quest",
-				["name"] = "Felendren's Head",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[44735] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/One-Handed Axes",
-				["name"] = "Crescent of Brooding Fury",
-				["ilevel"] = 175,
-				["minlevel"] = 0,
-				["open_no"] = 38,
-				["quality"] = 3,
-			},
-			[40752] = {
-				["open_no"] = 34,
-				["type"] = "Money/Money(OBSOLETE)",
-				["name"] = "Emblem of Heroism",
-				["ilevel"] = 80,
-				["minlevel"] = 80,
-				["quality"] = 4,
-			},
-			[11288] = {
-				["equiplocation"] = "RANGEDRIGHT",
-				["type"] = "Weapon/Wands",
-				["name"] = "Greater Magic Wand",
-				["ilevel"] = 23,
-				["minlevel"] = 13,
-				["open_no"] = 2,
+			[6269] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Pioneer Trousers",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 1,
 				["quality"] = 2,
 			},
-			[50428] = {
+			[42414] = {
+				["open_no"] = 244,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Shadow Word: Death",
+				["ilevel"] = 67,
+				["minlevel"] = 62,
+				["quality"] = 1,
+			},
+			[20991] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Daylight Cloak",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 122,
+				["quality"] = 1,
+			},
+			[20999] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Mail",
+				["name"] = "Green Chain Gauntlets",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 16,
+				["quality"] = 1,
+			},
+			[6802] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Sword of Omen",
+				["ilevel"] = 44,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[29223] = {
+				["open_no"] = 10,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Swift Green Hawkstrider",
+				["ilevel"] = 40,
+				["minlevel"] = 40,
+				["quality"] = 4,
+			},
+			[50734] = {
 				["equiplocation"] = "WEAPONMAINHAND",
 				["type"] = "Weapon/One-Handed Maces",
 				["name"] = "Royal Scepter of Terenas II",
-				["ilevel"] = 271,
+				["ilevel"] = 284,
 				["minlevel"] = 80,
-				["open_no"] = 522,
+				["open_no"] = 239,
 				["quality"] = 4,
 			},
-			[6256] = {
-			},
-			[16743] = {
-				["open_no"] = 26,
-				["type"] = "Quest/Quest",
-				["name"] = "Logging Rope",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[46882] = {
-				["open_no"] = 96,
-				["type"] = "Quest/Quest",
-				["name"] = "Riding Training Pamphlet",
-				["ilevel"] = 1,
+			[6303] = {
+				["open_no"] = 4,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Raw Slitherskin Mackerel",
+				["ilevel"] = 5,
 				["minlevel"] = 1,
 				["quality"] = 1,
 			},
-			[24146] = {
-				["equiplocation"] = "FEET",
-				["type"] = "Armor/Cloth",
-				["name"] = "Initiate's Boots",
+			[50255] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Dread Pirate Ring",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
-				["open_no"] = 12,
+				["open_no"] = 100,
+				["quality"] = 7,
+			},
+			[24145] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Initiate's Pants",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 44,
 				["quality"] = 0,
 			},
-			[48683] = {
-				["equiplocation"] = "CHEST",
-				["type"] = "Armor/Mail",
-				["name"] = "Mystical Vest of Elements",
-				["ilevel"] = 1,
+			[2652] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Flimsy Chain Cloak",
+				["ilevel"] = 5,
 				["minlevel"] = 1,
-				["open_no"] = 10,
-				["quality"] = 7,
+				["open_no"] = 6,
+				["quality"] = 0,
+			},
+			[37097] = {
+				["open_no"] = 54,
+				["type"] = "Consumable/Scroll",
+				["name"] = "Scroll of Spirit VII",
+				["ilevel"] = 80,
+				["minlevel"] = 70,
+				["quality"] = 1,
+			},
+			[40211] = {
+				["open_no"] = 6,
+				["type"] = "Consumable/Potion",
+				["name"] = "Potion of Speed",
+				["ilevel"] = 80,
+				["minlevel"] = 70,
+				["quality"] = 1,
+			},
+			[3169] = {
+				["open_no"] = 14,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Chipped Bear Tooth",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[3170] = {
+				["open_no"] = 2,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Large Bear Tooth",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[3172] = {
+				["open_no"] = 14,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Boar Intestines",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[3173] = {
+				["open_no"] = 22,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Bear Meat",
+				["ilevel"] = 11,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[15222] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Barbed Club",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 392,
+				["quality"] = 2,
+			},
+			[42415] = {
+				["open_no"] = 176,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Mind Flay",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 1,
+			},
+			[3180] = {
+				["open_no"] = 138,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Flecked Raptor Scale",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[3181] = {
+				["open_no"] = 26,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Partially Digested Meat",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[2672] = {
+				["open_no"] = 18,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Stringy Wolf Meat",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
 			},
 			[48691] = {
 				["equiplocation"] = "ROBE",
@@ -6602,13 +7758,994 @@ QuestHelper_Collector = {
 				["open_no"] = 130,
 				["quality"] = 7,
 			},
-			[20843] = {
-				["open_no"] = 6,
+			[2677] = {
+				["open_no"] = 16,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Boar Ribs",
+				["ilevel"] = 14,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20840] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Sunstrider Mace",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 18,
+				["quality"] = 1,
+			},
+			[20848] = {
+				["open_no"] = 16,
 				["type"] = "Miscellaneous/Junk",
-				["name"] = "Smashed Petal",
+				["name"] = "Sparkling Dust",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 0,
+			},
+			[22900] = {
+				["open_no"] = 39,
+				["type"] = "Recipe/Alchemy",
+				["name"] = "Recipe: Elixir of Camouflage",
+				["ilevel"] = 61,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[10711] = {
+				["equiplocation"] = "NECK",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Dragon's Blood Necklace",
+				["ilevel"] = 44,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[4347] = {
+			},
+			[929] = {
+				["open_no"] = 50,
+				["type"] = "Consumable/Potion",
+				["name"] = "Healing Potion",
+				["ilevel"] = 22,
+				["minlevel"] = 12,
+				["quality"] = 1,
+			},
+			[4351] = {
+				["open_no"] = 6,
+				["type"] = "Recipe/Tailoring",
+				["name"] = "Pattern: Shadow Hood",
+				["ilevel"] = 34,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[3206] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Cavalier Two-hander",
+				["ilevel"] = 28,
+				["minlevel"] = 23,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[42400] = {
+				["open_no"] = 38,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Flash Heal",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["quality"] = 1,
+			},
+			[20992] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Sunrise Bracers",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 8,
+				["quality"] = 1,
+			},
+			[21000] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Vigorous Bracers",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[28162] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Tranquillien Defender's Girdle",
+				["ilevel"] = 17,
+				["minlevel"] = 12,
+				["open_no"] = 14,
+				["quality"] = 2,
+			},
+			[21016] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Mail",
+				["name"] = "Shoddy Chain Vest",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["equip_no"] = "I20994i2NB08",
+				["open_no"] = 28,
+				["quality"] = 0,
+			},
+			[14368] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Mystic's Shoulder Pads",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 58,
+				["quality"] = 1,
+			},
+			[24146] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Cloth",
+				["name"] = "Initiate's Boots",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 56,
+				["quality"] = 0,
+			},
+			[6948] = {
+				["open_no"] = 240,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Hearthstone",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[14400] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Resilient Cape",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 10,
+				["quality"] = 2,
+			},
+			[6445] = {
+				["open_no"] = 24,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Brittle Molting",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[6447] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Worn Turtle Shell Shield",
+				["ilevel"] = 20,
+				["minlevel"] = 15,
+				["open_no"] = 358,
+				["quality"] = 3,
+			},
+			[37099] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Sempiternal Staff",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 48,
+				["quality"] = 3,
+			},
+			[17056] = {
+				["open_no"] = 2,
+				["type"] = "Miscellaneous/Reagent",
+				["name"] = "Light Feather",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2212] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Cracked Buckler",
+				["ilevel"] = 6,
+				["minlevel"] = 1,
+				["open_no"] = 42,
+				["quality"] = 0,
+			},
+			[2213] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Worn Large Shield",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["open_no"] = 108,
+				["quality"] = 0,
+			},
+			[6465] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Robe of the Moccasin",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 8,
+				["quality"] = 3,
+			},
+			[41347] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Plate",
+				["name"] = "Savage Saronite Legplates",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 18,
+				["quality"] = 3,
+			},
+			[6471] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Leather",
+				["name"] = "Perfect Deviate Scale",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[6473] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Armor of the Fang",
+				["ilevel"] = 23,
+				["minlevel"] = 18,
+				["open_no"] = 8,
+				["quality"] = 3,
+			},
+			[42417] = {
+				["open_no"] = 28,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Spirit of Redemption",
+				["ilevel"] = 35,
+				["minlevel"] = 30,
+				["quality"] = 1,
+			},
+			[42944] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/Daggers",
+				["name"] = "Balanced Heartseeker",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 7,
+			},
+			[41427] = {
+				["open_no"] = 18,
+				["type"] = "Consumable/Other",
+				["name"] = "Dalaran Firework",
+				["ilevel"] = 20,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[117] = {
+				["open_no"] = 32,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Tough Jerky",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[42992] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Discerning Eye of the Beast",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 74,
+				["quality"] = 7,
+			},
+			[51184] = {
+				["equiplocation"] = "HEAD",
+				["type"] = "Armor/Cloth",
+				["name"] = "Sanctified Crimson Acolyte Cowl",
+				["ilevel"] = 264,
+				["minlevel"] = 80,
+				["open_no"] = 525,
+				["quality"] = 4,
+			},
+			[4954] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Nomadic Belt",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[44094] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "The Blessed Hammer of Grace",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 32,
+				["quality"] = 7,
+			},
+			[11995] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ivory Band",
+				["ilevel"] = 28,
+				["minlevel"] = 23,
+				["open_no"] = 8,
+				["quality"] = 2,
+			},
+			[36972] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Tome of Arcane Phenomena",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 94,
+				["quality"] = 3,
+			},
+			[36988] = {
+				["equiplocation"] = "NECK",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Chaotic Spiral Amulet",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 56,
+				["quality"] = 3,
+			},
+			[12006] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Meadow Ring",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 12,
+				["quality"] = 2,
+			},
+			[20841] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Sunstrider Shield",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 16,
+				["quality"] = 1,
+			},
+			[14566] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Leather",
+				["name"] = "Prospector's Pads",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["open_no"] = 8,
+				["quality"] = 2,
+			},
+			[6581] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Scouting Belt",
+				["ilevel"] = 21,
+				["minlevel"] = 16,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[45755] = {
+				["open_no"] = 96,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Guardian Spirit",
+				["ilevel"] = 45,
+				["minlevel"] = 60,
+				["quality"] = 1,
+			},
+			[37084] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Flowing Cloak of Command",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[13099] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Cloth",
+				["name"] = "Moccasins of the White Hare",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[15526] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Sentry's Cape",
+				["ilevel"] = 24,
+				["minlevel"] = 19,
+				["open_no"] = 16,
+				["quality"] = 2,
+			},
+			[3282] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Mail",
+				["name"] = "Battle Chain Pants",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[28164] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Tranquillien Flamberge",
+				["ilevel"] = 15,
+				["minlevel"] = 10,
+				["open_no"] = 1144,
+				["quality"] = 2,
+			},
+			[22957] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Rusty Sin'dorei Sword",
+				["ilevel"] = 7,
+				["minlevel"] = 0,
+				["equip_no"] = "I2489i2NB12",
+				["open_no"] = 90,
+				["quality"] = 1,
+			},
+			[51999] = {
+				["open_count"] = 1,
+				["type"] = "Miscellaneous/Junk",
+				["minlevel"] = 0,
+				["open_loot"] = {
+					[51994] = 1,
+				},
+				["name"] = "Satchel of Helpful Goods",
+				["ilevel"] = 1,
+				["open_no"] = 6,
+				["open_yes"] = 16,
+				["quality"] = 3,
+			},
+			[12013] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Desert Ring",
+				["ilevel"] = 49,
+				["minlevel"] = 44,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[6527] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Ancestral Robe",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["equip_yes"] = "I20994i2NB13",
+				["open_no"] = 488,
+				["quality"] = 2,
+			},
+			[6632] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Feyscale Cloak",
+				["ilevel"] = 20,
+				["minlevel"] = 15,
+				["open_no"] = 48,
+				["quality"] = 3,
+			},
+			[22952] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Springpaw Hide Cloak",
+				["ilevel"] = 7,
+				["minlevel"] = 0,
+				["open_no"] = 110,
+				["quality"] = 1,
+			},
+			[4561] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Axes",
+				["name"] = "Scalping Tomahawk",
+				["ilevel"] = 11,
+				["minlevel"] = 6,
+				["open_no"] = 624,
+				["quality"] = 2,
+			},
+			[7046] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Azure Silk Pants",
+				["ilevel"] = 28,
+				["minlevel"] = 23,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[6347] = {
+				["open_no"] = 18,
+				["type"] = "Recipe/Enchanting",
+				["name"] = "Formula: Enchant Bracer - Minor Strength",
+				["ilevel"] = 19,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[20474] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Sunstrider Book Satchel",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 106,
+				["quality"] = 1,
+			},
+			[20482] = {
+				["open_no"] = 8,
+				["type"] = "Quest/Quest",
+				["name"] = "Arcane Sliver",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[21001] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Striding Pants",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["equip_yes"] = "I24145i2NB07",
+				["open_no"] = 70,
+				["quality"] = 1,
+			},
+			[118] = {
+				["open_no"] = 84,
+				["type"] = "Consumable/Potion",
+				["name"] = "Minor Healing Potion",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[21017] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Mail",
+				["name"] = "Shoddy Chain Pants",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["equip_no"] = "I21001i2NB08",
+				["open_no"] = 8,
+				["quality"] = 0,
+			},
+			[27668] = {
+				["open_no"] = 66,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Lynx Meat",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[821] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Riverpaw Leather Vest",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[33445] = {
+				["open_no"] = 6,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Honeymint Tea",
+				["ilevel"] = 85,
+				["minlevel"] = 75,
+				["quality"] = 1,
+			},
+			[1458] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Maces",
+				["name"] = "Shadowhide Maul",
+				["ilevel"] = 23,
+				["minlevel"] = 18,
+				["open_no"] = 22,
+				["quality"] = 2,
+			},
+			[44095] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Grand Staff of Jordan",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 52,
+				["quality"] = 7,
+			},
+			[21013] = {
+				["equip_no"] = "I24145i2NB05",
+			},
+			[21009] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Scraggy Leather Belt",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["open_no"] = 10,
+				["quality"] = 0,
+			},
+			[36989] = {
+				["equiplocation"] = "RANGEDRIGHT",
+				["type"] = "Weapon/Wands",
+				["name"] = "Ancient Measuring Rod",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 78,
+				["quality"] = 3,
+			},
+			[6565] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Cloth",
+				["name"] = "Shimmering Gloves",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 20,
+				["quality"] = 2,
+			},
+			[1645] = {
+				["open_no"] = 9,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Moonberry Juice",
+				["ilevel"] = 45,
+				["minlevel"] = 35,
+				["quality"] = 1,
+			},
+			[21887] = {
+				["open_no"] = 3,
+				["type"] = "Trade Goods/Leather",
+				["name"] = "Knothide Leather",
+				["ilevel"] = 60,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[37053] = {
+				["equiplocation"] = "NECK",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Amulet of Deflected Blows",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 28,
+				["quality"] = 3,
+			},
+			[45624] = {
+				["open_no"] = 4,
+				["type"] = "Money/Money(OBSOLETE)",
+				["name"] = "Emblem of Conquest",
+				["ilevel"] = 80,
+				["minlevel"] = 80,
+				["quality"] = 4,
+			},
+			[3291] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Ancestral Woollies",
+				["ilevel"] = 13,
+				["minlevel"] = 8,
+				["open_no"] = 6,
+				["quality"] = 2,
+			},
+			[1394] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Driftwood Club",
+				["ilevel"] = 15,
+				["minlevel"] = 10,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[4567] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Merc Sword",
+				["ilevel"] = 16,
+				["minlevel"] = 11,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[4537] = {
+				["open_no"] = 14,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Tel'Abim Banana",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[51968] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Enumerated Wrap",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[7096] = {
+				["open_no"] = 12,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Plucked Feather",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[52000] = {
+				["open_no"] = 70,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Satchel of Helpful Goods",
+				["ilevel"] = 30,
+				["open_yes"] = 46,
+				["minlevel"] = 0,
+				["quality"] = 3,
+			},
+			[1925] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Defias Rapier",
+				["ilevel"] = 16,
+				["minlevel"] = 11,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[2079] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Sergeant's Warhammer",
+				["ilevel"] = 17,
+				["minlevel"] = 12,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[954] = {
+				["open_no"] = 10,
+				["type"] = "Consumable/Scroll",
+				["name"] = "Scroll of Strength",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[35] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Bent Staff",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[9490] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Gizmotron Megachopper",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[51] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Neophyte's Boots",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 8,
+				["quality"] = 1,
+			},
+			[19019] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Thunderfury, Blessed Blade of the Windseeker",
+				["ilevel"] = 80,
+				["minlevel"] = 60,
+				["open_no"] = 3,
+				["quality"] = 5,
+			},
+			[8226] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "The Butcher",
+				["ilevel"] = 31,
+				["minlevel"] = 26,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[42946] = {
+				["equiplocation"] = "RANGED",
+				["type"] = "Weapon/Bows",
+				["name"] = "Charmed Ancient Bone Bow",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 7,
+			},
+			[51994] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Tumultuous Cloak",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["equip_no"] = "I6449i2NB21",
+				["open_no"] = 336,
+				["quality"] = 3,
+			},
+			[39912] = {
+				["open_no"] = 14,
+				["type"] = "Gem/Yellow",
+				["name"] = "Brilliant Sun Crystal",
+				["ilevel"] = 70,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[2287] = {
+				["open_no"] = 62,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Haunch of Meat",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[3164] = {
+				["open_no"] = 20,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Discolored Worg Heart",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2289] = {
+				["open_no"] = 4,
+				["type"] = "Consumable/Scroll",
+				["name"] = "Scroll of Strength II",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[5997] = {
+				["open_no"] = 8,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Minor Defense",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[21015] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Shoddy Chain Belt",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["open_no"] = 24,
+				["quality"] = 0,
+			},
+			[51996] = {
+				["equiplocation"] = "NECK",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Tumultuous Necklace",
+				["ilevel"] = 35,
+				["minlevel"] = 0,
+				["open_no"] = 82,
+				["quality"] = 3,
+			},
+			[11394] = {
+				["open_no"] = 38,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Bat Heart",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[3827] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Potion",
+				["name"] = "Mana Potion",
+				["ilevel"] = 32,
+				["minlevel"] = 22,
+				["quality"] = 1,
+			},
+			[49205] = {
+				["open_no"] = 60,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Small Scroll",
+				["ilevel"] = 28,
+				["minlevel"] = 28,
+				["quality"] = 1,
+			},
+			[16746] = {
+				["open_no"] = 20,
+				["type"] = "Quest/Quest",
+				["name"] = "Warsong Report",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20842] = {
+				["open_no"] = 94,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Frayed Tender Vine",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[10400] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Blackened Defias Leggings",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 310,
+				["quality"] = 2,
+			},
+			[2987] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Leather",
+				["name"] = "Inscribed Leather Boots",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[44735] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Axes",
+				["name"] = "Crescent of Brooding Fury",
+				["ilevel"] = 175,
+				["minlevel"] = 0,
+				["open_no"] = 38,
+				["quality"] = 3,
+			},
+			[37086] = {
+				["equiplocation"] = "HOLDABLE",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Tome of Salramm",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 94,
+				["quality"] = 3,
+			},
+			[21877] = {
+			},
+			[43250] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ring of Earthen Might",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 14,
+				["quality"] = 3,
+			},
+			[53486] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Bracers of Fiery Night",
+				["ilevel"] = 271,
+				["minlevel"] = 80,
+				["open_no"] = 46,
+				["quality"] = 4,
+			},
+			[2816] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Death Speaker Scepter",
+				["ilevel"] = 33,
+				["minlevel"] = 27,
+				["open_no"] = 8,
+				["quality"] = 3,
+			},
+			[4605] = {
+				["open_no"] = 44,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Red-speckled Mushroom",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[22966] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Silk Wristbands",
+				["ilevel"] = 8,
+				["minlevel"] = 0,
+				["open_no"] = 10,
+				["quality"] = 1,
 			},
 			[54572] = {
 				["equiplocation"] = "TRINKET",
@@ -6619,31 +8756,552 @@ QuestHelper_Collector = {
 				["open_no"] = 2,
 				["quality"] = 4,
 			},
-			[20847] = {
-				["open_no"] = 18,
+			[4498] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Brown Leather Satchel",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["open_no"] = 54,
+				["quality"] = 1,
+			},
+			[5124] = {
+				["open_no"] = 80,
 				["type"] = "Miscellaneous/Junk",
-				["name"] = "Wraith Fragment",
+				["name"] = "Small Raptor Tooth",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 0,
 			},
-			[36993] = {
-				["equiplocation"] = "TRINKET",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Seal of the Pantheon",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 28,
-				["quality"] = 3,
+			[22487] = {
+				["open_no"] = 4,
+				["type"] = "Quest/Quest",
+				["name"] = "Aldaron's Head",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
 			},
-			[20838] = {
-				["equiplocation"] = "RANGED",
-				["type"] = "Weapon/Bows",
-				["name"] = "Sunstrider Bow",
+			[10401] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Blackened Defias Gloves",
+				["ilevel"] = 18,
+				["minlevel"] = 13,
+				["open_no"] = 14,
+				["quality"] = 2,
+			},
+			[5776] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Elder's Cane",
 				["ilevel"] = 5,
 				["minlevel"] = 0,
-				["open_no"] = 2,
+				["open_no"] = 228,
 				["quality"] = 1,
+			},
+			[20978] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Apprentice's Staff",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["open_no"] = 32,
+				["quality"] = 1,
+			},
+			[12989] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Polearms",
+				["name"] = "Gargoyle's Bite",
+				["ilevel"] = 22,
+				["minlevel"] = 20,
+				["open_no"] = 5,
+				["quality"] = 3,
+			},
+			[43969] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Belt",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["equip_yes"] = "I20998i2PB804",
+				["open_no"] = 50,
+				["quality"] = 3,
+			},
+			[11392] = {
+				["open_no"] = 30,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Severed Bat Claw",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[21010] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Leather",
+				["name"] = "Scraggy Leather Boots",
+				["ilevel"] = 3,
+				["minlevel"] = 1,
+				["open_no"] = 4,
+				["equip_no"] = "I20997i2NB06",
+				["quality"] = 0,
+			},
+			[21018] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Mail",
+				["name"] = "Shoddy Chain Gloves",
+				["ilevel"] = 4,
+				["minlevel"] = 1,
+				["open_no"] = 2,
+				["quality"] = 0,
+			},
+			[4633] = {
+				["open_no"] = 8,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Heavy Bronze Lockbox",
+				["ilevel"] = 25,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[6679] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Polearms",
+				["name"] = "Armor Piercer",
+				["ilevel"] = 29,
+				["minlevel"] = 24,
+				["open_no"] = 20,
+				["quality"] = 3,
+			},
+			[45087] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Runed Orb",
+				["ilevel"] = 80,
+				["minlevel"] = 0,
+				["quality"] = 3,
+			},
+			[5637] = {
+				["open_no"] = 24,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Large Fang",
+				["ilevel"] = 30,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[44097] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Inherited Insignia of the Horde",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 24,
+				["quality"] = 7,
+			},
+			[3858] = {
+			},
+			[6689] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Wind Spirit Staff",
+				["ilevel"] = 32,
+				["minlevel"] = 27,
+				["open_no"] = 314,
+				["quality"] = 3,
+			},
+			[6690] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Ferine Leggings",
+				["ilevel"] = 34,
+				["minlevel"] = 29,
+				["open_no"] = 14,
+				["quality"] = 3,
+			},
+			[6693] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Agamaggan's Clutch",
+				["ilevel"] = 36,
+				["minlevel"] = 27,
+				["open_no"] = 36,
+				["quality"] = 3,
+			},
+			[24223] = {
+				["open_no"] = 44,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Bloodvalor's Notes",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[1422] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Worn Leather Gloves",
+				["ilevel"] = 6,
+				["minlevel"] = 1,
+				["open_no"] = 20,
+				["quality"] = 0,
+			},
+			[24157] = {
+				["open_no"] = 12,
+				["type"] = "Quest/Quest",
+				["name"] = "Shimmering Vessel",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[45247] = {
+			},
+			[11393] = {
+				["open_no"] = 4,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Small Bat Skull",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[51922] = {
+				["equiplocation"] = "HOLDABLE",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Scourgelord's Baton",
+				["ilevel"] = 264,
+				["minlevel"] = 80,
+				["open_no"] = 72,
+				["quality"] = 4,
+			},
+			[43251] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ring of Scarlet Shadows",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 34,
+				["quality"] = 3,
+			},
+			[6688] = {
+				["equiplocation"] = "HEAD",
+				["type"] = "Armor/Leather",
+				["name"] = "Whisperwind Headdress",
+				["ilevel"] = 32,
+				["minlevel"] = 27,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[38880] = {
+				["open_no"] = 16,
+				["type"] = "Consumable/Item Enhancement",
+				["name"] = "Scroll of Enchant Weapon - Agility",
+				["ilevel"] = 58,
+				["minlevel"] = 0,
+				["quality"] = 3,
+			},
+			[6686] = {
+				["equiplocation"] = "HEAD",
+				["type"] = "Armor/Mail",
+				["name"] = "Tusken Helm",
+				["ilevel"] = 33,
+				["minlevel"] = 27,
+				["open_no"] = 44,
+				["quality"] = 3,
+			},
+			[50469] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Volde's Cloak of the Night Sky",
+				["ilevel"] = 264,
+				["minlevel"] = 80,
+				["open_no"] = 12,
+				["quality"] = 4,
+			},
+			[6681] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/Daggers",
+				["name"] = "Thornspike",
+				["ilevel"] = 32,
+				["minlevel"] = 27,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[3363] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frayed Belt",
+				["ilevel"] = 3,
+				["minlevel"] = 1,
+				["equip_no"] = "I21015i2NB12",
+				["open_no"] = 18,
+				["quality"] = 0,
+			},
+			[14047] = {
+				["open_no"] = 1,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Runecloth",
+				["ilevel"] = 50,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[7971] = {
+			},
+			[11391] = {
+				["open_no"] = 6,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Spined Bat Wing",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[52] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Neophyte's Pants",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 10,
+				["quality"] = 0,
+			},
+			[7910] = {
+			},
+			[7487] = {
+			},
+			[42948] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Devout Aurastone Hammer",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 16,
+				["quality"] = 7,
+			},
+			[29434] = {
+				["open_no"] = 6,
+				["type"] = "Money/Money(OBSOLETE)",
+				["name"] = "Badge of Justice",
+				["ilevel"] = 70,
+				["minlevel"] = 70,
+				["quality"] = 4,
+			},
+			[20837] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Axes",
+				["name"] = "Sunstrider Axe",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 8,
+				["quality"] = 1,
+			},
+			[3303] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Brackwater Bracers",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 114,
+				["quality"] = 1,
+			},
+			[17194] = {
+				["open_no"] = 4,
+				["type"] = "Miscellaneous/Holiday",
+				["name"] = "Holiday Spices",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[10405] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Leather",
+				["name"] = "Bandit Shoulders",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 116,
+				["quality"] = 1,
+			},
+			[43975] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Leggings",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["equip_yes"] = "I21001i2PB804",
+				["open_no"] = 160,
+				["quality"] = 3,
+			},
+			[10413] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Gloves of the Fang",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 719,
+				["quality"] = 3,
+			},
+			[36944] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/Daggers",
+				["name"] = "Lifeblade of Belgaristrasz",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 42,
+				["quality"] = 3,
+			},
+			[19789] = {
+				["open_no"] = 452,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Prophetic Aura",
+				["ilevel"] = 60,
+				["minlevel"] = 60,
+				["quality"] = 3,
+			},
+			[21841] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Netherweave Bag",
+				["ilevel"] = 63,
+				["minlevel"] = 0,
+				["open_no"] = 51,
+				["quality"] = 2,
+			},
+			[3192] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Short Bastard Sword",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 50,
+				["quality"] = 2,
+			},
+			[20835] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Sunstrider Sword",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["equip_yes"] = "I23346i2NB07",
+				["open_no"] = 362,
+				["quality"] = 1,
+			},
+			[33447] = {
+				["open_no"] = 36,
+				["type"] = "Consumable/Potion",
+				["name"] = "Runic Healing Potion",
+				["ilevel"] = 80,
+				["minlevel"] = 70,
+				["quality"] = 1,
+			},
+			[10441] = {
+				["open_no"] = 126,
+				["type"] = "Quest/Quest",
+				["name"] = "Glowing Shard",
+				["ilevel"] = 15,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[3385] = {
+				["open_no"] = 38,
+				["type"] = "Consumable/Potion",
+				["name"] = "Lesser Mana Potion",
+				["ilevel"] = 24,
+				["minlevel"] = 14,
+				["quality"] = 1,
+			},
+			[38347] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Mining Bag",
+				["name"] = "Mammoth Mining Bag",
+				["ilevel"] = 75,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 3,
+			},
+			[6256] = {
+			},
+			[2877] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Combatant Claymore",
+				["ilevel"] = 33,
+				["minlevel"] = 28,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[20891] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Neophyte's Robe",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 4,
+				["quality"] = 0,
+			},
+			[6461] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Slime-encrusted Pads",
+				["ilevel"] = 27,
+				["minlevel"] = 20,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[6630] = {
+				["equiplocation"] = "SHIELD",
+				["type"] = "Armor/Shields",
+				["name"] = "Seedcloud Buckler",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["open_no"] = 56,
+				["quality"] = 3,
+			},
+			[7288] = {
+				["open_no"] = 3,
+				["type"] = "Recipe/Leatherworking",
+				["name"] = "Pattern: Rugged Leather Pants",
+				["ilevel"] = 11,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[10411] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Leather",
+				["name"] = "Footpads of the Fang",
+				["ilevel"] = 23,
+				["minlevel"] = 18,
+				["open_no"] = 12,
+				["quality"] = 3,
+			},
+			[6449] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Glowing Lizardscale Cloak",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 506,
+				["quality"] = 3,
+			},
+			[24241] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Green Chain Belt",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 1,
+			},
+			[22958] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Farstrider Sword",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
+				["open_no"] = 292,
+				["quality"] = 1,
+			},
+			[13048] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Looming Gavel",
+				["ilevel"] = 31,
+				["minlevel"] = 26,
+				["open_no"] = 4,
+				["quality"] = 3,
 			},
 			[2376] = {
 				["equiplocation"] = "SHIELD",
@@ -6654,22 +9312,574 @@ QuestHelper_Collector = {
 				["open_no"] = 16,
 				["quality"] = 1,
 			},
-			[7288] = {
-				["open_no"] = 3,
+			[1179] = {
+				["open_no"] = 16,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Ice Cold Milk",
+				["ilevel"] = 15,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[4238] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Linen Bag",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 98,
+				["quality"] = 1,
+			},
+			[22413] = {
+				["open_no"] = 26,
+				["type"] = "Quest/Quest",
+				["name"] = "Sin'dorei Armaments",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20995] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Cloth",
+				["name"] = "Well Watcher Gloves",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[3371] = {
+				["open_no"] = 130,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Empty Vial",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4757] = {
+				["open_no"] = 24,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Cracked Egg Shells",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[6803] = {
+				["equiplocation"] = "HOLDABLE",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Prophetic Cane",
+				["ilevel"] = 44,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 3,
+			},
+			[8178] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Training Sword",
+				["ilevel"] = 10,
+				["minlevel"] = 5,
+				["open_no"] = 230,
+				["quality"] = 2,
+			},
+			[41426] = {
+				["open_no"] = 76,
+				["type"] = "Consumable/Consumable",
+				["name"] = "Magically Wrapped Gift",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_yes"] = 14,
+				["quality"] = 1,
+			},
+			[20994] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Mail",
+				["name"] = "Green Chain Vest",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["open_no"] = 134,
+				["quality"] = 1,
+			},
+			[24143] = {
+				["equiplocation"] = "BODY",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Initiate's Shirt",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 42,
+				["quality"] = 0,
+			},
+			[16765] = {
+				["open_no"] = 16,
+				["type"] = "Quest/Quest",
+				["name"] = "Warsong Outrider Update",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20845] = {
+				["open_no"] = 80,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Torn Wyrm Scale",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[2901] = {
+				["equiplocation"] = "WEAPONMAINHAND",
+				["type"] = "Weapon/Miscellaneous",
+				["name"] = "Mining Pick",
+				["ilevel"] = 4,
+				["minlevel"] = 1,
+				["equip_no"] = "I2489i2NB14",
+				["open_no"] = 70,
+				["quality"] = 1,
+			},
+			[1708] = {
+				["open_no"] = 26,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Sweet Nectar",
+				["ilevel"] = 35,
+				["minlevel"] = 25,
+				["quality"] = 1,
+			},
+			[10050] = {
+			},
+			[21776] = {
+				["open_no"] = 32,
+				["type"] = "Quest/Quest",
+				["name"] = "Captain Kelisendra's Lost Rutters",
+				["ilevel"] = 1,
+				["minlevel"] = 5,
+				["quality"] = 1,
+			},
+			[18256] = {
+				["open_no"] = 18,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Imbued Vial",
+				["ilevel"] = 55,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[1710] = {
+				["open_no"] = 6,
+				["type"] = "Consumable/Potion",
+				["name"] = "Greater Healing Potion",
+				["ilevel"] = 31,
+				["minlevel"] = 21,
+				["quality"] = 1,
+			},
+			[20813] = {
+				["open_no"] = 44,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Lynx Tooth",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[20997] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Mail",
+				["name"] = "Green Chain Boots",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["equip_yes"] = "I24146i2NB03I24146i2NB05",
+				["open_no"] = 86,
+				["quality"] = 1,
+			},
+			[48685] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Plate",
+				["name"] = "Polished Breastplate of Valor",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 16,
+				["quality"] = 7,
+			},
+			[2774] = {
+				["equiplocation"] = "RANGEDRIGHT",
+				["type"] = "Weapon/Guns",
+				["name"] = "Rust-covered Blunderbuss",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["open_no"] = 30,
+				["quality"] = 0,
+			},
+			[2400] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Mail",
+				["name"] = "Light Chain Leggings",
+				["ilevel"] = 10,
+				["minlevel"] = 5,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[7097] = {
+				["open_no"] = 12,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Leg Meat",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[2402] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Light Chain Bracers",
+				["ilevel"] = 10,
+				["minlevel"] = 5,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[4306] = {
+				["open_no"] = 430,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Silk Cloth",
+				["ilevel"] = 30,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20993] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Lynxskin Gloves",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 4,
+				["quality"] = 1,
+			},
+			[858] = {
+				["open_no"] = 26,
+				["type"] = "Consumable/Potion",
+				["name"] = "Lesser Healing Potion",
+				["ilevel"] = 13,
+				["minlevel"] = 3,
+				["quality"] = 1,
+			},
+			[51378] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Medallion of the Horde",
+				["ilevel"] = 264,
+				["minlevel"] = 80,
+				["open_no"] = 2,
+				["quality"] = 4,
+			},
+			[1205] = {
+				["open_no"] = 80,
+				["type"] = "Consumable/Food & Drink",
+				["name"] = "Melon Juice",
+				["ilevel"] = 25,
+				["minlevel"] = 15,
+				["quality"] = 1,
+			},
+			[7364] = {
+				["open_no"] = 18,
 				["type"] = "Recipe/Leatherworking",
-				["name"] = "Pattern: Rugged Leather Pants",
-				["ilevel"] = 11,
+				["name"] = "Pattern: Heavy Earthen Gloves",
+				["ilevel"] = 29,
 				["minlevel"] = 0,
 				["quality"] = 2,
 			},
-			[20835] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Swords",
-				["name"] = "Sunstrider Sword",
+			[53] = {
+				["equiplocation"] = "BODY",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Neophyte's Shirt",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 42,
+				["quality"] = 1,
+			},
+			[42407] = {
+				["open_no"] = 96,
+				["type"] = "Glyph/Priest",
+				["name"] = "Glyph of Shadow",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["quality"] = 1,
+			},
+			[1495] = {
+				["equip_no"] = "I20997i2NB15",
+			},
+			[16652] = {
+				["open_no"] = 16,
+				["type"] = "Quest/Quest",
+				["name"] = "Shredder Operating Manual - Page 8",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[2924] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Crocolisk Meat",
+				["ilevel"] = 14,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20483] = {
+				["open_no"] = 18,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Tainted Arcane Sliver",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[42991] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Swift Hand of Justice",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 66,
+				["quality"] = 7,
+			},
+			[4314] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Double-stitched Woolen Shoulders",
+				["ilevel"] = 22,
+				["minlevel"] = 17,
+				["open_no"] = 56,
+				["quality"] = 2,
+			},
+			[36962] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Axes",
+				["name"] = "Wyrmclaw Battleaxe",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 92,
+				["quality"] = 3,
+			},
+			[5340] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Cauldron Stirrer",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["open_no"] = 216,
+				["quality"] = 2,
+			},
+			[48683] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Mail",
+				["name"] = "Mystical Vest of Elements",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 10,
+				["quality"] = 7,
+			},
+			[20843] = {
+				["open_no"] = 34,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Smashed Petal",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[23367] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Light Silk Robe",
 				["ilevel"] = 5,
 				["minlevel"] = 0,
-				["equip_yes"] = "I23346i2NB07",
-				["open_no"] = 170,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[23574] = {
+				["open_no"] = 36,
+				["type"] = "Recipe/Alchemy",
+				["name"] = "Recipe: Transmute Primal Might",
+				["ilevel"] = 70,
+				["minlevel"] = 0,
+				["quality"] = 2,
+			},
+			[36994] = {
+				["equiplocation"] = "RANGEDRIGHT",
+				["type"] = "Weapon/Guns",
+				["name"] = "Projectile Activator",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[20836] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/Daggers",
+				["name"] = "Sunstrider Dagger",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 6,
+				["quality"] = 1,
+			},
+			[1214] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Gnoll Punisher",
+				["ilevel"] = 17,
+				["minlevel"] = 12,
+				["open_no"] = 4,
+				["quality"] = 2,
+			},
+			[16764] = {
+				["open_no"] = 16,
+				["type"] = "Quest/Quest",
+				["name"] = "Warsong Scout Update",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[15300] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Grizzly Gloves",
+				["ilevel"] = 14,
+				["minlevel"] = 9,
+				["open_no"] = 28,
+				["quality"] = 1,
+			},
+			[4338] = {
+				["open_no"] = 20,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Mageweave Cloth",
+				["ilevel"] = 40,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[9017] = {
+				["open_no"] = 76,
+				["type"] = "Miscellaneous/Other",
+				["name"] = "Book of Powers",
+				["ilevel"] = 0,
+				["minlevel"] = 0,
+				["quality"] = 7,
+			},
+			[43970] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Boots",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["equip_yes"] = "I51i2PB804",
+				["open_no"] = 44,
+				["quality"] = 3,
+			},
+			[2583] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Cloth",
+				["name"] = "Woolen Boots",
+				["ilevel"] = 19,
+				["minlevel"] = 14,
+				["open_no"] = 2,
+				["quality"] = 2,
+			},
+			[36993] = {
+				["equiplocation"] = "TRINKET",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Seal of the Pantheon",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 28,
+				["quality"] = 3,
+			},
+			[51973] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Cloth",
+				["name"] = "Enumerated Handwraps",
+				["ilevel"] = 35,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 3,
+			},
+			[22956] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Rusty Mace",
+				["ilevel"] = 7,
+				["minlevel"] = 0,
+				["open_no"] = 10,
+				["quality"] = 1,
+			},
+			[42947] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Dignified Headmaster's Charge",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["equip_yes"] = "I20978i2PB66",
+				["open_no"] = 76,
+				["quality"] = 7,
+			},
+			[42985] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Tattered Dreadmist Mantle",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 188,
+				["quality"] = 7,
+			},
+			[1372] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Ragged Cloak",
+				["ilevel"] = 3,
+				["minlevel"] = 1,
+				["open_no"] = 34,
+				["equip_no"] = "I20991i2NB10",
+				["quality"] = 0,
+			},
+			[23372] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Bloodhawk Claymore",
+				["ilevel"] = 7,
+				["minlevel"] = 0,
+				["open_no"] = 2,
+				["quality"] = 1,
+			},
+			[29221] = {
+				["open_no"] = 16,
+				["type"] = "Miscellaneous/Mount",
+				["name"] = "Black Hawkstrider",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 3,
+			},
+			[39310] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Mantle of the Extensive Mind",
+				["ilevel"] = 200,
+				["minlevel"] = 80,
+				["open_no"] = 2,
+				["quality"] = 4,
+			},
+			[21014] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Scraggy Leather Vest",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["open_no"] = 4,
+				["quality"] = 0,
+			},
+			[20996] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Sunspire Cord",
+				["ilevel"] = 5,
+				["minlevel"] = 0,
+				["open_no"] = 24,
+				["quality"] = 1,
+			},
+			[9751] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Leather",
+				["name"] = "Gypsy Sandals",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["equip_no"] = "I20997i2NB16",
+				["open_no"] = 78,
 				["quality"] = 1,
 			},
 			[43973] = {
@@ -6682,222 +9892,46 @@ QuestHelper_Collector = {
 				["open_no"] = 48,
 				["quality"] = 3,
 			},
-			[2492] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/One-Handed Maces",
-				["name"] = "Cudgel",
-				["ilevel"] = 7,
-				["minlevel"] = 2,
-				["open_no"] = 18,
-				["quality"] = 1,
-			},
-			[36981] = {
-				["equiplocation"] = "THROWN",
-				["type"] = "Weapon/Thrown",
-				["name"] = "Hardened Vrykul Throwing Axe",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 2,
-				["quality"] = 3,
-			},
-			[20842] = {
-				["open_no"] = 42,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Frayed Tender Vine",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 0,
-			},
-			[20891] = {
-				["equiplocation"] = "ROBE",
-				["type"] = "Armor/Cloth",
-				["name"] = "Neophyte's Robe",
+			[22026] = {
+				["open_no"] = 962,
+				["type"] = "Consumable/Other",
+				["name"] = "Level Token",
 				["ilevel"] = 1,
 				["minlevel"] = 1,
-				["open_no"] = 4,
-				["quality"] = 0,
+				["quality"] = 6,
 			},
-			[44094] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Maces",
-				["name"] = "The Blessed Hammer of Grace",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 32,
-				["quality"] = 7,
-			},
-			[42946] = {
-				["equiplocation"] = "RANGED",
-				["type"] = "Weapon/Bows",
-				["name"] = "Charmed Ancient Bone Bow",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 4,
-				["quality"] = 7,
-			},
-			[43974] = {
-				["equiplocation"] = "WRIST",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Bracers",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 68,
-				["quality"] = 3,
-			},
-			[37097] = {
-				["open_no"] = 54,
-				["type"] = "Consumable/Scroll",
-				["name"] = "Scroll of Spirit VII",
-				["ilevel"] = 80,
-				["minlevel"] = 70,
-				["quality"] = 1,
-			},
-			[37086] = {
-				["equiplocation"] = "HOLDABLE",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Tome of Salramm",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 94,
-				["quality"] = 3,
-			},
-			[38898] = {
-				["open_no"] = 138,
-				["type"] = "Consumable/Item Enhancement",
-				["name"] = "Scroll of Enchant Bracer - Stats",
-				["ilevel"] = 63,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[7046] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Cloth",
-				["name"] = "Azure Silk Pants",
-				["ilevel"] = 28,
-				["minlevel"] = 23,
-				["open_no"] = 4,
-				["quality"] = 2,
-			},
-			[36994] = {
-				["equiplocation"] = "RANGEDRIGHT",
-				["type"] = "Weapon/Guns",
-				["name"] = "Projectile Activator",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 4,
-				["quality"] = 3,
-			},
-			[4498] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Bag",
-				["name"] = "Brown Leather Satchel",
-				["ilevel"] = 15,
-				["minlevel"] = 0,
-				["open_no"] = 54,
-				["quality"] = 1,
-			},
-			[4351] = {
-				["open_no"] = 6,
-				["type"] = "Recipe/Tailoring",
-				["name"] = "Pattern: Shadow Hood",
-				["ilevel"] = 34,
-				["minlevel"] = 0,
-				["quality"] = 2,
-			},
-			[4500] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Bag",
-				["name"] = "Traveler's Backpack",
-				["ilevel"] = 55,
-				["minlevel"] = 0,
-				["open_no"] = 44,
-				["quality"] = 2,
-			},
-			[16765] = {
-				["open_no"] = 16,
-				["type"] = "Quest/Quest",
-				["name"] = "Warsong Outrider Update",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[50684] = {
+			[11288] = {
 				["equiplocation"] = "RANGEDRIGHT",
 				["type"] = "Weapon/Wands",
-				["name"] = "Corpse-Impaling Spike",
-				["ilevel"] = 277,
-				["minlevel"] = 80,
-				["open_no"] = 282,
-				["quality"] = 4,
+				["name"] = "Greater Magic Wand",
+				["ilevel"] = 23,
+				["minlevel"] = 13,
+				["open_no"] = 2,
+				["quality"] = 2,
 			},
-			[51] = {
-				["equiplocation"] = "FEET",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Neophyte's Boots",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 8,
-				["quality"] = 1,
-			},
-			[53] = {
-				["equiplocation"] = "BODY",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Neophyte's Shirt",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 42,
-				["quality"] = 1,
-			},
-			[20836] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/Daggers",
-				["name"] = "Sunstrider Dagger",
+			[2447] = {
+				["open_no"] = 164,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Peacebloom",
 				["ilevel"] = 5,
 				["minlevel"] = 0,
-				["open_no"] = 2,
 				["quality"] = 1,
 			},
-			[44097] = {
-				["equiplocation"] = "TRINKET",
+			[37058] = {
+				["equiplocation"] = "FINGER",
 				["type"] = "Armor/Miscellaneous",
-				["name"] = "Inherited Insignia of the Horde",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 24,
-				["quality"] = 7,
+				["name"] = "Signet of Ranulf",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 152,
+				["quality"] = 3,
 			},
-			[50469] = {
-				["equiplocation"] = "CLOAK",
-				["type"] = "Armor/Cloth",
-				["name"] = "Volde's Cloak of the Night Sky",
-				["ilevel"] = 264,
-				["minlevel"] = 80,
-				["open_no"] = 12,
-				["quality"] = 4,
-			},
-			[1708] = {
-				["open_no"] = 26,
-				["type"] = "Consumable/Food & Drink",
-				["name"] = "Sweet Nectar",
-				["ilevel"] = 35,
-				["minlevel"] = 25,
-				["quality"] = 1,
-			},
-			[45624] = {
-				["open_no"] = 4,
-				["type"] = "Money/Money(OBSOLETE)",
-				["name"] = "Emblem of Conquest",
-				["ilevel"] = 80,
-				["minlevel"] = 80,
-				["quality"] = 4,
-			},
-			[2402] = {
-				["equiplocation"] = "WRIST",
-				["type"] = "Armor/Mail",
-				["name"] = "Light Chain Bracers",
+			[2449] = {
+				["open_no"] = 14,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Earthroot",
 				["ilevel"] = 10,
-				["minlevel"] = 5,
-				["open_no"] = 6,
+				["minlevel"] = 0,
 				["quality"] = 1,
 			},
 			[48716] = {
@@ -6909,74 +9943,64 @@ QuestHelper_Collector = {
 				["open_no"] = 68,
 				["quality"] = 7,
 			},
-			[2901] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/Miscellaneous",
-				["name"] = "Mining Pick",
-				["ilevel"] = 4,
-				["minlevel"] = 1,
-				["open_no"] = 14,
-				["quality"] = 1,
-			},
-			[16652] = {
-				["open_no"] = 16,
-				["type"] = "Quest/Quest",
-				["name"] = "Shredder Operating Manual - Page 8",
+			[20472] = {
+				["open_no"] = 6,
+				["type"] = "Consumable/Consumable",
+				["name"] = "Solanian's Journal",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[20991] = {
+			[36947] = {
 				["equiplocation"] = "CLOAK",
 				["type"] = "Armor/Cloth",
-				["name"] = "Daylight Cloak",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 58,
-				["quality"] = 1,
-			},
-			[20995] = {
-				["equiplocation"] = "HAND",
-				["type"] = "Armor/Cloth",
-				["name"] = "Well Watcher Gloves",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 4,
-				["quality"] = 1,
-			},
-			[1710] = {
-				["open_no"] = 6,
-				["type"] = "Consumable/Potion",
-				["name"] = "Greater Healing Potion",
-				["ilevel"] = 31,
-				["minlevel"] = 21,
-				["quality"] = 1,
-			},
-			[6802] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/One-Handed Swords",
-				["name"] = "Sword of Omen",
-				["ilevel"] = 44,
-				["minlevel"] = 0,
-				["open_no"] = 2,
+				["name"] = "Centrifuge Core Cloak",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 12,
 				["quality"] = 3,
 			},
-			[20999] = {
-				["equiplocation"] = "HAND",
-				["type"] = "Armor/Mail",
-				["name"] = "Green Chain Gauntlets",
-				["ilevel"] = 5,
+			[2453] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Herb",
+				["name"] = "Bruiseweed",
+				["ilevel"] = 20,
 				["minlevel"] = 0,
-				["open_no"] = 16,
 				["quality"] = 1,
 			},
-			[20848] = {
-				["open_no"] = 16,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Sparkling Dust",
-				["ilevel"] = 1,
+			[2454] = {
+				["open_no"] = 4,
+				["type"] = "Consumable/Elixir",
+				["name"] = "Elixir of Lion's Strength",
+				["ilevel"] = 5,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[41594] = {
+				["open_no"] = 2,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Moonshroud",
+				["ilevel"] = 80,
 				["minlevel"] = 0,
+				["quality"] = 3,
+			},
+			[1485] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Polearms",
+				["name"] = "Pitchfork",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["open_no"] = 36,
 				["quality"] = 0,
+			},
+			[48689] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Stained Shadowcraft Tunic",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["open_no"] = 14,
+				["quality"] = 7,
 			},
 			[44708] = {
 				["equiplocation"] = "2HWEAPON",
@@ -6988,385 +10012,40 @@ QuestHelper_Collector = {
 				["open_no"] = 446,
 				["quality"] = 3,
 			},
-			[29434] = {
-				["open_no"] = 6,
-				["type"] = "Money/Money(OBSOLETE)",
-				["name"] = "Badge of Justice",
-				["ilevel"] = 70,
-				["minlevel"] = 70,
-				["quality"] = 4,
-			},
-			[44095] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Staves",
-				["name"] = "Grand Staff of Jordan",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 52,
-				["quality"] = 7,
-			},
-			[42947] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Staves",
-				["name"] = "Dignified Headmaster's Charge",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["equip_yes"] = "I20978i2PB66",
-				["open_no"] = 76,
-				["quality"] = 7,
-			},
-			[43975] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Leggings",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["equip_yes"] = "I21001i2PB804",
-				["open_no"] = 160,
-				["quality"] = 3,
-			},
-			[51378] = {
-				["equiplocation"] = "TRINKET",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Medallion of the Horde",
-				["ilevel"] = 264,
-				["minlevel"] = 80,
-				["open_no"] = 2,
-				["quality"] = 4,
-			},
-			[4540] = {
-				["open_no"] = 2,
-				["type"] = "Consumable/Food & Drink",
-				["name"] = "Tough Hunk of Bread",
-				["ilevel"] = 5,
-				["minlevel"] = 1,
-				["quality"] = 1,
-			},
-			[39919] = {
-				["open_no"] = 18,
-				["type"] = "Gem/Blue",
-				["name"] = "Solid Chalcedony",
-				["ilevel"] = 70,
-				["minlevel"] = 0,
-				["quality"] = 2,
-			},
-			[858] = {
-				["open_no"] = 4,
-				["type"] = "Consumable/Potion",
-				["name"] = "Lesser Healing Potion",
-				["ilevel"] = 13,
-				["minlevel"] = 3,
-				["quality"] = 1,
-			},
-			[23346] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Two-Handed Swords",
-				["name"] = "Battleworn Claymore",
-				["ilevel"] = 2,
-				["minlevel"] = 1,
-				["open_no"] = 90,
-				["quality"] = 1,
-			},
-			[51922] = {
-				["equiplocation"] = "HOLDABLE",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Scourgelord's Baton",
-				["ilevel"] = 264,
-				["minlevel"] = 80,
-				["open_no"] = 72,
-				["quality"] = 4,
-			},
-			[954] = {
-				["open_no"] = 10,
-				["type"] = "Consumable/Scroll",
-				["name"] = "Scroll of Strength",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["quality"] = 1,
-			},
-			[29223] = {
-				["open_no"] = 10,
-				["type"] = "Miscellaneous/Mount",
-				["name"] = "Swift Green Hawkstrider",
-				["ilevel"] = 40,
-				["minlevel"] = 40,
-				["quality"] = 4,
-			},
-			[20812] = {
-				["open_no"] = 14,
+			[6444] = {
+				["open_no"] = 196,
 				["type"] = "Miscellaneous/Junk",
-				["name"] = "Tattered Pelt",
+				["name"] = "Forked Tongue",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 0,
 			},
-			[42780] = {
-				["open_no"] = 6,
-				["type"] = "Quest/Quest",
-				["name"] = "Relic of Ulduar",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[51968] = {
-				["equiplocation"] = "WAIST",
-				["type"] = "Armor/Cloth",
-				["name"] = "Enumerated Wrap",
+			[6446] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Snakeskin Bag",
 				["ilevel"] = 25,
 				["minlevel"] = 0,
-				["open_no"] = 4,
+				["open_no"] = 14,
 				["quality"] = 3,
 			},
-			[6803] = {
-				["equiplocation"] = "HOLDABLE",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Prophetic Cane",
-				["ilevel"] = 44,
-				["minlevel"] = 0,
-				["open_no"] = 6,
-				["quality"] = 3,
-			},
-			[24143] = {
-				["equiplocation"] = "BODY",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Initiate's Shirt",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 12,
+			[21019] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Mail",
+				["name"] = "Shoddy Chain Bracers",
+				["ilevel"] = 4,
+				["minlevel"] = 1,
+				["open_no"] = 42,
 				["quality"] = 0,
 			},
-			[36947] = {
-				["equiplocation"] = "CLOAK",
-				["type"] = "Armor/Cloth",
-				["name"] = "Centrifuge Core Cloak",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 12,
-				["quality"] = 3,
-			},
-			[48685] = {
-				["equiplocation"] = "CHEST",
-				["type"] = "Armor/Plate",
-				["name"] = "Polished Breastplate of Valor",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["open_no"] = 16,
-				["quality"] = 7,
-			},
-			[20840] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Maces",
-				["name"] = "Sunstrider Mace",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 8,
-				["quality"] = 1,
-			},
-			[16764] = {
-				["open_no"] = 16,
-				["type"] = "Quest/Quest",
-				["name"] = "Warsong Scout Update",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[51259] = {
-				["equiplocation"] = "ROBE",
-				["type"] = "Armor/Cloth",
-				["name"] = "Sanctified Crimson Acolyte Raiments",
+			[50714] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Valanar's Other Signet Ring",
 				["ilevel"] = 277,
 				["minlevel"] = 80,
-				["open_no"] = 150,
+				["open_no"] = 2,
 				["quality"] = 4,
-			},
-			[4338] = {
-				["open_no"] = 20,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Mageweave Cloth",
-				["ilevel"] = 40,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[3172] = {
-				["open_no"] = 14,
-				["type"] = "Trade Goods/Meat",
-				["name"] = "Boar Intestines",
-				["ilevel"] = 10,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[36962] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Two-Handed Axes",
-				["name"] = "Wyrmclaw Battleaxe",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 92,
-				["quality"] = 3,
-			},
-			[2592] = {
-				["open_no"] = 72,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Wool Cloth",
-				["ilevel"] = 15,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[19338] = {
-				["open_no"] = 24,
-				["type"] = "Quest/Quest",
-				["name"] = "Free Ticket Voucher",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[41516] = {
-				["equiplocation"] = "HAND",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Gloves",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 47,
-				["quality"] = 3,
-			},
-			[5059] = {
-				["open_no"] = 20,
-				["type"] = "Quest/Quest",
-				["name"] = "Digging Claw",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[37099] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Staves",
-				["name"] = "Sempiternal Staff",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 48,
-				["quality"] = 3,
-			},
-			[43251] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Ring of Scarlet Shadows",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 34,
-				["quality"] = 3,
-			},
-			[42414] = {
-				["open_no"] = 244,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Shadow Word: Death",
-				["ilevel"] = 67,
-				["minlevel"] = 62,
-				["quality"] = 1,
-			},
-			[43969] = {
-				["equiplocation"] = "WAIST",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Belt",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["equip_yes"] = "I20998i2PB804",
-				["open_no"] = 50,
-				["quality"] = 3,
-			},
-			[45247] = {
-			},
-			[42948] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Maces",
-				["name"] = "Devout Aurastone Hammer",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 16,
-				["quality"] = 7,
-			},
-			[41426] = {
-				["open_no"] = 76,
-				["type"] = "Consumable/Consumable",
-				["name"] = "Magically Wrapped Gift",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_yes"] = 14,
-				["quality"] = 1,
-			},
-			[38884] = {
-				["open_no"] = 104,
-				["type"] = "Consumable/Item Enhancement",
-				["name"] = "Scroll of Enchant Weapon - Mighty Intellect",
-				["ilevel"] = 70,
-				["minlevel"] = 0,
-				["quality"] = 3,
-			},
-			[39912] = {
-				["open_no"] = 14,
-				["type"] = "Gem/Yellow",
-				["name"] = "Brilliant Sun Crystal",
-				["ilevel"] = 70,
-				["minlevel"] = 0,
-				["quality"] = 2,
-			},
-			[33447] = {
-				["open_no"] = 36,
-				["type"] = "Consumable/Potion",
-				["name"] = "Runic Healing Potion",
-				["ilevel"] = 80,
-				["minlevel"] = 70,
-				["quality"] = 1,
-			},
-			[43498] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Savage Titanium Band",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 68,
-				["quality"] = 3,
-			},
-			[4306] = {
-				["open_no"] = 80,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Silk Cloth",
-				["ilevel"] = 30,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[36988] = {
-				["equiplocation"] = "NECK",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Chaotic Spiral Amulet",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 56,
-				["quality"] = 3,
-			},
-			[2289] = {
-				["open_no"] = 4,
-				["type"] = "Consumable/Scroll",
-				["name"] = "Scroll of Strength II",
-				["ilevel"] = 25,
-				["minlevel"] = 15,
-				["quality"] = 1,
-			},
-			[48718] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Two-Handed Maces",
-				["name"] = "Repurposed Lava Dredger",
-				["ilevel"] = 1,
-				["minlevel"] = 1,
-				["open_no"] = 4,
-				["quality"] = 7,
-			},
-			[5075] = {
-				["open_no"] = 10,
-				["type"] = "Quest/Quest",
-				["name"] = "Blood Shard",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
 			},
 			[50635] = {
 				["equiplocation"] = "HOLDABLE",
@@ -7377,124 +10056,196 @@ QuestHelper_Collector = {
 				["open_no"] = 52,
 				["quality"] = 4,
 			},
-			[17194] = {
+			[43971] = {
+				["equiplocation"] = "HEAD",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Cowl",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 92,
+				["quality"] = 3,
+			},
+			[2976] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Leather",
+				["name"] = "Hunting Gloves",
+				["ilevel"] = 15,
+				["minlevel"] = 10,
 				["open_no"] = 4,
-				["type"] = "Miscellaneous/Holiday",
-				["name"] = "Holiday Spices",
+				["quality"] = 2,
+			},
+			[43972] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Robe",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["equip_yes"] = "I48691i2PB804",
+				["open_no"] = 58,
+				["quality"] = 3,
+			},
+			[6889] = {
+				["open_no"] = 48,
+				["type"] = "Trade Goods/Meat",
+				["name"] = "Small Egg",
 				["ilevel"] = 5,
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[5085] = {
-				["open_no"] = 6,
-				["type"] = "Quest/Quest",
-				["name"] = "Bristleback Quilboar Tusk",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[4314] = {
-				["equiplocation"] = "SHOULDER",
-				["type"] = "Armor/Cloth",
-				["name"] = "Double-stitched Woolen Shoulders",
-				["ilevel"] = 22,
-				["minlevel"] = 17,
-				["open_no"] = 56,
-				["quality"] = 2,
-			},
-			[3827] = {
-				["open_no"] = 2,
-				["type"] = "Consumable/Potion",
-				["name"] = "Mana Potion",
-				["ilevel"] = 32,
-				["minlevel"] = 22,
-				["quality"] = 1,
-			},
-			[41347] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Plate",
-				["name"] = "Savage Saronite Legplates",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 18,
-				["quality"] = 3,
-			},
-			[50734] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Maces",
-				["name"] = "Royal Scepter of Terenas II",
-				["ilevel"] = 284,
-				["minlevel"] = 80,
-				["open_no"] = 239,
-				["quality"] = 4,
-			},
-			[36972] = {
-				["equiplocation"] = "TRINKET",
+			[1491] = {
+				["equiplocation"] = "FINGER",
 				["type"] = "Armor/Miscellaneous",
-				["name"] = "Tome of Arcane Phenomena",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 94,
+				["name"] = "Ring of Precision",
+				["ilevel"] = 25,
+				["minlevel"] = 20,
+				["open_no"] = 2,
 				["quality"] = 3,
 			},
-			[2677] = {
-				["open_no"] = 14,
-				["type"] = "Trade Goods/Meat",
-				["name"] = "Boar Ribs",
-				["ilevel"] = 14,
-				["minlevel"] = 0,
-				["quality"] = 1,
+			[1747] = {
+				["equiplocation"] = "FEET",
+				["type"] = "Armor/Mail",
+				["name"] = "Linked Chain Boots",
+				["ilevel"] = 21,
+				["minlevel"] = 16,
+				["open_no"] = 104,
+				["equip_no"] = "I20997i2NB18",
+				["quality"] = 0,
 			},
-			[20470] = {
+			[1423] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Leather",
+				["name"] = "Worn Leather Pants",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
 				["open_no"] = 2,
-				["type"] = "Consumable/Consumable",
-				["name"] = "Solanian's Scrying Orb",
+				["quality"] = 0,
+			},
+			[20812] = {
+				["open_no"] = 18,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Tattered Pelt",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[6470] = {
+				["open_no"] = 20,
+				["type"] = "Trade Goods/Leather",
+				["name"] = "Deviate Scale",
 				["ilevel"] = 1,
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[20474] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Bag",
-				["name"] = "Sunstrider Book Satchel",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 66,
+			[15484] = {
+				["equiplocation"] = "HAND",
+				["type"] = "Armor/Mail",
+				["name"] = "War Torn Handgrips",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 100,
 				["quality"] = 1,
 			},
-			[41594] = {
-				["open_no"] = 2,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Moonshroud",
+			[39343] = {
+				["open_no"] = 1,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Azure Pigment",
+				["ilevel"] = 70,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[1418] = {
+				["equiplocation"] = "WAIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Worn Leather Belt",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["open_no"] = 20,
+				["equip_no"] = "I21015i2NB10",
+				["quality"] = 0,
+			},
+			[43974] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Cloth",
+				["name"] = "Frostsavage Bracers",
+				["ilevel"] = 187,
+				["minlevel"] = 78,
+				["open_no"] = 68,
+				["quality"] = 3,
+			},
+			[21771] = {
+				["open_no"] = 16,
+				["type"] = "Quest/Quest",
+				["name"] = "Captain Kelisendra's Cargo",
+				["ilevel"] = 1,
+				["minlevel"] = 1,
+				["quality"] = 1,
+			},
+			[40411] = {
+				["open_no"] = 6,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Enchanted Vial",
+				["ilevel"] = 75,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[20765] = {
+				["open_no"] = 32,
+				["type"] = "Quest/Quest",
+				["name"] = "Incriminating Documents",
+				["ilevel"] = 4,
+				["minlevel"] = 4,
+				["quality"] = 1,
+			},
+			[43102] = {
+				["open_no"] = 4,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Frozen Orb",
 				["ilevel"] = 80,
 				["minlevel"] = 0,
 				["quality"] = 3,
 			},
-			[20992] = {
-				["equiplocation"] = "WRIST",
+			[1378] = {
+				["equiplocation"] = "LEGS",
 				["type"] = "Armor/Cloth",
-				["name"] = "Sunrise Bracers",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 4,
-				["quality"] = 1,
+				["name"] = "Frayed Pants",
+				["ilevel"] = 2,
+				["minlevel"] = 1,
+				["equip_no"] = "I21001i2NB12",
+				["open_no"] = 24,
+				["quality"] = 0,
 			},
-			[20996] = {
-				["equiplocation"] = "WAIST",
-				["type"] = "Armor/Leather",
-				["name"] = "Sunspire Cord",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 22,
-				["quality"] = 1,
-			},
-			[21000] = {
+			[22964] = {
 				["equiplocation"] = "WRIST",
-				["type"] = "Armor/Leather",
-				["name"] = "Vigorous Bracers",
-				["ilevel"] = 5,
+				["type"] = "Armor/Mail",
+				["name"] = "Sunsail Bracers",
+				["ilevel"] = 8,
 				["minlevel"] = 0,
+				["equip_yes"] = "I21019i2NB13",
+				["open_no"] = 54,
+				["quality"] = 1,
+			},
+			[20797] = {
+				["open_no"] = 26,
+				["type"] = "Quest/Quest",
+				["name"] = "Lynx Collar",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4814] = {
 				["open_no"] = 2,
+				["type"] = "Miscellaneous/Junk",
+				["name"] = "Discolored Fang",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 0,
+			},
+			[2996] = {
+				["open_no"] = 12,
+				["type"] = "Trade Goods/Cloth",
+				["name"] = "Bolt of Linen Cloth",
+				["ilevel"] = 10,
+				["minlevel"] = 0,
 				["quality"] = 1,
 			},
 			[36980] = {
@@ -7506,71 +10257,69 @@ QuestHelper_Collector = {
 				["open_no"] = 48,
 				["quality"] = 3,
 			},
-			[20482] = {
-				["open_no"] = 8,
-				["type"] = "Quest/Quest",
-				["name"] = "Arcane Sliver",
-				["ilevel"] = 1,
+			[23373] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Long Knife",
+				["ilevel"] = 7,
 				["minlevel"] = 0,
+				["open_no"] = 2,
 				["quality"] = 1,
 			},
-			[42407] = {
-				["open_no"] = 96,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Shadow",
-				["ilevel"] = 25,
-				["minlevel"] = 20,
+			[2488] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Gladius",
+				["ilevel"] = 9,
+				["minlevel"] = 4,
+				["open_no"] = 242,
 				["quality"] = 1,
 			},
-			[42415] = {
-				["open_no"] = 176,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Mind Flay",
-				["ilevel"] = 20,
-				["minlevel"] = 20,
+			[2489] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Two-handed Sword",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["equip_yes"] = "I20835i2NB08",
+				["open_no"] = 302,
 				["quality"] = 1,
 			},
-			[9017] = {
-				["open_no"] = 76,
-				["type"] = "Miscellaneous/Other",
-				["name"] = "Book of Powers",
-				["ilevel"] = 0,
-				["minlevel"] = 0,
-				["quality"] = 7,
-			},
-			[929] = {
+			[2490] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Axes",
+				["name"] = "Tomahawk",
+				["ilevel"] = 9,
+				["minlevel"] = 4,
 				["open_no"] = 16,
-				["type"] = "Consumable/Potion",
-				["name"] = "Healing Potion",
-				["ilevel"] = 22,
-				["minlevel"] = 12,
 				["quality"] = 1,
 			},
-			[37084] = {
-				["equiplocation"] = "CLOAK",
-				["type"] = "Armor/Cloth",
-				["name"] = "Flowing Cloak of Command",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 12,
-				["quality"] = 3,
-			},
-			[41427] = {
-				["open_no"] = 18,
-				["type"] = "Consumable/Other",
-				["name"] = "Dalaran Firework",
-				["ilevel"] = 20,
-				["minlevel"] = 0,
+			[2491] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Axes",
+				["name"] = "Large Axe",
+				["ilevel"] = 8,
+				["minlevel"] = 3,
+				["open_no"] = 8,
 				["quality"] = 1,
 			},
-			[43482] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Savage Titanium Ring",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 34,
-				["quality"] = 3,
+			[2492] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Maces",
+				["name"] = "Cudgel",
+				["ilevel"] = 7,
+				["minlevel"] = 2,
+				["open_no"] = 70,
+				["quality"] = 1,
+			},
+			[2493] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Maces",
+				["name"] = "Wooden Mallet",
+				["ilevel"] = 9,
+				["minlevel"] = 4,
+				["open_no"] = 2,
+				["quality"] = 1,
 			},
 			[37108] = {
 				["equiplocation"] = "2HWEAPON",
@@ -7581,266 +10330,142 @@ QuestHelper_Collector = {
 				["open_no"] = 26,
 				["quality"] = 3,
 			},
-			[36944] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/Daggers",
-				["name"] = "Lifeblade of Belgaristrasz",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 42,
-				["quality"] = 3,
-			},
-			[50255] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Dread Pirate Ring",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["open_no"] = 100,
-				["quality"] = 7,
-			},
-			[20797] = {
-				["open_no"] = 26,
-				["type"] = "Quest/Quest",
-				["name"] = "Lynx Collar",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
+			[2495] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Staves",
+				["name"] = "Walking Stick",
+				["ilevel"] = 8,
+				["minlevel"] = 3,
+				["open_no"] = 6,
 				["quality"] = 1,
 			},
-			[37079] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Enchanted Wire Stitching",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["equip_yes"] = "I50255i2PB804",
-				["open_no"] = 86,
-				["quality"] = 3,
-			},
-			[21876] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Bag",
-				["name"] = "Primal Mooncloth Bag",
-				["ilevel"] = 70,
-				["minlevel"] = 0,
-				["open_no"] = 52,
-				["quality"] = 3,
-			},
-			[19789] = {
-				["open_no"] = 452,
+			[3300] = {
+				["open_no"] = 2,
 				["type"] = "Miscellaneous/Junk",
-				["name"] = "Prophetic Aura",
-				["ilevel"] = 60,
-				["minlevel"] = 60,
-				["quality"] = 3,
-			},
-			[20813] = {
-				["open_no"] = 4,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Lynx Tooth",
-				["ilevel"] = 1,
+				["name"] = "Rabbit's Foot",
+				["ilevel"] = 5,
 				["minlevel"] = 0,
 				["quality"] = 0,
 			},
-			[37058] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Signet of Ranulf",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 152,
-				["quality"] = 3,
-			},
-			[21841] = {
-				["equiplocation"] = "BAG",
-				["type"] = "Container/Bag",
-				["name"] = "Netherweave Bag",
-				["ilevel"] = 63,
+			[27552] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Leather",
+				["name"] = "Soft Leather Vest",
+				["ilevel"] = 5,
 				["minlevel"] = 0,
-				["open_no"] = 51,
-				["quality"] = 2,
-			},
-			[43250] = {
-				["equiplocation"] = "FINGER",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Ring of Earthen Might",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 14,
-				["quality"] = 3,
-			},
-			[3385] = {
-				["open_no"] = 14,
-				["type"] = "Consumable/Potion",
-				["name"] = "Lesser Mana Potion",
-				["ilevel"] = 24,
-				["minlevel"] = 14,
+				["open_no"] = 2,
 				["quality"] = 1,
 			},
-			[45755] = {
-				["open_no"] = 96,
+			[45758] = {
+				["open_no"] = 42,
 				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Guardian Spirit",
+				["name"] = "Glyph of Hymn of Hope",
 				["ilevel"] = 45,
 				["minlevel"] = 60,
 				["quality"] = 1,
 			},
-			[20837] = {
-				["equiplocation"] = "WEAPONMAINHAND",
-				["type"] = "Weapon/One-Handed Axes",
-				["name"] = "Sunstrider Axe",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 2,
-				["quality"] = 1,
-			},
-			[20841] = {
-				["equiplocation"] = "SHIELD",
-				["type"] = "Armor/Shields",
-				["name"] = "Sunstrider Shield",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 14,
-				["quality"] = 1,
-			},
-			[20845] = {
-				["open_no"] = 76,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Torn Wyrm Scale",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 0,
-			},
-			[10711] = {
-				["equiplocation"] = "NECK",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Dragon's Blood Necklace",
-				["ilevel"] = 44,
-				["minlevel"] = 0,
-				["open_no"] = 2,
-				["quality"] = 3,
-			},
-			[36989] = {
-				["equiplocation"] = "RANGEDRIGHT",
-				["type"] = "Weapon/Wands",
-				["name"] = "Ancient Measuring Rod",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 78,
-				["quality"] = 3,
-			},
-			[51999] = {
-				["open_no"] = 4,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Satchel of Helpful Goods",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 3,
-			},
-			[2589] = {
-				["open_no"] = 52,
-				["type"] = "Trade Goods/Cloth",
-				["name"] = "Linen Cloth",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[44663] = {
-				["open_no"] = 20,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Abandoned Adventurer's Satchel",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[20978] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Staves",
-				["name"] = "Apprentice's Staff",
-				["ilevel"] = 2,
-				["minlevel"] = 1,
-				["open_no"] = 32,
-				["quality"] = 1,
-			},
-			[21010] = {
-				["equiplocation"] = "FEET",
-				["type"] = "Armor/Leather",
-				["name"] = "Scraggy Leather Boots",
-				["ilevel"] = 3,
-				["minlevel"] = 1,
-				["open_no"] = 4,
-				["equip_no"] = "I20997i2NB06",
-				["quality"] = 0,
-			},
-			[20839] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Staves",
-				["name"] = "Sunstrider Staff",
-				["ilevel"] = 5,
-				["minlevel"] = 0,
-				["open_no"] = 4,
-				["quality"] = 1,
-			},
-			[42400] = {
-				["open_no"] = 38,
-				["type"] = "Glyph/Priest",
-				["name"] = "Glyph of Flash Heal",
-				["ilevel"] = 25,
-				["minlevel"] = 20,
-				["quality"] = 1,
-			},
-			[37053] = {
-				["equiplocation"] = "NECK",
-				["type"] = "Armor/Miscellaneous",
-				["name"] = "Amulet of Deflected Blows",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["open_no"] = 28,
-				["quality"] = 3,
-			},
-			[20483] = {
-				["open_no"] = 18,
-				["type"] = "Miscellaneous/Junk",
-				["name"] = "Tainted Arcane Sliver",
-				["ilevel"] = 1,
-				["minlevel"] = 0,
-				["quality"] = 1,
-			},
-			[39310] = {
-				["equiplocation"] = "SHOULDER",
-				["type"] = "Armor/Cloth",
-				["name"] = "Mantle of the Extensive Mind",
-				["ilevel"] = 200,
-				["minlevel"] = 80,
-				["open_no"] = 2,
-				["quality"] = 4,
-			},
-			[2488] = {
+			[13033] = {
 				["equiplocation"] = "WEAPON",
 				["type"] = "Weapon/One-Handed Swords",
-				["name"] = "Gladius",
-				["ilevel"] = 9,
-				["minlevel"] = 4,
-				["open_no"] = 152,
-				["quality"] = 1,
-			},
-			[43970] = {
-				["equiplocation"] = "FEET",
-				["type"] = "Armor/Cloth",
-				["name"] = "Frostsavage Boots",
-				["ilevel"] = 187,
-				["minlevel"] = 78,
-				["equip_yes"] = "I51i2PB804",
-				["open_no"] = 44,
+				["name"] = "Zealot Blade",
+				["ilevel"] = 34,
+				["minlevel"] = 29,
+				["open_no"] = 6,
 				["quality"] = 3,
 			},
-			[2490] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/One-Handed Axes",
-				["name"] = "Tomahawk",
-				["ilevel"] = 9,
-				["minlevel"] = 4,
-				["open_no"] = 8,
+			[15944] = {
+				["equiplocation"] = "HOLDABLE",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Ancestral Orb",
+				["ilevel"] = 12,
+				["minlevel"] = 7,
+				["open_no"] = 146,
+				["quality"] = 2,
+			},
+			[22985] = {
+				["equiplocation"] = "CHEST",
+				["type"] = "Armor/Mail",
+				["name"] = "Suncrown Hauberk",
+				["ilevel"] = 15,
+				["minlevel"] = 10,
+				["open_no"] = 1148,
+				["quality"] = 2,
+			},
+			[3253] = {
+				["open_no"] = 190,
+				["type"] = "Quest/Quest",
+				["name"] = "Grizzled Bear Heart",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[13049] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Deanship Claymore",
+				["ilevel"] = 29,
+				["minlevel"] = 26,
+				["open_no"] = 4,
+				["quality"] = 3,
+			},
+			[5001] = {
+				["equiplocation"] = "FINGER",
+				["type"] = "Armor/Miscellaneous",
+				["name"] = "Heart Ring",
+				["ilevel"] = 27,
+				["minlevel"] = 22,
+				["open_no"] = 14,
+				["quality"] = 2,
+			},
+			[22965] = {
+				["equiplocation"] = "WRIST",
+				["type"] = "Armor/Leather",
+				["name"] = "Longshoreman's Bindings",
+				["ilevel"] = 8,
+				["minlevel"] = 0,
+				["open_no"] = 10,
+				["quality"] = 1,
+			},
+			[20470] = {
+				["open_no"] = 2,
+				["type"] = "Consumable/Consumable",
+				["name"] = "Solanian's Scrying Orb",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[44107] = {
+				["equiplocation"] = "SHOULDER",
+				["type"] = "Armor/Cloth",
+				["name"] = "Exquisite Sunderseer Mantle",
+				["ilevel"] = 1,
+				["minlevel"] = 0,
+				["open_no"] = 40,
+				["quality"] = 7,
+			},
+			[38865] = {
+				["open_no"] = 116,
+				["type"] = "Consumable/Item Enhancement",
+				["name"] = "Scroll of Enchant Chest - Greater Stats",
+				["ilevel"] = 62,
+				["minlevel"] = 0,
+				["quality"] = 1,
+			},
+			[4500] = {
+				["equiplocation"] = "BAG",
+				["type"] = "Container/Bag",
+				["name"] = "Traveler's Backpack",
+				["ilevel"] = 55,
+				["minlevel"] = 0,
+				["open_no"] = 44,
+				["quality"] = 2,
+			},
+			[5635] = {
+				["open_no"] = 94,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Sharp Claw",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
 				["quality"] = 1,
 			},
 		},
@@ -7849,8 +10474,59 @@ QuestHelper_Collector = {
 			["Frozen Nexus"] = 5,
 			["Icecrown"] = 2,
 			["Frosthold"] = 3,
+			["Frostmourne"] = 8,
 		},
 		["worldloot"] = {
+			["0—Ä\000Hm©\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[13099] = 1,
+				},
+			},
+			["\000ñC]\000!§K\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20842] = 1,
+					[20843] = 1,
+					[118] = 1,
+				},
+			},
+			["Sœù\000÷ •\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[1802] = 1,
+					[2592] = 2,
+					["gold"] = 264,
+				},
+			},
+			["\000π∑S\000µ)≥\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[6527] = 1,
+				},
+			},
+			["\000{ÍP\000À=6\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20842] = 1,
+				},
+			},
+			["\000≤X\000~O0\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20845] = 1,
+					[20846] = 1,
+					[2589] = 2,
+					[21019] = 1,
+					[20482] = 1,
+				},
+			},
+			["\000í‹M\000√?K\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20847] = 2,
+				},
+			},
 			["\0002^\000_å2\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
@@ -7858,18 +10534,59 @@ QuestHelper_Collector = {
 					[20482] = 1,
 				},
 			},
-			["\000∑?^\000≤H2\000"] = {
+			["\000\n£πs\000«Û<\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[20845] = 2,
-					[20482] = 1,
+					[43852] = 1,
+					[33470] = 3,
+					["gold"] = 4936,
 				},
 			},
-			["\000ÏÄ\\\000f4\000"] = {
+			["\000„˜è\000ì’õ\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[20845] = 1,
+					[51996] = 1,
+				},
+			},
+			["\000—C\000ˇôÆ\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[1422] = 1,
+				},
+			},
+			["\000π)]\000∆‹K\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[2589] = 2,
+					[20843] = 1,
+				},
+			},
+			["\000NKS\000Ω«≤\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[22487] = 1,
+				},
+			},
+			["\000∏ÿ]\000^Æ2\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
 					[20846] = 1,
+				},
+			},
+			["\000Æ=N\000¯≥\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[2212] = 1,
+				},
+			},
+			["\000ˇ [\000K»J\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+				},
+			},
+			["\000∏&^\000Ì3\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
 					[20482] = 1,
 				},
 			},
@@ -7880,12 +10597,13 @@ QuestHelper_Collector = {
 					["gold"] = 3,
 				},
 			},
-			["\000\n£πs\000«Û<\000"] = {
+			["\000ˇÚ∂\000a/¿\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[43852] = 1,
-					[33470] = 3,
-					["gold"] = 4936,
+					[33448] = 5,
+					[33447] = 5,
+					[40211] = 5,
+					[41427] = 5,
 				},
 			},
 			["\0001‚]\000Ïë3\000"] = {
@@ -7903,39 +10621,41 @@ QuestHelper_Collector = {
 					[20843] = 1,
 				},
 			},
-			["\000u˙[\000∫C2\000"] = {
-				["loot_count"] = 1,
+			["@„Ä\000ÆW©\000"] = {
+				["loot_count"] = 2,
 				["loot_loot"] = {
-					[20482] = 1,
-					[20846] = 1,
-					[21012] = 1,
+					[6347] = 2,
 				},
 			},
-			["\000∏ÿ]\000^Æ2\000"] = {
-				["loot_count"] = 1,
+			["lÓÄ\000OJ©\000"] = {
+				["loot_count"] = 2,
 				["loot_loot"] = {
-					[20846] = 1,
+					[12006] = 1,
+					[51996] = 1,
 				},
 			},
-			["\000ˇÚ∂\000a/¿\000"] = {
-				["loot_count"] = 1,
+			["`€ö\000÷ù£\000"] = {
+				["loot_count"] = 4,
 				["loot_loot"] = {
-					[33448] = 5,
-					[33447] = 5,
-					[40211] = 5,
-					[41427] = 5,
+					[4306] = 4,
+					[6681] = 1,
+					[1205] = 1,
+					["gold"] = 2001,
+					[4538] = 1,
+					[3385] = 1,
 				},
 			},
-			["\000í‹M\000√?K\000"] = {
+			["\000ÅZP\000≤µ\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[20847] = 2,
+					[22413] = 1,
 				},
 			},
-			["\000{ÍP\000À=6\000"] = {
+			["\000£ÊO\000#ÿ±\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[20842] = 1,
+					[2589] = 1,
+					["gold"] = 30,
 				},
 			},
 			["\000V.P\000˙Ä:\000"] = {
@@ -7944,14 +10664,152 @@ QuestHelper_Collector = {
 					[20471] = 1,
 				},
 			},
-			["\000∏&^\000Ì3\000"] = {
+			["\000Ç…K\000s8≤\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[22413] = 1,
+				},
+			},
+			["ÄÄ\000\000\000Ä\000\000\000Ä"] = {
+				["loot_count"] = 6,
+				["loot_loot"] = {
+					[4604] = 4,
+					[2589] = 2,
+					[4606] = 1,
+					[2453] = 1,
+					[17056] = 1,
+					[4605] = 4,
+					[2449] = 1,
+				},
+			},
+			["\0003U\000¶πE\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+				},
+			},
+			["\000∑?^\000≤H2\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20845] = 2,
+					[20482] = 1,
+				},
+			},
+			["\000ÏÄ\\\000f4\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20845] = 1,
+					[20846] = 1,
+					[20482] = 1,
+				},
+			},
+			["\000k≠S\000€5≤\000"] = {
+				["loot_count"] = 2,
+				["loot_loot"] = {
+					[2589] = 2,
+					[118] = 3,
+					["gold"] = 30,
+				},
+			},
+			["\000u˙[\000∫C2\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
 					[20482] = 1,
+					[20846] = 1,
+					[21012] = 1,
+				},
+			},
+			["\000eÆV\000BÕ0\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20845] = 2,
+					[20846] = 1,
+					[2589] = 2,
+					[20482] = 1,
+				},
+			},
+			["\000dßó\000⁄ò\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+				},
+			},
+			["\000:TO\000àï¥\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[2652] = 1,
+					[2589] = 2,
+				},
+			},
+			["\000\rX\000€ú0\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[20845] = 2,
+					[20846] = 1,
+					[2589] = 1,
+					[159] = 1,
+					[20482] = 1,
+				},
+			},
+			["\000.ÛC\000õX∞\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[779] = 1,
+				},
+			},
+			["2n\000·i\000"] = {
+				["loot_count"] = 3,
+				["loot_loot"] = {
+					[6444] = 1,
+					[6445] = 1,
+					[6461] = 2,
+					[10441] = 2,
+				},
+			},
+			["\0006£]\000if4\000"] = {
+				["loot_count"] = 2,
+				["loot_loot"] = {
+					[20845] = 2,
+					[20846] = 2,
+					[2589] = 4,
+					[21014] = 2,
+				},
+			},
+			["\000°˙\\\000‰&3\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[2589] = 2,
+					[20846] = 1,
+					[20845] = 2,
+				},
+			},
+			["\000OXC\000·àÆ\000"] = {
+				["loot_count"] = 1,
+				["loot_loot"] = {
+					[6303] = 2,
+				},
+			},
+			["≥-z\000\nKY\000"] = {
+				["loot_count"] = 4,
+				["loot_loot"] = {
+					[4676] = 2,
+					[6445] = 1,
+					["gold"] = 288,
+					[6470] = 1,
+					[6444] = 1,
+					[10413] = 1,
+					[765] = 1,
 				},
 			},
 		},
 		["object"] = {
+			["Silverleaf"] = {
+				["herb_loot"] = {
+					[765] = 10,
+				},
+				["herb_count"] = 4,
+			},
+			["Shrine of Dath'Remar"] = {
+				"\000òÂK\000‡˚1\000", -- [1]
+			},
 			["Scroll of Scourge Magic"] = {
 				"\000P\000 æ:\000\000V.P\000˙Ä:\000", -- [1]
 			},
@@ -7963,8 +10821,14 @@ QuestHelper_Collector = {
 					[20472] = 1,
 				},
 			},
-			["Shrine of Dath'Remar"] = {
-				"\000òÂK\000‡˚1\000", -- [1]
+			["Weapon Container"] = {
+				"\000¯UR\000ã¥\000\000xùQ\000˝8∞\000\000˜|Q\000_=∞\000\000KQ\000˝–∞\000\000LQ\000èÕ∞\000\000¨ÔO\000ù≥\000\000ùO\000·≥\000\000ÅZP\000≤µ\000\000◊\rK\000h?≤\000\000ø<K\000|2≤\000\000ºiK\000&≤\000\000˛ÂO\000‹µ\000\000œYP\000¢öµ\000\000V^P\000àûµ\000\000ˆ‹S\000f∂\000\000)P\000^i≥\000", -- [1]
+				"\000úP\000h≥\000\000ØÉN\000t±\000\000≤HN\000“<±\000\000Ã”K\000æ;≤\000", -- [2]
+				"\000Ç…K\000s8≤\000", -- [3]
+				["open_count"] = 6,
+				["open_loot"] = {
+					[22413] = 6,
+				},
 			},
 			["Solanian's Scrying Orb"] = {
 				"\000oúY\0005mJ\000\000—ŸY\0002J\000", -- [1]
@@ -7975,62 +10839,181 @@ QuestHelper_Collector = {
 			},
 		},
 		["quest"] = {
-			[8325] = {
+			[9705] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Return to Outrunner Alarion with Erona's Package.",
+				["criteria_1_monster_true"] = {
+				},
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Package Recovery",
+				["criteria_1_type"] = "log",
+				["start"] = "M69m\000¨xk\000äZ\000",
+				["level"] = 5,
+				["criteria_1_monster_false"] = {
+					[63] = 32,
+					[60] = 20,
+					[61] = 6,
+					[73] = 6,
+					[66] = 12,
+				},
+				["start_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[8564] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Priest Training",
+				["start"] = "M59m\000¥6a\000Í∏5\000",
+				["level"] = 1,
+				["start_spec"] = "2PB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿",
+				["special_item"] = false,
+			},
+			[6981] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Speak with someone in Ratchet about the Glowing Shard",
+				["daily"] = false,
+				["special_item"] = false,
+				["start_spec"] = "2NB21\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖL\000@\000\000\000\000\000\000‹",
+				["name"] = "The Glowing Shard",
+				["level"] = 26,
+				["start"] = "2n\000·i\000",
+				["criteria_1_type"] = "event",
+				["criteria_1_monster_false"] = {
+					[26] = 8,
+					[74] = 46,
+					[2] = 198,
+					[61] = 28,
+					[75] = 2,
+					[5] = 8,
+					[6] = 1418,
+					[9] = 2,
+					[11] = 14,
+					[62] = 20,
+					[77] = 2,
+					[93] = 6,
+					[31] = 2,
+					[78] = 8,
+					[63] = 82,
+					[79] = 2,
+					[64] = 20,
+					[80] = 46,
+					[65] = 66,
+					[66] = 2,
+					[98] = 2,
+					[8] = 10,
+					[12] = 4,
+					[14] = 2,
+					[17] = 2036,
+					[25] = 6,
+					[29] = 4,
+					[70] = 26,
+					[59] = 6,
+					[71] = 62,
+					[37] = 2,
+					[15] = 276,
+					[72] = 2,
+					[69] = 202,
+					[73] = 18,
+					[127] = 4,
+					[18] = 489,
+					[23] = 36,
+					[68] = 86,
+				},
+				["criteria_1_monster_true"] = {
+				},
+			},
+			[868] = {
 				["groupcount"] = 0,
 				["items_choice"] = {
-					[20997] = 1,
-					[20998] = 1,
+					[6503] = 1,
+					[6502] = 1,
 				},
-				["criteria_1_text"] = "Mana Wyrm slain: 0/8",
-				["special_item"] = false,
-				["criteria_1_monster_false"] = {
-					[2350] = 12,
-					[59] = 356,
-					[60] = 14,
-					[742] = 10,
-					[82] = 2,
-				},
-				["level"] = 1,
-				["name"] = "Reclaiming Sunstrider Isle",
-				["criteria_1_satisfied"] = "M59mL\000∑?^\000≤H2\000lM59mL\000$^\000Zå2\000lM59mL\000∏ÿ]\000^Æ2\000lM59mL\000∏&^\000Ì3\000lM59mL\0001‚]\000Ïë3\000lM59mL\000\n“\\\000g4\000lM59mL\000≤&\\\000ÇÏ2\000lM59mL\000ç€[\000«Õ1\000lM59mL\000ﬂ^\0008¢3\000lM59mL\000Ü≈^\000∞∞2\000lM59mL\000√ﬁ\\\000äQ0\000lM59mL\000ä [\000≥ƒ0\000lM59mL\000ÍY\0008«/\000lM59mL\000 ÂX\000\re0\000lM59mL\000ˆX\000Ñ70\000lM59mL\000—ÂW\0009…0\000l",
+				["criteria_1_text"] = "Silithid Egg: 0/12",
+				["special_item"] = 5059,
 				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["end"] = "M59m\000V<a\000∂ò5\000",
-				["start"] = "M59m\000¥6a\000Í∏5\000",
-				["criteria_1_type"] = "monster",
-				["end_spec"] = "2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["start_spec"] = "2PB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿",
-			},
-			[8326] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = " : 0/8",
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_monster_false"] = {
-					[2350] = 36,
-					[59] = 229,
-					[60] = 197,
-					[742] = 6,
-					[24] = 8,
-				},
-				["special_item"] = false,
-				["daily"] = false,
-				["name"] = "Unfortunate Measures",
-				["end"] = "M59m\000®Aa\000Çæ5\000",
+				["name"] = "Egg Hunt",
 				["criteria_1_type"] = "item",
-				["level"] = 3,
-				["end_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["criteria_1_satisfied"] = "I20846iI20482iL\000JÏ^\000∫=\000lI20812iI20813iI20797iL\000ŸZ\000rô?\000lI20812iI20813iI20797iL\000ÒµT\000	¬;\000lI20812iI20797iL\000ÿ«T\000q”8\000lM60mI20797iL\000V]\000;ã:\000lI20797iL\000òuX\000X8\000lM60mI20812iI20797iL\000ôÒW\000AÍ7\000lI20812iI20813iI20797iL\000’©Y\000Y°>\000l",
+				["level"] = 22,
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_1_monster_true"] = {
+				},
 			},
-			[8327] = {
+			[9076] = {
 				["groupcount"] = 0,
+				["items_choice"] = {
+					[22966] = 1,
+					[22964] = 1,
+					[22965] = 1,
+				},
+				["criteria_1_text"] = "Aldaron's Head: 0/1",
 				["daily"] = false,
-				["name"] = "Report to Lanthan Perilon",
-				["start"] = "M59m\000®Aa\000Çæ5\000",
-				["level"] = 3,
+				["criteria_1_monster_false"] = {
+					[63] = 111,
+					[74] = 8,
+					[60] = 4,
+					[61] = 78,
+					[62] = 22,
+				},
+				["level"] = 8,
+				["name"] = "Wretched Ringleader",
+				["criteria_1_satisfied"] = "I22487iL\000NKS\000Ω«≤\000l",
+				["start_spec"] = "2NB11\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Å\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M60m\000.˚\\\000‹˝™\000",
+				["start"] = "M74m\000]\000˙œ™\000",
+				["criteria_1_type"] = "item",
+				["end_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Å\000\000\000\000\000\000\000\000\000‹",
 				["special_item"] = false,
-				["start_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[3064] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Talk with Magni will ya lad? ",
+				["name"] = "Titans... They are here",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M33m\000\nˆôv\000uR?\000",
+				["end_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
+				["criteria_1_type"] = "log",
+				["criteria_1_monster_false"] = {
+					[57] = 8,
+					[115] = 2,
+					[2558] = 12,
+					[121] = 36,
+					[2347] = 148,
+					[33] = 4,
+					[34] = 4,
+					[102] = 226,
+					[19] = 2,
+					[742] = 22,
+					[119] = 4,
+					[112] = 4,
+					[46] = 10,
+					[116] = 4,
+					[273] = 6,
+					[214] = 24,
+					[122] = 10,
+					[390] = 6,
+					[126] = 12,
+					[2350] = 28,
+					[133] = 2,
+					[130] = 26,
+					[234] = 50,
+					[0] = 14,
+					[129] = 2,
+					[359] = 16,
+					[124] = 10,
+					[125] = 6,
+				},
+				["level"] = 80,
 			},
 			[6543] = {
 				["criteria_2_text"] = "Warsong Runner Update: 0/1",
@@ -8072,122 +11055,93 @@ QuestHelper_Collector = {
 				},
 				["criteria_2_type"] = "item",
 			},
-			[4921] = {
+			[8325] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Find Mankrik's Wife: 0/1",
-				["special_item"] = false,
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["level"] = 20,
-				["criteria_1_type"] = "monster",
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["name"] = "Lost in Battle",
-			},
-			[8330] = {
-				["criteria_2_text"] = "Scroll of Scourge Magic: 0/1",
-				["criteria_1_text"] = "Solanian's Scrying Orb: 0/1",
-				["special_item"] = false,
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["end"] = "M59m\000ù@c\000\"◊1\000",
-				["criteria_1_type"] = "item",
-				["end_spec"] = "2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["criteria_2_satisfied"] = "M59mL\000·/P\000™ø:\000l",
-				["groupcount"] = 0,
-				["criteria_3_monster_false"] = {
-					[2350] = 40,
-					[24] = 4,
-					[60] = 195,
-					[742] = 8,
-					[59] = 604,
-				},
 				["items_choice"] = {
-					[20996] = 1,
-					[20995] = 1,
+					[20997] = 1,
+					[20998] = 1,
 				},
-				["criteria_3_type"] = "item",
-				["level"] = 4,
-				["criteria_3_monster_true"] = {
-				},
-				["criteria_2_monster_true"] = {
-				},
-				["criteria_3_text"] = "Solanian's Journal: 0/1",
-				["criteria_1_satisfied"] = "I20470iL\000—ŸY\0002J\000l",
-				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["name"] = "Solanian's Belongings",
-				["criteria_2_monster_false"] = {
-					[2350] = 40,
-					[24] = 4,
-					[60] = 195,
-					[742] = 8,
-					[59] = 604,
-				},
-				["start"] = "M59m\000cZc\000,Î1\000M59m\000fKc\000.±1\000",
-				["criteria_3_satisfied"] = "M59mI20845iI20482iL\000˚È`\000ˇ=>\000l",
-				["criteria_1_monster_false"] = {
-					[2350] = 40,
-					[24] = 4,
-					[60] = 195,
-					[742] = 8,
-					[59] = 604,
-				},
-				["criteria_2_type"] = "item",
-			},
-			[3241] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Stormforged Raider slain: 0/5",
+				["criteria_1_text"] = "Mana Wyrm slain: 0/8",
 				["special_item"] = false,
-				["end_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
-				["level"] = 80,
+				["criteria_1_monster_false"] = {
+					[2350] = 12,
+					[59] = 675,
+					[60] = 49,
+					[742] = 10,
+					[82] = 2,
+				},
+				["level"] = 1,
+				["name"] = "Reclaiming Sunstrider Isle",
+				["criteria_1_satisfied"] = "M59mL\000∑?^\000≤H2\000lM59mL\000$^\000Zå2\000lM59mL\000∏ÿ]\000^Æ2\000lM59mL\000∏&^\000Ì3\000lM59mL\0001‚]\000Ïë3\000lM59mL\000\n“\\\000g4\000lM59mL\000≤&\\\000ÇÏ2\000lM59mL\000ç€[\000«Õ1\000lM59mL\000ﬂ^\0008¢3\000lM59mL\000Ü≈^\000∞∞2\000lM59mL\000√ﬁ\\\000äQ0\000lM59mL\000ä [\000≥ƒ0\000lM59mL\000ÍY\0008«/\000lM59mL\000 ÂX\000\re0\000lM59mL\000ˆX\000Ñ70\000lM59mL\000—ÂW\0009…0\000lM59mM59mL\000–…]\000b94\000lM59mL\000-Y\000tœ4\000lM59mL\000j›X\000≥z4\000lM59mL\000‹Y\000ˆ/\000lM59mL\0003‹X\000¥}1\000lM59mL\000°˙\\\000‰&3\000lM59mL\000°˙\\\000‰&3\000lM59mL\000=o[\000~á3\000l",
+				["daily"] = false,
 				["criteria_1_monster_true"] = {
 				},
-				["criteria_1_satisfied"] = "M114mL\000\npæs\000M=\000lM114mL\000\nUr\000ƒ≈<\000lM114mL\000\nFq\000Ü¶=\000lM114mL\000\nò,q\000ps=\000lM114mM114mL\000\nò,q\000ps=\000l",
-				["daily"] = false,
-				["name"] = "Defense Mechanisms",
-				["end"] = "M33m\000\nnâv\000∏.?\000",
-				["start"] = "M120m\000\nGùv\000o=\000",
+				["end"] = "M59m\000V<a\000∂ò5\000M59m\000Ÿ-a\000/©5\000",
+				["start"] = "M59m\000¥6a\000Í∏5\000",
 				["criteria_1_type"] = "monster",
-				["criteria_1_monster_false"] = {
-					[114] = 85,
-					[115] = 8,
-					[33] = 6,
-				},
-				["start_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
+				["end_spec"] = "2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["start_spec"] = "2PB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿",
 			},
-			[8334] = {
-				["criteria_2_text"] = "Feral Tender slain: 0/7",
-				["criteria_1_text"] = "Tender slain: 0/7",
-				["special_item"] = false,
-				["criteria_2_monster_false"] = {
-					[59] = 234,
-					[60] = 8,
+			[8326] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = " : 0/8",
+				["daily"] = false,
+				["criteria_1_monster_false"] = {
+					[2350] = 36,
+					[59] = 533,
+					[60] = 387,
+					[742] = 6,
+					[24] = 8,
 				},
+				["criteria_1_type"] = "item",
 				["criteria_1_monster_true"] = {
 				},
-				["end"] = "M59m\000HïZ\000YÖ9\000",
-				["criteria_1_type"] = "monster",
+				["special_item"] = false,
+				["start_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Unfortunate Measures",
+				["end"] = "M59m\000®Aa\000Çæ5\000M59m\000®Ja\000‹5\000",
+				["start"] = "\000èva\000>‘5\000",
+				["level"] = 3,
+				["end_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_satisfied"] = "I20846iI20482iL\000JÏ^\000∫=\000lI20812iI20813iI20797iL\000ŸZ\000rô?\000lI20812iI20813iI20797iL\000ÒµT\000	¬;\000lI20812iI20797iL\000ÿ«T\000q”8\000lM60mI20797iL\000V]\000;ã:\000lI20797iL\000òuX\000X8\000lM60mI20812iI20797iL\000ôÒW\000AÍ7\000lI20812iI20813iI20797iL\000’©Y\000Y°>\000lC2cM59mI20813iI20812iI2589iI20797iL\000JY\0004J@\000lM60mM60mM59mI20813iI20812iI2589iI20797iL\000ó˘Y\000kJ@\000lM60mM59mI20813iI20812iI2589iI20797iL\000ÿ›Y\000{⁄>\000lM60mM59mI20813iI20812iI2589iI117iI20797iL\000;\r[\000∑YA\000lM59mM59mM59mI20813iI20812iI2589iI20797iL\000≤JZ\000}«?\000lM59mM60mM60mI20813iI20812iI2589iI159iI117iI20797iL\000G«Y\000\"î>\000lM60mM59mM60mI20813iI20812iI2589iI20797iL\000]}[\000Åc=\000l",
+			},
+			[10359] = {
 				["groupcount"] = 0,
-				["criteria_2_monster_true"] = {
-				},
-				["criteria_1_satisfied"] = "M59mL\000r$V\000l>>\000lM59mL\000≠TT\000ﬁ>\000lM59mL\000˙-S\000¨\000>\000lM59mL\000rP\0009(>\000lM59mL\000·/P\000™ø:\000lM59mL\000lO\000jÑ9\000lM59mL\000{ÍP\000À=6\000l",
-				["end_spec"] = "2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["name"] = "Aggression",
-				["criteria_2_satisfied"] = "M59mL\000˘≈U\000∂k=\000lM59mL\000À`U\000;>\000lM59mM59mL\000ˇıS\000â\r>\000lM59mM59mM59mL\000ÎR\000ëﬁ<\000lM59mL\000»≠Q\000≥E=\000lM59mL\000˙åO\000QF;\000lM59mL\000RóO\000Òn8\000l",
+				["criteria_1_text"] = "Wool Cloth: 0/60",
+				["name"] = "A Donation of Wool",
+				["special_item"] = false,
 				["daily"] = false,
-				["level"] = 4,
-				["criteria_1_monster_false"] = {
-					[59] = 234,
-					[60] = 8,
+				["criteria_1_monster_true"] = {
 				},
-				["criteria_2_type"] = "monster",
+				["end"] = "M80m\000ß'ë\000Zﬁá\000",
+				["end_spec"] = "2NB22\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖL\000H\000\000\000\000\000\000‹",
+				["level"] = 60,
+				["criteria_1_monster_false"] = {
+					[14] = 590,
+					[7] = 42,
+					[15] = 733,
+					[63] = 8,
+					[8] = 28,
+					[34] = 133,
+					[69] = 8,
+					[19] = 637,
+					[2] = 198,
+					[22] = 990,
+					[11] = 18,
+					[23] = 87,
+					[68] = 16,
+					[64] = 6,
+					[32] = 6,
+					[25] = 10,
+					[13] = 38,
+					[26] = 26,
+					[74] = 2,
+					[65] = 8,
+					[6] = 323,
+					[80] = 12,
+					[38] = 8,
+				},
+				["criteria_1_type"] = "item",
 			},
 			[6546] = {
 				["groupcount"] = 0,
@@ -8210,6 +11164,54 @@ QuestHelper_Collector = {
 				},
 				["daily"] = false,
 			},
+			[6547] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Warsong Report: 1/1",
+				["special_item"] = false,
+				["items_reward"] = {
+					[16764] = 1,
+				},
+				["name"] = "Warsong Scout Update",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["level"] = 21,
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["daily"] = false,
+			},
+			[8334] = {
+				["criteria_2_text"] = "Feral Tender slain: 0/7",
+				["criteria_1_text"] = "Tender slain: 0/7",
+				["special_item"] = false,
+				["criteria_2_monster_false"] = {
+					[59] = 612,
+					[60] = 10,
+				},
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M59m\000HïZ\000YÖ9\000M59m\000±Z\000∂Ÿ9\000",
+				["criteria_1_type"] = "monster",
+				["groupcount"] = 0,
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_1_satisfied"] = "M59mL\000r$V\000l>>\000lM59mL\000≠TT\000ﬁ>\000lM59mL\000˙-S\000¨\000>\000lM59mL\000rP\0009(>\000lM59mL\000·/P\000™ø:\000lM59mL\000lO\000jÑ9\000lM59mL\000{ÍP\000À=6\000lM59mL\000X>X\000ìMC\000lM59mM59mM59mL\000˙D]\000ñ”L\000lM59mM59mL\000d ]\000∂›K\000lM59mL\000˜[\000”„L\000lM60mM59mL\000F÷W\000jzE\000lM59mM59mL\000€úY\000W4E\000lM59mM59mL\0003U\000¶πE\000l",
+				["criteria_1_monster_false"] = {
+					[59] = 612,
+					[60] = 10,
+				},
+				["name"] = "Aggression",
+				["end_spec"] = "2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+				["level"] = 4,
+				["criteria_2_satisfied"] = "M59mL\000˘≈U\000∂k=\000lM59mL\000À`U\000;>\000lM59mM59mL\000ˇıS\000â\r>\000lM59mM59mM59mL\000ÎR\000ëﬁ<\000lM59mL\000»≠Q\000≥E=\000lM59mL\000˙åO\000QF;\000lM59mL\000RóO\000Òn8\000lM59mM60mL\0001\\\000#GG\000lM59mL\000ü]\000ÜI\000lM59mM59mL\000ÌD\\\000ZJ\000lM59mL\000ˇ [\000K»J\000lM59mL\000D\\\0009L\000lM60mM59mL\000‡1]\000≥ﬂK\000lM59mM59mL\000π	\\\000ŸL\000l",
+				["criteria_2_type"] = "monster",
+			},
 			[8335] = {
 				["criteria_2_text"] = "Tainted Arcane Wraith slain: 0/2",
 				["criteria_1_text"] = "Arcane Wraith slain: 0/8",
@@ -8222,17 +11224,119 @@ QuestHelper_Collector = {
 				["criteria_3_satisfied"] = "I20799iI20799iL\000ÀN\000*°E\000l",
 				["groupcount"] = 0,
 				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 869,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 474,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 18,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
 					[59] = 198,
-					[60] = 13,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 83,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
 				},
 				["criteria_3_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 869,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 474,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 18,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
 					[59] = 198,
-					[60] = 13,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 83,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
 				},
 				["start"] = "M59m\000HïZ\000YÖ9\000",
 				["criteria_2_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 869,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 474,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 18,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
 					[59] = 198,
-					[60] = 13,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 83,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
 				},
 				["criteria_1_type"] = "monster",
 				["criteria_2_monster_true"] = {
@@ -8248,31 +11352,897 @@ QuestHelper_Collector = {
 				["end_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 				["criteria_2_type"] = "monster",
 			},
-			[8336] = {
+			[8463] = {
 				["groupcount"] = 0,
-				["daily"] = false,
-				["criteria_1_text"] = "Arcane Sliver: 0/6",
-				["end_spec"] = "2PB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["level"] = 4,
-				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_text"] = "Unstable Mana Crystal: 0/6",
 				["criteria_1_monster_true"] = {
 				},
 				["special_item"] = false,
-				["items_reward"] = {
-					[20991] = 1,
+				["daily"] = false,
+				["name"] = "Unstable Mana Crystals",
+				["criteria_1_type"] = "item",
+				["start"] = "M60m\000?={\000á¸u\000M60m\000ßE{\000>v\000",
+				["level"] = 5,
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 869,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 492,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 24,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 72,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
 				},
-				["name"] = "A Fistful of Slivers",
-				["end"] = "M59m\000¬$b\000ˆ1\000M59m\000§a\000µ31\000",
-				["start"] = "M59m\000◊__\000({0\000M59m\000˚—a\000@ÿ0\000",
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[8338] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Bring the Tainted Arcane Sliver to Arcanist Helion at the gazebo of the Sunspire on Sunstrider Isle.",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_monster_false"] = {
+					[59] = 50,
+					[60] = 13,
+				},
+				["criteria_1_type"] = "log",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Tainted Arcane Sliver",
+				["end"] = "M59m\0007,_\000xú0\000",
+				["start"] = "M59m\000Ô]O\000=¢E\000",
+				["level"] = 4,
+				["end_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["start_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[8468] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Thaelis's Head: 0/1",
+				["criteria_1_monster_true"] = {
+				},
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Wanted: Thaelis the Hungerer",
+				["criteria_1_type"] = "item",
+				["start"] = "M66m\000£6{\000¥sv\000\000ˇ+{\000Áöv\000",
+				["level"] = 6,
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 869,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 492,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 20,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 78,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
+				},
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[9358] = {
+				["groupcount"] = 0,
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Ranger Sareyn",
+				["end"] = "M62m\000“x\000ƒπ∑\000",
+				["start"] = "M60m\000J‚o\000•|∂\000",
+				["level"] = 9,
+				["end_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[8345] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Shrine of Dath'Remar Read: 0/1",
+				["daily"] = false,
+				["name"] = "The Shrine of Dath'Remar",
+				["special_item"] = false,
+				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = 4,
+				["start"] = "M59m\0008#b\000à1\000M59m\000fKc\000.±1\000M59m\000§Cc\000Î…1\000",
+				["criteria_1_type"] = "object",
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 873,
+					[2350] = 40,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 476,
+					[127] = 6,
+					[80] = 18,
+					[65] = 166,
+					[24] = 4,
+					[66] = 18,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[6] = 282,
+					[19] = 637,
+					[59] = 1276,
+					[71] = 40,
+					[742] = 8,
+					[64] = 40,
+					[8] = 28,
+					[72] = 6,
+					[32] = 6,
+					[62] = 200,
+					[60] = 465,
+					[73] = 12,
+					[22] = 990,
+					[34] = 133,
+				},
+				["criteria_1_satisfied"] = "L\000òÂK\000‡˚1\000l",
+			},
+			[8346] = {
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[21001] = 1,
+					[20999] = 1,
+					[21000] = 1,
+				},
+				["criteria_1_text"] = "Arcane Torrent unleashed: 0/1",
+				["special_item"] = false,
+				["end_spec"] = "2PB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_satisfied"] = "M59mL\000∞\\\000g[0\000lL\000<^X\000ˇç4\000l",
+				["daily"] = false,
+				["name"] = "Thirst Unending",
+				["end"] = "M59m\000m9_\000¬ú0\000M59m\000F_\000†∂0\000M59m\000.G_\000P∂0\000",
+				["start"] = "\000∑?^\000≤H2\000M59m\000e=_\000,Ö0\000\000=o[\000~á3\000",
+				["level"] = 3,
+				["criteria_1_monster_false"] = {
+					[59] = 635,
+					[60] = 375,
+				},
+				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[1013] = {
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[6335] = 1,
+					[4534] = 1,
+				},
+				["criteria_1_text"] = "The Book of Ur: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "The Book of Ur",
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = 26,
 				["criteria_1_type"] = "item",
 				["criteria_1_monster_false"] = {
-					[2350] = 4,
-					[24] = 4,
-					[60] = 187,
-					[742] = 2,
-					[59] = 290,
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
 				},
-				["criteria_1_satisfied"] = "M59mL\000$^\000Zå2\000lM59mI20845iI20482iL\0002^\000_å2\000lM59mI20482iL\000∏&^\000Ì3\000lM59mI20846iI21017iI20482iL\0001‚]\000Ïë3\000lI20845iI20846iI20482iL\000ÏÄ\\\000f4\000lI20846iI21012iI20482iL\000u˙[\000∫C2\000lC2cI20846iI20482iL\000“Œ\\\000à≈7\000lI20845iI20482iL\000˚2^\000Âb8\000lI20846iI20482iL\000JÏ^\000∫=\000lI20846iI20482iL\000l&`\000=\">\000lM59mI20845iI20482iL\000˚È`\000ˇ=>\000l",
+				["tag"] = "Dungeon",
+			},
+			[8480] = {
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[22957] = 1,
+					[22956] = 1,
+				},
+				["criteria_1_text"] = "Sin'dorei Armaments: 0/8",
+				["daily"] = false,
+				["criteria_1_monster_false"] = {
+					[63] = 257,
+					[74] = 6,
+					[60] = 4,
+					[61] = 379,
+					[62] = 76,
+				},
+				["level"] = 7,
+				["name"] = "Lost Armaments",
+				["criteria_1_satisfied"] = "C2cI22413iL\000ùO\000·≥\000lI22413iL\000ÅZP\000≤µ\000lI22413iL\000ºiK\000&≤\000lI22413iL\000V^P\000àûµ\000lI22413iL\000úP\000h≥\000lI22413iL\000≤HN\000“<±\000lI22413iL\000Ç…K\000s8≤\000l",
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M74m\000]\000˙œ™\000",
+				["start"] = "M60m\000[˚\\\000*—™\000",
+				["criteria_1_type"] = "item",
+				["end_spec"] = "2NB11\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Å\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+			},
+			[8482] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Bring the Incriminating Documents to Aeldon Sunbrand at Falconwing Square in Eversong Woods.",
+				["name"] = "Incriminating Documents",
+				["criteria_1_monster_false"] = {
+					[63] = 402,
+					[74] = 14,
+					[64] = 6,
+					[60] = 54,
+					[66] = 2,
+					[62] = 160,
+					[61] = 726,
+				},
+				["criteria_1_type"] = "log",
+				["special_item"] = false,
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M60m\000+%{\000˚Õu\000",
+				["start"] = "\000OëZ\000vdî\000",
+				["level"] = 6,
+				["end_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[8483] = {
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[23372] = 1,
+					[23373] = 1,
+				},
+				["criteria_1_text"] = "Prospector Anvilward's Head: 0/1",
+				["name"] = "The Dwarven Spy",
+				["special_item"] = false,
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = 7,
+				["start"] = "M60m\000+%{\000˚Õu\000",
+				["criteria_1_type"] = "item",
+				["criteria_1_monster_false"] = {
+					[14] = 590,
+					[60] = 2,
+					[127] = 6,
+					[7] = 42,
+					[121] = 8,
+					[19] = 637,
+					[63] = 32,
+					[65] = 166,
+					[34] = 133,
+					[69] = 16,
+					[71] = 40,
+					[73] = 2,
+					[38] = 8,
+					[77] = 10,
+					[8] = 28,
+					[26] = 26,
+					[72] = 6,
+					[136] = 12,
+					[22] = 990,
+					[11] = 18,
+					[23] = 87,
+					[68] = 12,
+					[64] = 34,
+					[66] = 2,
+					[25] = 6,
+					[70] = 34,
+					[6] = 282,
+					[13] = 38,
+					[32] = 6,
+					[109] = 8,
+					[80] = 18,
+					[15] = 731,
+				},
+				["daily"] = false,
+			},
+			[421] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Moonrage Whitescalp slain: 0/5",
+				["criteria_1_satisfied"] = "M6mL\000Û&\000«Td\000lM6mL\000ï‚~\000ÛOg\000lM6mM6mL\000ÇQÉ\000U/n\000lM6mL\000éœÑ\000∞tk\000lM6mL\000≈1Ñ\000€m\000l",
+				["end_spec"] = "2NB15\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö \000\000\000\000\000\000\000\000‹",
+				["level"] = 10,
+				["criteria_1_monster_true"] = {
+				},
+				["special_item"] = false,
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Prove Your Worth",
+				["end"] = "M7m\000&q\000´f\000",
+				["start"] = "M7m\000éq\000Õ0f\000",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					[7] = 6,
+					[32] = 2,
+					[6] = 190,
+					[38] = 4,
+				},
+				["daily"] = false,
+			},
+			[8487] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Tainted Soil Sample: 0/8",
+				["name"] = "Corrupted Soil",
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["start"] = "M60m\000îﬁä\000aæµ\000",
+				["level"] = 9,
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[61] = 142,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 48,
+					[32] = 6,
+					[80] = 18,
+					[65] = 166,
+					[66] = 4,
+					[8] = 28,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[68] = 12,
+					[127] = 6,
+					[62] = 12,
+					[72] = 6,
+					[34] = 133,
+					[64] = 34,
+					[60] = 8,
+					[73] = 2,
+					[22] = 990,
+					[19] = 637,
+				},
+				["daily"] = false,
+			},
+			[437] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = "Essence of Nightlash: 0/1",
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_text"] = "Enter the Dead Fields",
+				["items_reward"] = {
+					[3454] = 1,
+				},
+				["criteria_1_type"] = "event",
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_1_monster_true"] = {
+				},
+				["special_item"] = false,
+				["criteria_2_monster_false"] = {
+					[23] = 87,
+					[32] = 2,
+					[6] = 190,
+					[26] = 22,
+					[38] = 4,
+					[14] = 590,
+					[7] = 24,
+					[15] = 729,
+					[8] = 12,
+					[63] = 2,
+					[13] = 38,
+					[19] = 637,
+					[22] = 990,
+					[34] = 133,
+					[11] = 18,
+					[25] = 6,
+				},
+				["name"] = "The Dead Fields",
+				["daily"] = false,
+				["start"] = "M7m\000n\000xñh\000",
+				["level"] = 14,
+				["criteria_1_monster_false"] = {
+					[23] = 87,
+					[32] = 2,
+					[6] = 190,
+					[26] = 22,
+					[38] = 4,
+					[14] = 590,
+					[7] = 24,
+					[15] = 729,
+					[8] = 12,
+					[63] = 2,
+					[13] = 38,
+					[19] = 637,
+					[22] = 990,
+					[34] = 133,
+					[11] = 18,
+					[25] = 6,
+				},
+				["criteria_2_type"] = "item",
+			},
+			[9252] = {
+				["criteria_2_text"] = "Darkwraith slain: 0/4",
+				["criteria_1_text"] = "Rotlimb Marauder slain: 1/4",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M62m\000õx\000ä∏\000",
+				["criteria_1_type"] = "monster",
+				["groupcount"] = 0,
+				["criteria_1_monster_false"] = {
+					[60] = 4,
+					[62] = 8,
+					[61] = 201,
+					[63] = 14,
+				},
+				["criteria_2_monster_true"] = {
+				},
+				["end_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_satisfied"] = "M61mL\000_°Ç\000a©∞\000lM61mM61mL\000$êÖ\000÷7≥\000lM61mM61mL\000õÖ\000u9≥\000l",
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Defending Fairbreeze Village",
+				["criteria_2_monster_false"] = {
+					[60] = 4,
+					[62] = 8,
+					[61] = 201,
+					[63] = 14,
+				},
+				["start"] = "\000ÓåÅ\000≤\000",
+				["level"] = 9,
+				["criteria_2_satisfied"] = "M61mL\000ä^Ç\000KN¬\000lM61mL\000≥OÅ\000£’\000lM61mL\000ûß{\000;«Ÿ\000lM61mM61mL\000ì‚z\000Çn€\000l",
+				["criteria_2_type"] = "monster",
+			},
+			[9253] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Speak to Runewarden Deryan in Eversong Woods, near the border with the Ghostlands.",
+				["name"] = "Runewarden Deryan",
+				["special_item"] = false,
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "log",
+				["start"] = "M60m\000+%{\000˚Õu\000",
+				["level"] = 10,
+				["criteria_1_monster_false"] = {
+					[14] = 590,
+					[60] = 2,
+					[127] = 6,
+					[7] = 42,
+					[121] = 8,
+					[19] = 637,
+					[63] = 32,
+					[65] = 166,
+					[34] = 133,
+					[69] = 16,
+					[71] = 40,
+					[73] = 2,
+					[38] = 8,
+					[77] = 10,
+					[8] = 28,
+					[26] = 26,
+					[72] = 6,
+					[136] = 12,
+					[22] = 990,
+					[11] = 18,
+					[23] = 87,
+					[68] = 12,
+					[64] = 34,
+					[66] = 2,
+					[25] = 6,
+					[70] = 34,
+					[6] = 282,
+					[13] = 38,
+					[32] = 6,
+					[109] = 8,
+					[80] = 18,
+					[15] = 731,
+				},
+				["daily"] = false,
+			},
+			[9254] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Speak to Apprentice Mirveda at the East Sanctum in Eversong Woods.",
+				["name"] = "The Wayward Apprentice",
+				["criteria_1_monster_false"] = {
+					[63] = 8,
+					[64] = 6,
+					[61] = 70,
+					[62] = 18,
+					[60] = 28,
+				},
+				["criteria_1_type"] = "log",
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M60m\000îﬁä\000aæµ\000",
+				["start"] = "M63m\000à≈p\000ïÏ¥\000",
+				["level"] = 9,
+				["end_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[14081] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Return the pamphlet to Perascamin at Thuron's Livery in Silvermoon City.",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["name"] = "Learn to Ride in the Eversong Woods",
+				["criteria_1_type"] = "log",
+				["criteria_1_monster_false"] = {
+					[121] = 72,
+					[37] = 4,
+					[122] = 50,
+					[359] = 16,
+					[2350] = 40,
+					[123] = 4,
+					[214] = 24,
+					[46] = 10,
+					[124] = 20,
+					[19] = 2,
+					[125] = 14,
+					[110] = 10,
+					[126] = 48,
+					[127] = 30,
+					[112] = 44,
+					[129] = 2,
+					[130] = 28,
+					[113] = 8,
+					[33] = 26,
+					[2558] = 12,
+					[132] = 36,
+					[114] = 97,
+					[133] = 20,
+					[390] = 6,
+					[115] = 10,
+					[34] = 10,
+					[116] = 10,
+					[85] = 2,
+					[2347] = 150,
+					[138] = 2,
+					[234] = 50,
+					[102] = 226,
+					[118] = 16,
+					[131] = 34,
+					[742] = 32,
+					[140] = 8,
+					[119] = 4,
+					[143] = 2,
+					[120] = 30,
+					[150] = 14,
+					[0] = 14,
+					[8] = 2,
+					[273] = 6,
+					[57] = 8,
+				},
+				["level"] = 20,
+			},
+			[9258] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Find Larianna Riverwind near the Scorched Grove in the southwest of Eversong Woods.",
+				["name"] = "The Scorched Grove",
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "log",
+				["start"] = "M62m\000“x\000ƒπ∑\000",
+				["level"] = 10,
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[61] = 212,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 48,
+					[32] = 6,
+					[80] = 18,
+					[65] = 166,
+					[66] = 4,
+					[8] = 28,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[68] = 12,
+					[127] = 6,
+					[62] = 16,
+					[72] = 6,
+					[34] = 133,
+					[64] = 34,
+					[60] = 12,
+					[73] = 2,
+					[22] = 990,
+					[19] = 637,
+				},
+				["daily"] = false,
+			},
+			[477] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Border Crossings",
+				["start"] = "M7m\000`“m\000s™h\000",
+				["level"] = 14,
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+			},
+			[6504] = {
+				["criteria_2_text"] = "Shredder Operating Manual - Chapter 2: 0/1",
+				["criteria_1_text"] = "Shredder Operating Manual - Chapter 1: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[16740] = 1,
+					[16741] = 1,
+				},
+				["criteria_2_monster_true"] = {
+				},
+				["level"] = 30,
+				["criteria_3_text"] = "Shredder Operating Manual - Chapter 3: 0/1",
+				["criteria_2_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["name"] = "The Lost Pages",
+				["criteria_3_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_3_type"] = "item",
+				["criteria_3_monster_true"] = {
+				},
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_2_type"] = "item",
+			},
+			[8886] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = " : 0/6",
+				["daily"] = false,
+				["criteria_1_monster_false"] = {
+					[63] = 257,
+					[74] = 6,
+					[60] = 4,
+					[61] = 379,
+					[62] = 76,
+				},
+				["criteria_1_type"] = "item",
+				["name"] = "Grimscale Pirates!",
+				["criteria_1_satisfied"] = "C2cI21771iI21776iI21771iL\000(!D\000dÜ∞\000lI779iI21771iL\000˝gC\000£ÜÆ\000lM61mI779iI21771iL\000˝gC\000£ÜÆ\000lI779iI21771iL\000~C\000µÆ\000lI21771iL\000@<C\000]Ø\000l",
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M62m\000]\000˙œ™\000",
+				["start"] = "M62m\000’Í\\\000ç™\000",
+				["level"] = 8,
+				["end_spec"] = "2NB11\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Å\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+			},
+			[8887] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Return Captain Kelisendra's Lost Rutters to Captain Kelisendra at the defended camp just to the east of the Sunsail Anchorage in Eversong Woods.",
+				["name"] = "Captain Kelisendra's Lost Rutters",
+				["criteria_1_monster_false"] = {
+					[63] = 94,
+					[74] = 6,
+					[60] = 4,
+					[61] = 239,
+					[62] = 66,
+				},
+				["criteria_1_type"] = "log",
+				["special_item"] = false,
+				["start_spec"] = "2NB09\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M62m\000]\000˙œ™\000",
+				["start"] = "\000.ÛC\000õX∞\000",
+				["level"] = 8,
+				["end_spec"] = "2NB12\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Å\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[6571] = {
+				["criteria_2_text"] = "Warsong Axe Shipment: 0/1",
+				["criteria_4_monster_true"] = {
+				},
+				["criteria_1_text"] = "Warsong Saw Blades: 0/1",
+				["criteria_4_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_4_type"] = "item",
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[16975] = 1,
+					[16977] = 1,
+					[16978] = 1,
+				},
+				["criteria_3_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_4_text"] = "Logging Rope: 1/1",
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_3_monster_true"] = {
+				},
+				["criteria_3_text"] = "Warsong Oil: 0/1",
+				["special_item"] = false,
+				["name"] = "Warsong Supplies",
+				["level"] = 27,
+				["criteria_3_type"] = "item",
+				["criteria_2_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["criteria_2_type"] = "item",
+			},
+			[3111] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Stormforged Magus slain: 0/3",
+				["daily"] = false,
+				["special_item"] = false,
+				["start_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
+				["name"] = "Halls of Stone",
+				["level"] = 80,
+				["start"] = "\000\npæs\000M=\000",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					[130] = 2,
+					[115] = 8,
+					[138] = 2,
+					[121] = 4,
+					[742] = 2,
+					[127] = 8,
+					[131] = 34,
+					[110] = 4,
+					[112] = 24,
+					[132] = 36,
+					[116] = 6,
+					[140] = 8,
+					[120] = 6,
+					[122] = 28,
+					[126] = 34,
+					[133] = 12,
+					[118] = 8,
+					[114] = 81,
+					[33] = 6,
+				},
+				["criteria_1_monster_true"] = {
+				},
+			},
+			[14352] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Take the Small Scroll to Bragor Bloodfist in the Undercity.",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "An Unholy Alliance",
+				["level"] = 36,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "log",
+				["criteria_1_monster_false"] = {
+					[29] = 4,
+					[31] = 2,
+					[65] = 24,
+					[69] = 4,
+					[71] = 4,
+					[37] = 2,
+					[5] = 8,
+					[66] = 2,
+					[9] = 2,
+					[72] = 2,
+					[64] = 8,
+					[12] = 4,
+					[68] = 52,
+					[70] = 6,
+					[6] = 1377,
+					[74] = 34,
+					[62] = 20,
+					[73] = 8,
+					[80] = 28,
+					[25] = 2,
+				},
+				["tag"] = "Dungeon",
 			},
 			[14353] = {
 				["groupcount"] = 0,
@@ -8297,43 +12267,6 @@ QuestHelper_Collector = {
 					[37] = 4,
 				},
 				["tag"] = "Dungeon",
-			},
-			[8463] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Unstable Mana Crystal: 0/6",
-				["criteria_1_monster_true"] = {
-				},
-				["special_item"] = false,
-				["daily"] = false,
-				["name"] = "Unstable Mana Crystals",
-				["criteria_1_type"] = "item",
-				["start"] = "M60m\000?={\000á¸u\000",
-				["level"] = 5,
-				["criteria_1_monster_false"] = {
-					[63] = 22,
-					[66] = 12,
-					[60] = 8,
-				},
-				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-			},
-			[8338] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Bring the Tainted Arcane Sliver to Arcanist Helion at the gazebo of the Sunspire on Sunstrider Isle.",
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_monster_false"] = {
-					[59] = 50,
-					[60] = 13,
-				},
-				["criteria_1_type"] = "log",
-				["special_item"] = false,
-				["daily"] = false,
-				["name"] = "Tainted Arcane Sliver",
-				["end"] = "M59m\0007,_\000xú0\000",
-				["start"] = "M59m\000Ô]O\000=¢E\000",
-				["level"] = 4,
-				["end_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["start_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 			},
 			[14355] = {
 				["criteria_2_text"] = "Scarlet Commander Mograine slain: 0/1",
@@ -8392,41 +12325,369 @@ QuestHelper_Collector = {
 				},
 				["tag"] = "Dungeon",
 			},
-			[1013] = {
+			[422] = {
 				["groupcount"] = 0,
-				["items_choice"] = {
-					[6335] = 1,
-					[4534] = 1,
-				},
-				["criteria_1_text"] = "The Book of Ur: 0/1",
+				["criteria_1_text"] = "Remedy of Arugal: 0/1",
+				["start_spec"] = "2NB15\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö \000\000\000\000\000\000\000\000‹",
 				["special_item"] = false,
 				["daily"] = false,
-				["name"] = "The Book of Ur",
 				["criteria_1_monster_true"] = {
 				},
-				["level"] = 26,
+				["level"] = 11,
+				["start"] = "M7m\000&q\000´f\000",
 				["criteria_1_type"] = "item",
 				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
+					[23] = 87,
+					[34] = 133,
+					[13] = 14,
+					[14] = 590,
+					[7] = 4,
+					[15] = 729,
+					[8] = 10,
+					[19] = 637,
+					[26] = 22,
+					[11] = 18,
+					[22] = 990,
+					[25] = 6,
 				},
-				["tag"] = "Dungeon",
+				["name"] = "Arugal's Folly",
 			},
-			[6581] = {
+			[3241] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Deadly Blunderbuss: 0/1",
+				["criteria_1_text"] = "Stormforged Raider slain: 0/5",
+				["special_item"] = false,
+				["end_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
+				["level"] = 80,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_satisfied"] = "M114mL\000\npæs\000M=\000lM114mL\000\nUr\000ƒ≈<\000lM114mL\000\nFq\000Ü¶=\000lM114mL\000\nò,q\000ps=\000lM114mM114mL\000\nò,q\000ps=\000l",
+				["daily"] = false,
+				["name"] = "Defense Mechanisms",
+				["end"] = "M33m\000\nnâv\000∏.?\000",
+				["start"] = "M120m\000\nGùv\000o=\000",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					[114] = 85,
+					[115] = 8,
+					[33] = 6,
+				},
+				["start_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
+			},
+			[9035] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Roadside Ambush",
+				["end"] = "M62m\000˝“r\000äú\000",
+				["level"] = 6,
+				["end_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+			},
+			[9676] = {
+				["groupcount"] = 0,
+				["special_item"] = false,
+				["start_spec"] = "2NB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Paladin Training",
+				["end"] = "M59m\000_Îd\000i}4\000M59m\000¸d\000•¬4\000",
+				["start"] = "M59m\000–`a\000À–5\000\000–…]\000b94\000",
+				["level"] = 1,
+				["end_spec"] = "2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[9678] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Undergo the First Trial: 0/1",
+				["end_spec"] = "2NB22\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖL\000P\000\000\000\000\000\000‹",
+				["criteria_1_satisfied"] = "M69mL\000>GØ\000Ñ©\000l",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M69m\000îÂ\000ìbZ\000",
+				["name"] = "The First Trial",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[74] = 12,
+					[2] = 198,
+					[61] = 26,
+					[75] = 2,
+					[6] = 323,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 1007,
+					[19] = 637,
+					[93] = 6,
+					[78] = 8,
+					[63] = 42,
+					[79] = 2,
+					[32] = 6,
+					[80] = 18,
+					[65] = 20,
+					[98] = 2,
+					[34] = 133,
+					[14] = 590,
+					[69] = 31,
+					[25] = 10,
+					[70] = 14,
+					[59] = 4,
+					[71] = 4,
+					[68] = 26,
+					[8] = 28,
+					[23] = 87,
+					[73] = 8,
+					[22] = 990,
+					[64] = 6,
+				},
+				["level"] = -1,
+			},
+			[9684] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Filled Shimmering Vessel: 0/1",
+				["end_spec"] = "2NB23\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["criteria_1_satisfied"] = "I24156iL\000Œ7Ì\000\nW_\000l",
+				["start_spec"] = "2NB23\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖL\000P\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Claiming the Light",
+				["end"] = "M69m\000tÛ‰\000vëZ\000",
+				["start"] = "M69m\000Œ7Ì\000\nW_\000",
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[63] = 2,
+					[64] = 2,
+					[127] = 2,
+					[69] = 8,
+				},
+				["criteria_1_type"] = "item",
+			},
+			[9685] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Resurrect Sangrias Stillblade: 1/1",
+				["end_spec"] = "2NB24\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["start_spec"] = "2NB23\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Redeeming the Dead",
+				["end"] = "M69m\000±‰\000QµZ\000",
+				["start"] = "\000âäÃ\000òõö\000",
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[71] = 2,
+					[69] = 4,
+				},
+				["criteria_1_type"] = "monster",
+			},
+			[9686] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Complete the Second Trial",
+				["end_spec"] = "2NB24\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["start_spec"] = "2NB24\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "The Second Trial",
+				["end"] = "M69m\000⁄÷m\000=UI\000",
+				["start"] = "\000ão\0001J\000",
+				["level"] = -1,
+				["criteria_1_monster_false"] = {
+					[69] = 6,
+				},
+				["criteria_1_type"] = "event",
+			},
+			[14036] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Pilgrim's Bounty",
+				["level"] = -1,
+				["special_item"] = false,
+			},
+			[10069] = {
+				["groupcount"] = 0,
+				["special_item"] = false,
+				["start_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Well Watcher Solanian",
+				["end"] = "M59m\000§Cc\000Î…1\000",
+				["start"] = "M59m\000¸d\000•¬4\000",
+				["level"] = 2,
+				["end_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[8327] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Report to Lanthan Perilon",
+				["start"] = "M59m\000®Aa\000Çæ5\000M59m\000®Ja\000‹5\000",
+				["level"] = 3,
+				["special_item"] = false,
+				["start_spec"] = "2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+			},
+			[9690] = {
+				["groupcount"] = 0,
+				["special_item"] = false,
+				["start_spec"] = "2NB22\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖL\000H\000\000\000\000\000\000‹",
+				["name"] = "The Second Trial",
+				["end"] = "M69m\000Kïm\000æI\000",
+				["start"] = "M80m\000ß'ë\000Zﬁá\000",
+				["level"] = -1,
+				["end_spec"] = "2NB24\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÖLP\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[9395] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Saltheril's Haven",
+				["start"] = "M63m\000pÕp\000P¸¥\000",
+				["level"] = 9,
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+			},
+			[9692] = {
+				["criteria_2_text"] = "Crate of Bloodforged Ingots: 0/1",
+				["criteria_4_monster_true"] = {
+				},
+				["criteria_1_text"] = "Corrupted Kor Gem: 0/1",
+				["criteria_4_monster_false"] = {
+					[29] = 4,
+					[62] = 20,
+					[65] = 24,
+					[17] = 2036,
+					[69] = 4,
+					[71] = 4,
+					[37] = 2,
+					[66] = 2,
+					[9] = 2,
+					[25] = 2,
+					[5] = 8,
+					[11] = 14,
+					[23] = 36,
+					[6] = 1377,
+					[64] = 8,
+					[12] = 4,
+					[68] = 52,
+					[70] = 6,
+					[72] = 2,
+					[74] = 34,
+					[31] = 2,
+					[73] = 8,
+					[80] = 28,
+					[18] = 489,
+				},
+				["criteria_4_type"] = "item",
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["groupcount"] = 0,
+				["level"] = 23,
+				["criteria_3_monster_false"] = {
+					[29] = 4,
+					[62] = 20,
+					[65] = 24,
+					[17] = 2036,
+					[69] = 4,
+					[71] = 4,
+					[37] = 2,
+					[66] = 2,
+					[9] = 2,
+					[25] = 2,
+					[5] = 8,
+					[11] = 14,
+					[23] = 36,
+					[6] = 1377,
+					[64] = 8,
+					[12] = 4,
+					[68] = 52,
+					[70] = 6,
+					[72] = 2,
+					[74] = 34,
+					[31] = 2,
+					[73] = 8,
+					[80] = 28,
+					[18] = 489,
+				},
+				["criteria_4_text"] = "Blood Knight Insignia: 0/1",
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_3_monster_true"] = {
+				},
+				["criteria_3_text"] = "Blood of the Wrathful: 0/1",
+				["criteria_2_monster_false"] = {
+					[29] = 4,
+					[62] = 20,
+					[65] = 24,
+					[17] = 2036,
+					[69] = 4,
+					[71] = 4,
+					[37] = 2,
+					[66] = 2,
+					[9] = 2,
+					[25] = 2,
+					[5] = 8,
+					[11] = 14,
+					[23] = 36,
+					[6] = 1377,
+					[64] = 8,
+					[12] = 4,
+					[68] = 52,
+					[70] = 6,
+					[72] = 2,
+					[74] = 34,
+					[31] = 2,
+					[73] = 8,
+					[80] = 28,
+					[18] = 489,
+				},
+				["name"] = "The Path of the Adept",
+				["special_item"] = false,
+				["criteria_3_type"] = "item",
+				["tag"] = "Dungeon",
+				["criteria_1_monster_false"] = {
+					[29] = 4,
+					[62] = 20,
+					[65] = 24,
+					[17] = 2036,
+					[69] = 4,
+					[71] = 4,
+					[37] = 2,
+					[66] = 2,
+					[9] = 2,
+					[25] = 2,
+					[5] = 8,
+					[11] = 14,
+					[23] = 36,
+					[6] = 1377,
+					[64] = 8,
+					[12] = 4,
+					[68] = 52,
+					[70] = 6,
+					[72] = 2,
+					[74] = 34,
+					[31] = 2,
+					[73] = 8,
+					[80] = 28,
+					[18] = 489,
+				},
+				["criteria_2_type"] = "item",
+			},
+			[7926] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Deliver the Free Ticket Voucher to Gelvas Grimgate, located inside the Darkmoon Faire carnival.",
 				["special_item"] = false,
 				["items_reward"] = {
-					[16742] = 1,
+					[19182] = 5,
 				},
-				["name"] = "Warsong Saw Blades",
+				["name"] = "The Darkmoon Faire",
 				["criteria_1_monster_true"] = {
 				},
-				["criteria_1_type"] = "item",
-				["level"] = 27,
+				["criteria_1_type"] = "log",
+				["level"] = -1,
 				["criteria_1_monster_false"] = {
 					[12] = 32,
 					[14] = 4,
@@ -8436,23 +12697,284 @@ QuestHelper_Collector = {
 				},
 				["daily"] = false,
 			},
-			[8468] = {
+			[4921] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Thaelis's Head: 0/1",
-				["criteria_1_monster_true"] = {
-				},
+				["criteria_1_text"] = "Find Mankrik's Wife: 0/1",
 				["special_item"] = false,
 				["daily"] = false,
-				["name"] = "Wanted: Thaelis the Hungerer",
-				["criteria_1_type"] = "item",
-				["start"] = "M66m\000£6{\000¥sv\000",
-				["level"] = 6,
-				["criteria_1_monster_false"] = {
-					[63] = 22,
-					[66] = 8,
-					[60] = 8,
+				["criteria_1_monster_true"] = {
 				},
-				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["level"] = 20,
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["name"] = "Lost in Battle",
+			},
+			[8330] = {
+				["criteria_2_text"] = "Scroll of Scourge Magic: 0/1",
+				["criteria_1_text"] = "Solanian's Scrying Orb: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["end"] = "M59m\000ù@c\000\"◊1\000",
+				["criteria_1_type"] = "item",
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 60,
+					[2] = 198,
+					[61] = 901,
+					[75] = 2,
+					[5] = 8,
+					[2350] = 40,
+					[7] = 42,
+					[38] = 8,
+					[11] = 32,
+					[13] = 38,
+					[15] = 1007,
+					[77] = 12,
+					[23] = 123,
+					[109] = 8,
+					[31] = 2,
+					[78] = 8,
+					[63] = 558,
+					[79] = 2,
+					[127] = 10,
+					[80] = 64,
+					[65] = 232,
+					[24] = 4,
+					[66] = 20,
+					[98] = 2,
+					[9] = 2,
+					[6] = 1700,
+					[12] = 4,
+					[37] = 2,
+					[68] = 98,
+					[18] = 489,
+					[136] = 12,
+					[14] = 590,
+					[69] = 218,
+					[17] = 2036,
+					[25] = 12,
+					[29] = 4,
+					[70] = 60,
+					[34] = 133,
+					[19] = 637,
+					[59] = 1296,
+					[71] = 102,
+					[742] = 8,
+					[64] = 60,
+					[32] = 6,
+					[72] = 8,
+					[62] = 220,
+					[8] = 28,
+					[60] = 465,
+					[73] = 30,
+					[22] = 990,
+					[93] = 6,
+				},
+				["end_spec"] = "2NB06\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["groupcount"] = 0,
+				["criteria_3_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 60,
+					[2] = 198,
+					[61] = 901,
+					[75] = 2,
+					[5] = 8,
+					[2350] = 40,
+					[7] = 42,
+					[38] = 8,
+					[11] = 32,
+					[13] = 38,
+					[15] = 1007,
+					[77] = 12,
+					[23] = 123,
+					[109] = 8,
+					[31] = 2,
+					[78] = 8,
+					[63] = 558,
+					[79] = 2,
+					[127] = 10,
+					[80] = 64,
+					[65] = 232,
+					[24] = 4,
+					[66] = 20,
+					[98] = 2,
+					[9] = 2,
+					[6] = 1700,
+					[12] = 4,
+					[37] = 2,
+					[68] = 98,
+					[18] = 489,
+					[136] = 12,
+					[14] = 590,
+					[69] = 218,
+					[17] = 2036,
+					[25] = 12,
+					[29] = 4,
+					[70] = 60,
+					[34] = 133,
+					[19] = 637,
+					[59] = 1296,
+					[71] = 102,
+					[742] = 8,
+					[64] = 60,
+					[32] = 6,
+					[72] = 8,
+					[62] = 220,
+					[8] = 28,
+					[60] = 465,
+					[73] = 30,
+					[22] = 990,
+					[93] = 6,
+				},
+				["items_choice"] = {
+					[20996] = 1,
+					[20995] = 1,
+				},
+				["criteria_3_type"] = "item",
+				["level"] = 4,
+				["criteria_3_monster_true"] = {
+				},
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_3_text"] = "Solanian's Journal: 0/1",
+				["criteria_1_satisfied"] = "I20470iL\000—ŸY\0002J\000l",
+				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Solanian's Belongings",
+				["criteria_2_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 60,
+					[2] = 198,
+					[61] = 901,
+					[75] = 2,
+					[5] = 8,
+					[2350] = 40,
+					[7] = 42,
+					[38] = 8,
+					[11] = 32,
+					[13] = 38,
+					[15] = 1007,
+					[77] = 12,
+					[23] = 123,
+					[109] = 8,
+					[31] = 2,
+					[78] = 8,
+					[63] = 558,
+					[79] = 2,
+					[127] = 10,
+					[80] = 64,
+					[65] = 232,
+					[24] = 4,
+					[66] = 20,
+					[98] = 2,
+					[9] = 2,
+					[6] = 1700,
+					[12] = 4,
+					[37] = 2,
+					[68] = 98,
+					[18] = 489,
+					[136] = 12,
+					[14] = 590,
+					[69] = 218,
+					[17] = 2036,
+					[25] = 12,
+					[29] = 4,
+					[70] = 60,
+					[34] = 133,
+					[19] = 637,
+					[59] = 1296,
+					[71] = 102,
+					[742] = 8,
+					[64] = 60,
+					[32] = 6,
+					[72] = 8,
+					[62] = 220,
+					[8] = 28,
+					[60] = 465,
+					[73] = 30,
+					[22] = 990,
+					[93] = 6,
+				},
+				["start"] = "M59m\000cZc\000,Î1\000M59m\000fKc\000.±1\000M59m\000§Cc\000Î…1\000",
+				["criteria_3_satisfied"] = "M59mI20845iI20482iL\000˚È`\000ˇ=>\000l",
+				["criteria_2_satisfied"] = "M59mL\000·/P\000™ø:\000l",
+				["criteria_2_type"] = "item",
+			},
+			[428] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Lost Deathstalkers",
+				["start"] = "M7m\000n\000xñh\000",
+				["level"] = 12,
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+			},
+			[447] = {
+				["criteria_2_text"] = "Skittering Blood: 0/6",
+				["criteria_1_text"] = "Grizzled Bear Heart: 0/6",
+				["special_item"] = false,
+				["daily"] = false,
+				["criteria_1_monster_true"] = {
+				},
+				["level"] = 12,
+				["groupcount"] = 0,
+				["criteria_2_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["criteria_1_satisfied"] = "C2cI3169iI15300iI3170iI3173iI3253iL\000•$É\000Òc\000lI3170iI3173iI2940iI3253iL\000•$É\000Òc\000lM6mI3169iI1495iI3170iI3173iI2940iI3253iL\000ãƒÅ\000uZh\000lI3169iI3170iI3173iI3253iL\000oVÄ\000Cn\000lI3169iI3170iI11406iI3173iI2940iI3253iL\000-Ç\000ãòm\000l",
+				["items_reward"] = {
+					[3448] = 20,
+				},
+				["name"] = "A Recipe For Death",
+				["criteria_2_monster_false"] = {
+					[23] = 87,
+					[32] = 2,
+					[6] = 190,
+					[26] = 22,
+					[38] = 4,
+					[14] = 590,
+					[7] = 36,
+					[15] = 729,
+					[8] = 12,
+					[63] = 2,
+					[13] = 38,
+					[19] = 637,
+					[22] = 990,
+					[34] = 133,
+					[11] = 18,
+					[25] = 6,
+				},
+				["start"] = "M7m\000`“m\000s™h\000",
+				["start_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ö\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_false"] = {
+					[23] = 87,
+					[32] = 2,
+					[6] = 190,
+					[26] = 22,
+					[38] = 4,
+					[14] = 590,
+					[7] = 36,
+					[15] = 729,
+					[8] = 12,
+					[63] = 2,
+					[13] = 38,
+					[19] = 637,
+					[22] = 990,
+					[34] = 133,
+					[11] = 18,
+					[25] = 6,
+				},
+				["criteria_2_type"] = "item",
 			},
 			[899] = {
 				["groupcount"] = 0,
@@ -8476,60 +12998,113 @@ QuestHelper_Collector = {
 				["criteria_1_monster_true"] = {
 				},
 			},
-			[8564] = {
+			[8336] = {
 				["groupcount"] = 0,
 				["daily"] = false,
-				["name"] = "Priest Training",
-				["start"] = "M59m\000¥6a\000Í∏5\000",
-				["level"] = 1,
-				["start_spec"] = "2PB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿",
-				["special_item"] = false,
-			},
-			[8345] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Shrine of Dath'Remar Read: 0/1",
-				["daily"] = false,
-				["name"] = "The Shrine of Dath'Remar",
-				["special_item"] = false,
-				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["criteria_1_monster_true"] = {
-				},
+				["criteria_1_text"] = "Arcane Sliver: 0/6",
+				["end_spec"] = "2PB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 				["level"] = 4,
-				["start"] = "M59m\0008#b\000à1\000M59m\000fKc\000.±1\000",
-				["criteria_1_type"] = "object",
-				["criteria_1_monster_false"] = {
-					[2350] = 40,
-					[24] = 4,
-					[60] = 195,
-					[742] = 8,
-					[59] = 592,
-				},
-				["criteria_1_satisfied"] = "L\000òÂK\000‡˚1\000l",
-			},
-			[8346] = {
-				["groupcount"] = 0,
-				["items_choice"] = {
-					[21001] = 1,
-					[20999] = 1,
-					[21000] = 1,
-				},
-				["criteria_1_text"] = "Arcane Torrent unleashed: 0/1",
-				["special_item"] = false,
-				["end_spec"] = "2PB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["criteria_1_type"] = "monster",
+				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹2NB04\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 				["criteria_1_monster_true"] = {
 				},
-				["criteria_1_satisfied"] = "M59mL\000∞\\\000g[0\000lL\000<^X\000ˇç4\000l",
-				["daily"] = false,
-				["name"] = "Thirst Unending",
-				["end"] = "M59m\000m9_\000¬ú0\000M59m\000F_\000†∂0\000",
-				["start"] = "\000∑?^\000≤H2\000M59m\000e=_\000,Ö0\000",
-				["level"] = 3,
-				["criteria_1_monster_false"] = {
-					[59] = 249,
-					[60] = 185,
+				["special_item"] = false,
+				["items_reward"] = {
+					[20991] = 1,
 				},
-				["start_spec"] = "2PB02\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000¿\000\000\000\000\000\000\000\000\000\r¿2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "A Fistful of Slivers",
+				["end"] = "M59m\000¬$b\000ˆ1\000M59m\000§a\000µ31\000M59m\000‰·a\000”01\000",
+				["start"] = "M59m\000◊__\000({0\000M59m\000˚—a\000@ÿ0\000M59m\000Ôb\00041\000",
+				["criteria_1_type"] = "item",
+				["criteria_1_monster_false"] = {
+					[2350] = 4,
+					[24] = 4,
+					[60] = 377,
+					[742] = 2,
+					[59] = 564,
+				},
+				["criteria_1_satisfied"] = "M59mL\000$^\000Zå2\000lM59mI20845iI20482iL\0002^\000_å2\000lM59mI20482iL\000∏&^\000Ì3\000lM59mI20846iI21017iI20482iL\0001‚]\000Ïë3\000lI20845iI20846iI20482iL\000ÏÄ\\\000f4\000lI20846iI21012iI20482iL\000u˙[\000∫C2\000lC2cI20846iI20482iL\000“Œ\\\000à≈7\000lI20845iI20482iL\000˚2^\000Âb8\000lI20846iI20482iL\000JÏ^\000∫=\000lI20846iI20482iL\000l&`\000=\">\000lM59mI20845iI20482iL\000˚È`\000ˇ=>\000lC2cM59mM59mI2589iI20846iI20845iI117iI20482iL\000§ÌY\000≈Ä3\000lM59mI2589iI21019iI20846iI20845iI20482iL\000≤X\000~O0\000lM24mI2589iI20846iI20845iI159iI20482iL\000ÇX\000‡£0\000lM60mM59mM60mI2589iI20846iI20845iI20482iL\000eÆV\000BÕ0\000lM60mI2589iI20846iI20845iI20482iL\0009©V\000ç1\000l",
+			},
+			[9062] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Antheol's Elemental Grimoire: 0/1",
+				["name"] = "Soaked Pages",
+				["special_item"] = false,
+				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["start"] = "\000OëZ\000vdî\000",
+				["level"] = 6,
+				["criteria_1_monster_false"] = {
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 726,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 434,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 4,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 160,
+					[127] = 6,
+					[60] = 56,
+					[73] = 2,
+					[22] = 990,
+					[34] = 133,
+				},
+				["daily"] = false,
+			},
+			[9144] = {
+				["groupcount"] = 0,
+				["special_item"] = false,
+				["start_spec"] = "2NB13\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["name"] = "Missing in the Ghostlands",
+				["end"] = "M63m\000E}\000ú?\000",
+				["start"] = "M63m\000à≈p\000ïÏ¥\000",
+				["level"] = 10,
+				["end_spec"] = "2NB14\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ñ\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+			},
+			[6581] = {
+				["groupcount"] = 0,
+				["criteria_1_text"] = "Deadly Blunderbuss: 0/1",
+				["special_item"] = false,
+				["items_reward"] = {
+					[16742] = 1,
+				},
+				["name"] = "Warsong Saw Blades",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "item",
+				["level"] = 27,
+				["criteria_1_monster_false"] = {
+					[12] = 32,
+					[14] = 4,
+					[13] = 4,
+					[34] = 8,
+					[37] = 4,
+				},
+				["daily"] = false,
 			},
 			[8347] = {
 				["groupcount"] = 0,
@@ -8539,83 +13114,6 @@ QuestHelper_Collector = {
 				["level"] = 5,
 				["end_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 				["special_item"] = false,
-			},
-			[3111] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Stormforged Magus slain: 0/3",
-				["daily"] = false,
-				["special_item"] = false,
-				["start_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
-				["name"] = "Halls of Stone",
-				["level"] = 80,
-				["start"] = "\000\npæs\000M=\000",
-				["criteria_1_type"] = "monster",
-				["criteria_1_monster_false"] = {
-					[130] = 2,
-					[115] = 8,
-					[138] = 2,
-					[121] = 4,
-					[742] = 2,
-					[127] = 8,
-					[131] = 34,
-					[110] = 4,
-					[112] = 24,
-					[132] = 36,
-					[116] = 6,
-					[140] = 8,
-					[120] = 6,
-					[122] = 28,
-					[126] = 34,
-					[133] = 12,
-					[118] = 8,
-					[114] = 81,
-					[33] = 6,
-				},
-				["criteria_1_monster_true"] = {
-				},
-			},
-			[3064] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Talk with Magni will ya lad? ",
-				["name"] = "Titans... They are here",
-				["special_item"] = false,
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["end"] = "M33m\000\nˆôv\000uR?\000",
-				["end_spec"] = "2PB804\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000ÃPò•&\niöò.ù¿",
-				["criteria_1_type"] = "log",
-				["criteria_1_monster_false"] = {
-					[57] = 8,
-					[115] = 2,
-					[2558] = 12,
-					[121] = 36,
-					[2347] = 148,
-					[33] = 4,
-					[34] = 4,
-					[102] = 226,
-					[19] = 2,
-					[742] = 22,
-					[119] = 4,
-					[112] = 4,
-					[46] = 10,
-					[116] = 4,
-					[273] = 6,
-					[214] = 24,
-					[122] = 10,
-					[390] = 6,
-					[126] = 12,
-					[2350] = 28,
-					[133] = 2,
-					[130] = 26,
-					[234] = 50,
-					[0] = 14,
-					[129] = 2,
-					[359] = 16,
-					[124] = 10,
-					[125] = 6,
-				},
-				["level"] = 80,
 			},
 			[9704] = {
 				["groupcount"] = 0,
@@ -8627,258 +13125,6 @@ QuestHelper_Collector = {
 				["level"] = 5,
 				["end_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 				["daily"] = false,
-			},
-			[9705] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Return to Outrunner Alarion with Erona's Package.",
-				["criteria_1_monster_true"] = {
-				},
-				["special_item"] = false,
-				["daily"] = false,
-				["name"] = "Package Recovery",
-				["criteria_1_type"] = "log",
-				["start"] = "M69m\000¨xk\000äZ\000",
-				["level"] = 5,
-				["criteria_1_monster_false"] = {
-					[63] = 32,
-					[60] = 20,
-					[61] = 6,
-					[73] = 6,
-					[66] = 12,
-				},
-				["start_spec"] = "2NB07\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-			},
-			[868] = {
-				["groupcount"] = 0,
-				["items_choice"] = {
-					[6503] = 1,
-					[6502] = 1,
-				},
-				["criteria_1_text"] = "Silithid Egg: 0/12",
-				["special_item"] = 5059,
-				["daily"] = false,
-				["name"] = "Egg Hunt",
-				["criteria_1_type"] = "item",
-				["level"] = 22,
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_1_monster_true"] = {
-				},
-			},
-			[6571] = {
-				["criteria_2_text"] = "Warsong Axe Shipment: 0/1",
-				["criteria_4_monster_true"] = {
-				},
-				["criteria_1_text"] = "Warsong Saw Blades: 0/1",
-				["criteria_4_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_4_type"] = "item",
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_type"] = "item",
-				["groupcount"] = 0,
-				["items_choice"] = {
-					[16975] = 1,
-					[16977] = 1,
-					[16978] = 1,
-				},
-				["criteria_3_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_4_text"] = "Logging Rope: 1/1",
-				["criteria_2_monster_true"] = {
-				},
-				["criteria_3_monster_true"] = {
-				},
-				["criteria_3_text"] = "Warsong Oil: 0/1",
-				["special_item"] = false,
-				["name"] = "Warsong Supplies",
-				["level"] = 27,
-				["criteria_3_type"] = "item",
-				["criteria_2_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_2_type"] = "item",
-			},
-			[9676] = {
-				["groupcount"] = 0,
-				["special_item"] = false,
-				["start_spec"] = "2NB01\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["name"] = "Paladin Training",
-				["end"] = "M59m\000_Îd\000i}4\000",
-				["start"] = "M59m\000–`a\000À–5\000",
-				["level"] = 1,
-				["end_spec"] = "2NB03\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
-				["daily"] = false,
-			},
-			[14081] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Return the pamphlet to Perascamin at Thuron's Livery in Silvermoon City.",
-				["special_item"] = false,
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["name"] = "Learn to Ride in the Eversong Woods",
-				["criteria_1_type"] = "log",
-				["criteria_1_monster_false"] = {
-					[121] = 72,
-					[37] = 4,
-					[122] = 50,
-					[359] = 16,
-					[2350] = 40,
-					[123] = 4,
-					[214] = 24,
-					[46] = 10,
-					[124] = 20,
-					[19] = 2,
-					[125] = 14,
-					[110] = 10,
-					[126] = 48,
-					[127] = 30,
-					[112] = 44,
-					[129] = 2,
-					[130] = 28,
-					[113] = 8,
-					[33] = 26,
-					[2558] = 12,
-					[132] = 36,
-					[114] = 97,
-					[133] = 20,
-					[390] = 6,
-					[115] = 10,
-					[34] = 10,
-					[116] = 10,
-					[85] = 2,
-					[2347] = 150,
-					[138] = 2,
-					[234] = 50,
-					[102] = 226,
-					[118] = 16,
-					[131] = 34,
-					[742] = 32,
-					[140] = 8,
-					[119] = 4,
-					[143] = 2,
-					[8] = 2,
-					[150] = 14,
-					[120] = 30,
-					[273] = 6,
-					[0] = 14,
-					[57] = 8,
-				},
-				["level"] = 20,
-			},
-			[7926] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Deliver the Free Ticket Voucher to Gelvas Grimgate, located inside the Darkmoon Faire carnival.",
-				["special_item"] = false,
-				["items_reward"] = {
-					[19182] = 5,
-				},
-				["name"] = "The Darkmoon Faire",
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_type"] = "log",
-				["level"] = -1,
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["daily"] = false,
-			},
-			[6547] = {
-				["groupcount"] = 0,
-				["criteria_1_text"] = "Warsong Report: 1/1",
-				["special_item"] = false,
-				["items_reward"] = {
-					[16764] = 1,
-				},
-				["name"] = "Warsong Scout Update",
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_type"] = "item",
-				["level"] = 21,
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["daily"] = false,
-			},
-			[6504] = {
-				["criteria_2_text"] = "Shredder Operating Manual - Chapter 2: 0/1",
-				["criteria_1_text"] = "Shredder Operating Manual - Chapter 1: 0/1",
-				["special_item"] = false,
-				["daily"] = false,
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_type"] = "item",
-				["groupcount"] = 0,
-				["items_choice"] = {
-					[16740] = 1,
-					[16741] = 1,
-				},
-				["criteria_2_monster_true"] = {
-				},
-				["level"] = 30,
-				["criteria_3_text"] = "Shredder Operating Manual - Chapter 3: 0/1",
-				["criteria_2_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["name"] = "The Lost Pages",
-				["criteria_3_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_3_type"] = "item",
-				["criteria_3_monster_true"] = {
-				},
-				["criteria_1_monster_false"] = {
-					[12] = 32,
-					[14] = 4,
-					[13] = 4,
-					[34] = 8,
-					[37] = 4,
-				},
-				["criteria_2_type"] = "item",
 			},
 			[8472] = {
 				["groupcount"] = 0,
@@ -8897,11 +13143,41 @@ QuestHelper_Collector = {
 				["start"] = "M60m\000dˆx\000™>v\000",
 				["criteria_1_type"] = "item",
 				["criteria_1_monster_false"] = {
-					[63] = 32,
-					[60] = 14,
-					[61] = 4,
-					[73] = 6,
-					[66] = 12,
+					[26] = 26,
+					[121] = 8,
+					[74] = 14,
+					[61] = 873,
+					[6] = 282,
+					[7] = 42,
+					[38] = 8,
+					[11] = 18,
+					[13] = 38,
+					[15] = 731,
+					[77] = 10,
+					[23] = 87,
+					[109] = 8,
+					[63] = 506,
+					[64] = 40,
+					[80] = 18,
+					[65] = 166,
+					[66] = 30,
+					[68] = 12,
+					[136] = 12,
+					[14] = 590,
+					[69] = 16,
+					[25] = 6,
+					[70] = 34,
+					[71] = 40,
+					[8] = 28,
+					[19] = 637,
+					[32] = 6,
+					[72] = 6,
+					[62] = 200,
+					[127] = 6,
+					[60] = 84,
+					[73] = 18,
+					[22] = 990,
+					[34] = 133,
 				},
 				["start_spec"] = "2NB08\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
 			},
@@ -9049,13 +13325,13 @@ QuestHelper_Collector = {
 					[2217] = 1,
 					[3013] = 1,
 					[731] = 5,
-					[556] = 3,
+					[5523] = 1,
 					[9751] = 1,
 					[2698] = 1,
 					[1274] = 2,
 					[1467] = 1,
+					[556] = 3,
 					[3171] = 3,
-					[5523] = 1,
 					[1774] = 1,
 					[159] = 1,
 					[814] = 2,
@@ -9065,11 +13341,11 @@ QuestHelper_Collector = {
 					[1080] = 5,
 					[3172] = 5,
 					[17056] = 5,
-					[2212] = 1,
+					[2968] = 1,
 					[1645] = 1,
 					[769] = 5,
 					[771] = 3,
-					[2968] = 1,
+					[1468] = 1,
 					[1708] = 1,
 					[1413] = 1,
 					[2677] = 3,
@@ -9088,7 +13364,7 @@ QuestHelper_Collector = {
 					[2592] = 32,
 					[1464] = 4,
 					[4775] = 5,
-					[1468] = 1,
+					[2212] = 1,
 					[6508] = 1,
 					[6889] = 5,
 					[4776] = 5,
@@ -9315,8 +13591,8 @@ QuestHelper_Collector = {
 					[22644] = 5,
 					[2673] = 5,
 					[3299] = 5,
-					[2251] = 5,
 					[1746] = 1,
+					[2592] = 8,
 					[1205] = 1,
 					[1752] = 1,
 					[1129] = 1,
@@ -9327,7 +13603,7 @@ QuestHelper_Collector = {
 					[887] = 1,
 					[3385] = 1,
 					[878] = 2,
-					[2592] = 8,
+					[2251] = 5,
 				},
 				["skin_loot"] = {
 					[2318] = 1,
@@ -9477,14 +13753,14 @@ QuestHelper_Collector = {
 				["name_Wendigo"] = 1,
 				["name_Ragnar Thunderbrew"] = 3,
 				["loot_trivial_loot"] = {
-					[1468] = 4,
+					["gold"] = 570,
 					[1467] = 6,
 					[2764] = 1,
-					["gold"] = 570,
+					[5523] = 7,
 					[5784] = 2,
 					[1179] = 1,
 					[730] = 7,
-					[5523] = 7,
+					[1468] = 4,
 				},
 				["shop_2129@@1@@-1@@73"] = 3,
 				["shop_2384@@1@@-1@@36"] = 3,
@@ -9863,13 +14139,13 @@ QuestHelper_Collector = {
 				["level_35"] = 1,
 				["name_Bailey Stonemantle"] = 2,
 				["reaction_7"] = 6,
-				["level_1"] = 2,
+				["name_Mountaineer Wuar"] = 1,
 				["level_15"] = 1,
 				["name_Milstaff Stormeye"] = 1,
-				["name_Felicia Maline"] = 2,
+				["level_1"] = 2,
 				["name_Cow"] = 2,
 				["name_Donyal Tovald"] = 1,
-				["name_Mountaineer Wuar"] = 1,
+				["name_Felicia Maline"] = 2,
 				["level_50"] = 1,
 				["name_Donna"] = 2,
 				["name_Thamner Pol"] = 1,
@@ -10208,10 +14484,10 @@ QuestHelper_Collector = {
 				},
 				["herb_no"] = 13,
 				["chat_talk"] = 2,
-				["loot_count"] = 30,
 				["name_Taldan"] = 1,
-				["name_Scarlet Tracking Hound"] = 9,
 				["reaction_2"] = 120,
+				["name_Scarlet Tracking Hound"] = 9,
+				["loot_count"] = 30,
 				["name_Scarlet Gallant"] = 30,
 				["name_Scarlet Sentry"] = 2,
 				["reaction_6"] = 2,
@@ -10367,22 +14643,22 @@ QuestHelper_Collector = {
 				["shop_3770@@5@@-1@@425"] = 2,
 				["shop_3771@@5@@-1@@850"] = 2,
 				["shop_4601@@5@@-1@@1700"] = 2,
-				["reaction_6"] = 26,
+				["shop_2321@@1@@-1@@85"] = 1,
 				["shop_1645@@5@@-1@@1700"] = 2,
 				["shop_4599@@5@@-1@@1800"] = 2,
 				["name_Jennea Cannon"] = 1,
 				["shop_4342@@1@@-1@@2125"] = 1,
 				["name_Brooke Stonebraid"] = 1,
-				["shop_2321@@1@@-1@@85"] = 1,
+				["shop_8766@@5@@-1@@3600"] = 2,
 				["shop_6261@@1@@-1@@850"] = 1,
 				["shop_1205@@5@@-1@@425"] = 2,
 				["level_35"] = 4,
 				["reaction_5"] = 9,
-				["shop_7005@@1@@-1@@69"] = 1,
+				["name_Ironforge Guard"] = 16,
 				["reaction_7"] = 6,
 				["level_75"] = 11,
 				["shop_1179@@5@@-1@@112"] = 2,
-				["name_Ironforge Guard"] = 16,
+				["shop_422@@5@@-1@@450"] = 2,
 				["shop_2901@@1@@-1@@72"] = 1,
 				["name_Roger"] = 1,
 				["shop_422@@5@@-1@@425"] = 2,
@@ -10390,11 +14666,11 @@ QuestHelper_Collector = {
 				["shop_3927@@5@@-1@@1800"] = 2,
 				["level_2"] = 2,
 				["shop_4601@@5@@-1@@1800"] = 2,
-				["shop_422@@5@@-1@@450"] = 2,
+				["shop_7005@@1@@-1@@69"] = 1,
 				["shop_2287@@5@@-1@@112"] = 2,
 				["shop_4544@@5@@-1@@850"] = 2,
 				["shop_1645@@5@@-1@@1800"] = 2,
-				["shop_8766@@5@@-1@@3600"] = 2,
+				["reaction_6"] = 26,
 				["shop_2604@@1@@-1@@42"] = 1,
 				["shop_4540@@5@@-1@@22"] = 2,
 				["shop_1707@@5@@-1@@850"] = 2,
@@ -10774,10 +15050,10 @@ QuestHelper_Collector = {
 				"\000±\\≠\000ËNc\000ˇ", -- [2]
 				["reaction_2"] = 4,
 				["name_Private Arun"] = 1,
-				["name_Conquest Hold Grunt"] = 1,
 				["name_Plague Wagon"] = 1,
-				["name_Duskhowl Prowler"] = 2,
 				["reaction_6"] = 1,
+				["name_Duskhowl Prowler"] = 2,
+				["name_Conquest Hold Grunt"] = 1,
 			},
 			[76] = {
 				"\000$~—\000¿hÑ\000\n", -- [1]
@@ -10878,11 +15154,11 @@ QuestHelper_Collector = {
 				"\000ªç®\000\n•\000\n\000[òã\000™â\000\000\nLT◊\000mà¶\000\000\rü\000cÜ¿\000", -- [1]
 				["reaction_5"] = 1,
 				["name_Officer Brady"] = 2,
-				["name_Stormwind Orphan"] = 1,
+				["level_80"] = 2,
 				["reaction_7"] = 1,
 				["name_Swift Palomino"] = 1,
-				["level_80"] = 2,
 				["reaction_6"] = 2,
+				["name_Stormwind Orphan"] = 1,
 				["level_2"] = 2,
 			},
 			[65] = {
@@ -11002,11 +15278,11 @@ QuestHelper_Collector = {
 				["name_Grizzled Brown Bear"] = 1,
 				["level_35"] = 2,
 				["name_Axxarien Trickster"] = 2,
-				["name_Aqueous"] = 1,
+				["level_17"] = 3,
 				["name_Fouled Water Spirit"] = 7,
 				["level_15"] = 7,
 				["level_18"] = 3,
-				["level_17"] = 3,
+				["name_Brown Bear"] = 1,
 				["level_19"] = 4,
 				["name_Infected Wildkin"] = 1,
 				["eng_no"] = 1,
@@ -11016,7 +15292,7 @@ QuestHelper_Collector = {
 				["reaction_1"] = 1,
 				["level_13"] = 1,
 				["name_Blacksilt Seer"] = 4,
-				["name_Brown Bear"] = 1,
+				["name_Aqueous"] = 1,
 				["level_70"] = 2,
 				["name_Blacksilt Warrior"] = 3,
 				["loot_count"] = 1,
@@ -15143,12 +19419,12 @@ QuestHelper_Collector = {
 				["open_no"] = 6,
 				["quality"] = 3,
 			},
-			[43368] = {
-				["open_no"] = 4,
-				["type"] = "Glyph/Paladin",
-				["name"] = "Glyph of Sense Undead",
-				["ilevel"] = 20,
-				["minlevel"] = 20,
+			[11113] = {
+				["open_no"] = 12,
+				["type"] = "Quest/Quest",
+				["name"] = "Crate of Foodstuffs",
+				["ilevel"] = 0,
+				["minlevel"] = 0,
 				["quality"] = 1,
 			},
 			[10050] = {
@@ -15185,20 +19461,20 @@ QuestHelper_Collector = {
 				["minlevel"] = 35,
 				["quality"] = 1,
 			},
+			[43368] = {
+				["open_no"] = 4,
+				["type"] = "Glyph/Paladin",
+				["name"] = "Glyph of Sense Undead",
+				["ilevel"] = 20,
+				["minlevel"] = 20,
+				["quality"] = 1,
+			},
 			[4537] = {
 				["open_no"] = 52,
 				["type"] = "Consumable/Food & Drink",
 				["name"] = "Tel'Abim Banana",
 				["ilevel"] = 15,
 				["minlevel"] = 5,
-				["quality"] = 1,
-			},
-			[11113] = {
-				["open_no"] = 12,
-				["type"] = "Quest/Quest",
-				["name"] = "Crate of Foodstuffs",
-				["ilevel"] = 0,
-				["minlevel"] = 0,
 				["quality"] = 1,
 			},
 			[4541] = {
@@ -16104,14 +20380,14 @@ QuestHelper_Collector = {
 				["open_no"] = 12,
 				["quality"] = 2,
 			},
-			[2488] = {
-				["equiplocation"] = "WEAPON",
-				["type"] = "Weapon/One-Handed Swords",
-				["name"] = "Gladius",
-				["ilevel"] = 9,
-				["minlevel"] = 4,
-				["open_no"] = 458,
-				["quality"] = 1,
+			[3511] = {
+				["equiplocation"] = "CLOAK",
+				["type"] = "Armor/Cloth",
+				["name"] = "Cloak of the People's Militia",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["open_no"] = 8,
+				["quality"] = 2,
 			},
 			[37585] = {
 				["open_no"] = 922,
@@ -16129,14 +20405,13 @@ QuestHelper_Collector = {
 				["minlevel"] = 0,
 				["quality"] = 0,
 			},
-			[3511] = {
-				["equiplocation"] = "CLOAK",
-				["type"] = "Armor/Cloth",
-				["name"] = "Cloak of the People's Militia",
-				["ilevel"] = 15,
+			[878] = {
+				["open_no"] = 86,
+				["type"] = "Trade Goods/Other",
+				["name"] = "Fist-sized Spinneret",
+				["ilevel"] = 20,
 				["minlevel"] = 0,
-				["open_no"] = 8,
-				["quality"] = 2,
+				["quality"] = 0,
 			},
 			[13016] = {
 				["equiplocation"] = "2HWEAPON",
@@ -16271,14 +20546,14 @@ QuestHelper_Collector = {
 			[1772] = {
 				["equip_no"] = "I5944i2NH24",
 			},
-			[50629] = {
-				["equiplocation"] = "ROBE",
-				["type"] = "Armor/Cloth",
-				["name"] = "Robe of the Waking Nightmare",
-				["ilevel"] = 277,
-				["minlevel"] = 80,
-				["open_no"] = 314,
-				["quality"] = 4,
+			[6084] = {
+				["equiplocation"] = "LEGS",
+				["type"] = "Armor/Mail",
+				["name"] = "Stormwind Guard Leggings",
+				["ilevel"] = 13,
+				["minlevel"] = 0,
+				["open_no"] = 196,
+				["quality"] = 2,
 			},
 			[1774] = {
 				["equiplocation"] = "CLOAK",
@@ -16309,6 +20584,15 @@ QuestHelper_Collector = {
 				["open_no"] = 10,
 				["quality"] = 0,
 			},
+			[50629] = {
+				["equiplocation"] = "ROBE",
+				["type"] = "Armor/Cloth",
+				["name"] = "Robe of the Waking Nightmare",
+				["ilevel"] = 277,
+				["minlevel"] = 80,
+				["open_no"] = 314,
+				["quality"] = 4,
+			},
 			[1778] = {
 				["equiplocation"] = "CHEST",
 				["type"] = "Armor/Cloth",
@@ -16318,15 +20602,6 @@ QuestHelper_Collector = {
 				["equip_no"] = "I15479i2NH28",
 				["open_no"] = 44,
 				["quality"] = 0,
-			},
-			[6084] = {
-				["equiplocation"] = "LEGS",
-				["type"] = "Armor/Mail",
-				["name"] = "Stormwind Guard Leggings",
-				["ilevel"] = 13,
-				["minlevel"] = 0,
-				["open_no"] = 196,
-				["quality"] = 2,
 			},
 			[1708] = {
 				["open_no"] = 456,
@@ -17050,15 +21325,6 @@ QuestHelper_Collector = {
 				["open_no"] = 2,
 				["quality"] = 3,
 			},
-			[30750] = {
-				["equiplocation"] = "2HWEAPON",
-				["type"] = "Weapon/Two-Handed Swords",
-				["name"] = "Draenic Warblade",
-				["ilevel"] = 72,
-				["minlevel"] = 60,
-				["open_no"] = 14,
-				["quality"] = 1,
-			},
 			[15894] = {
 				["equiplocation"] = "SHIELD",
 				["type"] = "Armor/Shields",
@@ -17067,6 +21333,14 @@ QuestHelper_Collector = {
 				["minlevel"] = 20,
 				["open_no"] = 2,
 				["quality"] = 2,
+			},
+			[2698] = {
+				["open_no"] = 606,
+				["type"] = "Recipe/Cooking",
+				["name"] = "Recipe: Cooked Crab Claw",
+				["ilevel"] = 15,
+				["minlevel"] = 0,
+				["quality"] = 1,
 			},
 			[2700] = {
 				["open_no"] = 201,
@@ -17306,12 +21580,13 @@ QuestHelper_Collector = {
 				["minlevel"] = 0,
 				["quality"] = 1,
 			},
-			[2698] = {
-				["open_no"] = 606,
-				["type"] = "Recipe/Cooking",
-				["name"] = "Recipe: Cooked Crab Claw",
-				["ilevel"] = 15,
-				["minlevel"] = 0,
+			[30750] = {
+				["equiplocation"] = "2HWEAPON",
+				["type"] = "Weapon/Two-Handed Swords",
+				["name"] = "Draenic Warblade",
+				["ilevel"] = 72,
+				["minlevel"] = 60,
+				["open_no"] = 14,
 				["quality"] = 1,
 			},
 			[3781] = {
@@ -17728,13 +22003,14 @@ QuestHelper_Collector = {
 				["open_no"] = 2,
 				["quality"] = 1,
 			},
-			[878] = {
-				["open_no"] = 86,
-				["type"] = "Trade Goods/Other",
-				["name"] = "Fist-sized Spinneret",
-				["ilevel"] = 20,
-				["minlevel"] = 0,
-				["quality"] = 0,
+			[2488] = {
+				["equiplocation"] = "WEAPON",
+				["type"] = "Weapon/One-Handed Swords",
+				["name"] = "Gladius",
+				["ilevel"] = 9,
+				["minlevel"] = 4,
+				["open_no"] = 458,
+				["quality"] = 1,
 			},
 			[2856] = {
 				["open_no"] = 8,
@@ -18662,10 +22938,10 @@ QuestHelper_Collector = {
 			["\000uoK\000ÿÀi\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[3173] = 1,
 					[1791] = 1,
-					[3169] = 1,
 					[3170] = 1,
+					[3169] = 1,
+					[3173] = 1,
 				},
 			},
 			["\000∏8\000Ø®∑\000"] = {
@@ -18701,9 +22977,9 @@ QuestHelper_Collector = {
 				["loot_loot"] = {
 					[22644] = 1,
 					[1475] = 1,
-					[3167] = 1,
 					[1081] = 1,
 					[3174] = 1,
+					[3167] = 1,
 				},
 			},
 			["\000ùÕ9\000ŒG…\000"] = {
@@ -18945,9 +23221,9 @@ QuestHelper_Collector = {
 				["loot_loot"] = {
 					[22644] = 1,
 					[1475] = 1,
-					[3167] = 1,
 					[1081] = 1,
 					[3174] = 1,
+					[3167] = 1,
 				},
 			},
 			["\000,‡p\000/É\000"] = {
@@ -19082,9 +23358,9 @@ QuestHelper_Collector = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
 					[7074] = 1,
-					[7073] = 1,
 					[3169] = 1,
 					[4865] = 1,
+					[7073] = 1,
 				},
 			},
 			["\000H<\000((√\000"] = {
@@ -19386,11 +23662,13 @@ QuestHelper_Collector = {
 					["gold"] = 411,
 				},
 			},
-			["\000ËS9\000£i \000"] = {
+			["\0009XD\000F\rV\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[117] = 1,
-					["gold"] = 12,
+					[2589] = 1,
+					[1179] = 1,
+					[3110] = 1,
+					["gold"] = 42,
 				},
 			},
 			["\000)8\000|e∑\000"] = {
@@ -19408,13 +23686,11 @@ QuestHelper_Collector = {
 					["gold"] = 15,
 				},
 			},
-			["\0009XD\000F\rV\000"] = {
+			["\000\n7o~\000Aˆ¡\000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[2589] = 1,
-					[1179] = 1,
-					[3110] = 1,
-					["gold"] = 42,
+					[3171] = 1,
+					[769] = 1,
 				},
 			},
 			["\000%{_\000T=Y\000"] = {
@@ -19749,11 +24025,11 @@ QuestHelper_Collector = {
 					[4865] = 1,
 				},
 			},
-			["\000\n7o~\000Aˆ¡\000"] = {
+			["\000ËS9\000£i \000"] = {
 				["loot_count"] = 1,
 				["loot_loot"] = {
-					[3171] = 1,
-					[769] = 1,
+					[117] = 1,
+					["gold"] = 12,
 				},
 			},
 			["\000v{\000ıpy\000"] = {
@@ -20083,17 +24359,17 @@ QuestHelper_Collector = {
 			},
 			[12020] = {
 				["groupcount"] = 0,
-				["daily"] = true,
-				["special_item"] = false,
 				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["special_item"] = false,
+				["items_reward"] = {
+					[37829] = 10,
+				},
 				["name"] = "This One Time, When I Was Drunk...",
 				["end"] = "M106m\000LÔy\000ôÚe\000",
 				["start"] = "M92m\000}\000üe\000",
 				["level"] = -1,
 				["end_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["items_reward"] = {
-					[37829] = 10,
-				},
+				["daily"] = true,
 			},
 			[38] = {
 				["criteria_2_text"] = "Murloc Eye: 0/3",
@@ -20227,10 +24503,13 @@ QuestHelper_Collector = {
 					[6185] = 1,
 					[6173] = 1,
 				},
-				["end_spec"] = "2MG05\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_false"] = {
+					[2] = 212,
+					[46] = 2,
+				},
 				["criteria_2_monster_true"] = {
 				},
-				["criteria_2_satisfied"] = "M2mL\000ØL\000Ò~Ω\000lM2mL\000˝»M\000iØæ\000lM2mL\000“N\000¨ø\000lM2mL\000ÛÿM\000^Ü¿\000lM2mL\000ïµM\000î†¡\000lM2mL\000¡{L\000‹ˆ¿\000l",
+				["end_spec"] = "2MG05\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 				["criteria_1_satisfied"] = "M2mL\000˝ÿL\000K=æ\000lM2mL\000¶ÛL\000¿©æ\000lM2mL\000Å-M\000Ííæ\000lM2mL\000œ}M\0009íæ\000lM2mL\000FMN\000@Pæ\000l",
 				["start_spec"] = "2MG04\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 				["name"] = "A New Threat",
@@ -20240,10 +24519,7 @@ QuestHelper_Collector = {
 				},
 				["start"] = "\000Í{L\000œÿº\000",
 				["level"] = 2,
-				["criteria_1_monster_false"] = {
-					[2] = 212,
-					[46] = 2,
-				},
+				["criteria_2_satisfied"] = "M2mL\000ØL\000Ò~Ω\000lM2mL\000˝»M\000iØæ\000lM2mL\000“N\000¨ø\000lM2mL\000ÛÿM\000^Ü¿\000lM2mL\000ïµM\000î†¡\000lM2mL\000¡{L\000‹ˆ¿\000l",
 				["criteria_2_type"] = "monster",
 			},
 			[388] = {
@@ -20498,10 +24774,32 @@ QuestHelper_Collector = {
 					[1303] = 1,
 					[1304] = 1,
 				},
-				["end_spec"] = "2NH27\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000©LP\000\000\000\000\000\000‹",
+				["criteria_1_monster_false"] = {
+					1204, -- [1]
+					230, -- [2]
+					50, -- [3]
+					125, -- [4]
+					4, -- [5]
+					12, -- [6]
+					[12] = 44,
+					[25] = 2,
+					[13] = 2,
+					[27] = 2,
+					[24] = 32,
+					[26] = 40,
+					[30] = 2,
+					[38] = 2,
+					[17] = 10,
+					[9] = 2,
+					[19] = 2,
+					[39] = 6,
+					[21] = 32,
+					[95] = 4,
+					[0] = 18,
+				},
 				["criteria_2_monster_true"] = {
 				},
-				["criteria_2_satisfied"] = "C2cI1179iI2592iI1013iI2856iL\000G«K\000Ê1P\000lM1mI2589iI1013iI2856iL\000 [G\000FEQ\000lI2589iI2592iI1013iI2856iL\000◊¶>\000amR\000lM1mI2592iI1013iI2856iL\000ªò<\000pMJ\000l",
+				["end_spec"] = "2NH27\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000©LP\000\000\000\000\000\000‹",
 				["criteria_1_satisfied"] = "C2cI1179iI2592iI1013iI2856iL\000G«K\000Ê1P\000lM1mI2589iI1013iI2856iL\000 [G\000FEQ\000lI2589iI2592iI1013iI2856iL\000◊¶>\000amR\000lM1mI2592iI1013iI2856iL\000ªò<\000pMJ\000l",
 				["start_spec"] = "2NH22\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000®L\000H\000\000\000\000\000\000‹",
 				["name"] = "The Everstill Bridge",
@@ -20530,29 +24828,7 @@ QuestHelper_Collector = {
 					[95] = 4,
 					[0] = 18,
 				},
-				["criteria_1_monster_false"] = {
-					1204, -- [1]
-					230, -- [2]
-					50, -- [3]
-					125, -- [4]
-					4, -- [5]
-					12, -- [6]
-					[12] = 44,
-					[25] = 2,
-					[13] = 2,
-					[27] = 2,
-					[24] = 32,
-					[26] = 40,
-					[30] = 2,
-					[38] = 2,
-					[17] = 10,
-					[9] = 2,
-					[19] = 2,
-					[39] = 6,
-					[21] = 32,
-					[95] = 4,
-					[0] = 18,
-				},
+				["criteria_2_satisfied"] = "C2cI1179iI2592iI1013iI2856iL\000G«K\000Ê1P\000lM1mI2589iI1013iI2856iL\000 [G\000FEQ\000lI2589iI2592iI1013iI2856iL\000◊¶>\000amR\000lM1mI2592iI1013iI2856iL\000ªò<\000pMJ\000l",
 				["criteria_2_type"] = "item",
 			},
 			[101] = {
@@ -20564,24 +24840,8 @@ QuestHelper_Collector = {
 				},
 				["end"] = "M1m\000!“¡\000Á\rt\000",
 				["criteria_1_type"] = "item",
+				["end_spec"] = "2NH33\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000©L*P\000ê\000\000\000\000‹",
 				["criteria_2_satisfied"] = "M4mI1784iI2378iL\000ÿD-\000A'k\000lM3mI1081iI2251iI3174iI3182iI4428iI22644iI1130iL\0000•.\000í@k\000lM3mI1081iI2251iI3174iI4428iI22644iI1130iL\000¶3\000kzc\000lI2592iI4306iI5529iI6530iI1129iI878iI1081iI1288iI2251iI3174iI3182iI4428iI22644iI1130iL\000I2;\000g_\000lI878iI1081iI1288iI2251iI3174iI3182iI4428iI22644iI1130iL\000»É.\000Öãl\000l",
-				["criteria_1_monster_false"] = {
-					28, -- [1]
-					292, -- [2]
-					340, -- [3]
-					26, -- [4]
-					20, -- [5]
-					nil, -- [6]
-					nil, -- [7]
-					2, -- [8]
-					12, -- [9]
-					[26] = 2,
-					[37] = 26,
-					[38] = 2,
-					[39] = 4,
-					[0] = 281,
-					[95] = 18,
-				},
 				["groupcount"] = 0,
 				["level"] = 25,
 				["start"] = "M2m\000ˇs¿\000} z\000",
@@ -20632,7 +24892,23 @@ QuestHelper_Collector = {
 				},
 				["criteria_3_type"] = "item",
 				["criteria_3_satisfied"] = "C2cM0mI1205iI2592iI2378iL\000D>-\000æÅx\000lM0mI2592iI2378iL\000-°*\000™£z\000lM0mI2592iI2378iL\000F≤)\000	Ëw\000lI4306iI2378iL\000—)\000•Go\000lM4mI1784iI2378iL\000ÿD-\000A'k\000lM4mI2378iL\000∂{0\000≠–d\000l",
-				["end_spec"] = "2NH33\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000©L*P\000ê\000\000\000\000‹",
+				["criteria_1_monster_false"] = {
+					28, -- [1]
+					292, -- [2]
+					340, -- [3]
+					26, -- [4]
+					20, -- [5]
+					nil, -- [6]
+					nil, -- [7]
+					2, -- [8]
+					12, -- [9]
+					[26] = 2,
+					[37] = 26,
+					[38] = 2,
+					[39] = 4,
+					[0] = 281,
+					[95] = 18,
+				},
 				["criteria_2_type"] = "item",
 			},
 			[109] = {
@@ -20949,15 +25225,15 @@ QuestHelper_Collector = {
 					[49] = 2,
 					[0] = 2,
 					[46] = 4,
-					[21] = 30,
+					[5] = 16,
 					[7] = 10,
 					[30] = 2,
 					[61] = 22,
 					[48] = 2,
 					[9] = 14,
 					[19] = 2,
+					[21] = 30,
 					[56] = 2,
-					[5] = 16,
 					[113] = 12,
 					[33] = 6,
 				},
@@ -21002,10 +25278,12 @@ QuestHelper_Collector = {
 			[11122] = {
 				["groupcount"] = 0,
 				["criteria_1_text"] = "Kegs Delivered: 0/3",
-				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = true,
 				["name"] = "There and Back Again",
 				["special_item"] = 33306,
-				["daily"] = true,
+				["items_reward"] = {
+					[37829] = 10,
+				},
 				["criteria_1_monster_true"] = {
 				},
 				["level"] = -1,
@@ -21018,9 +25296,7 @@ QuestHelper_Collector = {
 					[6] = 28,
 					[4] = 12,
 				},
-				["items_reward"] = {
-					[37829] = 10,
-				},
+				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 			},
 			[132] = {
 				["groupcount"] = 0,
@@ -22118,12 +26394,12 @@ QuestHelper_Collector = {
 				},
 				["end"] = "M102m\000˙\rô\000ˇéF\000",
 				["level"] = 75,
+				["criteria_2_satisfied"] = "L\000-°™\000‹S>\000l",
+				["groupcount"] = 0,
 				["criteria_1_monster_false"] = {
 					[102] = 332,
 					[103] = 2,
 				},
-				["groupcount"] = 0,
-				["end_spec"] = "2NH76\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000®M\nPmñm2Ÿ‹",
 				["criteria_3_satisfied"] = "L\000BZ¢\000càH\000l",
 				["criteria_3_type"] = "monster",
 				["criteria_3_monster_true"] = {
@@ -22144,7 +26420,7 @@ QuestHelper_Collector = {
 					[102] = 332,
 					[103] = 2,
 				},
-				["criteria_2_satisfied"] = "L\000-°™\000‹S>\000l",
+				["end_spec"] = "2NH76\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000®M\nPmñm2Ÿ‹",
 				["criteria_2_type"] = "monster",
 			},
 			[12770] = {
@@ -22401,10 +26677,10 @@ QuestHelper_Collector = {
 				["groupcount"] = 0,
 				["special_item"] = false,
 				["items_choice"] = {
-					[5761] = 1,
 					[2048] = 1,
-					[2047] = 1,
 					[2195] = 1,
+					[2047] = 1,
+					[5761] = 1,
 				},
 				["criteria_1_text"] = "Frostmane Troll Whelp slain: 0/10",
 				["criteria_1_monster_false"] = {
@@ -22563,10 +26839,10 @@ QuestHelper_Collector = {
 					52, -- [5]
 					34, -- [6]
 					18, -- [7]
-					[13] = 8,
+					[69] = 2,
 					[24] = 64,
 					[34] = 2,
-					[69] = 2,
+					[0] = 16,
 					[59] = 4,
 					[56] = 4,
 					[66] = 4,
@@ -22578,7 +26854,7 @@ QuestHelper_Collector = {
 					[30] = 8,
 					[21] = 72,
 					[113] = 4,
-					[0] = 16,
+					[13] = 8,
 				},
 				["criteria_1_monster_true"] = {
 				},
@@ -23152,15 +27428,15 @@ QuestHelper_Collector = {
 					[26] = 6,
 					[0] = 57,
 					[92] = 14,
-					[89] = 6,
-					[136] = 26,
 					[46] = 2,
+					[136] = 26,
+					[61] = 36,
 					[33] = 2,
 					[95] = 4,
 					[19] = 16,
 					[116] = 6,
 					[21] = 16,
-					[61] = 36,
+					[89] = 6,
 					[34] = 6,
 				},
 				["criteria_1_monster_true"] = {
@@ -23361,41 +27637,38 @@ QuestHelper_Collector = {
 				["level"] = 4,
 				["criteria_1_monster_false"] = {
 					[7] = 301,
-					[3] = 2,
 					[14] = 18,
 					[8] = 14,
+					[3] = 2,
 				},
 				["criteria_1_type"] = "item",
 			},
-			[1338] = {
+			[2159] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Bring Stormpike's Request to Furen Longbeard in Stormwind.",
-				["start_spec"] = "2MG14\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["end_spec"] = "2MG16\000\000\000\000\000\000\000\000\000\000\0000Ä\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["level"] = 14,
+				["items_choice"] = {
+					[2070] = 5,
+					[159] = 5,
+				},
+				["criteria_1_text"] = "Bring the Dolanaar Delivery to Innkeeper Keldamyr.",
+				["start_spec"] = "2HE05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000n",
+				["end_spec"] = "2HE05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000n",
+				["criteria_1_type"] = "log",
 				["special_item"] = false,
 				["daily"] = false,
 				["criteria_1_monster_true"] = {
 				},
-				["end"] = "M21m\000I•\000˘n_\000",
-				["start"] = "M5m\000ÉT?\000∑Ã.\000",
-				["criteria_1_type"] = "log",
+				["end"] = "M26m\0000àé\000Áô\000",
+				["start"] = "M8m\000ï©ö\000≈\nê\000",
+				["level"] = 5,
 				["criteria_1_monster_false"] = {
-					[12] = 6,
-					[6] = 16,
-					[28] = 12,
-					[57] = 8,
-					[25] = 12,
-					[16] = 8,
-					[4] = 6,
-					[54] = 2,
-					[5] = 14,
-					[20] = 2,
-					[21] = 10,
-					[58] = 4,
-					[7] = 12,
+					[26] = 4,
+					[23] = 6,
+					[14] = 2,
+					[13] = 18,
+					[8] = 16,
+					[7] = 2,
 				},
-				["name"] = "Stormpike's Order",
+				["name"] = "Dolanaar Delivery",
 			},
 			[2923] = {
 				["groupcount"] = 0,
@@ -23429,57 +27702,54 @@ QuestHelper_Collector = {
 				["level"] = 71,
 				["special_item"] = false,
 			},
-			[128] = {
+			[256] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Blackrock Champion slain: 0/15",
-				["daily"] = false,
-				["special_item"] = false,
-				["start_spec"] = "2NH21\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000®L\000H\000\000\000\000\000\000‹",
-				["name"] = "Blackrock Bounty",
-				["level"] = 25,
-				["start"] = "M1m\000ÇU\0001\000~\000",
-				["criteria_1_type"] = "monster",
-				["criteria_1_monster_false"] = {
-					1978, -- [1]
-					819, -- [2]
-					552, -- [3]
-					153, -- [4]
-					76, -- [5]
-					16, -- [6]
-					10, -- [7]
-					2, -- [8]
-					76, -- [9]
-					[113] = 2,
-					[30] = 2,
-					[15] = 449,
-					[92] = 14,
-					[16] = 1110,
-					[33] = 2,
-					[17] = 270,
-					[37] = 26,
-					[19] = 28,
-					[39] = 18,
-					[61] = 46,
-					[43] = 12,
-					[21] = 130,
-					[116] = 6,
-					[136] = 28,
-					[89] = 6,
-					[46] = 2,
-					[24] = 40,
-					[95] = 26,
-					[12] = 44,
-					[25] = 441,
-					[38] = 4,
-					[26] = 60,
-					[13] = 12,
-					[27] = 2,
-					[90] = 6,
-					[0] = 968,
-					[34] = 6,
+				["items_choice"] = {
+					[6189] = 1,
+					[6191] = 1,
 				},
+				["criteria_1_text"] = "Chok'sul's Head: 0/1",
+				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 				["criteria_1_monster_true"] = {
 				},
+				["criteria_1_type"] = "item",
+				["special_item"] = false,
+				["items_reward"] = {
+					[1449] = 1,
+				},
+				["name"] = "WANTED: Chok'sul",
+				["daily"] = false,
+				["start"] = "M6m\000ÑÔ^\000}wz\000",
+				["level"] = 22,
+				["criteria_1_monster_false"] = {
+					12, -- [1]
+					1383, -- [2]
+					nil, -- [3]
+					457, -- [4]
+					34, -- [5]
+					382, -- [6]
+					16, -- [7]
+					2, -- [8]
+					28, -- [9]
+					4, -- [10]
+					[16] = 10,
+					[12] = 6,
+					[25] = 34,
+					[13] = 2,
+					[20] = 20,
+					[28] = 30,
+					[57] = 8,
+					[15] = 8,
+					[74] = 4,
+					[17] = 278,
+					[35] = 4,
+					[19] = 4,
+					[54] = 2,
+					[21] = 52,
+					[58] = 14,
+					[14] = 14,
+				},
+				["tag"] = "Group",
 			},
 			[958] = {
 				["groupcount"] = 0,
@@ -23553,17 +27823,17 @@ QuestHelper_Collector = {
 			},
 			[415] = {
 				["groupcount"] = 0,
-				["start_spec"] = "2MG09\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["special_item"] = false,
 				["items_reward"] = {
 					[3087] = 1,
 				},
+				["special_item"] = false,
+				["daily"] = false,
 				["name"] = "Rejold's New Brew",
 				["end"] = "M5m\000hXM\000ˆXu\000",
 				["start"] = "\000pÍx\000~Ö\000",
 				["level"] = 10,
 				["end_spec"] = "2MG10\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["daily"] = false,
+				["start_spec"] = "2MG09\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 			},
 			[7102] = {
 				["groupcount"] = 0,
@@ -23647,86 +27917,35 @@ QuestHelper_Collector = {
 				},
 				["criteria_1_type"] = "event",
 			},
-			[256] = {
+			[1274] = {
 				["groupcount"] = 0,
-				["items_choice"] = {
-					[6189] = 1,
-					[6191] = 1,
-				},
-				["criteria_1_text"] = "Chok'sul's Head: 0/1",
-				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["criteria_1_monster_true"] = {
-				},
-				["criteria_1_type"] = "item",
-				["special_item"] = false,
-				["items_reward"] = {
-					[1449] = 1,
-				},
-				["name"] = "WANTED: Chok'sul",
 				["daily"] = false,
-				["start"] = "M6m\000ÑÔ^\000}wz\000",
-				["level"] = 22,
-				["criteria_1_monster_false"] = {
-					12, -- [1]
-					1383, -- [2]
-					nil, -- [3]
-					457, -- [4]
-					34, -- [5]
-					382, -- [6]
-					16, -- [7]
-					2, -- [8]
-					28, -- [9]
-					4, -- [10]
-					[16] = 10,
-					[12] = 6,
-					[25] = 34,
-					[13] = 2,
-					[20] = 20,
-					[28] = 30,
-					[57] = 8,
-					[15] = 8,
-					[74] = 4,
-					[17] = 278,
-					[35] = 4,
-					[19] = 4,
-					[54] = 2,
-					[21] = 52,
-					[58] = 14,
-					[14] = 14,
-				},
-				["tag"] = "Group",
+				["name"] = "The Missing Diplomat",
+				["level"] = 28,
+				["special_item"] = false,
 			},
-			[2159] = {
+			[26012] = {
 				["groupcount"] = 0,
-				["items_choice"] = {
-					[2070] = 5,
-					[159] = 5,
-				},
-				["criteria_1_text"] = "Bring the Dolanaar Delivery to Innkeeper Keldamyr.",
-				["start_spec"] = "2HE05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000n",
-				["end_spec"] = "2HE05\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000\000n",
-				["criteria_1_type"] = "log",
+				["criteria_1_text"] = "Speak with Krasus at Wyrmrest Temple in Dragonblight.",
 				["special_item"] = false,
 				["daily"] = false,
+				["name"] = "Trouble at Wyrmrest",
 				["criteria_1_monster_true"] = {
 				},
-				["end"] = "M26m\0000àé\000Áô\000",
-				["start"] = "M8m\000ï©ö\000≈\nê\000",
-				["level"] = 5,
+				["criteria_1_type"] = "log",
+				["level"] = 82,
 				["criteria_1_monster_false"] = {
-					[26] = 4,
-					[23] = 6,
-					[14] = 2,
-					[13] = 18,
-					[8] = 16,
-					[7] = 2,
+					[112] = 8,
+					[139] = 24,
 				},
-				["name"] = "Dolanaar Delivery",
+				["tag"] = "Raid",
 			},
 			[13932] = {
 				["groupcount"] = 0,
 				["criteria_1_text"] = "Redeem the Brewfest Stein Voucher with Belbi Quikswitch in the Brewfest camp.",
-				["daily"] = false,
+				["items_reward"] = {
+					[37892] = 1,
+				},
 				["criteria_1_monster_false"] = {
 					[96] = 12,
 					[91] = 34,
@@ -23736,16 +27955,14 @@ QuestHelper_Collector = {
 				["criteria_1_type"] = "log",
 				["name"] = "Another Year, Another Souvenir.",
 				["special_item"] = false,
-				["items_reward"] = {
-					[37892] = 1,
-				},
+				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 				["criteria_1_monster_true"] = {
 				},
 				["end"] = "M92m\000}\000üe\000",
 				["start"] = "M91m\000$ˇz\000’3e\000",
 				["level"] = -1,
 				["end_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
-				["start_spec"] = "2MG12\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
 			},
 			[2160] = {
 				["groupcount"] = 0,
@@ -23935,12 +28152,44 @@ QuestHelper_Collector = {
 				},
 				["daily"] = false,
 			},
-			[11932] = {
+			[353] = {
 				["groupcount"] = 0,
-				["daily"] = false,
-				["name"] = "Cowards and Fools",
-				["level"] = 71,
+				["criteria_1_text"] = "Deliver the Package for Stormpike to Mountaineer Stormpike in Loch Modan.",
+				["name"] = "Stormpike's Delivery",
 				["special_item"] = false,
+				["start_spec"] = "2NH11\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_true"] = {
+				},
+				["criteria_1_type"] = "log",
+				["start"] = "M6m\000Ì1ì\000úœz\000",
+				["level"] = 15,
+				["criteria_1_monster_false"] = {
+					380, -- [1]
+					34, -- [2]
+					149, -- [3]
+					58, -- [4]
+					34, -- [5]
+					[14] = 8,
+					[58] = 4,
+					[7] = 12,
+					[61] = 10,
+					[127] = 4,
+					[34] = 18,
+					[9] = 6,
+					[19] = 2,
+					[21] = 4,
+					[44] = 420,
+					[46] = 14,
+					[48] = 4,
+					[12] = 2,
+					[25] = 4,
+					[13] = 2,
+					[0] = 662,
+					[90] = 2,
+					[56] = 2,
+					[49] = 4,
+				},
+				["daily"] = false,
 			},
 			[13187] = {
 				["groupcount"] = 0,
@@ -24070,29 +28319,12 @@ QuestHelper_Collector = {
 				},
 				["criteria_1_satisfied"] = "I841iL\000Oõ~\000ëi1\000l",
 			},
-			[88] = {
+			[11932] = {
 				["groupcount"] = 0,
-				["items_choice"] = {
-					[1182] = 1,
-					[11191] = 1,
-					[1173] = 1,
-				},
-				["criteria_1_text"] = "Brass Collar: 0/1",
-				["special_item"] = false,
 				["daily"] = false,
-				["name"] = "Princess Must Die!",
-				["criteria_1_monster_true"] = {
-				},
-				["level"] = 9,
-				["criteria_1_monster_false"] = {
-					[26] = 10,
-					[2] = 57,
-					[46] = 2,
-					[3] = 7,
-					[0] = 4,
-					[5] = 2,
-				},
-				["criteria_1_type"] = "item",
+				["name"] = "Cowards and Fools",
+				["level"] = 71,
+				["special_item"] = false,
 			},
 			[1025] = {
 				["criteria_2_text"] = "Foulweald Ursa slain: 0/2",
@@ -24301,44 +28533,29 @@ QuestHelper_Collector = {
 				},
 				["name"] = "Crown of the Earth",
 			},
-			[353] = {
+			[88] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Deliver the Package for Stormpike to Mountaineer Stormpike in Loch Modan.",
-				["name"] = "Stormpike's Delivery",
+				["items_choice"] = {
+					[1182] = 1,
+					[11191] = 1,
+					[1173] = 1,
+				},
+				["criteria_1_text"] = "Brass Collar: 0/1",
 				["special_item"] = false,
-				["start_spec"] = "2NH11\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000Ä\000\000\000\000\000\000\000\000\000‹",
+				["daily"] = false,
+				["name"] = "Princess Must Die!",
 				["criteria_1_monster_true"] = {
 				},
-				["criteria_1_type"] = "log",
-				["start"] = "M6m\000Ì1ì\000úœz\000",
-				["level"] = 15,
+				["level"] = 9,
 				["criteria_1_monster_false"] = {
-					380, -- [1]
-					34, -- [2]
-					149, -- [3]
-					58, -- [4]
-					34, -- [5]
-					[14] = 8,
-					[58] = 4,
-					[7] = 12,
-					[61] = 10,
-					[127] = 4,
-					[34] = 18,
-					[9] = 6,
-					[19] = 2,
-					[21] = 4,
-					[44] = 420,
-					[46] = 14,
-					[48] = 4,
-					[12] = 2,
-					[25] = 4,
-					[13] = 2,
-					[0] = 662,
-					[90] = 2,
-					[56] = 2,
-					[49] = 4,
+					[26] = 10,
+					[2] = 57,
+					[46] = 2,
+					[3] = 7,
+					[0] = 4,
+					[5] = 2,
 				},
-				["daily"] = false,
+				["criteria_1_type"] = "item",
 			},
 			[92] = {
 				["criteria_2_text"] = "Tough Condor Meat: 0/5",
@@ -24779,21 +28996,35 @@ QuestHelper_Collector = {
 				},
 				["start_spec"] = "2NH19D\000\000\000\000\000\000\000\000\n\000\000\000\000\000\000\000\000ê\000\000\000\000\000\000\000\000\000‹",
 			},
-			[26012] = {
+			[1338] = {
 				["groupcount"] = 0,
-				["criteria_1_text"] = "Speak with Krasus at Wyrmrest Temple in Dragonblight.",
+				["criteria_1_text"] = "Bring Stormpike's Request to Furen Longbeard in Stormwind.",
+				["start_spec"] = "2MG14\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["end_spec"] = "2MG16\000\000\000\000\000\000\000\000\000\000\0000Ä\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["level"] = 14,
 				["special_item"] = false,
 				["daily"] = false,
-				["name"] = "Trouble at Wyrmrest",
 				["criteria_1_monster_true"] = {
 				},
+				["end"] = "M21m\000I•\000˘n_\000",
+				["start"] = "M5m\000ÉT?\000∑Ã.\000",
 				["criteria_1_type"] = "log",
-				["level"] = 82,
 				["criteria_1_monster_false"] = {
-					[112] = 8,
-					[139] = 24,
+					[12] = 6,
+					[6] = 16,
+					[28] = 12,
+					[57] = 8,
+					[25] = 12,
+					[16] = 8,
+					[4] = 6,
+					[54] = 2,
+					[5] = 14,
+					[20] = 2,
+					[21] = 10,
+					[58] = 4,
+					[7] = 12,
 				},
-				["tag"] = "Raid",
+				["name"] = "Stormpike's Order",
 			},
 			[169] = {
 				["groupcount"] = 0,
@@ -24836,12 +29067,57 @@ QuestHelper_Collector = {
 				},
 				["tag"] = "Group",
 			},
-			[1274] = {
+			[128] = {
 				["groupcount"] = 0,
+				["criteria_1_text"] = "Blackrock Champion slain: 0/15",
 				["daily"] = false,
-				["name"] = "The Missing Diplomat",
-				["level"] = 28,
 				["special_item"] = false,
+				["start_spec"] = "2NH21\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000®L\000H\000\000\000\000\000\000‹",
+				["name"] = "Blackrock Bounty",
+				["level"] = 25,
+				["start"] = "M1m\000ÇU\0001\000~\000",
+				["criteria_1_type"] = "monster",
+				["criteria_1_monster_false"] = {
+					1978, -- [1]
+					819, -- [2]
+					552, -- [3]
+					153, -- [4]
+					76, -- [5]
+					16, -- [6]
+					10, -- [7]
+					2, -- [8]
+					76, -- [9]
+					[113] = 2,
+					[30] = 2,
+					[15] = 449,
+					[92] = 14,
+					[16] = 1110,
+					[33] = 2,
+					[17] = 270,
+					[37] = 26,
+					[19] = 28,
+					[39] = 18,
+					[61] = 46,
+					[43] = 12,
+					[21] = 130,
+					[116] = 6,
+					[136] = 28,
+					[89] = 6,
+					[46] = 2,
+					[24] = 40,
+					[95] = 26,
+					[12] = 44,
+					[25] = 441,
+					[38] = 4,
+					[26] = 60,
+					[13] = 12,
+					[27] = 2,
+					[90] = 6,
+					[0] = 968,
+					[34] = 6,
+				},
+				["criteria_1_monster_true"] = {
+				},
 			},
 			[2178] = {
 				["groupcount"] = 0,
@@ -24978,17 +29254,8 @@ QuestHelper_Collector = {
 				},
 				["end"] = "M7m\000ïY\000¥∞}\000",
 				["criteria_1_type"] = "item",
+				["end_spec"] = "2MG15\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
 				["criteria_2_satisfied"] = "M4mI2677iI3172iI769iL\000aV\000i]\000lM4mI3170iI3169iI3173iI1744iL\000-{Z\000LOU\000lM4mI3170iI3169iI3173iI1741iL\000ÿ·X\000≥'Q\000l",
-				["criteria_1_monster_false"] = {
-					4, -- [1]
-					[5] = 36,
-					[6] = 28,
-					[7] = 6,
-					[9] = 4,
-					[12] = 6,
-					[4] = 439,
-					[26] = 2,
-				},
 				["groupcount"] = 0,
 				["criteria_3_satisfied"] = "C2cI3167iI1081iI3174iI5465iI1438iL\000\\\000K\000” Ç\000lI1081iI3174iI5465iL\000vnJ\000*-Å\000l",
 				["criteria_3_type"] = "item",
@@ -25026,7 +29293,16 @@ QuestHelper_Collector = {
 					[4] = 439,
 					[26] = 2,
 				},
-				["end_spec"] = "2MG15\000\000\000\000\000\000\000\000\000\000\0000\000\000\000\000\000\000\000\000\000`\000\000\000\000\000\000\000\000\000\000‹",
+				["criteria_1_monster_false"] = {
+					4, -- [1]
+					[5] = 36,
+					[6] = 28,
+					[7] = 6,
+					[9] = 4,
+					[12] = 6,
+					[4] = 439,
+					[26] = 2,
+				},
 				["criteria_2_type"] = "item",
 			},
 			[6391] = {
@@ -25114,9 +29390,9 @@ QuestHelper_Collector = {
 				["criteria_1_type"] = "log",
 				["criteria_1_monster_false"] = {
 					[20] = 2,
-					[58] = 4,
 					[6] = 8,
 					[28] = 4,
+					[58] = 4,
 				},
 				["name"] = "Gryth Thurden",
 			},

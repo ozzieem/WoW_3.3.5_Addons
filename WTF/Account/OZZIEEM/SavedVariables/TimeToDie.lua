@@ -1,10 +1,13 @@
 
 TimeToDieDB = {
 	["profileKeys"] = {
-		["Dranah - Icecrown"] = "Default",
-		["Shamanta - Frozen Nexus"] = "Default",
-		["Riv - Frozen Nexus"] = "Default",
+		["Liadra - Frostmourne"] = "Default",
 		["Themken - Icecrown"] = "Default",
+		["Shamanta - Frozen Nexus"] = "Default",
+		["Hunty - Frozen Nexus"] = "Default",
+		["Riv - Frozen Nexus"] = "Default",
+		["Dranah - Icecrown"] = "Default",
+		["Lock - Frozen Nexus"] = "Default",
 		["Pala - Frozen Nexus"] = "Default",
 	},
 	["profiles"] = {

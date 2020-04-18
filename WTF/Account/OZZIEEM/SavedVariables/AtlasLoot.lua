@@ -8,18 +8,21 @@ AtlasLootDB = {
 		["Delras - Icecrown"] = "Delras - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
 		["Maldira - Frosthold"] = "Maldira - Frosthold",
-		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
 		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
-		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
 		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
@@ -48,11 +51,15 @@ AtlasLootDB = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
-		["Dranah - Frozen Nexus"] = {
-			["AtlasLootVersion"] = "51104",
+		["Liadra - Frostmourne"] = {
 			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
 		},
-		["Maulh - Icecrown"] = {
+		["Tabinia - Icecrown"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
+		},
+		["Dranah - Frozen Nexus"] = {
 			["AtlasLootVersion"] = "51104",
 			["AllLinks"] = false,
 		},
@@ -60,7 +67,7 @@ AtlasLootDB = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
-		["Dud - Frozen Nexus"] = {
+		["Maulh - Icecrown"] = {
 			["AtlasLootVersion"] = "51104",
 			["AllLinks"] = false,
 		},
@@ -68,9 +75,17 @@ AtlasLootDB = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
-		["Tabinia - Icecrown"] = {
-			["AllLinks"] = false,
+		["Dud - Frozen Nexus"] = {
 			["AtlasLootVersion"] = "51104",
+			["AllLinks"] = false,
+		},
+		["Shamanta - Frozen Nexus"] = {
+			["AtlasLootVersion"] = "51104",
+			["AllLinks"] = false,
+		},
+		["Hunty - Frozen Nexus"] = {
+			["AtlasLootVersion"] = "51104",
+			["AllLinks"] = false,
 		},
 		["Warmat - Icecrown"] = {
 			["AtlasLootVersion"] = "51104",
@@ -89,11 +104,11 @@ AtlasLootDB = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
-		["Shamanta - Frozen Nexus"] = {
-			["AllLinks"] = false,
-			["AtlasLootVersion"] = "51104",
-		},
 		["Themken - Icecrown"] = {
+			["AtlasLootVersion"] = "51104",
+			["AllLinks"] = false,
+		},
+		["Lock - Frozen Nexus"] = {
 			["AtlasLootVersion"] = "51104",
 			["AllLinks"] = false,
 		},
@@ -105,27 +120,6 @@ AtlasLootDB = {
 }
 AtlasLootWishList = {
 	["Options"] = {
-		["Delras"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Warmat"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Riv"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
 		["Modos"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -133,14 +127,7 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Dranah"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Dud"] = {
+		["Elendraa"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -161,13 +148,6 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Elendraa"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
 		["Maldir"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -175,21 +155,28 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Pala"] = {
+		["Lock"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Maldira"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Themken"] = {
+		["Warmat"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Shamanta"] = {
+		["Dud"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -203,12 +190,61 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Maldira"] = {
+		["Themken"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
+		},
+		["Hunty"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Liadra"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Pala"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Delras"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Shamanta"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Riv"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Dranah"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
 		},
 		["Lawras"] = {
 			["AllowShareWishlistInCombat"] = true,
@@ -221,35 +257,41 @@ AtlasLootWishList = {
 	["Shared"] = {
 	},
 	["Own"] = {
-		["Delras"] = {
-		},
-		["Warmat"] = {
-		},
-		["Riv"] = {
-		},
 		["Modos"] = {
 		},
-		["Dranah"] = {
-		},
-		["Dud"] = {
+		["Elendraa"] = {
 		},
 		["Maulh"] = {
 		},
 		["Tabinia"] = {
 		},
-		["Elendraa"] = {
-		},
 		["Maldir"] = {
 		},
-		["Pala"] = {
+		["Lock"] = {
 		},
-		["Themken"] = {
+		["Maldira"] = {
 		},
-		["Shamanta"] = {
+		["Warmat"] = {
+		},
+		["Dud"] = {
 		},
 		["Mandatum"] = {
 		},
-		["Maldira"] = {
+		["Themken"] = {
+		},
+		["Hunty"] = {
+		},
+		["Liadra"] = {
+		},
+		["Pala"] = {
+		},
+		["Delras"] = {
+		},
+		["Shamanta"] = {
+		},
+		["Riv"] = {
+		},
+		["Dranah"] = {
 		},
 		["Lawras"] = {
 		},
