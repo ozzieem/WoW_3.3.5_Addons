@@ -114,7 +114,7 @@ InformantLocalUpdates = {
 		[44179] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 378693,
+			["buy"] = 340823,
 		},
 		[44435] = {
 			["stack"] = 1,
@@ -195,7 +195,7 @@ InformantLocalUpdates = {
 		[44180] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 405390,
+			["buy"] = 364851,
 		},
 		[44244] = {
 			["stack"] = 1,
@@ -228,7 +228,7 @@ InformantLocalUpdates = {
 		[43157] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 10000,
+			["buy"] = 9000,
 		},
 		[47315] = {
 			["merchants"] = "15223",
@@ -313,7 +313,7 @@ InformantLocalUpdates = {
 		[44182] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 461326,
+			["buy"] = 415193,
 		},
 		[44310] = {
 			["merchants"] = "14242",
@@ -373,7 +373,7 @@ InformantLocalUpdates = {
 		[44183] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 360539,
+			["buy"] = 324485,
 		},
 		[44247] = {
 			["stack"] = 1,
@@ -1693,7 +1693,7 @@ InformantLocalUpdates = {
 		[44141] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1500000,
+			["buy"] = 1350000,
 		},
 		[2510] = {
 			["stack"] = 1,
@@ -2131,7 +2131,7 @@ InformantLocalUpdates = {
 		[41718] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 40000,
+			["buy"] = 36000,
 		},
 		[24001] = {
 			["stack"] = 1,
@@ -3053,7 +3053,7 @@ InformantLocalUpdates = {
 		[50368] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1500000,
+			["buy"] = 1350000,
 		},
 		[4542] = {
 			["merchants"] = "601026",
@@ -3221,7 +3221,7 @@ InformantLocalUpdates = {
 		[44166] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 659636,
+			["buy"] = 593672,
 		},
 		[21099] = {
 			["stack"] = 1,
@@ -3550,7 +3550,7 @@ InformantLocalUpdates = {
 		[44176] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 263752,
+			["buy"] = 237376,
 		},
 		[35953] = {
 			["merchants"] = "601026",
@@ -3763,7 +3763,7 @@ InformantLocalUpdates = {
 		[44170] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 258000,
+			["buy"] = 232200,
 		},
 		[42187] = {
 			["stack"] = 1,
@@ -3890,7 +3890,7 @@ InformantLocalUpdates = {
 		[44167] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 198636,
+			["buy"] = 178772,
 		},
 		[44225] = {
 			["stack"] = 1,
@@ -3906,12 +3906,12 @@ InformantLocalUpdates = {
 		[44171] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 312130,
+			["buy"] = 280917,
 		},
 		[42188] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 50000,
+			["buy"] = 45000,
 		},
 		[44622] = {
 			["stack"] = 1,
@@ -4176,7 +4176,7 @@ InformantLocalUpdates = {
 		[44173] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 741209,
+			["buy"] = 667088,
 		},
 		[16168] = {
 			["stack"] = 20,
@@ -4333,7 +4333,7 @@ InformantLocalUpdates = {
 		[44174] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 929820,
+			["buy"] = 836838,
 		},
 		[42729] = {
 			["merchants"] = "26327",
@@ -4623,7 +4623,7 @@ InformantLocalUpdates = {
 		[44181] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 254275,
+			["buy"] = 228847,
 		},
 		[22250] = {
 			["stack"] = 1,

@@ -69,8 +69,8 @@ TalentedDB = {
 				["TalentedFrame"] = {
 					["y"] = 13.33327953537162,
 					["x"] = -25.26328793127301,
-					["anchorTo"] = "CENTER",
 					["anchor"] = "CENTER",
+					["anchorTo"] = "CENTER",
 				},
 			},
 		},
@@ -126,15 +126,13 @@ TalentedDB = {
 			},
 		},
 		["Pala - Frozen Nexus"] = {
-			["last_template"] = "HealingRet",
-			["confirmlearn"] = false,
 			["always_edit"] = true,
 			["framepos"] = {
 				["TalentedFrame"] = {
 					["y"] = 23.29096930773854,
 					["x"] = -64.56170324164405,
-					["anchor"] = "CENTER",
 					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
 				},
 				["TalentedGlyphs"] = {
 					["y"] = 0,
@@ -143,6 +141,8 @@ TalentedDB = {
 					["anchorTo"] = "CENTER",
 				},
 			},
+			["confirmlearn"] = false,
+			["last_template"] = "HealingRet",
 		},
 		["Shamanta - Frozen Nexus"] = {
 			["last_template"] = "Imported",

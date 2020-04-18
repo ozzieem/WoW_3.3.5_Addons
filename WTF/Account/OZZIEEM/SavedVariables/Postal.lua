@@ -1,5 +1,27 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
+		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
+		["Delras - Icecrown"] = "Delras - Icecrown",
+		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
+		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
+		["Lawron - Lordaeron"] = "Lawron - Lordaeron",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Suprema - Icecrown"] = "Suprema - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
+		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
+		["Modos - Icecrown"] = "Modos - Icecrown",
+		["Allisone - Icecrown"] = "Allisone - Icecrown",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -25,28 +47,6 @@ Postal3DB = {
 				"Wilinia|Icecrown|Alliance", -- [20]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
-		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
-		["Delras - Icecrown"] = "Delras - Icecrown",
-		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Dranah - Icecrown"] = "Dranah - Icecrown",
-		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Lawron - Lordaeron"] = "Lawron - Lordaeron",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
-		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
-		["Suprema - Icecrown"] = "Suprema - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
-		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
-		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
-		["Modos - Icecrown"] = "Modos - Icecrown",
-		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Themken - Icecrown"] = "Themken - Icecrown",
-		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
 		["Maldir - Icecrown"] = {
@@ -129,16 +129,20 @@ Postal3DB = {
 				},
 			},
 		},
-		["Tabinia - Icecrown"] = {
+		["Themken - Icecrown"] = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Modos", -- [1]
-					"Themken", -- [2]
-					"Elendraa", -- [3]
-					"Mandatum", -- [4]
-					"Allisone", -- [5]
+					"Elendraa", -- [2]
+					"Tabinia", -- [3]
+					"Lawras", -- [4]
+					"Warmat", -- [5]
+					"Rivina", -- [6]
+					"Allisone", -- [7]
 				},
 			},
+		},
+		["Lawras - Lordaeron"] = {
 		},
 		["Shamanta - Frozen Nexus"] = {
 			["BlackBook"] = {
@@ -146,8 +150,6 @@ Postal3DB = {
 					"Dranah", -- [1]
 				},
 			},
-		},
-		["Lawras - Lordaeron"] = {
 		},
 		["Suprema - Icecrown"] = {
 		},
@@ -196,16 +198,14 @@ Postal3DB = {
 				},
 			},
 		},
-		["Themken - Icecrown"] = {
+		["Tabinia - Icecrown"] = {
 			["BlackBook"] = {
 				["recent"] = {
 					"Modos", -- [1]
-					"Elendraa", -- [2]
-					"Tabinia", -- [3]
-					"Lawras", -- [4]
-					"Warmat", -- [5]
-					"Rivina", -- [6]
-					"Allisone", -- [7]
+					"Themken", -- [2]
+					"Elendraa", -- [3]
+					"Mandatum", -- [4]
+					"Allisone", -- [5]
 				},
 			},
 		},

@@ -19,9 +19,9 @@ GridDB = {
 					["frameHeight"] = 38,
 					["statusmap"] = {
 						["corner2"] = {
-							["buff_PowerWord:Shield"] = true,
 							["buff_Beacon"] = true,
 							["buff_BeaconofLight"] = false,
+							["buff_PowerWord:Shield"] = true,
 							["buff_Renew"] = false,
 						},
 						["icontop"] = {
@@ -68,6 +68,293 @@ GridDB = {
 					["orientation"] = "HORIZONTAL",
 					["frameWidth"] = 73,
 					["texture"] = "Armory",
+				},
+				["Default"] = {
+					["textlength"] = 6,
+					["texture"] = "Armory",
+					["frameHeight"] = 38,
+					["orientation"] = "HORIZONTAL",
+					["statusmap"] = {
+						["iconTLcornerright"] = {
+						},
+						["icontop"] = {
+							["buff_PowerWord:Shield"] = true,
+						},
+						["iconleft"] = {
+							["buff_Renew"] = true,
+						},
+						["iconBLcornerleft"] = {
+						},
+						["iconbottom"] = {
+						},
+						["iconBRcornerleft"] = {
+						},
+						["iconTRcornerright"] = {
+						},
+						["icon"] = {
+							["debuff_Ghost"] = true,
+							["debuff_WeakenedSoul"] = true,
+							["alert_death"] = true,
+						},
+						["iconTRcornerleft"] = {
+						},
+						["text2"] = {
+							["ready_check"] = false,
+							["buff_Renew"] = false,
+						},
+						["iconBRcornerright"] = {
+						},
+						["iconBLcornerright"] = {
+						},
+						["corner4"] = {
+							["buff_Renew"] = false,
+						},
+						["iconright"] = {
+							["buff_PrayerofMending"] = true,
+							["buff_BeaconofLight"] = true,
+							["buff_EarthShield"] = true,
+						},
+						["corner2"] = {
+							["buff_Beacon"] = true,
+							["buff_BeaconofLight"] = false,
+							["buff_PowerWord:Shield"] = true,
+							["buff_Renew"] = false,
+						},
+						["iconTLcornerleft"] = {
+							["buff_Renew"] = false,
+						},
+					},
+					["frameWidth"] = 73,
+				},
+				["realm/Icecrown - Alliance"] = {
+					["fontSize"] = 11,
+					["statusmap"] = {
+						["iconTLcornerright"] = {
+						},
+						["healingBar"] = {
+							["alert_heals"] = true,
+						},
+						["icontop"] = {
+						},
+						["barcolor"] = {
+							["alert_offline"] = true,
+							["debuff_Ghost"] = true,
+							["alert_death"] = true,
+							["unit_health"] = true,
+						},
+						["border"] = {
+							["player_target"] = true,
+							["alert_lowHealth"] = true,
+							["alert_lowMana"] = true,
+						},
+						["iconBLcornerleft"] = {
+						},
+						["iconbottom"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = true,
+						},
+						["iconTRcornerright"] = {
+						},
+						["icon"] = {
+							["ready_check"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_curse"] = true,
+							["debuff_magic"] = true,
+						},
+						["iconTRcornerleft"] = {
+						},
+						["text2"] = {
+							["debuff_Ghost"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["alert_feignDeath"] = true,
+						},
+						["iconBRcornerright"] = {
+						},
+						["text"] = {
+							["alert_feignDeath"] = true,
+							["debuff_Ghost"] = true,
+							["unit_healthDeficit"] = true,
+							["unit_name"] = true,
+							["alert_heals"] = true,
+							["alert_death"] = true,
+							["alert_offline"] = true,
+						},
+						["corner2"] = {
+						},
+						["corner3"] = {
+							["debuff_curse"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+						},
+						["corner4"] = {
+							["alert_aggro"] = true,
+						},
+						["iconright"] = {
+						},
+						["iconBLcornerright"] = {
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = true,
+							["alert_range_40"] = true,
+							["alert_offline"] = true,
+							["alert_range_28"] = true,
+							["alert_range_30"] = true,
+							["alert_death"] = true,
+							["alert_range_100"] = true,
+						},
+						["iconleft"] = {
+						},
+						["iconBRcornerleft"] = {
+						},
+						["iconTLcornerleft"] = {
+						},
+						["bar"] = {
+							["alert_offline"] = true,
+							["debuff_Ghost"] = true,
+							["alert_death"] = true,
+							["unit_health"] = true,
+						},
+					},
+					["borderSize"] = 1,
+					["iconBorderSize"] = 1,
+					["iconSize"] = 16,
+					["enableBarColor"] = false,
+					["textlength"] = 4,
+					["texture"] = "Gradient",
+					["enableIconCooldown"] = true,
+					["frameHeight"] = 36,
+					["enableMouseoverHighlight"] = true,
+					["cornerSize"] = 6,
+					["enableText2"] = false,
+					["enableIconStackText"] = true,
+					["invertBarColor"] = false,
+					["textorientation"] = "VERTICAL",
+					["font"] = "Friz Quadrata TT",
+					["healingBar_intensity"] = 0.5,
+					["fontOutline"] = "NONE",
+					["orientation"] = "VERTICAL",
+					["showTooltip"] = "OOC",
+					["frameWidth"] = 36,
+					["debug"] = false,
+				},
+				["class/Hunter"] = {
+					["fontSize"] = 11,
+					["statusmap"] = {
+						["iconTLcornerright"] = {
+						},
+						["healingBar"] = {
+							["alert_heals"] = true,
+						},
+						["icontop"] = {
+						},
+						["barcolor"] = {
+							["alert_offline"] = true,
+							["debuff_Ghost"] = true,
+							["alert_death"] = true,
+							["unit_health"] = true,
+						},
+						["border"] = {
+							["player_target"] = true,
+							["alert_lowHealth"] = true,
+							["alert_lowMana"] = true,
+						},
+						["iconBLcornerleft"] = {
+						},
+						["iconbottom"] = {
+						},
+						["corner1"] = {
+							["alert_heals"] = true,
+						},
+						["iconTRcornerright"] = {
+						},
+						["icon"] = {
+							["ready_check"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_curse"] = true,
+							["debuff_magic"] = true,
+						},
+						["iconTRcornerleft"] = {
+						},
+						["text2"] = {
+							["debuff_Ghost"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["alert_feignDeath"] = true,
+						},
+						["iconBRcornerright"] = {
+						},
+						["text"] = {
+							["alert_feignDeath"] = true,
+							["debuff_Ghost"] = true,
+							["unit_healthDeficit"] = true,
+							["unit_name"] = true,
+							["alert_heals"] = true,
+							["alert_death"] = true,
+							["alert_offline"] = true,
+						},
+						["corner2"] = {
+						},
+						["corner3"] = {
+							["debuff_curse"] = true,
+							["debuff_poison"] = true,
+							["debuff_disease"] = true,
+							["debuff_magic"] = true,
+						},
+						["corner4"] = {
+							["alert_aggro"] = true,
+						},
+						["iconright"] = {
+						},
+						["iconBLcornerright"] = {
+						},
+						["frameAlpha"] = {
+							["alert_range_10"] = true,
+							["alert_range_40"] = true,
+							["alert_offline"] = true,
+							["alert_range_28"] = true,
+							["alert_range_30"] = true,
+							["alert_death"] = true,
+							["alert_range_100"] = true,
+						},
+						["iconleft"] = {
+						},
+						["iconBRcornerleft"] = {
+						},
+						["iconTLcornerleft"] = {
+						},
+						["bar"] = {
+							["alert_offline"] = true,
+							["debuff_Ghost"] = true,
+							["alert_death"] = true,
+							["unit_health"] = true,
+						},
+					},
+					["borderSize"] = 1,
+					["iconBorderSize"] = 1,
+					["iconSize"] = 16,
+					["enableBarColor"] = false,
+					["textlength"] = 4,
+					["texture"] = "Gradient",
+					["enableIconCooldown"] = true,
+					["frameHeight"] = 36,
+					["enableMouseoverHighlight"] = true,
+					["cornerSize"] = 6,
+					["enableText2"] = false,
+					["enableIconStackText"] = true,
+					["invertBarColor"] = false,
+					["textorientation"] = "VERTICAL",
+					["font"] = "Friz Quadrata TT",
+					["healingBar_intensity"] = 0.5,
+					["fontOutline"] = "NONE",
+					["orientation"] = "VERTICAL",
+					["showTooltip"] = "OOC",
+					["frameWidth"] = 36,
+					["debug"] = false,
 				},
 				["char/Themken - Icecrown"] = {
 					["frameWidth"] = 60,
@@ -108,9 +395,9 @@ GridDB = {
 							["buff_PrayerofMending"] = true,
 						},
 						["corner2"] = {
-							["buff_PowerWord:Shield"] = true,
 							["buff_Beacon"] = true,
 							["buff_BeaconofLight"] = false,
+							["buff_PowerWord:Shield"] = true,
 							["buff_Renew"] = false,
 						},
 						["iconTLcornerleft"] = {
@@ -123,293 +410,6 @@ GridDB = {
 					["orientation"] = "HORIZONTAL",
 					["textlength"] = 6,
 					["texture"] = "Armory",
-				},
-				["realm/Icecrown - Alliance"] = {
-					["fontSize"] = 11,
-					["statusmap"] = {
-						["iconTLcornerright"] = {
-						},
-						["healingBar"] = {
-							["alert_heals"] = true,
-						},
-						["icontop"] = {
-						},
-						["barcolor"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["unit_health"] = true,
-						},
-						["border"] = {
-							["player_target"] = true,
-							["alert_lowMana"] = true,
-							["alert_lowHealth"] = true,
-						},
-						["iconBLcornerleft"] = {
-						},
-						["iconbottom"] = {
-						},
-						["corner1"] = {
-							["alert_heals"] = true,
-						},
-						["iconTRcornerright"] = {
-						},
-						["icon"] = {
-							["ready_check"] = true,
-							["debuff_poison"] = true,
-							["debuff_curse"] = true,
-							["debuff_disease"] = true,
-							["debuff_magic"] = true,
-						},
-						["iconTRcornerleft"] = {
-						},
-						["text2"] = {
-							["alert_feignDeath"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["alert_offline"] = true,
-						},
-						["iconBRcornerright"] = {
-						},
-						["text"] = {
-							["unit_name"] = true,
-							["alert_offline"] = true,
-							["unit_healthDeficit"] = true,
-							["debuff_Ghost"] = true,
-							["alert_heals"] = true,
-							["alert_death"] = true,
-							["alert_feignDeath"] = true,
-						},
-						["iconBRcornerleft"] = {
-						},
-						["corner3"] = {
-							["debuff_curse"] = true,
-							["debuff_poison"] = true,
-							["debuff_disease"] = true,
-							["debuff_magic"] = true,
-						},
-						["corner4"] = {
-							["alert_aggro"] = true,
-						},
-						["iconright"] = {
-						},
-						["corner2"] = {
-						},
-						["frameAlpha"] = {
-							["alert_range_10"] = true,
-							["alert_offline"] = true,
-							["alert_range_40"] = true,
-							["alert_range_28"] = true,
-							["alert_range_30"] = true,
-							["alert_death"] = true,
-							["alert_range_100"] = true,
-						},
-						["iconBLcornerright"] = {
-						},
-						["iconleft"] = {
-						},
-						["iconTLcornerleft"] = {
-						},
-						["bar"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["unit_health"] = true,
-						},
-					},
-					["borderSize"] = 1,
-					["iconBorderSize"] = 1,
-					["iconSize"] = 16,
-					["enableBarColor"] = false,
-					["textlength"] = 4,
-					["texture"] = "Gradient",
-					["enableIconCooldown"] = true,
-					["debug"] = false,
-					["enableMouseoverHighlight"] = true,
-					["showTooltip"] = "OOC",
-					["enableText2"] = false,
-					["frameHeight"] = 36,
-					["fontOutline"] = "NONE",
-					["textorientation"] = "VERTICAL",
-					["font"] = "Friz Quadrata TT",
-					["invertBarColor"] = false,
-					["healingBar_intensity"] = 0.5,
-					["orientation"] = "VERTICAL",
-					["enableIconStackText"] = true,
-					["frameWidth"] = 36,
-					["cornerSize"] = 6,
-				},
-				["class/Hunter"] = {
-					["fontSize"] = 11,
-					["statusmap"] = {
-						["iconTLcornerright"] = {
-						},
-						["healingBar"] = {
-							["alert_heals"] = true,
-						},
-						["icontop"] = {
-						},
-						["barcolor"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["unit_health"] = true,
-						},
-						["border"] = {
-							["player_target"] = true,
-							["alert_lowMana"] = true,
-							["alert_lowHealth"] = true,
-						},
-						["iconBLcornerleft"] = {
-						},
-						["iconbottom"] = {
-						},
-						["corner1"] = {
-							["alert_heals"] = true,
-						},
-						["iconTRcornerright"] = {
-						},
-						["icon"] = {
-							["ready_check"] = true,
-							["debuff_poison"] = true,
-							["debuff_curse"] = true,
-							["debuff_disease"] = true,
-							["debuff_magic"] = true,
-						},
-						["iconTRcornerleft"] = {
-						},
-						["text2"] = {
-							["alert_feignDeath"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["alert_offline"] = true,
-						},
-						["iconBRcornerright"] = {
-						},
-						["text"] = {
-							["unit_name"] = true,
-							["alert_offline"] = true,
-							["unit_healthDeficit"] = true,
-							["debuff_Ghost"] = true,
-							["alert_heals"] = true,
-							["alert_death"] = true,
-							["alert_feignDeath"] = true,
-						},
-						["iconBRcornerleft"] = {
-						},
-						["corner3"] = {
-							["debuff_curse"] = true,
-							["debuff_poison"] = true,
-							["debuff_disease"] = true,
-							["debuff_magic"] = true,
-						},
-						["corner4"] = {
-							["alert_aggro"] = true,
-						},
-						["iconright"] = {
-						},
-						["corner2"] = {
-						},
-						["frameAlpha"] = {
-							["alert_range_10"] = true,
-							["alert_offline"] = true,
-							["alert_range_40"] = true,
-							["alert_range_28"] = true,
-							["alert_range_30"] = true,
-							["alert_death"] = true,
-							["alert_range_100"] = true,
-						},
-						["iconBLcornerright"] = {
-						},
-						["iconleft"] = {
-						},
-						["iconTLcornerleft"] = {
-						},
-						["bar"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
-							["unit_health"] = true,
-						},
-					},
-					["borderSize"] = 1,
-					["iconBorderSize"] = 1,
-					["iconSize"] = 16,
-					["enableBarColor"] = false,
-					["textlength"] = 4,
-					["texture"] = "Gradient",
-					["enableIconCooldown"] = true,
-					["debug"] = false,
-					["enableMouseoverHighlight"] = true,
-					["showTooltip"] = "OOC",
-					["enableText2"] = false,
-					["frameHeight"] = 36,
-					["fontOutline"] = "NONE",
-					["textorientation"] = "VERTICAL",
-					["font"] = "Friz Quadrata TT",
-					["invertBarColor"] = false,
-					["healingBar_intensity"] = 0.5,
-					["orientation"] = "VERTICAL",
-					["enableIconStackText"] = true,
-					["frameWidth"] = 36,
-					["cornerSize"] = 6,
-				},
-				["Default"] = {
-					["textlength"] = 6,
-					["texture"] = "Armory",
-					["frameHeight"] = 38,
-					["orientation"] = "HORIZONTAL",
-					["frameWidth"] = 73,
-					["statusmap"] = {
-						["iconTLcornerright"] = {
-						},
-						["icontop"] = {
-							["buff_PowerWord:Shield"] = true,
-						},
-						["iconleft"] = {
-							["buff_Renew"] = true,
-						},
-						["iconBLcornerleft"] = {
-						},
-						["iconbottom"] = {
-						},
-						["iconBRcornerleft"] = {
-						},
-						["iconTRcornerright"] = {
-						},
-						["icon"] = {
-							["debuff_Ghost"] = true,
-							["debuff_WeakenedSoul"] = true,
-							["alert_death"] = true,
-						},
-						["iconTRcornerleft"] = {
-						},
-						["text2"] = {
-							["ready_check"] = false,
-							["buff_Renew"] = false,
-						},
-						["iconBRcornerright"] = {
-						},
-						["iconBLcornerright"] = {
-						},
-						["corner4"] = {
-							["buff_Renew"] = false,
-						},
-						["iconright"] = {
-							["buff_BeaconofLight"] = true,
-							["buff_PrayerofMending"] = true,
-							["buff_EarthShield"] = true,
-						},
-						["corner2"] = {
-							["buff_PowerWord:Shield"] = true,
-							["buff_Beacon"] = true,
-							["buff_BeaconofLight"] = false,
-							["buff_Renew"] = false,
-						},
-						["iconTLcornerleft"] = {
-							["buff_Renew"] = false,
-						},
-					},
 				},
 			},
 		},
@@ -433,7 +433,7 @@ GridDB = {
 		},
 		["GridStatusAbsorbs"] = {
 		},
-		["GridStatusVehicle"] = {
+		["GridStatusMana"] = {
 			["profiles"] = {
 				["char/Dranah - Icecrown"] = {
 				},
@@ -441,32 +441,34 @@ GridDB = {
 				},
 				["realm/Icecrown - Alliance"] = {
 					["debug"] = false,
-					["alert_vehicleui"] = {
-						["enable"] = false,
+					["alert_lowMana"] = {
+						["threshold"] = 10,
+						["enable"] = true,
 						["color"] = {
-							["a"] = 0.7,
-							["b"] = 0.8,
-							["g"] = 0.8,
-							["r"] = 0.8,
+							["a"] = 1,
+							["b"] = 1,
+							["g"] = 0.5,
+							["r"] = 0.5,
 						},
-						["text"] = "Driving",
+						["text"] = "Low Mana",
 						["range"] = false,
-						["priority"] = 50,
+						["priority"] = 40,
 					},
 				},
 				["class/Hunter"] = {
 					["debug"] = false,
-					["alert_vehicleui"] = {
-						["enable"] = false,
+					["alert_lowMana"] = {
+						["threshold"] = 10,
+						["enable"] = true,
 						["color"] = {
-							["a"] = 0.7,
-							["b"] = 0.8,
-							["g"] = 0.8,
-							["r"] = 0.8,
+							["a"] = 1,
+							["b"] = 1,
+							["g"] = 0.5,
+							["r"] = 0.5,
 						},
-						["text"] = "Driving",
+						["text"] = "Low Mana",
 						["range"] = false,
-						["priority"] = 50,
+						["priority"] = 40,
 					},
 				},
 			},
@@ -486,9 +488,9 @@ GridDB = {
 							["g"] = 0.8,
 							["r"] = 0.8,
 						},
-						["text"] = "Target",
-						["range"] = false,
 						["priority"] = 99,
+						["range"] = false,
+						["text"] = "Target",
 					},
 					["debug"] = false,
 				},
@@ -501,17 +503,15 @@ GridDB = {
 							["g"] = 0.8,
 							["r"] = 0.8,
 						},
-						["text"] = "Target",
-						["range"] = false,
 						["priority"] = 99,
+						["range"] = false,
+						["text"] = "Target",
 					},
 					["debug"] = false,
 				},
 			},
 		},
-		["GridStatusMouseover"] = {
-		},
-		["GridStatusMana"] = {
+		["GridStatusVehicle"] = {
 			["profiles"] = {
 				["char/Dranah - Icecrown"] = {
 				},
@@ -519,37 +519,37 @@ GridDB = {
 				},
 				["realm/Icecrown - Alliance"] = {
 					["debug"] = false,
-					["alert_lowMana"] = {
-						["threshold"] = 10,
-						["enable"] = true,
+					["alert_vehicleui"] = {
+						["enable"] = false,
 						["color"] = {
-							["a"] = 1,
-							["b"] = 1,
-							["g"] = 0.5,
-							["r"] = 0.5,
+							["a"] = 0.7,
+							["b"] = 0.8,
+							["g"] = 0.8,
+							["r"] = 0.8,
 						},
-						["priority"] = 40,
+						["priority"] = 50,
 						["range"] = false,
-						["text"] = "Low Mana",
+						["text"] = "Driving",
 					},
 				},
 				["class/Hunter"] = {
 					["debug"] = false,
-					["alert_lowMana"] = {
-						["threshold"] = 10,
-						["enable"] = true,
+					["alert_vehicleui"] = {
+						["enable"] = false,
 						["color"] = {
-							["a"] = 1,
-							["b"] = 1,
-							["g"] = 0.5,
-							["r"] = 0.5,
+							["a"] = 0.7,
+							["b"] = 0.8,
+							["g"] = 0.8,
+							["r"] = 0.8,
 						},
-						["priority"] = 40,
+						["priority"] = 50,
 						["range"] = false,
-						["text"] = "Low Mana",
+						["text"] = "Driving",
 					},
 				},
 			},
+		},
+		["GridStatusMouseover"] = {
 		},
 		["GridStatusRaidIcon"] = {
 		},
@@ -557,17 +557,17 @@ GridDB = {
 			["profiles"] = {
 				["char/Dranah - Icecrown"] = {
 					["iconSizeTop"] = 10,
-					["enableIconStackText"] = true,
+					["enableIconCooldown"] = true,
 					["iconSizeRight"] = 10,
 					["iconSizeLeft"] = 10,
-					["enableIconCooldown"] = true,
+					["enableIconStackText"] = true,
 				},
-				["char/Themken - Icecrown"] = {
+				["Default"] = {
 					["iconSizeTop"] = 10,
+					["enableIconStackText"] = true,
+					["iconSizeLeft"] = 10,
 					["enableIconCooldown"] = true,
 					["iconSizeRight"] = 10,
-					["iconSizeLeft"] = 10,
-					["enableIconStackText"] = true,
 				},
 				["realm/Icecrown - Alliance"] = {
 					["iconSizeTop"] = 8,
@@ -576,8 +576,8 @@ GridDB = {
 					["xoffsetTB"] = 0,
 					["yoffsetLR"] = 2,
 					["iconSizeLeft"] = 8,
-					["yoffsetTB"] = 0,
 					["enableIconStackText"] = false,
+					["yoffsetTB"] = 0,
 					["iconSizeRight"] = 8,
 					["iconBorderSize"] = 0,
 					["IconStackTextSize"] = 8,
@@ -592,8 +592,8 @@ GridDB = {
 					["xoffsetTB"] = 0,
 					["yoffsetLR"] = 2,
 					["iconSizeLeft"] = 8,
-					["yoffsetTB"] = 0,
 					["enableIconStackText"] = false,
+					["yoffsetTB"] = 0,
 					["iconSizeRight"] = 8,
 					["iconBorderSize"] = 0,
 					["IconStackTextSize"] = 8,
@@ -601,12 +601,12 @@ GridDB = {
 					["IconStackTextXYaxis"] = 0,
 					["iconSizeBottom"] = 8,
 				},
-				["Default"] = {
+				["char/Themken - Icecrown"] = {
 					["iconSizeTop"] = 10,
 					["enableIconStackText"] = true,
+					["iconSizeRight"] = 10,
 					["iconSizeLeft"] = 10,
 					["enableIconCooldown"] = true,
-					["iconSizeRight"] = 10,
 				},
 			},
 		},
@@ -617,7 +617,7 @@ GridDB = {
 						["deadAsFullHealth"] = false,
 					},
 				},
-				["char/Themken - Icecrown"] = {
+				["Default"] = {
 					["unit_health"] = {
 						["deadAsFullHealth"] = false,
 					},
@@ -632,22 +632,21 @@ GridDB = {
 							["g"] = 1,
 							["r"] = 1,
 						},
-						["priority"] = 30,
-						["range"] = false,
 						["text"] = "Low HP",
-					},
-					["alert_feignDeath"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
-						["enable"] = true,
-						["priority"] = 55,
 						["range"] = false,
-						["text"] = "FD",
+						["priority"] = 30,
+					},
+					["alert_offline"] = {
+						["enable"] = true,
+						["color"] = {
+							["a"] = 0.6,
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["priority"] = 60,
+						["range"] = false,
+						["text"] = "Offline",
 					},
 					["debug"] = false,
 					["unit_healthDeficit"] = {
@@ -663,17 +662,18 @@ GridDB = {
 							["r"] = 1,
 						},
 					},
-					["alert_offline"] = {
-						["enable"] = true,
+					["alert_feignDeath"] = {
 						["color"] = {
-							["a"] = 0.6,
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 1,
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
 						},
-						["text"] = "Offline",
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["enable"] = true,
+						["priority"] = 55,
 						["range"] = false,
-						["priority"] = 60,
+						["text"] = "FD",
 					},
 					["alert_death"] = {
 						["color"] = {
@@ -712,22 +712,21 @@ GridDB = {
 							["g"] = 1,
 							["r"] = 1,
 						},
-						["priority"] = 30,
-						["range"] = false,
 						["text"] = "Low HP",
-					},
-					["alert_feignDeath"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
-						["enable"] = true,
-						["priority"] = 55,
 						["range"] = false,
-						["text"] = "FD",
+						["priority"] = 30,
+					},
+					["alert_offline"] = {
+						["enable"] = true,
+						["color"] = {
+							["a"] = 0.6,
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["priority"] = 60,
+						["range"] = false,
+						["text"] = "Offline",
 					},
 					["debug"] = false,
 					["unit_healthDeficit"] = {
@@ -743,17 +742,18 @@ GridDB = {
 							["r"] = 1,
 						},
 					},
-					["alert_offline"] = {
-						["enable"] = true,
+					["alert_feignDeath"] = {
 						["color"] = {
-							["a"] = 0.6,
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 1,
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
 						},
-						["text"] = "Offline",
+						["icon"] = "Interface\\Icons\\Ability_Rogue_FeignDeath",
+						["enable"] = true,
+						["priority"] = 55,
 						["range"] = false,
-						["priority"] = 60,
+						["text"] = "FD",
 					},
 					["alert_death"] = {
 						["color"] = {
@@ -782,7 +782,7 @@ GridDB = {
 						},
 					},
 				},
-				["Default"] = {
+				["char/Themken - Icecrown"] = {
 					["unit_health"] = {
 						["deadAsFullHealth"] = false,
 					},
@@ -833,18 +833,18 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 25 yards away",
 					},
-					["alert_range_60"] = {
+					["alert_range_100"] = {
 						["color"] = {
-							["a"] = 0.8363636363636364,
-							["r"] = 0.6,
-							["g"] = 0.2,
-							["b"] = 0.8,
+							["a"] = 0.1090909090909091,
+							["r"] = 0,
+							["g"] = 0,
+							["b"] = 0,
 						},
-						["priority"] = 86,
-						["enable"] = true,
-						["text"] = "60 yards",
+						["priority"] = 90,
+						["enable"] = false,
+						["text"] = "100 yards",
 						["range"] = false,
-						["desc"] = "More than 60 yards away",
+						["desc"] = "More than 100 yards away",
 					},
 					["alert_range_40"] = {
 						["color"] = {
@@ -858,19 +858,6 @@ GridDB = {
 						["text"] = "40 yards",
 						["range"] = false,
 						["desc"] = "More than 40 yards away",
-					},
-					["alert_range_100"] = {
-						["color"] = {
-							["a"] = 0.1090909090909091,
-							["r"] = 0,
-							["g"] = 0,
-							["b"] = 0,
-						},
-						["priority"] = 90,
-						["enable"] = false,
-						["text"] = "100 yards",
-						["range"] = false,
-						["desc"] = "More than 100 yards away",
 					},
 					["alert_range_28"] = {
 						["color"] = {
@@ -898,6 +885,19 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 30 yards away",
 					},
+					["alert_range_60"] = {
+						["color"] = {
+							["a"] = 0.8363636363636364,
+							["r"] = 0.6,
+							["g"] = 0.2,
+							["b"] = 0.8,
+						},
+						["priority"] = 86,
+						["enable"] = true,
+						["text"] = "60 yards",
+						["range"] = false,
+						["desc"] = "More than 60 yards away",
+					},
 					["alert_range_20"] = {
 						["color"] = {
 							["a"] = 0.6363636363636364,
@@ -912,7 +912,7 @@ GridDB = {
 						["desc"] = "More than 20 yards away",
 					},
 				},
-				["char/Themken - Icecrown"] = {
+				["Default"] = {
 					["alert_range_10"] = {
 						["color"] = {
 							["a"] = 0.8181818181818181,
@@ -925,6 +925,19 @@ GridDB = {
 						["text"] = "10 yards",
 						["range"] = false,
 						["desc"] = "More than 10 yards away",
+					},
+					["alert_range_30"] = {
+						["color"] = {
+							["a"] = 0.4545454545454546,
+							["b"] = 0.9,
+							["g"] = 0.6,
+							["r"] = 0.3,
+						},
+						["priority"] = 83,
+						["enable"] = false,
+						["text"] = "30 yards",
+						["range"] = false,
+						["desc"] = "More than 30 yards away",
 					},
 					["alert_range_38"] = {
 						["color"] = {
@@ -952,19 +965,6 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 25 yards away",
 					},
-					["alert_range_60"] = {
-						["color"] = {
-							["a"] = 0.8363636363636364,
-							["b"] = 0.8,
-							["g"] = 0.2,
-							["r"] = 0.6,
-						},
-						["priority"] = 86,
-						["enable"] = true,
-						["text"] = "60 yards",
-						["range"] = false,
-						["desc"] = "More than 60 yards away",
-					},
 					["alert_range_40"] = {
 						["color"] = {
 							["a"] = 0.2727272727272727,
@@ -978,18 +978,18 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 40 yards away",
 					},
-					["alert_range_20"] = {
+					["alert_range_100"] = {
 						["color"] = {
-							["a"] = 0.6363636363636364,
-							["b"] = 0.6,
-							["g"] = 0.4,
-							["r"] = 0.2,
+							["a"] = 0.1090909090909091,
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0,
 						},
-						["priority"] = 82,
+						["priority"] = 90,
 						["enable"] = false,
-						["text"] = "20 yards",
+						["text"] = "100 yards",
 						["range"] = false,
-						["desc"] = "More than 20 yards away",
+						["desc"] = "More than 100 yards away",
 					},
 					["alert_range_28"] = {
 						["color"] = {
@@ -1004,31 +1004,44 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 28 yards away",
 					},
-					["alert_range_30"] = {
+					["alert_range_60"] = {
 						["color"] = {
-							["a"] = 0.4545454545454546,
-							["b"] = 0.9,
-							["g"] = 0.6,
-							["r"] = 0.3,
+							["a"] = 0.8363636363636364,
+							["b"] = 0.8,
+							["g"] = 0.2,
+							["r"] = 0.6,
 						},
-						["priority"] = 83,
-						["enable"] = false,
-						["text"] = "30 yards",
+						["priority"] = 86,
+						["enable"] = true,
+						["text"] = "60 yards",
 						["range"] = false,
-						["desc"] = "More than 30 yards away",
+						["desc"] = "More than 60 yards away",
 					},
-					["alert_range_100"] = {
+					["alert_range_5"] = {
+						["enable"] = true,
+						["text"] = "5 yards",
 						["color"] = {
-							["a"] = 0.1090909090909091,
-							["b"] = 0,
-							["g"] = 0,
-							["r"] = 0,
+							["a"] = 0.9090909090909091,
+							["b"] = 0.15,
+							["g"] = 0.1,
+							["r"] = 0.05,
 						},
-						["priority"] = 90,
-						["enable"] = false,
-						["text"] = "100 yards",
+						["priority"] = 80,
 						["range"] = false,
-						["desc"] = "More than 100 yards away",
+						["desc"] = "More than 5 yards away",
+					},
+					["alert_range_20"] = {
+						["color"] = {
+							["a"] = 0.6363636363636364,
+							["b"] = 0.6,
+							["g"] = 0.4,
+							["r"] = 0.2,
+						},
+						["priority"] = 82,
+						["enable"] = false,
+						["text"] = "20 yards",
+						["range"] = false,
+						["desc"] = "More than 20 yards away",
 					},
 				},
 				["realm/Icecrown - Alliance"] = {
@@ -1143,20 +1156,7 @@ GridDB = {
 					},
 					["frequency"] = 0.5,
 				},
-				["Default"] = {
-					["alert_range_60"] = {
-						["color"] = {
-							["a"] = 0.8363636363636364,
-							["b"] = 0.8,
-							["g"] = 0.2,
-							["r"] = 0.6,
-						},
-						["priority"] = 86,
-						["enable"] = true,
-						["text"] = "60 yards",
-						["range"] = false,
-						["desc"] = "More than 60 yards away",
-					},
+				["char/Themken - Icecrown"] = {
 					["alert_range_10"] = {
 						["color"] = {
 							["a"] = 0.8181818181818181,
@@ -1183,18 +1183,31 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 38 yards away",
 					},
-					["alert_range_5"] = {
+					["alert_range_25"] = {
 						["enable"] = true,
-						["text"] = "5 yards",
+						["text"] = "25 yards",
 						["color"] = {
-							["a"] = 0.9090909090909091,
-							["b"] = 0.15,
-							["g"] = 0.1,
-							["r"] = 0.05,
+							["a"] = 0.5454545454545454,
+							["b"] = 0.75,
+							["g"] = 0.5,
+							["r"] = 0.25,
 						},
-						["priority"] = 80,
+						["priority"] = 82,
 						["range"] = false,
-						["desc"] = "More than 5 yards away",
+						["desc"] = "More than 25 yards away",
+					},
+					["alert_range_20"] = {
+						["color"] = {
+							["a"] = 0.6363636363636364,
+							["b"] = 0.6,
+							["g"] = 0.4,
+							["r"] = 0.2,
+						},
+						["priority"] = 82,
+						["enable"] = false,
+						["text"] = "20 yards",
+						["range"] = false,
+						["desc"] = "More than 20 yards away",
 					},
 					["alert_range_40"] = {
 						["color"] = {
@@ -1208,32 +1221,6 @@ GridDB = {
 						["text"] = "40 yards",
 						["range"] = false,
 						["desc"] = "More than 40 yards away",
-					},
-					["alert_range_100"] = {
-						["color"] = {
-							["a"] = 0.1090909090909091,
-							["b"] = 0,
-							["g"] = 0,
-							["r"] = 0,
-						},
-						["priority"] = 90,
-						["enable"] = false,
-						["text"] = "100 yards",
-						["range"] = false,
-						["desc"] = "More than 100 yards away",
-					},
-					["alert_range_25"] = {
-						["enable"] = true,
-						["text"] = "25 yards",
-						["color"] = {
-							["a"] = 0.5454545454545454,
-							["b"] = 0.75,
-							["g"] = 0.5,
-							["r"] = 0.25,
-						},
-						["priority"] = 82,
-						["range"] = false,
-						["desc"] = "More than 25 yards away",
 					},
 					["alert_range_28"] = {
 						["color"] = {
@@ -1261,18 +1248,31 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "More than 30 yards away",
 					},
-					["alert_range_20"] = {
+					["alert_range_60"] = {
 						["color"] = {
-							["a"] = 0.6363636363636364,
-							["b"] = 0.6,
-							["g"] = 0.4,
-							["r"] = 0.2,
+							["a"] = 0.8363636363636364,
+							["b"] = 0.8,
+							["g"] = 0.2,
+							["r"] = 0.6,
 						},
-						["priority"] = 82,
-						["enable"] = false,
-						["text"] = "20 yards",
+						["priority"] = 86,
+						["enable"] = true,
+						["text"] = "60 yards",
 						["range"] = false,
-						["desc"] = "More than 20 yards away",
+						["desc"] = "More than 60 yards away",
+					},
+					["alert_range_100"] = {
+						["color"] = {
+							["a"] = 0.1090909090909091,
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0,
+						},
+						["priority"] = 90,
+						["enable"] = false,
+						["text"] = "100 yards",
+						["range"] = false,
+						["desc"] = "More than 100 yards away",
 					},
 				},
 			},
@@ -1293,9 +1293,9 @@ GridDB = {
 							["g"] = 1,
 							["r"] = 0.5,
 						},
-						["text"] = "Talking",
-						["range"] = false,
 						["priority"] = 50,
+						["range"] = false,
+						["text"] = "Talking",
 					},
 				},
 				["class/Hunter"] = {
@@ -1308,9 +1308,9 @@ GridDB = {
 							["g"] = 1,
 							["r"] = 0.5,
 						},
-						["text"] = "Talking",
-						["range"] = false,
 						["priority"] = 50,
+						["range"] = false,
+						["text"] = "Talking",
 					},
 				},
 			},
@@ -1344,20 +1344,15 @@ GridDB = {
 							["g"] = 1,
 							["r"] = 1,
 						},
-						["PALADIN"] = {
-							["b"] = 0.73,
-							["g"] = 0.55,
-							["r"] = 0.96,
-						},
 						["WARLOCK"] = {
 							["b"] = 0.79,
 							["g"] = 0.51,
 							["r"] = 0.58,
 						},
-						["DEATHKNIGHT"] = {
-							["b"] = 0.23,
-							["g"] = 0.12,
-							["r"] = 0.77,
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
 						},
 						["DRUID"] = {
 							["b"] = 0.04,
@@ -1369,282 +1364,11 @@ GridDB = {
 							["g"] = 0.96,
 							["r"] = 1,
 						},
-					},
-				},
-				["char/Themken - Icecrown"] = {
-					["colors"] = {
-						["DEATHKNIGHT"] = {
-							["r"] = 0.77,
-							["g"] = 0.12,
-							["b"] = 0.23,
-						},
-						["WARRIOR"] = {
-							["r"] = 0.78,
-							["g"] = 0.61,
-							["b"] = 0.43,
-						},
-						["SHAMAN"] = {
-							["r"] = 0,
-							["g"] = 0.44,
-							["b"] = 0.87,
-						},
-						["MAGE"] = {
-							["r"] = 0.41,
-							["g"] = 0.8,
-							["b"] = 0.94,
-						},
-						["PRIEST"] = {
-							["r"] = 1,
-							["g"] = 1,
-							["b"] = 1,
-						},
-						["ROGUE"] = {
-							["r"] = 1,
-							["g"] = 0.96,
-							["b"] = 0.41,
-						},
-						["WARLOCK"] = {
-							["r"] = 0.58,
-							["g"] = 0.51,
-							["b"] = 0.79,
-						},
-						["PALADIN"] = {
-							["r"] = 0.96,
-							["g"] = 0.55,
-							["b"] = 0.73,
-						},
-						["DRUID"] = {
-							["r"] = 1,
-							["g"] = 0.49,
-							["b"] = 0.04,
-						},
-						["HUNTER"] = {
-							["r"] = 0.67,
-							["g"] = 0.83,
-							["b"] = 0.45,
-						},
-					},
-				},
-				["realm/Icecrown - Alliance"] = {
-					["debug"] = false,
-					["range"] = false,
-					["colors"] = {
-						["UNKNOWN_UNIT"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["Humanoid"] = {
-							["a"] = 1,
-							["b"] = 0.84705882352941,
-							["g"] = 0.67450980392157,
-							["r"] = 0.91764705882353,
-						},
-						["PALADIN"] = {
-							["b"] = 0.73,
-							["g"] = 0.55,
-							["r"] = 0.96,
-						},
-						["MAGE"] = {
-							["b"] = 0.94,
-							["g"] = 0.8,
-							["r"] = 0.41,
-						},
-						["Not specified"] = {
-							["a"] = 1,
-							["b"] = 0.4,
-							["g"] = 0.4,
-							["r"] = 0.4,
-						},
-						["Demon"] = {
-							["a"] = 1,
-							["b"] = 0.68627450980392,
-							["g"] = 0.25490196078431,
-							["r"] = 0.54509803921569,
-						},
-						["Undead"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 0.2,
-							["r"] = 0.8,
-						},
-						["DRUID"] = {
-							["b"] = 0.04,
-							["g"] = 0.49,
-							["r"] = 1,
-						},
 						["DEATHKNIGHT"] = {
 							["b"] = 0.23,
 							["g"] = 0.12,
 							["r"] = 0.77,
 						},
-						["Elemental"] = {
-							["a"] = 1,
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 0.8,
-						},
-						["ROGUE"] = {
-							["b"] = 0.41,
-							["g"] = 0.96,
-							["r"] = 1,
-						},
-						["PRIEST"] = {
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 1,
-						},
-						["HUNTER"] = {
-							["b"] = 0.45,
-							["g"] = 0.83,
-							["r"] = 0.67,
-						},
-						["WARRIOR"] = {
-							["b"] = 0.43,
-							["g"] = 0.61,
-							["r"] = 0.78,
-						},
-						["WARLOCK"] = {
-							["b"] = 0.79,
-							["g"] = 0.51,
-							["r"] = 0.58,
-						},
-						["SHAMAN"] = {
-							["b"] = 0.87,
-							["g"] = 0.44,
-							["r"] = 0,
-						},
-						["Dragonkin"] = {
-							["a"] = 1,
-							["b"] = 0.8,
-							["g"] = 0.8,
-							["r"] = 0.8,
-						},
-						["UNKNOWN_PET"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 1,
-							["r"] = 0,
-						},
-						["Beast"] = {
-							["a"] = 1,
-							["b"] = 0.27843137254902,
-							["g"] = 0.75686274509804,
-							["r"] = 0.93725490196078,
-						},
-						["PetColorType"] = "Using Fallback color",
-					},
-				},
-				["class/Hunter"] = {
-					["debug"] = false,
-					["range"] = false,
-					["colors"] = {
-						["UNKNOWN_UNIT"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["Humanoid"] = {
-							["a"] = 1,
-							["b"] = 0.84705882352941,
-							["g"] = 0.67450980392157,
-							["r"] = 0.91764705882353,
-						},
-						["PALADIN"] = {
-							["b"] = 0.73,
-							["g"] = 0.55,
-							["r"] = 0.96,
-						},
-						["MAGE"] = {
-							["b"] = 0.94,
-							["g"] = 0.8,
-							["r"] = 0.41,
-						},
-						["Not specified"] = {
-							["a"] = 1,
-							["b"] = 0.4,
-							["g"] = 0.4,
-							["r"] = 0.4,
-						},
-						["Demon"] = {
-							["a"] = 1,
-							["b"] = 0.68627450980392,
-							["g"] = 0.25490196078431,
-							["r"] = 0.54509803921569,
-						},
-						["Undead"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 0.2,
-							["r"] = 0.8,
-						},
-						["DRUID"] = {
-							["b"] = 0.04,
-							["g"] = 0.49,
-							["r"] = 1,
-						},
-						["DEATHKNIGHT"] = {
-							["b"] = 0.23,
-							["g"] = 0.12,
-							["r"] = 0.77,
-						},
-						["Elemental"] = {
-							["a"] = 1,
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 0.8,
-						},
-						["ROGUE"] = {
-							["b"] = 0.41,
-							["g"] = 0.96,
-							["r"] = 1,
-						},
-						["PRIEST"] = {
-							["b"] = 1,
-							["g"] = 1,
-							["r"] = 1,
-						},
-						["HUNTER"] = {
-							["b"] = 0.45,
-							["g"] = 0.83,
-							["r"] = 0.67,
-						},
-						["WARRIOR"] = {
-							["b"] = 0.43,
-							["g"] = 0.61,
-							["r"] = 0.78,
-						},
-						["WARLOCK"] = {
-							["b"] = 0.79,
-							["g"] = 0.51,
-							["r"] = 0.58,
-						},
-						["SHAMAN"] = {
-							["b"] = 0.87,
-							["g"] = 0.44,
-							["r"] = 0,
-						},
-						["Dragonkin"] = {
-							["a"] = 1,
-							["b"] = 0.8,
-							["g"] = 0.8,
-							["r"] = 0.8,
-						},
-						["UNKNOWN_PET"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 1,
-							["r"] = 0,
-						},
-						["Beast"] = {
-							["a"] = 1,
-							["b"] = 0.27843137254902,
-							["g"] = 0.75686274509804,
-							["r"] = 0.93725490196078,
-						},
-						["PetColorType"] = "Using Fallback color",
 					},
 				},
 				["Default"] = {
@@ -1701,6 +1425,282 @@ GridDB = {
 						},
 					},
 				},
+				["realm/Icecrown - Alliance"] = {
+					["range"] = false,
+					["debug"] = false,
+					["colors"] = {
+						["UNKNOWN_UNIT"] = {
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
+						},
+						["Humanoid"] = {
+							["a"] = 1,
+							["b"] = 0.84705882352941,
+							["g"] = 0.67450980392157,
+							["r"] = 0.91764705882353,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["Not specified"] = {
+							["a"] = 1,
+							["b"] = 0.4,
+							["g"] = 0.4,
+							["r"] = 0.4,
+						},
+						["Demon"] = {
+							["a"] = 1,
+							["b"] = 0.68627450980392,
+							["g"] = 0.25490196078431,
+							["r"] = 0.54509803921569,
+						},
+						["Undead"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 0.2,
+							["r"] = 0.8,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["Elemental"] = {
+							["a"] = 1,
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 0.8,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["PetColorType"] = "Using Fallback color",
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["Dragonkin"] = {
+							["a"] = 1,
+							["b"] = 0.8,
+							["g"] = 0.8,
+							["r"] = 0.8,
+						},
+						["UNKNOWN_PET"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["Beast"] = {
+							["a"] = 1,
+							["b"] = 0.27843137254902,
+							["g"] = 0.75686274509804,
+							["r"] = 0.93725490196078,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+					},
+				},
+				["class/Hunter"] = {
+					["range"] = false,
+					["debug"] = false,
+					["colors"] = {
+						["UNKNOWN_UNIT"] = {
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
+						},
+						["Humanoid"] = {
+							["a"] = 1,
+							["b"] = 0.84705882352941,
+							["g"] = 0.67450980392157,
+							["r"] = 0.91764705882353,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["Not specified"] = {
+							["a"] = 1,
+							["b"] = 0.4,
+							["g"] = 0.4,
+							["r"] = 0.4,
+						},
+						["Demon"] = {
+							["a"] = 1,
+							["b"] = 0.68627450980392,
+							["g"] = 0.25490196078431,
+							["r"] = 0.54509803921569,
+						},
+						["Undead"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 0.2,
+							["r"] = 0.8,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["Elemental"] = {
+							["a"] = 1,
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 0.8,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["PetColorType"] = "Using Fallback color",
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["Dragonkin"] = {
+							["a"] = 1,
+							["b"] = 0.8,
+							["g"] = 0.8,
+							["r"] = 0.8,
+						},
+						["UNKNOWN_PET"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["Beast"] = {
+							["a"] = 1,
+							["b"] = 0.27843137254902,
+							["g"] = 0.75686274509804,
+							["r"] = 0.93725490196078,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+					},
+				},
+				["char/Themken - Icecrown"] = {
+					["colors"] = {
+						["DEATHKNIGHT"] = {
+							["r"] = 0.77,
+							["g"] = 0.12,
+							["b"] = 0.23,
+						},
+						["WARRIOR"] = {
+							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["SHAMAN"] = {
+							["r"] = 0,
+							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+						["MAGE"] = {
+							["r"] = 0.41,
+							["g"] = 0.8,
+							["b"] = 0.94,
+						},
+						["PRIEST"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["WARLOCK"] = {
+							["r"] = 0.58,
+							["g"] = 0.51,
+							["b"] = 0.79,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
+						},
+						["DRUID"] = {
+							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
+						},
+						["HUNTER"] = {
+							["r"] = 0.67,
+							["g"] = 0.83,
+							["b"] = 0.45,
+						},
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
+						},
+					},
+				},
 			},
 		},
 		["GridStatusAggro"] = {
@@ -1713,20 +1713,21 @@ GridDB = {
 					["debug"] = false,
 					["alert_aggro"] = {
 						["threat"] = false,
-						["enable"] = true,
-						["text"] = "Aggro",
-						["range"] = false,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0,
 							["r"] = 1,
 						},
+						["text"] = "Aggro",
+						["range"] = false,
 						["threattexts"] = {
 							"High", -- [1]
 							"Aggro", -- [2]
 							"Tank", -- [3]
 						},
+						["priority"] = 99,
+						["enable"] = true,
 						["threatcolors"] = {
 							{
 								["a"] = 1,
@@ -1747,27 +1748,27 @@ GridDB = {
 								["r"] = 0.9999978030100465,
 							}, -- [3]
 						},
-						["priority"] = 99,
 					},
 				},
 				["class/Hunter"] = {
 					["debug"] = false,
 					["alert_aggro"] = {
 						["threat"] = false,
-						["enable"] = true,
-						["text"] = "Aggro",
-						["range"] = false,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0,
 							["r"] = 1,
 						},
+						["text"] = "Aggro",
+						["range"] = false,
 						["threattexts"] = {
 							"High", -- [1]
 							"Aggro", -- [2]
 							"Tank", -- [3]
 						},
+						["priority"] = 99,
+						["enable"] = true,
 						["threatcolors"] = {
 							{
 								["a"] = 1,
@@ -1788,7 +1789,6 @@ GridDB = {
 								["r"] = 0.9999978030100465,
 							}, -- [3]
 						},
-						["priority"] = 99,
 					},
 				},
 			},
@@ -1801,12 +1801,12 @@ GridDB = {
 				},
 				["realm/Icecrown - Alliance"] = {
 					["alert_heals"] = {
+						["ignore_self"] = false,
 						["heal_filter"] = {
 							["direct"] = true,
 							["channeled"] = true,
 							["hot"] = true,
 						},
-						["ignore_self"] = false,
 						["text"] = "Incoming heals",
 						["enable"] = true,
 						["priority"] = 50,
@@ -1822,12 +1822,12 @@ GridDB = {
 				},
 				["class/Hunter"] = {
 					["alert_heals"] = {
+						["ignore_self"] = false,
 						["heal_filter"] = {
 							["direct"] = true,
 							["channeled"] = true,
 							["hot"] = true,
 						},
-						["ignore_self"] = false,
 						["text"] = "Incoming heals",
 						["enable"] = true,
 						["priority"] = 50,
@@ -1858,31 +1858,31 @@ GridDB = {
 							["r"] = 1,
 						},
 						["colors"] = {
-							["waiting"] = {
-								["a"] = 1,
-								["b"] = 0,
-								["r"] = 1,
-								["g"] = 1,
-								["ignore"] = true,
-							},
 							["not_ready"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 1,
+								["b"] = 0,
 								["g"] = 0,
 								["ignore"] = true,
 							},
 							["afk"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 1,
+								["b"] = 0,
 								["g"] = 0,
+								["ignore"] = true,
+							},
+							["waiting"] = {
+								["a"] = 1,
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 1,
 								["ignore"] = true,
 							},
 							["ready"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 0,
+								["b"] = 0,
 								["g"] = 1,
 								["ignore"] = true,
 							},
@@ -1904,31 +1904,31 @@ GridDB = {
 							["r"] = 1,
 						},
 						["colors"] = {
-							["waiting"] = {
-								["a"] = 1,
-								["b"] = 0,
-								["r"] = 1,
-								["g"] = 1,
-								["ignore"] = true,
-							},
 							["not_ready"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 1,
+								["b"] = 0,
 								["g"] = 0,
 								["ignore"] = true,
 							},
 							["afk"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 1,
+								["b"] = 0,
 								["g"] = 0,
+								["ignore"] = true,
+							},
+							["waiting"] = {
+								["a"] = 1,
+								["r"] = 1,
+								["b"] = 0,
+								["g"] = 1,
 								["ignore"] = true,
 							},
 							["ready"] = {
 								["a"] = 1,
-								["b"] = 0,
 								["r"] = 0,
+								["b"] = 0,
 								["g"] = 1,
 								["ignore"] = true,
 							},
@@ -1987,7 +1987,6 @@ GridDB = {
 					["BackgroundG"] = 0.1019607843137255,
 					["anchorRel"] = "TOPLEFT",
 					["PosY"] = -410.6988069586919,
-					["Spacing"] = 2,
 					["layouts"] = {
 						["raid"] = "By Group 25",
 						["party"] = "By Group 5 w/Pets",
@@ -1995,27 +1994,28 @@ GridDB = {
 					["layout"] = "By Group 5",
 					["BackgroundR"] = 0.1019607843137255,
 					["BackgroundA"] = 0,
-					["BackgroundB"] = 0.1019607843137255,
 					["borderTexture"] = "None",
+					["BackgroundB"] = 0.1019607843137255,
 					["Padding"] = 0,
 					["PosX"] = 359.9565343967451,
+					["Spacing"] = 2,
 				},
-				["char/Themken - Icecrown"] = {
-					["BackgroundG"] = 0.1019607843137255,
+				["Default"] = {
 					["anchorRel"] = "TOPLEFT",
-					["PosY"] = -339.7656376454617,
-					["PosX"] = 138.1333829761294,
 					["layouts"] = {
 						["party"] = "By Group 5 w/Pets",
 						["raid"] = "By Group 25",
 					},
+					["BackgroundR"] = 0.1019607843137255,
+					["PosX"] = 350.8903268735849,
+					["BackgroundG"] = 0.1019607843137255,
+					["PosY"] = -404.0166647958527,
 					["layout"] = "By Group 5",
-					["BackgroundB"] = 0.1019607843137255,
 					["BackgroundA"] = 0,
+					["BackgroundB"] = 0.1019607843137255,
+					["Padding"] = 0,
 					["Spacing"] = 2,
 					["borderTexture"] = "None",
-					["Padding"] = 0,
-					["BackgroundR"] = 0.1019607843137255,
 				},
 				["realm/Icecrown - Alliance"] = {
 					["hideTab"] = false,
@@ -2083,22 +2083,22 @@ GridDB = {
 					["PosX"] = 500.0000569375193,
 					["BackgroundB"] = 0.1,
 				},
-				["Default"] = {
+				["char/Themken - Icecrown"] = {
+					["BackgroundG"] = 0.1019607843137255,
 					["anchorRel"] = "TOPLEFT",
+					["PosY"] = -339.7656376454617,
 					["layouts"] = {
 						["party"] = "By Group 5 w/Pets",
 						["raid"] = "By Group 25",
 					},
-					["BackgroundR"] = 0.1019607843137255,
-					["PosX"] = 350.8903268735849,
-					["BackgroundG"] = 0.1019607843137255,
-					["PosY"] = -404.0166647958527,
 					["layout"] = "By Group 5",
-					["BackgroundA"] = 0,
 					["BackgroundB"] = 0.1019607843137255,
-					["Padding"] = 0,
-					["Spacing"] = 2,
+					["BackgroundA"] = 0,
 					["borderTexture"] = "None",
+					["Spacing"] = 2,
+					["Padding"] = 0,
+					["BackgroundR"] = 0.1019607843137255,
+					["PosX"] = 138.1333829761294,
 				},
 			},
 		},
@@ -2168,10 +2168,13 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Buff: Prayer of Mending",
 						["missing"] = false,
-						["mine"] = false,
 						["text"] = "Prayer of Mending",
 						["priority"] = 90,
 						["enable"] = true,
+						["mine"] = false,
+					},
+					["buff_PowerWord:Shield"] = {
+						["duration"] = true,
 					},
 					["buff_BeaconofLight"] = {
 						["color"] = {
@@ -2184,40 +2187,39 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Buff: Beacon of Light",
 						["enable"] = true,
-						["duration"] = false,
 						["priority"] = 90,
 						["missing"] = false,
-					},
-					["buff_PowerWord:Shield"] = {
-						["duration"] = true,
+						["duration"] = false,
 					},
 					["buff_Renew"] = {
 						["duration"] = true,
 					},
 				},
-				["char/Themken - Icecrown"] = {
+				["Default"] = {
+					["buff_Renew"] = {
+						["duration"] = true,
+					},
 					["buff_PrayerofMending"] = {
+						["missing"] = false,
+						["duration"] = false,
+						["range"] = false,
+						["desc"] = "Buff: Prayer of Mending",
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.5,
 							["g"] = 0.5,
 							["b"] = 0.5,
 						},
-						["duration"] = false,
 						["mine"] = false,
-						["desc"] = "Buff: Prayer of Mending",
-						["text"] = "Prayer of Mending",
-						["missing"] = false,
-						["enable"] = true,
 						["priority"] = 90,
-						["range"] = false,
+						["enable"] = true,
+						["text"] = "Prayer of Mending",
 					},
 					["buff_BeaconofLight"] = {
 						["missing"] = false,
-						["text"] = "Beacon of Light",
+						["duration"] = false,
 						["range"] = false,
 						["desc"] = "Buff: Beacon of Light",
-						["duration"] = false,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0.5,
@@ -2225,12 +2227,10 @@ GridDB = {
 							["r"] = 0.5,
 						},
 						["priority"] = 90,
+						["text"] = "Beacon of Light",
 						["enable"] = true,
 					},
 					["buff_PowerWord:Shield"] = {
-						["duration"] = true,
-					},
-					["buff_Renew"] = {
 						["duration"] = true,
 					},
 				},
@@ -2264,28 +2264,28 @@ GridDB = {
 					["abolish"] = true,
 					["debuff_curse"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Curse",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["text"] = "Curse",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
 					},
 					["debuff_poison"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Poison",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["text"] = "Poison",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -2330,6 +2330,19 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Debuff: Forbearance",
 					},
+					["debuff_WeakenedSoul"] = {
+						["color"] = {
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
+						},
+						["priority"] = 90,
+						["enable"] = true,
+						["text"] = "Weakened Soul",
+						["range"] = false,
+						["desc"] = "Debuff: Weakened Soul",
+					},
 					["debuff_Ghost"] = {
 						["color"] = {
 							["a"] = 1,
@@ -2343,19 +2356,6 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Debuff: Ghost",
 					},
-					["buff_PowerWord:Shield"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 0.8,
-							["r"] = 0.8,
-						},
-						["priority"] = 91,
-						["enable"] = true,
-						["text"] = "Power Word: Shield",
-						["range"] = false,
-						["desc"] = "Buff: Power Word: Shield",
-					},
 					["buff_Regrowth"] = {
 						["color"] = {
 							["a"] = 1,
@@ -2368,19 +2368,6 @@ GridDB = {
 						["text"] = "Regrowth",
 						["range"] = false,
 						["desc"] = "Buff: Regrowth",
-					},
-					["debuff_WeakenedSoul"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["priority"] = 90,
-						["enable"] = true,
-						["text"] = "Weakened Soul",
-						["range"] = false,
-						["desc"] = "Debuff: Weakened Soul",
 					},
 					["buff_EarthShield"] = {
 						["color"] = {
@@ -2397,17 +2384,30 @@ GridDB = {
 					},
 					["debuff_disease"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Disease",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["text"] = "Disease",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
+					},
+					["buff_PowerWord:Shield"] = {
+						["color"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 0.8,
+							["r"] = 0.8,
+						},
+						["priority"] = 91,
+						["enable"] = true,
+						["text"] = "Power Word: Shield",
+						["range"] = false,
+						["desc"] = "Buff: Power Word: Shield",
 					},
 					["buff_Lifebloom"] = {
 						["color"] = {
@@ -2424,14 +2424,14 @@ GridDB = {
 					},
 					["debuff_magic"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Magic",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["text"] = "Magic",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -2467,28 +2467,28 @@ GridDB = {
 					["abolish"] = true,
 					["debuff_curse"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Curse",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["text"] = "Curse",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
 					},
 					["debuff_poison"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Poison",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["text"] = "Poison",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -2533,6 +2533,19 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Debuff: Forbearance",
 					},
+					["debuff_WeakenedSoul"] = {
+						["color"] = {
+							["a"] = 1,
+							["b"] = 0.5,
+							["g"] = 0.5,
+							["r"] = 0.5,
+						},
+						["priority"] = 90,
+						["enable"] = true,
+						["text"] = "Weakened Soul",
+						["range"] = false,
+						["desc"] = "Debuff: Weakened Soul",
+					},
 					["debuff_Ghost"] = {
 						["color"] = {
 							["a"] = 1,
@@ -2546,19 +2559,6 @@ GridDB = {
 						["range"] = false,
 						["desc"] = "Debuff: Ghost",
 					},
-					["buff_PowerWord:Shield"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0,
-							["g"] = 0.8,
-							["r"] = 0.8,
-						},
-						["priority"] = 91,
-						["enable"] = true,
-						["text"] = "Power Word: Shield",
-						["range"] = false,
-						["desc"] = "Buff: Power Word: Shield",
-					},
 					["buff_Regrowth"] = {
 						["color"] = {
 							["a"] = 1,
@@ -2571,19 +2571,6 @@ GridDB = {
 						["text"] = "Regrowth",
 						["range"] = false,
 						["desc"] = "Buff: Regrowth",
-					},
-					["debuff_WeakenedSoul"] = {
-						["color"] = {
-							["a"] = 1,
-							["b"] = 0.5,
-							["g"] = 0.5,
-							["r"] = 0.5,
-						},
-						["priority"] = 90,
-						["enable"] = true,
-						["text"] = "Weakened Soul",
-						["range"] = false,
-						["desc"] = "Debuff: Weakened Soul",
 					},
 					["buff_EarthShield"] = {
 						["color"] = {
@@ -2600,17 +2587,30 @@ GridDB = {
 					},
 					["debuff_disease"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Disease",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["text"] = "Disease",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
+					},
+					["buff_PowerWord:Shield"] = {
+						["color"] = {
+							["a"] = 1,
+							["b"] = 0,
+							["g"] = 0.8,
+							["r"] = 0.8,
+						},
+						["priority"] = 91,
+						["enable"] = true,
+						["text"] = "Power Word: Shield",
+						["range"] = false,
+						["desc"] = "Buff: Power Word: Shield",
 					},
 					["buff_Lifebloom"] = {
 						["color"] = {
@@ -2627,56 +2627,56 @@ GridDB = {
 					},
 					["debuff_magic"] = {
 						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Magic",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["text"] = "Magic",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
 					},
 				},
-				["Default"] = {
-					["buff_Renew"] = {
-						["duration"] = true,
-					},
+				["char/Themken - Icecrown"] = {
 					["buff_PrayerofMending"] = {
-						["missing"] = false,
-						["duration"] = false,
-						["range"] = false,
-						["desc"] = "Buff: Prayer of Mending",
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.5,
 							["g"] = 0.5,
 							["b"] = 0.5,
 						},
-						["text"] = "Prayer of Mending",
+						["duration"] = false,
 						["mine"] = false,
-						["priority"] = 90,
+						["desc"] = "Buff: Prayer of Mending",
+						["text"] = "Prayer of Mending",
 						["enable"] = true,
+						["priority"] = 90,
+						["range"] = false,
+						["missing"] = false,
 					},
 					["buff_PowerWord:Shield"] = {
 						["duration"] = true,
 					},
 					["buff_BeaconofLight"] = {
 						["missing"] = false,
-						["duration"] = false,
+						["text"] = "Beacon of Light",
 						["range"] = false,
 						["desc"] = "Buff: Beacon of Light",
+						["duration"] = false,
+						["priority"] = 90,
+						["enable"] = true,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0.5,
 							["g"] = 0.5,
 							["r"] = 0.5,
 						},
-						["enable"] = true,
-						["priority"] = 90,
-						["text"] = "Beacon of Light",
+					},
+					["buff_Renew"] = {
+						["duration"] = true,
 					},
 				},
 			},
@@ -2688,7 +2688,7 @@ GridDB = {
 				["minimapPos"] = 247.0657464953111,
 			},
 		},
-		["Default"] = {
+		["char/Themken - Icecrown"] = {
 			["minimap"] = {
 				["minimapPos"] = 247.0657464953111,
 			},
@@ -2697,7 +2697,7 @@ GridDB = {
 		},
 		["class/Hunter"] = {
 		},
-		["char/Themken - Icecrown"] = {
+		["Default"] = {
 			["minimap"] = {
 				["minimapPos"] = 247.0657464953111,
 			},

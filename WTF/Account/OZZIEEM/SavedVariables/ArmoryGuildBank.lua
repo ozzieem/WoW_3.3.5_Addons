@@ -120,10 +120,10 @@ AgbDB = {
 						"Interface\\Icons\\INV_Misc_Pelt_Wolf_Ruin_02", -- [3]
 						4, -- [4]
 					},
-					["20725:0:0:0:0:0:0"] = {
-						"Nexus Crystal", -- [1]
-						"|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:80|h[Nexus Crystal]|h|r", -- [2]
-						"Interface\\Icons\\INV_Enchant_ShardNexusLarge", -- [3]
+					["7077:0:0:0:0:0:0"] = {
+						"Heart of Fire", -- [1]
+						"|cffffffff|Hitem:7077:0:0:0:0:0:0:0:80|h[Heart of Fire]|h|r", -- [2]
+						"Interface\\Icons\\Spell_Fire_LavaSpawn", -- [3]
 						2, -- [4]
 					},
 					["3394:0:0:0:0:0:0"] = {
@@ -162,11 +162,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Enchant_ShardBrilliantSmall", -- [3]
 						2, -- [4]
 					},
-					["7077:0:0:0:0:0:0"] = {
-						"Heart of Fire", -- [1]
-						"|cffffffff|Hitem:7077:0:0:0:0:0:0:0:80|h[Heart of Fire]|h|r", -- [2]
-						"Interface\\Icons\\Spell_Fire_LavaSpawn", -- [3]
-						2, -- [4]
+					["1705:0:0:0:0:0:0"] = {
+						"Lesser Moonstone", -- [1]
+						"|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:80|h[Lesser Moonstone]|h|r", -- [2]
+						"Interface\\Icons\\INV_Misc_Gem_Crystal_01", -- [3]
+						1, -- [4]
 					},
 					["11178:0:0:0:0:0:0"] = {
 						"Large Radiant Shard", -- [1]
@@ -180,17 +180,17 @@ AgbDB = {
 						"Interface\\Icons\\INV_Misc_Gem_Pearl_03", -- [3]
 						1, -- [4]
 					},
-					["33567:0:0:0:0:0:0"] = {
-						"Borean Leather Scraps", -- [1]
-						"|cffffffff|Hitem:33567:0:0:0:0:0:0:0:80|h[Borean Leather Scraps]|h|r", -- [2]
-						"Interface\\Icons\\INV_Misc_LeatherScrap_16", -- [3]
-						2, -- [4]
+					["2880:0:0:0:0:0:0"] = {
+						"Weak Flux", -- [1]
+						"|cffffffff|Hitem:2880:0:0:0:0:0:0:0:80|h[Weak Flux]|h|r", -- [2]
+						"Interface\\Icons\\INV_Misc_Ammo_Gunpowder_02", -- [3]
+						3, -- [4]
 					},
-					["1705:0:0:0:0:0:0"] = {
-						"Lesser Moonstone", -- [1]
-						"|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:80|h[Lesser Moonstone]|h|r", -- [2]
-						"Interface\\Icons\\INV_Misc_Gem_Crystal_01", -- [3]
-						1, -- [4]
+					["20725:0:0:0:0:0:0"] = {
+						"Nexus Crystal", -- [1]
+						"|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:80|h[Nexus Crystal]|h|r", -- [2]
+						"Interface\\Icons\\INV_Enchant_ShardNexusLarge", -- [3]
+						2, -- [4]
 					},
 					["9294:0:0:0:0:0:0"] = {
 						"Recipe: Wildvine Potion", -- [1]
@@ -240,11 +240,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Scroll_03", -- [3]
 						1, -- [4]
 					},
-					["36901:0:0:0:0:0:0"] = {
-						"Goldclover", -- [1]
-						"|cffffffff|Hitem:36901:0:0:0:0:0:0:0:80|h[Goldclover]|h|r", -- [2]
-						"Interface\\Icons\\INV_Misc_Herb_GoldClover", -- [3]
-						3, -- [4]
+					["33567:0:0:0:0:0:0"] = {
+						"Borean Leather Scraps", -- [1]
+						"|cffffffff|Hitem:33567:0:0:0:0:0:0:0:80|h[Borean Leather Scraps]|h|r", -- [2]
+						"Interface\\Icons\\INV_Misc_LeatherScrap_16", -- [3]
+						2, -- [4]
 					},
 					["3466:0:0:0:0:0:0"] = {
 						"Strong Flux", -- [1]
@@ -270,10 +270,10 @@ AgbDB = {
 						"Interface\\Icons\\INV_Misc_Gem_Crystal_02", -- [3]
 						1, -- [4]
 					},
-					["2880:0:0:0:0:0:0"] = {
-						"Weak Flux", -- [1]
-						"|cffffffff|Hitem:2880:0:0:0:0:0:0:0:80|h[Weak Flux]|h|r", -- [2]
-						"Interface\\Icons\\INV_Misc_Ammo_Gunpowder_02", -- [3]
+					["36901:0:0:0:0:0:0"] = {
+						"Goldclover", -- [1]
+						"|cffffffff|Hitem:36901:0:0:0:0:0:0:0:80|h[Goldclover]|h|r", -- [2]
+						"Interface\\Icons\\INV_Misc_Herb_GoldClover", -- [3]
 						3, -- [4]
 					},
 					["4292:0:0:0:0:0:0"] = {
@@ -502,17 +502,17 @@ AgbDB = {
 						"Interface\\Icons\\INV_Drink_Waterskin_11", -- [3]
 						1, -- [4]
 					},
-					["22522:0:0:0:0:0:0"] = {
-						"Superior Wizard Oil", -- [1]
-						"|cffffffff|Hitem:22522:0:0:0:0:0:0:0:80|h[Superior Wizard Oil]|h|r", -- [2]
-						"Interface\\Icons\\INV_Potion_141", -- [3]
-						1, -- [4]
+					["37097:0:0:0:0:0:0"] = {
+						"Scroll of Spirit VII", -- [1]
+						"|cffffffff|Hitem:37097:0:0:0:0:0:0:0:80|h[Scroll of Spirit VII]|h|r", -- [2]
+						"Interface\\Icons\\INV_Scroll_01", -- [3]
+						38, -- [4]
 					},
-					["19709:0:0:0:0:0:0"] = {
-						"Yellow Hakkari Bijou", -- [1]
-						"|cff0070dd|Hitem:19709:0:0:0:0:0:0:0:80|h[Yellow Hakkari Bijou]|h|r", -- [2]
-						"Interface\\Icons\\INV_Bijou_Yellow", -- [3]
-						1, -- [4]
+					["19702:0:0:0:0:0:0"] = {
+						"Vilebranch Coin", -- [1]
+						"|cff1eff00|Hitem:19702:0:0:0:0:0:0:0:80|h[Vilebranch Coin]|h|r", -- [2]
+						"Interface\\Icons\\INV_Misc_Coin_13", -- [3]
+						4, -- [4]
 					},
 					["33452:0:0:0:0:0:0"] = {
 						"Honey-Spiced Lichen", -- [1]
@@ -538,11 +538,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Scroll_01", -- [3]
 						1, -- [4]
 					},
-					["22829:0:0:0:0:0:0"] = {
-						"Super Healing Potion", -- [1]
-						"|cffffffff|Hitem:22829:0:0:0:0:0:0:0:80|h[Super Healing Potion]|h|r", -- [2]
-						"Interface\\Icons\\INV_Potion_131", -- [3]
-						4, -- [4]
+					["22522:0:0:0:0:0:0"] = {
+						"Superior Wizard Oil", -- [1]
+						"|cffffffff|Hitem:22522:0:0:0:0:0:0:0:80|h[Superior Wizard Oil]|h|r", -- [2]
+						"Interface\\Icons\\INV_Potion_141", -- [3]
+						1, -- [4]
 					},
 					["4425:0:0:0:0:0:0"] = {
 						"Scroll of Agility III", -- [1]
@@ -550,11 +550,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Scroll_02", -- [3]
 						3, -- [4]
 					},
-					["4419:0:0:0:0:0:0"] = {
-						"Scroll of Intellect III", -- [1]
-						"|cffffffff|Hitem:4419:0:0:0:0:0:0:0:80|h[Scroll of Intellect III]|h|r", -- [2]
-						"Interface\\Icons\\INV_Scroll_01", -- [3]
-						13, -- [4]
+					["33445:0:0:0:0:0:0"] = {
+						"Honeymint Tea", -- [1]
+						"|cffffffff|Hitem:33445:0:0:0:0:0:0:0:80|h[Honeymint Tea]|h|r", -- [2]
+						"Interface\\Icons\\INV_Drink_25_HoneyTea", -- [3]
+						27, -- [4]
 					},
 					["19701:0:0:0:0:0:0"] = {
 						"Gurubashi Coin", -- [1]
@@ -568,11 +568,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Scroll_07", -- [3]
 						2, -- [4]
 					},
-					["13458:0:0:0:0:0:0"] = {
-						"Greater Nature Protection Potion", -- [1]
-						"|cffffffff|Hitem:13458:0:0:0:0:0:0:0:80|h[Greater Nature Protection Potion]|h|r", -- [2]
-						"Interface\\Icons\\INV_Potion_22", -- [3]
-						5, -- [4]
+					["19709:0:0:0:0:0:0"] = {
+						"Yellow Hakkari Bijou", -- [1]
+						"|cff0070dd|Hitem:19709:0:0:0:0:0:0:0:80|h[Yellow Hakkari Bijou]|h|r", -- [2]
+						"Interface\\Icons\\INV_Bijou_Yellow", -- [3]
+						1, -- [4]
 					},
 					["27498:0:0:0:0:0:0"] = {
 						"Scroll of Agility V", -- [1]
@@ -598,11 +598,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Potion_71", -- [3]
 						8, -- [4]
 					},
-					["37097:0:0:0:0:0:0"] = {
-						"Scroll of Spirit VII", -- [1]
-						"|cffffffff|Hitem:37097:0:0:0:0:0:0:0:80|h[Scroll of Spirit VII]|h|r", -- [2]
-						"Interface\\Icons\\INV_Scroll_01", -- [3]
-						38, -- [4]
+					["22829:0:0:0:0:0:0"] = {
+						"Super Healing Potion", -- [1]
+						"|cffffffff|Hitem:22829:0:0:0:0:0:0:0:80|h[Super Healing Potion]|h|r", -- [2]
+						"Interface\\Icons\\INV_Potion_131", -- [3]
+						4, -- [4]
 					},
 					["929:0:0:0:0:0:0"] = {
 						"Healing Potion", -- [1]
@@ -610,11 +610,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Potion_51", -- [3]
 						1, -- [4]
 					},
-					["2456:0:0:0:0:0:0"] = {
-						"Minor Rejuvenation Potion", -- [1]
-						"|cffffffff|Hitem:2456:0:0:0:0:0:0:0:80|h[Minor Rejuvenation Potion]|h|r", -- [2]
-						"Interface\\Icons\\INV_Potion_02", -- [3]
-						4, -- [4]
+					["858:0:0:0:0:0:0"] = {
+						"Lesser Healing Potion", -- [1]
+						"|cffffffff|Hitem:858:0:0:0:0:0:0:0:80|h[Lesser Healing Potion]|h|r", -- [2]
+						"Interface\\Icons\\INV_Potion_50", -- [3]
+						29, -- [4]
 					},
 					["118:0:0:0:0:0:0"] = {
 						"Minor Healing Potion", -- [1]
@@ -628,11 +628,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Jewelcrafting_Gem_23", -- [3]
 						1, -- [4]
 					},
-					["33445:0:0:0:0:0:0"] = {
-						"Honeymint Tea", -- [1]
-						"|cffffffff|Hitem:33445:0:0:0:0:0:0:0:80|h[Honeymint Tea]|h|r", -- [2]
-						"Interface\\Icons\\INV_Drink_25_HoneyTea", -- [3]
-						27, -- [4]
+					["4419:0:0:0:0:0:0"] = {
+						"Scroll of Intellect III", -- [1]
+						"|cffffffff|Hitem:4419:0:0:0:0:0:0:0:80|h[Scroll of Intellect III]|h|r", -- [2]
+						"Interface\\Icons\\INV_Scroll_01", -- [3]
+						13, -- [4]
 					},
 					["10592:0:0:0:0:0:0"] = {
 						"Catseye Elixir", -- [1]
@@ -700,11 +700,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Drink_12", -- [3]
 						8, -- [4]
 					},
-					["858:0:0:0:0:0:0"] = {
-						"Lesser Healing Potion", -- [1]
-						"|cffffffff|Hitem:858:0:0:0:0:0:0:0:80|h[Lesser Healing Potion]|h|r", -- [2]
-						"Interface\\Icons\\INV_Potion_50", -- [3]
-						29, -- [4]
+					["2456:0:0:0:0:0:0"] = {
+						"Minor Rejuvenation Potion", -- [1]
+						"|cffffffff|Hitem:2456:0:0:0:0:0:0:0:80|h[Minor Rejuvenation Potion]|h|r", -- [2]
+						"Interface\\Icons\\INV_Potion_02", -- [3]
+						4, -- [4]
 					},
 					["9030:0:0:0:0:0:0"] = {
 						"Restorative Potion", -- [1]
@@ -718,11 +718,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Drink_Waterskin_12", -- [3]
 						20, -- [4]
 					},
-					["19702:0:0:0:0:0:0"] = {
-						"Vilebranch Coin", -- [1]
-						"|cff1eff00|Hitem:19702:0:0:0:0:0:0:0:80|h[Vilebranch Coin]|h|r", -- [2]
-						"Interface\\Icons\\INV_Misc_Coin_13", -- [3]
-						4, -- [4]
+					["13458:0:0:0:0:0:0"] = {
+						"Greater Nature Protection Potion", -- [1]
+						"|cffffffff|Hitem:13458:0:0:0:0:0:0:0:80|h[Greater Nature Protection Potion]|h|r", -- [2]
+						"Interface\\Icons\\INV_Potion_22", -- [3]
+						5, -- [4]
 					},
 					["17010:0:0:0:0:0:0"] = {
 						"Fiery Core", -- [1]
@@ -1249,11 +1249,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Glyph_MajorHunter", -- [3]
 						2, -- [4]
 					},
-					["39981:0:0:0:0:0:0"] = {
-						"Shining Dark Jade", -- [1]
-						"|cff1eff00|Hitem:39981:0:0:0:0:0:0:0:80|h[Shining Dark Jade]|h|r", -- [2]
-						"Interface\\Icons\\INV_Jewelcrafting_Gem_19", -- [3]
-						1, -- [4]
+					["45622:0:0:0:0:0:0"] = {
+						"Glyph of Monsoon", -- [1]
+						"|cffffffff|Hitem:45622:0:0:0:0:0:0:0:80|h[Glyph of Monsoon]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorDruid", -- [3]
+						3, -- [4]
 					},
 					["43673:0:0:0:0:0:0"] = {
 						"Glyph of Raise Dead", -- [1]
@@ -1273,11 +1273,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Misc_Book_07", -- [3]
 						3, -- [4]
 					},
-					["42467:0:0:0:0:0:0"] = {
-						"Glyph of Shadow Bolt", -- [1]
-						"|cffffffff|Hitem:42467:0:0:0:0:0:0:0:80|h[Glyph of Shadow Bolt]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorWarlock", -- [3]
-						2, -- [4]
+					["42402:0:0:0:0:0:0"] = {
+						"Glyph of Inner Fire", -- [1]
+						"|cffffffff|Hitem:42402:0:0:0:0:0:0:0:80|h[Glyph of Inner Fire]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
+						3, -- [4]
 					},
 					["42909:0:0:0:0:0:0"] = {
 						"Glyph of the Hawk", -- [1]
@@ -1285,11 +1285,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Glyph_MajorHunter", -- [3]
 						1, -- [4]
 					},
-					["42402:0:0:0:0:0:0"] = {
-						"Glyph of Inner Fire", -- [1]
-						"|cffffffff|Hitem:42402:0:0:0:0:0:0:0:80|h[Glyph of Inner Fire]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
-						3, -- [4]
+					["42467:0:0:0:0:0:0"] = {
+						"Glyph of Shadow Bolt", -- [1]
+						"|cffffffff|Hitem:42467:0:0:0:0:0:0:0:80|h[Glyph of Shadow Bolt]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorWarlock", -- [3]
+						2, -- [4]
 					},
 					["41440:0:0:0:0:0:0"] = {
 						"Perfect Lustrous Chalcedony", -- [1]
@@ -1351,11 +1351,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Glyph_MinorDruid", -- [3]
 						1, -- [4]
 					},
-					["45776:0:0:0:0:0:0"] = {
-						"Glyph of Totem of Wrath", -- [1]
-						"|cffffffff|Hitem:45776:0:0:0:0:0:0:0:80|h[Glyph of Totem of Wrath]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorShaman", -- [3]
-						1, -- [4]
+					["43335:0:0:0:0:0:0"] = {
+						"Glyph of the Wild", -- [1]
+						"|cffffffff|Hitem:43335:0:0:0:0:0:0:0:80|h[Glyph of the Wild]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MinorDruid", -- [3]
+						2, -- [4]
 					},
 					["11144:0:0:0:0:0:0"] = {
 						"Truesilver Rod", -- [1]
@@ -1363,23 +1363,23 @@ AgbDB = {
 						"Interface\\Icons\\INV_Staff_11", -- [3]
 						2, -- [4]
 					},
-					["43335:0:0:0:0:0:0"] = {
-						"Glyph of the Wild", -- [1]
-						"|cffffffff|Hitem:43335:0:0:0:0:0:0:0:80|h[Glyph of the Wild]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MinorDruid", -- [3]
-						2, -- [4]
-					},
-					["45803:0:0:0:0:0:0"] = {
-						"Glyph of Unholy Blight", -- [1]
-						"|cffffffff|Hitem:45803:0:0:0:0:0:0:0:80|h[Glyph of Unholy Blight]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorDeathKnight", -- [3]
-						2, -- [4]
-					},
 					["45766:0:0:0:0:0:0"] = {
 						"Glyph of Fan of Knives", -- [1]
 						"|cffffffff|Hitem:45766:0:0:0:0:0:0:0:80|h[Glyph of Fan of Knives]|h|r", -- [2]
 						"Interface\\Icons\\INV_Glyph_MajorRogue", -- [3]
 						5, -- [4]
+					},
+					["42471:0:0:0:0:0:0"] = {
+						"Glyph of Succubus", -- [1]
+						"|cffffffff|Hitem:42471:0:0:0:0:0:0:0:80|h[Glyph of Succubus]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorWarlock", -- [3]
+						1, -- [4]
+					},
+					["45776:0:0:0:0:0:0"] = {
+						"Glyph of Totem of Wrath", -- [1]
+						"|cffffffff|Hitem:45776:0:0:0:0:0:0:0:80|h[Glyph of Totem of Wrath]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorShaman", -- [3]
+						1, -- [4]
 					},
 					["39968:0:0:0:0:0:0"] = {
 						"Timeless Dark Jade", -- [1]
@@ -1393,11 +1393,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Jewelcrafting_Gem_15", -- [3]
 						1, -- [4]
 					},
-					["42471:0:0:0:0:0:0"] = {
-						"Glyph of Succubus", -- [1]
-						"|cffffffff|Hitem:42471:0:0:0:0:0:0:0:80|h[Glyph of Succubus]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorWarlock", -- [3]
-						1, -- [4]
+					["42400:0:0:0:0:0:0"] = {
+						"Glyph of Flash Heal", -- [1]
+						"|cffffffff|Hitem:42400:0:0:0:0:0:0:0:80|h[Glyph of Flash Heal]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
+						2, -- [4]
 					},
 					["39974:0:0:0:0:0:0"] = {
 						"Jagged Dark Jade", -- [1]
@@ -1423,10 +1423,10 @@ AgbDB = {
 						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
 						1, -- [4]
 					},
-					["42400:0:0:0:0:0:0"] = {
-						"Glyph of Flash Heal", -- [1]
-						"|cffffffff|Hitem:42400:0:0:0:0:0:0:0:80|h[Glyph of Flash Heal]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
+					["45803:0:0:0:0:0:0"] = {
+						"Glyph of Unholy Blight", -- [1]
+						"|cffffffff|Hitem:45803:0:0:0:0:0:0:0:80|h[Glyph of Unholy Blight]|h|r", -- [2]
+						"Interface\\Icons\\INV_Glyph_MajorDeathKnight", -- [3]
 						2, -- [4]
 					},
 					["41485:0:0:0:0:0:0"] = {
@@ -1483,11 +1483,11 @@ AgbDB = {
 						"Interface\\Icons\\INV_Glyph_MajorPriest", -- [3]
 						11, -- [4]
 					},
-					["45622:0:0:0:0:0:0"] = {
-						"Glyph of Monsoon", -- [1]
-						"|cffffffff|Hitem:45622:0:0:0:0:0:0:0:80|h[Glyph of Monsoon]|h|r", -- [2]
-						"Interface\\Icons\\INV_Glyph_MajorDruid", -- [3]
-						3, -- [4]
+					["39981:0:0:0:0:0:0"] = {
+						"Shining Dark Jade", -- [1]
+						"|cff1eff00|Hitem:39981:0:0:0:0:0:0:0:80|h[Shining Dark Jade]|h|r", -- [2]
+						"Interface\\Icons\\INV_Jewelcrafting_Gem_19", -- [3]
+						1, -- [4]
 					},
 					["41442:0:0:0:0:0:0"] = {
 						"Perfect Sparkling Chalcedony", -- [1]

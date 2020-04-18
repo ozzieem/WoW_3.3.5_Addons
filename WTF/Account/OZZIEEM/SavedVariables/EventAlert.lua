@@ -110,14 +110,14 @@ EA_Items = {
 		[35099] = true,
 	},
 	["DRUID"] = {
+		[48517] = true,
 		[69369] = true,
-		[16870] = true,
 		[64823] = true,
 		[16886] = true,
 		[48391] = true,
 		[48518] = true,
 		[46833] = true,
-		[48517] = true,
+		[16870] = true,
 	},
 	["SHAMAN"] = {
 		[53817] = true,

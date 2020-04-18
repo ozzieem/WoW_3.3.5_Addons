@@ -19,9 +19,8 @@ AucAdvancedConfig = {
 			-93.47384102606573, -- [4]
 			117.0362015374682, -- [5]
 		},
+		["configator.left"] = 442.7983987264655,
 		["util.appraiser.columnsortcurDir"] = -1,
-		["stat.sales.ignoredsigs"] = {
-		},
 		["matcherlist"] = {
 			"Undercut", -- [1]
 			"BeanCount", -- [2]
@@ -41,7 +40,8 @@ AucAdvancedConfig = {
 			},
 		},
 		["util.appraiser.item.22446.number"] = -1,
-		["configator.left"] = 442.7983987264655,
+		["stat.sales.ignoredsigs"] = {
+		},
 		["util"] = {
 			["automagic"] = {
 				["uierrormsg"] = 1,

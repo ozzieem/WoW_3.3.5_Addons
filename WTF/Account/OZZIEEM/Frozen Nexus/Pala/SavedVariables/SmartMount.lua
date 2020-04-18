@@ -5,13 +5,15 @@ SmartMount_PlayerConfig = {
 		["ExcludedMiniPets"] = {
 		},
 		["ExcludedMounts"] = {
-			[34767] = true,
-			[60116] = true,
 			[34769] = true,
 			[61447] = true,
 			[61230] = true,
 			[59650] = true,
+			[59568] = true,
+			[60116] = true,
 			[32297] = true,
+			[51412] = true,
+			[34767] = true,
 		},
 	},
 }

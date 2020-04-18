@@ -187,7 +187,7 @@ RecountDB = {
 			},
 			["BarTextColorSwap"] = false,
 			["CurDataSet"] = "LastFightData",
-			["LastInstanceName"] = "The Forge of Souls",
+			["LastInstanceName"] = "The Culling of Stratholme",
 			["MainWindowWidth"] = 220.7017151724818,
 			["MainWindowHeight"] = 134.6864031327921,
 		},

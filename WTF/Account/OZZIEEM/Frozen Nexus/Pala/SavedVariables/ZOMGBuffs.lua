@@ -46,6 +46,13 @@ ZOMGBuffsPerCharDB = {
 					["left"] = 594.2456760971074,
 					["width"] = 608.0000503330083,
 				},
+				["ZOMGBlessings Manager (configure)"] = {
+					["top"] = 642.2631908897802,
+					["scale"] = 1,
+					["height"] = 274.0000116258307,
+					["left"] = 594.2456760971074,
+					["width"] = 608.0000503330083,
+				},
 				["ZOMGBlessings Manager (|Hplayer:Pala|hPala|h @ 21:24:39)"] = {
 					["top"] = 600.2631579271308,
 					["scale"] = 1,
@@ -60,13 +67,6 @@ ZOMGBuffsPerCharDB = {
 					["left"] = 594.2456760971074,
 					["width"] = 608.0000503330083,
 				},
-				["ZOMGBlessings Manager (configure)"] = {
-					["top"] = 642.2631908897802,
-					["scale"] = 1,
-					["height"] = 274.0000116258307,
-					["left"] = 594.2456760971074,
-					["width"] = 608.0000503330083,
-				},
 			},
 		},
 		["Portalz"] = {
@@ -74,15 +74,10 @@ ZOMGBuffsPerCharDB = {
 		["BuffTehRaid"] = {
 			["templates"] = {
 				["current"] = {
-					["SACRIFICE"] = true,
-					["FREEDOM"] = true,
 					["modified"] = true,
 					["limited"] = {
-						["FREEDOM"] = {
-							["Pala"] = true,
-						},
 					},
-					["SACREDSHIELD"] = true,
+					["FREEDOM"] = true,
 				},
 			},
 			["postracker"] = {

@@ -390,9 +390,9 @@ ChatterDB = {
 							["g"] = 0.7843137718737125,
 							["r"] = 0.4627451254054904,
 						},
-						["AFK"] = {
-							["b"] = 1.000000059138984,
-							["g"] = 0.501960813999176,
+						["world"] = {
+							["b"] = 0.752941220998764,
+							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
 						},
 						["CHANNEL_NOTICE"] = {
@@ -405,9 +405,9 @@ ChatterDB = {
 							["g"] = 0.8666667179204524,
 							["r"] = 1.000000059138984,
 						},
-						["RAID_LEADER"] = {
-							["b"] = 0.03529411973431706,
-							["g"] = 0.2823529578745365,
+						["AFK"] = {
+							["b"] = 1.000000059138984,
+							["g"] = 0.501960813999176,
 							["r"] = 1.000000059138984,
 						},
 						["ARENA_POINTS"] = {
@@ -440,9 +440,9 @@ ChatterDB = {
 							["g"] = 0,
 							["r"] = 1.000000059138984,
 						},
-						["world"] = {
-							["b"] = 0.752941220998764,
-							["g"] = 0.752941220998764,
+						["RAID_LEADER"] = {
+							["b"] = 0.03529411973431706,
+							["g"] = 0.2823529578745365,
 							["r"] = 1.000000059138984,
 						},
 						["BN_INLINE_TOAST_CONVERSATION"] = {
@@ -722,36 +722,36 @@ ChatterDB = {
 				},
 				["Frozen Nexus"] = {
 					["history"] = {
-						"/m", -- [1]
-						"/ad", -- [2]
+						"/rr", -- [1]
+						"/quit", -- [2]
 						"/ad", -- [3]
-						"/rr", -- [4]
-						"/rr", -- [5]
-						"/rr", -- [6]
-						"/quit", -- [7]
-						"/ad", -- [8]
-						"/camp", -- [9]
-						"/ad", -- [10]
-						"/m", -- [11]
-						"/m", -- [12]
-						"/m", -- [13]
-						"/m", -- [14]
-						"/rl", -- [15]
-						"/rr", -- [16]
-						"/ad", -- [17]
-						"/ad", -- [18]
-						"/ad", -- [19]
-						"/way The Storm Peaks 31.5, 70.0 Frozen Lake/way The Storm Peaks 51.1, 71.2 Brunn Village/way The Storm Peaks 35.0, 76.5 Waterfall/way The Storm Peaks 52.3, 35.0 Ulduar Ravine", -- [20]
-						"/way The Storm Peaks 31.5, 70.0 Frozen Lake", -- [21]
-						"/way The Storm Peaks 31.5 70.0 Frozen Lake", -- [22]
-						"/macro", -- [23]
-						"/macro", -- [24]
-						"/npcscan", -- [25]
+						"/camp", -- [4]
+						"/ad", -- [5]
+						"/m", -- [6]
+						"/m", -- [7]
+						"/m", -- [8]
+						"/m", -- [9]
+						"/rl", -- [10]
+						"/rr", -- [11]
+						"/ad", -- [12]
+						"/ad", -- [13]
+						"/ad", -- [14]
+						"/way The Storm Peaks 31.5, 70.0 Frozen Lake/way The Storm Peaks 51.1, 71.2 Brunn Village/way The Storm Peaks 35.0, 76.5 Waterfall/way The Storm Peaks 52.3, 35.0 Ulduar Ravine", -- [15]
+						"/way The Storm Peaks 31.5, 70.0 Frozen Lake", -- [16]
+						"/way The Storm Peaks 31.5 70.0 Frozen Lake", -- [17]
+						"/macro", -- [18]
+						"/macro", -- [19]
+						"/npcscan", -- [20]
+						"/smartmount", -- [21]
+						"/smartmount", -- [22]
+						"/smartmount", -- [23]
+						"/rl", -- [24]
+						"/msbt", -- [25]
 						"/smartmount", -- [26]
-						"/smartmount", -- [27]
+						"/rl", -- [27]
 						"/smartmount", -- [28]
 						"/rl", -- [29]
-						"/msbt", -- [30]
+						"/smartmount", -- [30]
 						"/smartmount", -- [31]
 						"/rl", -- [32]
 					},

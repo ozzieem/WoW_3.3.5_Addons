@@ -32,11 +32,11 @@ MSBTProfiles_SavedVars = {
 				["Outgoing"] = {
 					["direction"] = "Up",
 					["offsetX"] = -587,
+					["iconAlign"] = "Left",
 					["behavior"] = "MSBT_NORMAL",
-					["stickyBehavior"] = "Normal",
 					["offsetY"] = -19,
 					["animationStyle"] = "Static",
-					["iconAlign"] = "Left",
+					["stickyBehavior"] = "Normal",
 				},
 			},
 			["normalFontName"] = "Friz Quadrata TT",

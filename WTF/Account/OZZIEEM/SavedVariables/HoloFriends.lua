@@ -472,18 +472,17 @@ HOLOFRIENDS_LIST = {
 			{
 				["group"] = "Friends",
 				["name"] = "1",
-				["lastuse"] = 1586891618,
+				["lastuse"] = 1586903280,
 			}, -- [1]
 			{
-				["connected"] = true,
-				["notify"] = true,
+				["lastSeen"] = "2020-04-14 23:22 2",
 				["group"] = "Friends",
 				["class"] = "PALADIN",
 				["lc_class"] = "Paladin",
 				["name"] = "Splosion",
 				["level"] = 80,
-				["lastSeen"] = "2020-04-14 21:13 2",
-				["area"] = "Dalaran",
+				["notify"] = true,
+				["area"] = "Icecrown Citadel",
 			}, -- [2]
 		},
 		["Dranah"] = {
@@ -952,7 +951,7 @@ HOLOIGNORE_LIST = {
 			{
 				["group"] = "Ignore",
 				["name"] = "1",
-				["lastuse"] = 1586891618,
+				["lastuse"] = 1586903280,
 			}, -- [1]
 		},
 		["Dranah"] = {
@@ -1099,7 +1098,7 @@ HOLOFRIENDS_MYCHARS = {
 	},
 	["Frozen Nexus"] = {
 		["Pala"] = {
-			["lastSeen"] = "2020-04-14 21:14 2",
+			["lastSeen"] = "2020-04-15 00:28 3",
 			["area"] = "Dalaran",
 			["level"] = 80,
 			["class"] = "PALADIN",

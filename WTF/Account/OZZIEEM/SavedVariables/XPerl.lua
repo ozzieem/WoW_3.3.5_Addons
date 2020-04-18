@@ -2,637 +2,6 @@
 XPerlConfig = nil
 XPerlConfig_Global = nil
 XPerlConfigNew = {
-	["ConfigVersion"] = "3.1.0",
-	["global"] = {
-		["showReadyCheck"] = 1,
-		["highlight"] = {
-			["enable"] = 1,
-			["AGGRO"] = 1,
-		},
-		["showFD"] = 1,
-		["highlightSelection"] = 1,
-		["optionsColour"] = {
-			["r"] = 0.7,
-			["g"] = 0.2,
-			["b"] = 0.2,
-		},
-		["rangeFinder"] = {
-			["StatsFrame"] = {
-				["spell"] = "Holy Light",
-				["FadeAmount"] = 0.5,
-				["HealthLowPoint"] = 0.85,
-				["item"] = "Heavy Netherweave Bandage",
-			},
-			["enabled"] = 1,
-			["Main"] = {
-				["enabled"] = true,
-				["spell"] = "Holy Light",
-				["item"] = "Heavy Netherweave Bandage",
-				["FadeAmount"] = 0.5,
-				["HealthLowPoint"] = 0.85,
-			},
-			["NameFrame"] = {
-				["spell"] = "Holy Light",
-				["FadeAmount"] = 0.5,
-				["HealthLowPoint"] = 0.85,
-				["item"] = "Heavy Netherweave Bandage",
-			},
-		},
-		["showAFK"] = 1,
-		["combatFlash"] = 1,
-		["buffHelper"] = {
-			["enable"] = 1,
-			["sort"] = "group",
-			["visible"] = 1,
-		},
-		["raidpet"] = {
-			["hunter"] = 1,
-			["warlock"] = 1,
-		},
-		["target"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["size"] = 29,
-				["curable"] = 0,
-				["big"] = 1,
-			},
-			["portrait"] = 1,
-			["combo"] = {
-				["enable"] = 1,
-				["blizzard"] = 1,
-				["pos"] = "top",
-			},
-			["enable"] = 1,
-			["mana"] = 1,
-			["castBar"] = {
-				["enable"] = 1,
-			},
-			["hitIndicator"] = 1,
-			["level"] = 1,
-			["sound"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-			["defer"] = 1,
-			["threat"] = 1,
-			["portrait3D"] = 1,
-			["pvpIcon"] = 1,
-			["mobType"] = 1,
-			["range30yard"] = 1,
-			["highlightDebuffs"] = {
-				["who"] = 2,
-			},
-			["raidIconAlternate"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["threatMode"] = "portraitFrame",
-			["values"] = 1,
-			["scale"] = 0.77,
-			["elite"] = 1,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["wrap"] = 1,
-				["rows"] = 3,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["classIcon"] = 1,
-		},
-		["raid"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["size"] = 20,
-			},
-			["group"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-				1, -- [6]
-				1, -- [7]
-				1, -- [8]
-				1, -- [9]
-				1, -- [10]
-			},
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["class"] = {
-				{
-					["enable"] = 1,
-					["name"] = "WARRIOR",
-				}, -- [1]
-				{
-					["enable"] = 1,
-					["name"] = "ROGUE",
-				}, -- [2]
-				{
-					["enable"] = 1,
-					["name"] = "HUNTER",
-				}, -- [3]
-				{
-					["enable"] = 1,
-					["name"] = "MAGE",
-				}, -- [4]
-				{
-					["enable"] = 1,
-					["name"] = "WARLOCK",
-				}, -- [5]
-				{
-					["enable"] = 1,
-					["name"] = "PRIEST",
-				}, -- [6]
-				{
-					["enable"] = 1,
-					["name"] = "DRUID",
-				}, -- [7]
-				{
-					["enable"] = 1,
-					["name"] = "SHAMAN",
-				}, -- [8]
-				{
-					["enable"] = 1,
-					["name"] = "PALADIN",
-				}, -- [9]
-				{
-					["enable"] = 1,
-					["name"] = "DEATHKNIGHT",
-				}, -- [10]
-				{
-					["enable"] = 1,
-					["name"] = "MONK",
-				}, -- [11]
-			},
-			["percent"] = 1,
-			["scale"] = 0.8,
-			["titles"] = 1,
-			["sortByRole"] = 0,
-			["precisionPercent"] = 1,
-			["spacing"] = 0,
-			["anchor"] = "TOP",
-			["buffs"] = {
-				["castable"] = 0,
-				["inside"] = 1,
-				["right"] = 1,
-				["size"] = 20,
-				["maxrows"] = 2,
-			},
-			["precisionManaPercent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["targettargettarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["scale"] = 0.7,
-			["mana"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["colour"] = {
-			["classic"] = 1,
-			["class"] = 1,
-			["border"] = {
-				["a"] = 1,
-				["r"] = 0.5,
-				["g"] = 0.5,
-				["b"] = 0.5,
-			},
-			["reaction"] = {
-				["tapped"] = {
-					["r"] = 0.5,
-					["g"] = 0.5,
-					["b"] = 0.5,
-				},
-				["enemy"] = {
-					["r"] = 1,
-					["g"] = 0,
-					["b"] = 0,
-				},
-				["neutral"] = {
-					["r"] = 1,
-					["g"] = 1,
-					["b"] = 0,
-				},
-				["unfriendly"] = {
-					["r"] = 1,
-					["g"] = 0.5,
-					["b"] = 0,
-				},
-				["friend"] = {
-					["r"] = 0,
-					["g"] = 1,
-					["b"] = 0,
-				},
-				["none"] = {
-					["r"] = 0.5,
-					["g"] = 0.5,
-					["b"] = 1,
-				},
-			},
-			["classbarBright"] = 1,
-			["gradient"] = {
-				["enable"] = 1,
-				["s"] = {
-					["a"] = 1,
-					["r"] = 0.25,
-					["g"] = 0.25,
-					["b"] = 0.25,
-				},
-				["e"] = {
-					["a"] = 0,
-					["r"] = 0.1,
-					["g"] = 0.1,
-					["b"] = 0.1,
-				},
-			},
-			["frame"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["guildList"] = 1,
-			["bar"] = {
-				["rage"] = {
-					["r"] = 1,
-					["g"] = 0,
-					["b"] = 0,
-				},
-				["healthFull"] = {
-					["r"] = 0,
-					["g"] = 1,
-					["b"] = 0,
-				},
-				["focus"] = {
-					["r"] = 1,
-					["g"] = 0.5,
-					["b"] = 0.25,
-				},
-				["energy"] = {
-					["r"] = 1,
-					["g"] = 1,
-					["b"] = 0,
-				},
-				["mana"] = {
-					["r"] = 0,
-					["g"] = 0,
-					["b"] = 1,
-				},
-				["healthEmpty"] = {
-					["r"] = 1,
-					["g"] = 0,
-					["b"] = 0,
-				},
-				["runic_power"] = {
-					["r"] = 0,
-					["g"] = 0.82,
-					["b"] = 1,
-				},
-			},
-		},
-		["minimap"] = {
-			["enable"] = 1,
-			["radius"] = 78,
-			["pos"] = 196.2792328178965,
-		},
-		["xperlOldroleicons"] = 1,
-		["focus"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["size"] = 29,
-				["curable"] = 0,
-				["big"] = 1,
-			},
-			["portrait"] = 1,
-			["combo"] = {
-				["enable"] = 1,
-				["blizzard"] = 1,
-				["pos"] = "top",
-			},
-			["enable"] = 1,
-			["mana"] = 1,
-			["castBar"] = {
-				["enable"] = 1,
-			},
-			["hitIndicator"] = 1,
-			["level"] = 1,
-			["sound"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-			["threat"] = 1,
-			["portrait3D"] = 1,
-			["pvpIcon"] = 1,
-			["mobType"] = 1,
-			["highlightDebuffs"] = {
-				["who"] = 2,
-			},
-			["raidIconAlternate"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["threatMode"] = "portraitFrame",
-			["elite"] = 1,
-			["scale"] = 0.8,
-			["values"] = 1,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["wrap"] = 1,
-				["rows"] = 3,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["classIcon"] = 1,
-		},
-		["party"] = {
-			["debuffs"] = {
-				["halfSize"] = 1,
-				["below"] = 1,
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 7,
-			},
-			["portrait"] = 1,
-			["scale"] = 0.73,
-			["castBar"] = {
-				["enable"] = 1,
-				["castTime"] = 1,
-			},
-			["spacing"] = 23,
-			["anchor"] = "TOP",
-			["level"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-			["threat"] = 1,
-			["inRaid"] = 1,
-			["pvpIcon"] = 1,
-			["range30yard"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["values"] = 1,
-			["threatMode"] = "portraitFrame",
-			["name"] = 1,
-			["hitIndicator"] = 1,
-			["target"] = {
-				["enable"] = 1,
-				["large"] = 1,
-				["size"] = 120,
-			},
-			["buffs"] = {
-				["castable"] = 0,
-				["size"] = 22,
-				["wrap"] = 1,
-				["rows"] = 2,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["classIcon"] = 1,
-		},
-		["targettarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["enable"] = 1,
-			["mana"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["scale"] = 0.7,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["focustarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["enable"] = 1,
-			["mana"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["scale"] = 0.7,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["pettarget"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 29,
-			},
-			["values"] = 1,
-			["pvpIcon"] = 1,
-			["enable"] = 1,
-			["mana"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["scale"] = 0.7,
-			["buffs"] = {
-				["size"] = 22,
-				["castable"] = 0,
-				["enable"] = 1,
-				["rows"] = 3,
-				["wrap"] = 1,
-				["maxrows"] = 2,
-			},
-			["percent"] = 1,
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["partypet"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["curable"] = 0,
-				["size"] = 12,
-			},
-			["name"] = 1,
-			["enable"] = 1,
-			["scale"] = 0.7,
-			["buffs"] = {
-				["enable"] = 1,
-				["castable"] = 0,
-				["size"] = 12,
-				["maxrows"] = 2,
-			},
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["size"] = {
-				["width"] = 0,
-			},
-		},
-		["transparency"] = {
-			["frame"] = 1,
-			["text"] = 1,
-		},
-		["player"] = {
-			["totems"] = {
-				["enable"] = true,
-				["offsetY"] = 0,
-				["offsetX"] = 0,
-			},
-			["debuffs"] = {
-				["enable"] = 1,
-				["size"] = 25,
-			},
-			["portrait"] = 1,
-			["scale"] = 1,
-			["castBar"] = {
-				["castTime"] = 1,
-				["precast"] = 1,
-				["inside"] = 1,
-			},
-			["fullScreen"] = {
-				["enable"] = 1,
-				["highHP"] = 40,
-				["lowHP"] = 30,
-			},
-			["hitIndicator"] = 1,
-			["level"] = 1,
-			["size"] = {
-				["width"] = 20,
-			},
-			["threat"] = 1,
-			["portrait3D"] = 1,
-			["pvpIcon"] = 1,
-			["energyTicker"] = 1,
-			["showRunes"] = 1,
-			["partyNumber"] = 1,
-			["threatMode"] = "portraitFrame",
-			["withName"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["values"] = 1,
-			["buffs"] = {
-				["size"] = 25,
-				["maxrows"] = 2,
-				["count"] = 40,
-				["wrap"] = 1,
-				["hideBlizzard"] = 1,
-				["rows"] = 2,
-				["cooldown"] = 1,
-				["flash"] = 1,
-			},
-			["percent"] = 1,
-			["classIcon"] = 1,
-		},
-		["highlightDebuffs"] = {
-			["enable"] = 1,
-			["frame"] = 1,
-			["border"] = 1,
-		},
-		["tooltip"] = {
-			["enable"] = 1,
-			["enableBuffs"] = 1,
-			["modifier"] = "all",
-		},
-		["pet"] = {
-			["debuffs"] = {
-				["enable"] = 1,
-				["size"] = 20,
-			},
-			["values"] = 1,
-			["healerMode"] = {
-				["type"] = 1,
-			},
-			["portrait3D"] = 1,
-			["scale"] = 0.7,
-			["castBar"] = {
-				["enable"] = 1,
-			},
-			["threatMode"] = "nameFrame",
-			["name"] = 1,
-			["hitIndicator"] = 1,
-			["portrait"] = 1,
-			["buffs"] = {
-				["enable"] = 1,
-				["size"] = 18,
-				["maxrows"] = 2,
-			},
-			["threat"] = 1,
-			["size"] = {
-				["enable"] = 1,
-				["width"] = 0,
-				["size"] = 20,
-			},
-		},
-		["buffs"] = {
-			["countdown"] = 1,
-			["cooldownAny"] = 1,
-			["cooldown"] = 1,
-			["countdownStart"] = 20,
-		},
-		["maximumScale"] = 1.5,
-		["bar"] = {
-			["fading"] = 1,
-			["texture"] = {
-				"Striped", -- [1]
-				"Interface\\Addons\\SharedMedia\\statusbar\\Striped", -- [2]
-			},
-			["fadeTime"] = 0.5,
-			["background"] = 1,
-			["fat"] = 1,
-		},
-	},
 	["savedPositions"] = {
 		["Frozen Nexus"] = {
 			["Pala"] = {
@@ -2761,6 +2130,637 @@ XPerlConfigNew = {
 					["left"] = 121.5999978728761,
 				},
 			},
+		},
+	},
+	["ConfigVersion"] = "3.1.0",
+	["global"] = {
+		["showReadyCheck"] = 1,
+		["highlight"] = {
+			["enable"] = 1,
+			["AGGRO"] = 1,
+		},
+		["showFD"] = 1,
+		["highlightSelection"] = 1,
+		["optionsColour"] = {
+			["r"] = 0.7,
+			["g"] = 0.2,
+			["b"] = 0.2,
+		},
+		["rangeFinder"] = {
+			["StatsFrame"] = {
+				["spell"] = "Holy Light",
+				["FadeAmount"] = 0.5,
+				["HealthLowPoint"] = 0.85,
+				["item"] = "Heavy Netherweave Bandage",
+			},
+			["enabled"] = 1,
+			["Main"] = {
+				["enabled"] = true,
+				["spell"] = "Holy Light",
+				["item"] = "Heavy Netherweave Bandage",
+				["FadeAmount"] = 0.5,
+				["HealthLowPoint"] = 0.85,
+			},
+			["NameFrame"] = {
+				["spell"] = "Holy Light",
+				["FadeAmount"] = 0.5,
+				["HealthLowPoint"] = 0.85,
+				["item"] = "Heavy Netherweave Bandage",
+			},
+		},
+		["showAFK"] = 1,
+		["combatFlash"] = 1,
+		["buffHelper"] = {
+			["enable"] = 1,
+			["sort"] = "group",
+			["visible"] = 1,
+		},
+		["raidpet"] = {
+			["hunter"] = 1,
+			["warlock"] = 1,
+		},
+		["target"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["size"] = 29,
+				["curable"] = 0,
+				["big"] = 1,
+			},
+			["portrait"] = 1,
+			["combo"] = {
+				["enable"] = 1,
+				["blizzard"] = 1,
+				["pos"] = "top",
+			},
+			["enable"] = 1,
+			["mana"] = 1,
+			["castBar"] = {
+				["enable"] = 1,
+			},
+			["hitIndicator"] = 1,
+			["level"] = 1,
+			["sound"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+			["defer"] = 1,
+			["threat"] = 1,
+			["portrait3D"] = 1,
+			["pvpIcon"] = 1,
+			["mobType"] = 1,
+			["range30yard"] = 1,
+			["highlightDebuffs"] = {
+				["who"] = 2,
+			},
+			["raidIconAlternate"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["threatMode"] = "portraitFrame",
+			["values"] = 1,
+			["scale"] = 0.77,
+			["elite"] = 1,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["wrap"] = 1,
+				["rows"] = 3,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["classIcon"] = 1,
+		},
+		["raid"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["size"] = 20,
+			},
+			["group"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				1, -- [6]
+				1, -- [7]
+				1, -- [8]
+				1, -- [9]
+				1, -- [10]
+			},
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["class"] = {
+				{
+					["enable"] = 1,
+					["name"] = "WARRIOR",
+				}, -- [1]
+				{
+					["enable"] = 1,
+					["name"] = "ROGUE",
+				}, -- [2]
+				{
+					["enable"] = 1,
+					["name"] = "HUNTER",
+				}, -- [3]
+				{
+					["enable"] = 1,
+					["name"] = "MAGE",
+				}, -- [4]
+				{
+					["enable"] = 1,
+					["name"] = "WARLOCK",
+				}, -- [5]
+				{
+					["enable"] = 1,
+					["name"] = "PRIEST",
+				}, -- [6]
+				{
+					["enable"] = 1,
+					["name"] = "DRUID",
+				}, -- [7]
+				{
+					["enable"] = 1,
+					["name"] = "SHAMAN",
+				}, -- [8]
+				{
+					["enable"] = 1,
+					["name"] = "PALADIN",
+				}, -- [9]
+				{
+					["enable"] = 1,
+					["name"] = "DEATHKNIGHT",
+				}, -- [10]
+				{
+					["enable"] = 1,
+					["name"] = "MONK",
+				}, -- [11]
+			},
+			["percent"] = 1,
+			["scale"] = 0.8,
+			["titles"] = 1,
+			["sortByRole"] = 0,
+			["precisionPercent"] = 1,
+			["spacing"] = 0,
+			["anchor"] = "TOP",
+			["buffs"] = {
+				["castable"] = 0,
+				["inside"] = 1,
+				["right"] = 1,
+				["size"] = 20,
+				["maxrows"] = 2,
+			},
+			["precisionManaPercent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["targettargettarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["scale"] = 0.7,
+			["mana"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["colour"] = {
+			["classic"] = 1,
+			["class"] = 1,
+			["border"] = {
+				["a"] = 1,
+				["r"] = 0.5,
+				["g"] = 0.5,
+				["b"] = 0.5,
+			},
+			["reaction"] = {
+				["tapped"] = {
+					["r"] = 0.5,
+					["g"] = 0.5,
+					["b"] = 0.5,
+				},
+				["enemy"] = {
+					["r"] = 1,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["neutral"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 0,
+				},
+				["unfriendly"] = {
+					["r"] = 1,
+					["g"] = 0.5,
+					["b"] = 0,
+				},
+				["friend"] = {
+					["r"] = 0,
+					["g"] = 1,
+					["b"] = 0,
+				},
+				["none"] = {
+					["r"] = 0.5,
+					["g"] = 0.5,
+					["b"] = 1,
+				},
+			},
+			["classbarBright"] = 1,
+			["gradient"] = {
+				["enable"] = 1,
+				["s"] = {
+					["a"] = 1,
+					["r"] = 0.25,
+					["g"] = 0.25,
+					["b"] = 0.25,
+				},
+				["e"] = {
+					["a"] = 0,
+					["r"] = 0.1,
+					["g"] = 0.1,
+					["b"] = 0.1,
+				},
+			},
+			["frame"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["guildList"] = 1,
+			["bar"] = {
+				["rage"] = {
+					["r"] = 1,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["healthFull"] = {
+					["r"] = 0,
+					["g"] = 1,
+					["b"] = 0,
+				},
+				["focus"] = {
+					["r"] = 1,
+					["g"] = 0.5,
+					["b"] = 0.25,
+				},
+				["energy"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 0,
+				},
+				["mana"] = {
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 1,
+				},
+				["healthEmpty"] = {
+					["r"] = 1,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["runic_power"] = {
+					["r"] = 0,
+					["g"] = 0.82,
+					["b"] = 1,
+				},
+			},
+		},
+		["minimap"] = {
+			["enable"] = 1,
+			["radius"] = 78,
+			["pos"] = 196.2792328178965,
+		},
+		["xperlOldroleicons"] = 1,
+		["focus"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["size"] = 29,
+				["curable"] = 0,
+				["big"] = 1,
+			},
+			["portrait"] = 1,
+			["combo"] = {
+				["enable"] = 1,
+				["blizzard"] = 1,
+				["pos"] = "top",
+			},
+			["enable"] = 1,
+			["mana"] = 1,
+			["castBar"] = {
+				["enable"] = 1,
+			},
+			["hitIndicator"] = 1,
+			["level"] = 1,
+			["sound"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+			["threat"] = 1,
+			["portrait3D"] = 1,
+			["pvpIcon"] = 1,
+			["mobType"] = 1,
+			["highlightDebuffs"] = {
+				["who"] = 2,
+			},
+			["raidIconAlternate"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["threatMode"] = "portraitFrame",
+			["elite"] = 1,
+			["scale"] = 0.8,
+			["values"] = 1,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["wrap"] = 1,
+				["rows"] = 3,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["classIcon"] = 1,
+		},
+		["party"] = {
+			["debuffs"] = {
+				["halfSize"] = 1,
+				["below"] = 1,
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 7,
+			},
+			["portrait"] = 1,
+			["scale"] = 0.73,
+			["castBar"] = {
+				["enable"] = 1,
+				["castTime"] = 1,
+			},
+			["spacing"] = 23,
+			["anchor"] = "TOP",
+			["level"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+			["threat"] = 1,
+			["inRaid"] = 1,
+			["pvpIcon"] = 1,
+			["range30yard"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["values"] = 1,
+			["threatMode"] = "portraitFrame",
+			["name"] = 1,
+			["hitIndicator"] = 1,
+			["target"] = {
+				["enable"] = 1,
+				["large"] = 1,
+				["size"] = 120,
+			},
+			["buffs"] = {
+				["castable"] = 0,
+				["size"] = 22,
+				["wrap"] = 1,
+				["rows"] = 2,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["classIcon"] = 1,
+		},
+		["pet"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["size"] = 20,
+			},
+			["values"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["portrait3D"] = 1,
+			["scale"] = 0.7,
+			["castBar"] = {
+				["enable"] = 1,
+			},
+			["threatMode"] = "nameFrame",
+			["name"] = 1,
+			["hitIndicator"] = 1,
+			["portrait"] = 1,
+			["buffs"] = {
+				["enable"] = 1,
+				["size"] = 18,
+				["maxrows"] = 2,
+			},
+			["threat"] = 1,
+			["size"] = {
+				["enable"] = 1,
+				["width"] = 0,
+				["size"] = 20,
+			},
+		},
+		["focustarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["enable"] = 1,
+			["mana"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["scale"] = 0.7,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["highlightDebuffs"] = {
+			["enable"] = 1,
+			["frame"] = 1,
+			["border"] = 1,
+		},
+		["partypet"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 12,
+			},
+			["name"] = 1,
+			["enable"] = 1,
+			["scale"] = 0.7,
+			["buffs"] = {
+				["enable"] = 1,
+				["castable"] = 0,
+				["size"] = 12,
+				["maxrows"] = 2,
+			},
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["transparency"] = {
+			["frame"] = 1,
+			["text"] = 1,
+		},
+		["player"] = {
+			["totems"] = {
+				["enable"] = true,
+				["offsetY"] = 0,
+				["offsetX"] = 0,
+			},
+			["debuffs"] = {
+				["enable"] = 1,
+				["size"] = 25,
+			},
+			["portrait"] = 1,
+			["scale"] = 1,
+			["castBar"] = {
+				["castTime"] = 1,
+				["precast"] = 1,
+				["inside"] = 1,
+			},
+			["fullScreen"] = {
+				["enable"] = 1,
+				["highHP"] = 40,
+				["lowHP"] = 30,
+			},
+			["hitIndicator"] = 1,
+			["level"] = 1,
+			["size"] = {
+				["width"] = 20,
+			},
+			["threat"] = 1,
+			["portrait3D"] = 1,
+			["pvpIcon"] = 1,
+			["energyTicker"] = 1,
+			["showRunes"] = 1,
+			["partyNumber"] = 1,
+			["threatMode"] = "portraitFrame",
+			["withName"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["values"] = 1,
+			["buffs"] = {
+				["size"] = 25,
+				["maxrows"] = 2,
+				["count"] = 40,
+				["wrap"] = 1,
+				["hideBlizzard"] = 1,
+				["rows"] = 2,
+				["cooldown"] = 1,
+				["flash"] = 1,
+			},
+			["percent"] = 1,
+			["classIcon"] = 1,
+		},
+		["pettarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["enable"] = 1,
+			["mana"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["scale"] = 0.7,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["tooltip"] = {
+			["enable"] = 1,
+			["enableBuffs"] = 1,
+			["modifier"] = "all",
+		},
+		["targettarget"] = {
+			["debuffs"] = {
+				["enable"] = 1,
+				["curable"] = 0,
+				["size"] = 29,
+			},
+			["values"] = 1,
+			["pvpIcon"] = 1,
+			["enable"] = 1,
+			["mana"] = 1,
+			["healerMode"] = {
+				["type"] = 1,
+			},
+			["scale"] = 0.7,
+			["buffs"] = {
+				["size"] = 22,
+				["castable"] = 0,
+				["enable"] = 1,
+				["rows"] = 3,
+				["wrap"] = 1,
+				["maxrows"] = 2,
+			},
+			["percent"] = 1,
+			["size"] = {
+				["width"] = 0,
+			},
+		},
+		["buffs"] = {
+			["countdown"] = 1,
+			["cooldownAny"] = 1,
+			["cooldown"] = 1,
+			["countdownStart"] = 20,
+		},
+		["maximumScale"] = 1.5,
+		["bar"] = {
+			["fading"] = 1,
+			["texture"] = {
+				"Striped", -- [1]
+				"Interface\\Addons\\SharedMedia\\statusbar\\Striped", -- [2]
+			},
+			["fadeTime"] = 0.5,
+			["background"] = 1,
+			["fat"] = 1,
 		},
 	},
 }
