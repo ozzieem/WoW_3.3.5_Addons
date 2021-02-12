@@ -1,16 +1,16 @@
 
 ArmoryLocalSettings = {
-	["Chat"] = {
-		true, -- [1]
-		["b"] = 1,
-		["sticky"] = 0,
-		["g"] = 1,
-		["r"] = 1,
+	["Channel"] = {
 	},
 	["Minimap"] = {
-		["Angle"] = 170,
 		["Radius"] = 80,
+		["Angle"] = 170,
 	},
-	["Channel"] = {
+	["Chat"] = {
+		true, -- [1]
+		["r"] = 1,
+		["sticky"] = 0,
+		["g"] = 1,
+		["b"] = 1,
 	},
 }

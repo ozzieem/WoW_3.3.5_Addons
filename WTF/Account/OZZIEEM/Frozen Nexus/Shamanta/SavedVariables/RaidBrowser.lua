@@ -1,8 +1,8 @@
 
 raid_browser_character_raidsets = {
-	["primary"] = {
-	},
 	["secondary"] = {
+	},
+	["primary"] = {
 	},
 }
 raid_browser_character_current_raidset = "Active"

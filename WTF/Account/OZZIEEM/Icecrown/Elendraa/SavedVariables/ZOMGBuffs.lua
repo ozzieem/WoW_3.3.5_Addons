@@ -11,9 +11,6 @@ ZOMGBuffsPerCharDB = {
 					["modified"] = true,
 					["FOCUSMAGIC"] = true,
 					["limited"] = {
-						["FOCUSMAGIC"] = {
-							["Ludimali"] = true,
-						},
 					},
 				},
 			},

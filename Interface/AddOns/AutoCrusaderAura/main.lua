@@ -1,6 +1,27 @@
 print("Interface number: " .. (select(4, GetBuildInfo())) .. "");
 print("AutoCrusaderAura Initialized")
 
+mapID, isContinent = GetCurrentMapAreaID()
+
+print(mapId);
+print(isContinent);
+
+
+local chatYellFrame = CreateFrame("Frame")
+chatYellFrame:RegisterEvent("CHAT_MSG_YELL")
+
+chatYellFrame:SetScript("OnEvent", 
+function(self, event, ...)
+	local arg1, arg2, arg3 = ...
+	if arg3 == "Orcish" then
+		print("CHAT_MSG_YELL triggered with: Author:" ..arg2.. ' Language: ' ..arg3.. '')
+		AddIgnore(arg2);
+	end
+end
+)
+
+
+
 -- local frame = CreateFrame("Frame")
 -- local frame1 = CreateFrame("Frame")
 -- local frame2 = CreateFrame("Frame")

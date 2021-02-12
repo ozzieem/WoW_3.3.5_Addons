@@ -1,0 +1,10 @@
+
+LootRollsData = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

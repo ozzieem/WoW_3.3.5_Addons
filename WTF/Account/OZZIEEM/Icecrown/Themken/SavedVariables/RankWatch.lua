@@ -9,6 +9,8 @@ RankWatchSettings = {
 	["levels"] = 2,
 	["channel"] = 1,
 	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
 	["reports"] = {
 		["Evilevel"] = {
 			["Riptide"] = {
@@ -16,20 +18,20 @@ RankWatchSettings = {
 				["time"] = 1584557373.52,
 				["maxId"] = 61301,
 			},
-			["Chain Heal"] = {
-				["lowId"] = 55458,
-				["time"] = 1584557373.52,
-				["maxId"] = 55459,
+			["Healing Wave"] = {
+				["lowId"] = 49272,
+				["time"] = 1584557348.441,
+				["maxId"] = 49273,
+			},
+			["Earthliving Weapon"] = {
+				["lowId"] = 51993,
+				["time"] = 1584556998.944,
+				["maxId"] = 51994,
 			},
 			["Flametongue Totem"] = {
 				["lowId"] = 58652,
 				["time"] = 1584555427.388,
 				["maxId"] = 58656,
-			},
-			["Healing Wave"] = {
-				["lowId"] = 49272,
-				["time"] = 1584557348.441,
-				["maxId"] = 49273,
 			},
 			["Frost Resistance Totem"] = {
 				["lowId"] = 58741,
@@ -46,10 +48,10 @@ RankWatchSettings = {
 				["time"] = 1584556972.864,
 				["maxId"] = 49284,
 			},
-			["Earthliving Weapon"] = {
-				["lowId"] = 51993,
-				["time"] = 1584556998.944,
-				["maxId"] = 51994,
+			["Chain Heal"] = {
+				["lowId"] = 55458,
+				["time"] = 1584557373.52,
+				["maxId"] = 55459,
 			},
 		},
 		["Yukitetora"] = {
@@ -57,6 +59,18 @@ RankWatchSettings = {
 				["lowId"] = 39374,
 				["time"] = 1582888535.977,
 				["maxId"] = 48170,
+			},
+		},
+		["Averthor"] = {
+			["Greater Blessing of Wisdom"] = {
+				["lowId"] = 48937,
+				["time"] = 1612901153.47,
+				["maxId"] = 48938,
+			},
+			["Exorcism"] = {
+				["lowId"] = 10312,
+				["time"] = 1612900731.447,
+				["maxId"] = 48801,
 			},
 		},
 		["Fishergirl"] = {
@@ -106,15 +120,15 @@ RankWatchSettings = {
 				["time"] = 1582924925.454,
 				["maxId"] = 48441,
 			},
-			["Regrowth"] = {
-				["lowId"] = 26980,
-				["time"] = 1582924923.55,
-				["maxId"] = 48443,
-			},
 			["Thorns"] = {
 				["lowId"] = 26992,
 				["time"] = 1582924578.015,
 				["maxId"] = 53307,
+			},
+			["Regrowth"] = {
+				["lowId"] = 26980,
+				["time"] = 1582924923.55,
+				["maxId"] = 48443,
 			},
 		},
 		["Viserior"] = {
@@ -219,6 +233,13 @@ RankWatchSettings = {
 				["maxId"] = 58656,
 			},
 		},
+		["Davamian"] = {
+			["Demon Skin"] = {
+				["lowId"] = 696,
+				["time"] = 1612824089.729,
+				["maxId"] = 47889,
+			},
+		},
 		["Doomagoj"] = {
 			["Drain Soul"] = {
 				["lowId"] = 27217,
@@ -247,11 +268,40 @@ RankWatchSettings = {
 				["maxId"] = 57965,
 			},
 		},
-		["Bangu"] = {
-			["Water Shield"] = {
-				["lowId"] = 33736,
-				["time"] = 1581178330.459,
-				["maxId"] = 57960,
+		["Traideniz"] = {
+			["Chain Heal"] = {
+				["lowId"] = 55458,
+				["time"] = 1612901005.92,
+				["maxId"] = 55459,
+			},
+		},
+		["Turian"] = {
+			["Death and Decay"] = {
+				["lowId"] = 49937,
+				["time"] = 1586186752.153,
+				["maxId"] = 49938,
+			},
+		},
+		["Ceppius"] = {
+			["Desperate Prayer"] = {
+				["lowId"] = 19238,
+				["time"] = 1586000685.593,
+				["maxId"] = 48173,
+			},
+			["Holy Nova"] = {
+				["lowId"] = 25331,
+				["time"] = 1586000621.822,
+				["maxId"] = 48078,
+			},
+			["Binding Heal"] = {
+				["lowId"] = 32546,
+				["time"] = 1586000691.38,
+				["maxId"] = 48120,
+			},
+			["Shadow Protection"] = {
+				["lowId"] = 25433,
+				["time"] = 1586001382.577,
+				["maxId"] = 48169,
 			},
 		},
 		["Essenia"] = {
@@ -266,50 +316,11 @@ RankWatchSettings = {
 				["maxId"] = 59159,
 			},
 		},
-		["Ceppius"] = {
-			["Desperate Prayer"] = {
-				["lowId"] = 19238,
-				["time"] = 1586000685.593,
-				["maxId"] = 48173,
-			},
-			["Shadow Protection"] = {
-				["lowId"] = 25433,
-				["time"] = 1586001382.577,
-				["maxId"] = 48169,
-			},
-			["Binding Heal"] = {
-				["lowId"] = 32546,
-				["time"] = 1586000691.38,
-				["maxId"] = 48120,
-			},
-			["Holy Nova"] = {
-				["lowId"] = 25331,
-				["time"] = 1586000621.822,
-				["maxId"] = 48078,
-			},
-		},
-		["Trn"] = {
-			["Greater Blessing of Might"] = {
-				["lowId"] = 48933,
-				["time"] = 1583347629.663,
-				["maxId"] = 48934,
-			},
-		},
-		["Litleclaw"] = {
-			["Healing Touch"] = {
-				["lowId"] = 9889,
-				["time"] = 1581018524.025,
-				["maxId"] = 48378,
-			},
-			["Rejuvenation"] = {
-				["lowId"] = 9841,
-				["time"] = 1581019009.829,
-				["maxId"] = 48441,
-			},
-			["Regrowth"] = {
-				["lowId"] = 9857,
-				["time"] = 1581018971.282,
-				["maxId"] = 48443,
+		["Filina"] = {
+			["Water Shield"] = {
+				["lowId"] = 24398,
+				["time"] = 1583871611.474,
+				["maxId"] = 57960,
 			},
 		},
 		["Discojones"] = {
@@ -322,234 +333,6 @@ RankWatchSettings = {
 				["lowId"] = 5589,
 				["time"] = 1582236080.728,
 				["maxId"] = 10308,
-			},
-		},
-		["Gankowbrate"] = {
-			["Devastate"] = {
-				["lowId"] = 20243,
-				["time"] = 1582967229.933,
-				["maxId"] = 47498,
-			},
-		},
-		["Filina"] = {
-			["Water Shield"] = {
-				["lowId"] = 24398,
-				["time"] = 1583871611.474,
-				["maxId"] = 57960,
-			},
-		},
-		["Chicchi"] = {
-			["Wild Growth"] = {
-				["lowId"] = 53249,
-				["time"] = 1585073851.699,
-				["maxId"] = 53251,
-			},
-		},
-		["Fathermaxi"] = {
-			["Inner Fire"] = {
-				["lowId"] = 10951,
-				["time"] = 1584304230.14,
-				["maxId"] = 48168,
-			},
-		},
-		["Saarat"] = {
-			["Holy Shock"] = {
-				["lowId"] = 27174,
-				["time"] = 1585397035.541,
-				["maxId"] = 48825,
-			},
-		},
-		["Theckah"] = {
-			["Resurrection"] = {
-				["lowId"] = 25435,
-				["time"] = 1583347592.412,
-				["maxId"] = 48171,
-			},
-		},
-		["Themken"] = {
-			["Wyvern Sting"] = {
-				["lowId"] = 19386,
-				["time"] = 1586086102.047,
-				["maxId"] = 49012,
-			},
-		},
-		["Rockandrol"] = {
-			["Riptide"] = {
-				["lowId"] = 61300,
-				["time"] = 1582888501.229,
-				["maxId"] = 61301,
-			},
-			["Flametongue Totem"] = {
-				["lowId"] = 8249,
-				["time"] = 1582888243.67,
-				["maxId"] = 58656,
-			},
-			["Earth Shield"] = {
-				["lowId"] = 49283,
-				["time"] = 1582888455.404,
-				["maxId"] = 49284,
-			},
-			["Water Shield"] = {
-				["lowId"] = 52134,
-				["time"] = 1582888238.714,
-				["maxId"] = 57960,
-			},
-			["Stoneskin Totem"] = {
-				["lowId"] = 10406,
-				["time"] = 1582888243.67,
-				["maxId"] = 58753,
-			},
-		},
-		["Alataza"] = {
-			["Consecration"] = {
-				["lowId"] = 20922,
-				["time"] = 1586885947.342,
-				["maxId"] = 48819,
-			},
-		},
-		["Alangerlis"] = {
-			["Revive"] = {
-				["lowId"] = 50767,
-				["time"] = 1583872304.679,
-				["maxId"] = 50763,
-			},
-		},
-		["Piercedarrow"] = {
-			["Aspect of the Hawk"] = {
-				["lowId"] = 27044,
-				["time"] = 1585396819.146,
-				["maxId"] = 61847,
-			},
-		},
-		["Onlyfs"] = {
-			["Scorch"] = {
-				["lowId"] = 27073,
-				["time"] = 1583000273.518,
-				["maxId"] = 42859,
-			},
-			["Arcane Brilliance"] = {
-				["lowId"] = 23028,
-				["time"] = 1583000138.915,
-				["maxId"] = 43002,
-			},
-		},
-		["Klaudi"] = {
-			["Instant Poison VIII"] = {
-				["lowId"] = 57964,
-				["time"] = 1581017999.667,
-				["maxId"] = 57965,
-			},
-		},
-		["Rackzz"] = {
-			["Resurrection"] = {
-				["lowId"] = 2010,
-				["time"] = 1582569715.18,
-				["maxId"] = 48171,
-			},
-		},
-		["Pagafantas"] = {
-			["Shield of Righteousness"] = {
-				["lowId"] = 53600,
-				["time"] = 1581179127.024,
-				["maxId"] = 61411,
-			},
-			["Holy Shield"] = {
-				["lowId"] = 48951,
-				["time"] = 1581179138.194,
-				["maxId"] = 48952,
-			},
-		},
-		["Ellonmusk"] = {
-			["Holy Light"] = {
-				["lowId"] = 10328,
-				["time"] = 1585489399.403,
-				["maxId"] = 48782,
-			},
-			["Flash of Light"] = {
-				["lowId"] = 19942,
-				["time"] = 1585489271.059,
-				["maxId"] = 48785,
-			},
-			["Consecration"] = {
-				["lowId"] = 20923,
-				["time"] = 1585489430.357,
-				["maxId"] = 48819,
-			},
-			["Hammer of Wrath"] = {
-				["lowId"] = 24275,
-				["time"] = 1585488816.353,
-				["maxId"] = 48806,
-			},
-			["Greater Blessing of Wisdom"] = {
-				["lowId"] = 25894,
-				["time"] = 1585489085.276,
-				["maxId"] = 48938,
-			},
-		},
-		["Kaiarra"] = {
-			["Fel Armor"] = {
-				["lowId"] = 47892,
-				["time"] = 1585997833.289,
-				["maxId"] = 47893,
-			},
-		},
-		["Khumpas"] = {
-			["Consecration"] = {
-				["lowId"] = 27173,
-				["time"] = 1581964575.431,
-				["maxId"] = 48819,
-			},
-		},
-		["Opheila"] = {
-			["Scourge Strike"] = {
-				["lowId"] = 55090,
-				["time"] = 1586187448.947,
-				["maxId"] = 55271,
-			},
-		},
-		["Kheerra"] = {
-			["Ancestral Spirit"] = {
-				["lowId"] = 20777,
-				["time"] = 1584556908.15,
-				["maxId"] = 49277,
-			},
-			["Flame Shock"] = {
-				["lowId"] = 29228,
-				["time"] = 1584558394.841,
-				["maxId"] = 49233,
-			},
-		},
-		["Lucielea"] = {
-			["Wild Growth"] = {
-				["lowId"] = 48438,
-				["time"] = 1584800927.14,
-				["maxId"] = 53251,
-			},
-		},
-		["Snarkle"] = {
-			["Blizzard"] = {
-				["lowId"] = 10185,
-				["time"] = 1583872065.816,
-				["maxId"] = 42940,
-			},
-			["Molten Armor"] = {
-				["lowId"] = 43045,
-				["time"] = 1583872122.596,
-				["maxId"] = 43046,
-			},
-		},
-		["Mamman"] = {
-			["Shadow Word: Death"] = {
-				["lowId"] = 48157,
-				["time"] = 1585074683.804,
-				["maxId"] = 48158,
-			},
-		},
-		["Turian"] = {
-			["Death and Decay"] = {
-				["lowId"] = 49937,
-				["time"] = 1586186752.153,
-				["maxId"] = 49938,
 			},
 		},
 		["Ejner"] = {
@@ -574,7 +357,257 @@ RankWatchSettings = {
 				["maxId"] = 48788,
 			},
 		},
+		["Lucielea"] = {
+			["Wild Growth"] = {
+				["lowId"] = 48438,
+				["time"] = 1584800927.14,
+				["maxId"] = 53251,
+			},
+		},
+		["Gankowbrate"] = {
+			["Devastate"] = {
+				["lowId"] = 20243,
+				["time"] = 1582967229.933,
+				["maxId"] = 47498,
+			},
+		},
+		["Opheila"] = {
+			["Scourge Strike"] = {
+				["lowId"] = 55090,
+				["time"] = 1586187448.947,
+				["maxId"] = 55271,
+			},
+		},
+		["Kheerra"] = {
+			["Ancestral Spirit"] = {
+				["lowId"] = 20777,
+				["time"] = 1584556908.15,
+				["maxId"] = 49277,
+			},
+			["Flame Shock"] = {
+				["lowId"] = 29228,
+				["time"] = 1584558394.841,
+				["maxId"] = 49233,
+			},
+		},
+		["Kaiarra"] = {
+			["Fel Armor"] = {
+				["lowId"] = 47892,
+				["time"] = 1585997833.289,
+				["maxId"] = 47893,
+			},
+		},
+		["Piercedarrow"] = {
+			["Aspect of the Hawk"] = {
+				["lowId"] = 27044,
+				["time"] = 1585396819.146,
+				["maxId"] = 61847,
+			},
+		},
+		["Fathermaxi"] = {
+			["Inner Fire"] = {
+				["lowId"] = 10951,
+				["time"] = 1584304230.14,
+				["maxId"] = 48168,
+			},
+		},
+		["Ellonmusk"] = {
+			["Holy Light"] = {
+				["lowId"] = 10328,
+				["time"] = 1585489399.403,
+				["maxId"] = 48782,
+			},
+			["Flash of Light"] = {
+				["lowId"] = 19942,
+				["time"] = 1585489271.059,
+				["maxId"] = 48785,
+			},
+			["Hammer of Wrath"] = {
+				["lowId"] = 24275,
+				["time"] = 1585488816.353,
+				["maxId"] = 48806,
+			},
+			["Greater Blessing of Wisdom"] = {
+				["lowId"] = 25894,
+				["time"] = 1585489085.276,
+				["maxId"] = 48938,
+			},
+			["Consecration"] = {
+				["lowId"] = 20923,
+				["time"] = 1585489430.357,
+				["maxId"] = 48819,
+			},
+		},
+		["Theckah"] = {
+			["Resurrection"] = {
+				["lowId"] = 25435,
+				["time"] = 1583347592.412,
+				["maxId"] = 48171,
+			},
+		},
+		["Alataza"] = {
+			["Consecration"] = {
+				["lowId"] = 20922,
+				["time"] = 1586885947.342,
+				["maxId"] = 48819,
+			},
+		},
+		["Alangerlis"] = {
+			["Revive"] = {
+				["lowId"] = 50767,
+				["time"] = 1583872304.679,
+				["maxId"] = 50763,
+			},
+		},
+		["Rackzz"] = {
+			["Resurrection"] = {
+				["lowId"] = 2010,
+				["time"] = 1582569715.18,
+				["maxId"] = 48171,
+			},
+		},
+		["Onlyfs"] = {
+			["Scorch"] = {
+				["lowId"] = 27073,
+				["time"] = 1583000273.518,
+				["maxId"] = 42859,
+			},
+			["Arcane Brilliance"] = {
+				["lowId"] = 23028,
+				["time"] = 1583000138.915,
+				["maxId"] = 43002,
+			},
+		},
+		["Klaudi"] = {
+			["Instant Poison VIII"] = {
+				["lowId"] = 57964,
+				["time"] = 1581017999.667,
+				["maxId"] = 57965,
+			},
+		},
+		["Chichiman"] = {
+			["Fire Nova"] = {
+				["lowId"] = 11315,
+				["time"] = 1612901494.134,
+				["maxId"] = 61657,
+			},
+		},
+		["Pagafantas"] = {
+			["Shield of Righteousness"] = {
+				["lowId"] = 53600,
+				["time"] = 1581179127.024,
+				["maxId"] = 61411,
+			},
+			["Holy Shield"] = {
+				["lowId"] = 48951,
+				["time"] = 1581179138.194,
+				["maxId"] = 48952,
+			},
+		},
+		["Rockandrol"] = {
+			["Riptide"] = {
+				["lowId"] = 61300,
+				["time"] = 1582888501.229,
+				["maxId"] = 61301,
+			},
+			["Flametongue Totem"] = {
+				["lowId"] = 8249,
+				["time"] = 1582888243.67,
+				["maxId"] = 58656,
+			},
+			["Water Shield"] = {
+				["lowId"] = 52134,
+				["time"] = 1582888238.714,
+				["maxId"] = 57960,
+			},
+			["Stoneskin Totem"] = {
+				["lowId"] = 10406,
+				["time"] = 1582888243.67,
+				["maxId"] = 58753,
+			},
+			["Earth Shield"] = {
+				["lowId"] = 49283,
+				["time"] = 1582888455.404,
+				["maxId"] = 49284,
+			},
+		},
+		["Themken"] = {
+			["Wyvern Sting"] = {
+				["lowId"] = 19386,
+				["time"] = 1586086102.047,
+				["maxId"] = 49012,
+			},
+		},
+		["Khumpas"] = {
+			["Consecration"] = {
+				["lowId"] = 27173,
+				["time"] = 1581964575.431,
+				["maxId"] = 48819,
+			},
+		},
+		["Saarat"] = {
+			["Holy Shock"] = {
+				["lowId"] = 27174,
+				["time"] = 1585397035.541,
+				["maxId"] = 48825,
+			},
+		},
+		["Chicchi"] = {
+			["Wild Growth"] = {
+				["lowId"] = 53249,
+				["time"] = 1585073851.699,
+				["maxId"] = 53251,
+			},
+		},
+		["Litleclaw"] = {
+			["Healing Touch"] = {
+				["lowId"] = 9889,
+				["time"] = 1581018524.025,
+				["maxId"] = 48378,
+			},
+			["Rejuvenation"] = {
+				["lowId"] = 9841,
+				["time"] = 1581019009.829,
+				["maxId"] = 48441,
+			},
+			["Regrowth"] = {
+				["lowId"] = 9857,
+				["time"] = 1581018971.282,
+				["maxId"] = 48443,
+			},
+		},
+		["Snarkle"] = {
+			["Blizzard"] = {
+				["lowId"] = 10185,
+				["time"] = 1583872065.816,
+				["maxId"] = 42940,
+			},
+			["Molten Armor"] = {
+				["lowId"] = 43045,
+				["time"] = 1583872122.596,
+				["maxId"] = 43046,
+			},
+		},
+		["Mamman"] = {
+			["Shadow Word: Death"] = {
+				["lowId"] = 48157,
+				["time"] = 1585074683.804,
+				["maxId"] = 48158,
+			},
+		},
+		["Trn"] = {
+			["Greater Blessing of Might"] = {
+				["lowId"] = 48933,
+				["time"] = 1583347629.663,
+				["maxId"] = 48934,
+			},
+		},
+		["Bangu"] = {
+			["Water Shield"] = {
+				["lowId"] = 33736,
+				["time"] = 1581178330.459,
+				["maxId"] = 57960,
+			},
+		},
 	},
-	["delay"] = 3,
-	["whisperAllLevels"] = false,
 }

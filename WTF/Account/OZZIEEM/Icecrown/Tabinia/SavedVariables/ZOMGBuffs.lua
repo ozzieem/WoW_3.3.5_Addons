@@ -14,6 +14,10 @@ ZOMGBuffsPerCharDB = {
 	},
 	["namespaces"] = {
 		["SelfBuffs"] = {
+			["templates2"] = {
+				["current"] = {
+				},
+			},
 			["notlearnable"] = {
 				["Water Shield"] = true,
 			},
@@ -25,12 +29,6 @@ ZOMGBuffsPerCharDB = {
 				["Ankh"] = 10,
 			},
 		},
-		["Log"] = {
-		},
-		["BlessingsManager"] = {
-		},
-		["Portalz"] = {
-		},
 		["BuffTehRaid"] = {
 			["templates"] = {
 				["current"] = {
@@ -38,6 +36,15 @@ ZOMGBuffsPerCharDB = {
 					["limited"] = {
 					},
 					["EARTHSHIELD"] = true,
+				},
+			},
+			["templates2"] = {
+				["Default"] = {
+				},
+				["current"] = {
+					["modified"] = true,
+					["limited"] = {
+					},
 				},
 			},
 			["postracker"] = {
@@ -52,7 +59,14 @@ ZOMGBuffsPerCharDB = {
 				},
 			},
 			["selectedTemplate"] = "Default",
+			["selectedTemplate2"] = "Default",
 			["firstRun"] = true,
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["Log"] = {
 		},
 	},
 }

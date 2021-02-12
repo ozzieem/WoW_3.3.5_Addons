@@ -4,27 +4,27 @@ BeanCounterDB = {
 		["Dranah"] = {
 			["vendorsell"] = {
 			},
+			["postedBids"] = {
+			},
 			["completedAuctions"] = {
 			},
-			["postedBids"] = {
+			["wealth"] = 0,
+			["postedAuctions"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["completedBidsBuyouts"] = {
-			},
+			["version"] = 2.12,
 			["failedBidsNeutral"] = {
 			},
 			["faction"] = "unknown",
-			["version"] = 2.12,
+			["completedBidsBuyouts"] = {
+			},
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -37,68 +37,6 @@ BeanCounterDB = {
 		["Lawron"] = {
 			["vendorsell"] = {
 			},
-			["completedAuctions"] = {
-			},
-			["postedBids"] = {
-			},
-			["completedBidsBuyoutsNeutral"] = {
-			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
-			["vendorbuy"] = {
-			},
-			["failedAuctions"] = {
-			},
-			["failedBids"] = {
-			},
-			["completedBidsBuyouts"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
-			["failedBidsNeutral"] = {
-			},
-			["failedAuctionsNeutral"] = {
-			},
-			["completedAuctionsNeutral"] = {
-			},
-			["mailbox"] = {
-			},
-		},
-		["Themken"] = {
-			["vendorsell"] = {
-			},
-			["completedAuctions"] = {
-			},
-			["postedBids"] = {
-			},
-			["completedBidsBuyoutsNeutral"] = {
-			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
-			["vendorbuy"] = {
-			},
-			["failedAuctions"] = {
-			},
-			["failedBids"] = {
-			},
-			["completedBidsBuyouts"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
-			["failedBidsNeutral"] = {
-			},
-			["failedAuctionsNeutral"] = {
-			},
-			["completedAuctionsNeutral"] = {
-			},
-			["mailbox"] = {
-			},
-		},
-		["Dranah"] = {
-			["vendorsell"] = {
-			},
 			["postedBids"] = {
 			},
 			["completedAuctions"] = {
@@ -130,26 +68,26 @@ BeanCounterDB = {
 		["Lawras"] = {
 			["vendorsell"] = {
 			},
+			["postedBids"] = {
+			},
 			["completedAuctions"] = {
 			},
-			["postedBids"] = {
+			["wealth"] = 0,
+			["postedAuctions"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["completedBidsBuyouts"] = {
+			["failedBidsNeutral"] = {
 			},
 			["version"] = 2.12,
 			["faction"] = "unknown",
-			["failedBidsNeutral"] = {
+			["completedBidsBuyouts"] = {
 			},
 			["failedAuctionsNeutral"] = {
 			},
@@ -158,9 +96,7 @@ BeanCounterDB = {
 			["mailbox"] = {
 			},
 		},
-	},
-	["Frostmourne"] = {
-		["Liadra"] = {
+		["Dranah"] = {
 			["vendorsell"] = {
 			},
 			["completedAuctions"] = {
@@ -184,6 +120,37 @@ BeanCounterDB = {
 			},
 			["faction"] = "unknown",
 			["version"] = 2.12,
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["mailbox"] = {
+			},
+		},
+		["Themken"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["wealth"] = 0,
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBids"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["version"] = 2.12,
+			["faction"] = "unknown",
+			["completedBidsBuyouts"] = {
+			},
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -196,27 +163,27 @@ BeanCounterDB = {
 		["Maldira"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -225,10 +192,8 @@ BeanCounterDB = {
 			},
 		},
 	},
-	["ItemIDArray"] = {
-	},
-	["Icecrown"] = {
-		["Warmat"] = {
+	["Frostmourne"] = {
+		["Liadra"] = {
 			["vendorsell"] = {
 			},
 			["postedBids"] = {
@@ -251,6 +216,39 @@ BeanCounterDB = {
 			},
 			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+	["Icecrown"] = {
+		["Warmat"] = {
+			["vendorsell"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["postedBids"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["version"] = 2.12,
+			["faction"] = "unknown",
+			["failedBidsNeutral"] = {
 			},
 			["failedAuctionsNeutral"] = {
 			},
@@ -262,27 +260,27 @@ BeanCounterDB = {
 		["Wilinia"] = {
 			["vendorsell"] = {
 			},
+			["postedBids"] = {
+			},
 			["completedAuctions"] = {
 			},
-			["postedBids"] = {
+			["wealth"] = 0,
+			["postedAuctions"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["completedBidsBuyouts"] = {
-			},
+			["version"] = 2.12,
 			["failedBidsNeutral"] = {
 			},
 			["faction"] = "unknown",
-			["version"] = 2.12,
+			["completedBidsBuyouts"] = {
+			},
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -293,27 +291,27 @@ BeanCounterDB = {
 		["Modos"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -324,27 +322,27 @@ BeanCounterDB = {
 		["Elendraa"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -355,27 +353,27 @@ BeanCounterDB = {
 		["Delras"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -386,27 +384,27 @@ BeanCounterDB = {
 		["Maulh"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -417,27 +415,27 @@ BeanCounterDB = {
 		["Themken"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -448,27 +446,27 @@ BeanCounterDB = {
 		["Allisone"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -479,26 +477,26 @@ BeanCounterDB = {
 		["Maldir"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["version"] = 2.12,
-			["failedBidsNeutral"] = {
-			},
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
+			},
+			["version"] = 2.12,
+			["faction"] = "unknown",
+			["failedBidsNeutral"] = {
 			},
 			["failedAuctionsNeutral"] = {
 			},
@@ -510,27 +508,27 @@ BeanCounterDB = {
 		["Mandatum"] = {
 			["vendorsell"] = {
 			},
+			["postedBids"] = {
+			},
 			["completedAuctions"] = {
 			},
-			["postedBids"] = {
+			["wealth"] = 0,
+			["postedAuctions"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
-			["postedAuctions"] = {
-			},
-			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["completedBidsBuyouts"] = {
-			},
+			["version"] = 2.12,
 			["failedBidsNeutral"] = {
 			},
 			["faction"] = "unknown",
-			["version"] = 2.12,
+			["completedBidsBuyouts"] = {
+			},
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -541,27 +539,27 @@ BeanCounterDB = {
 		["Tabinia"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -572,27 +570,27 @@ BeanCounterDB = {
 		["Dranah"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -603,27 +601,27 @@ BeanCounterDB = {
 		["Suprema"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
-			["failedBidsNeutral"] = {
-			},
-			["version"] = 2.12,
-			["faction"] = "unknown",
 			["completedBidsBuyouts"] = {
 			},
+			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
 			["failedAuctionsNeutral"] = {
 			},
 			["completedAuctionsNeutral"] = {
@@ -634,22 +632,57 @@ BeanCounterDB = {
 		["Lawras"] = {
 			["vendorsell"] = {
 			},
-			["postedBids"] = {
-			},
 			["completedAuctions"] = {
 			},
-			["wealth"] = 0,
-			["postedAuctions"] = {
+			["postedBids"] = {
 			},
 			["completedBidsBuyoutsNeutral"] = {
 			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
 			["vendorbuy"] = {
 			},
 			["failedAuctions"] = {
 			},
 			["failedBids"] = {
 			},
+			["completedBidsBuyouts"] = {
+			},
 			["failedBidsNeutral"] = {
+			},
+			["faction"] = "unknown",
+			["version"] = 2.12,
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+	["ItemIDArray"] = {
+	},
+	["Frozen Nexus [Custom]"] = {
+		["Pala"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 0,
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["failedBids"] = {
 			},
 			["version"] = 2.12,
 			["faction"] = "unknown",

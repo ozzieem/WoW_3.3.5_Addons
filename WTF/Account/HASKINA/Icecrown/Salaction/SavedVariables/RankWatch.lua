@@ -53,10 +53,10 @@ RankWatchSettings = {
 				["time"] = 1566008309.093,
 				["maxId"] = 13018,
 			},
-			["Scorch"] = {
-				["lowId"] = 27074,
-				["time"] = 1581768249.29,
-				["maxId"] = 42858,
+			["Frost Nova"] = {
+				["lowId"] = 10230,
+				["time"] = 1566306157.022,
+				["maxId"] = 27088,
 			},
 			["Arcane Intellect"] = {
 				["lowId"] = 10156,
@@ -68,10 +68,10 @@ RankWatchSettings = {
 				["time"] = 1581767965.355,
 				["maxId"] = 42930,
 			},
-			["Frost Nova"] = {
-				["lowId"] = 10230,
-				["time"] = 1566306157.022,
-				["maxId"] = 27088,
+			["Scorch"] = {
+				["lowId"] = 27074,
+				["time"] = 1581768249.29,
+				["maxId"] = 42858,
 			},
 		},
 		["Contdracula"] = {
@@ -165,35 +165,35 @@ RankWatchSettings = {
 				["time"] = 1566640423.612,
 				["maxId"] = 27149,
 			},
-			["Consecration"] = {
-				["lowId"] = 20924,
-				["time"] = 1566640422.104,
-				["maxId"] = 27173,
+			["Holy Shield"] = {
+				["lowId"] = 20928,
+				["time"] = 1566640420.533,
+				["maxId"] = 27179,
 			},
 			["Avenger's Shield"] = {
 				["lowId"] = 32699,
 				["time"] = 1566640407.252,
 				["maxId"] = 32700,
 			},
-			["Holy Shield"] = {
-				["lowId"] = 20928,
-				["time"] = 1566640420.533,
-				["maxId"] = 27179,
+			["Consecration"] = {
+				["lowId"] = 20924,
+				["time"] = 1566640422.104,
+				["maxId"] = 27173,
 			},
-			["Redemption"] = {
-				["lowId"] = 20773,
-				["time"] = 1566640115.72,
-				["maxId"] = 48949,
+			["Blessing of Might"] = {
+				["lowId"] = 25291,
+				["time"] = 1566640349.159,
+				["maxId"] = 27140,
 			},
 			["Blessing of Wisdom"] = {
 				["lowId"] = 27142,
 				["time"] = 1566640137.322,
 				["maxId"] = 48935,
 			},
-			["Blessing of Might"] = {
-				["lowId"] = 25291,
-				["time"] = 1566640349.159,
-				["maxId"] = 27140,
+			["Redemption"] = {
+				["lowId"] = 20773,
+				["time"] = 1566640115.72,
+				["maxId"] = 48949,
 			},
 		},
 		["Mjayy"] = {
@@ -391,15 +391,15 @@ RankWatchSettings = {
 				["time"] = 1566211794.273,
 				["maxId"] = 20923,
 			},
-			["Blessing of Wisdom"] = {
-				["lowId"] = 19853,
-				["time"] = 1566209892.161,
-				["maxId"] = 19854,
-			},
 			["Hammer of Wrath"] = {
 				["lowId"] = 24275,
 				["time"] = 1566211820.234,
 				["maxId"] = 24274,
+			},
+			["Blessing of Wisdom"] = {
+				["lowId"] = 19853,
+				["time"] = 1566209892.161,
+				["maxId"] = 19854,
 			},
 		},
 		["Kovacspurk"] = {
@@ -428,15 +428,22 @@ RankWatchSettings = {
 				["time"] = 1566295796.66,
 				["maxId"] = 24239,
 			},
+			["Blessing of Wisdom"] = {
+				["lowId"] = 19854,
+				["time"] = 1566294096.973,
+				["maxId"] = 25290,
+			},
 			["Retribution Aura"] = {
 				["lowId"] = 7294,
 				["time"] = 1566295744.411,
 				["maxId"] = 10301,
 			},
-			["Blessing of Wisdom"] = {
-				["lowId"] = 19854,
-				["time"] = 1566294096.973,
-				["maxId"] = 25290,
+		},
+		["Splosion"] = {
+			["Devotion Aura"] = {
+				["lowId"] = 10290,
+				["time"] = 1565993481.521,
+				["maxId"] = 643,
 			},
 		},
 		["Hardlow"] = {
@@ -451,11 +458,21 @@ RankWatchSettings = {
 				["maxId"] = 25590,
 			},
 		},
-		["Splosion"] = {
-			["Devotion Aura"] = {
-				["lowId"] = 10290,
-				["time"] = 1565993481.521,
-				["maxId"] = 643,
+		["Drogol"] = {
+			["Plague Strike"] = {
+				["lowId"] = 49917,
+				["time"] = 1566295800.765,
+				["maxId"] = 49918,
+			},
+			["Heart Strike"] = {
+				["lowId"] = 55050,
+				["time"] = 1566295794.919,
+				["maxId"] = 55259,
+			},
+			["Blood Boil"] = {
+				["lowId"] = 48721,
+				["time"] = 1566294981.526,
+				["maxId"] = 49939,
 			},
 		},
 		["Lunt"] = {
@@ -480,23 +497,6 @@ RankWatchSettings = {
 				["lowId"] = 11565,
 				["time"] = 1566175879.17,
 				["maxId"] = 11566,
-			},
-		},
-		["Drogol"] = {
-			["Plague Strike"] = {
-				["lowId"] = 49917,
-				["time"] = 1566295800.765,
-				["maxId"] = 49918,
-			},
-			["Heart Strike"] = {
-				["lowId"] = 55050,
-				["time"] = 1566295794.919,
-				["maxId"] = 55259,
-			},
-			["Blood Boil"] = {
-				["lowId"] = 48721,
-				["time"] = 1566294981.526,
-				["maxId"] = 49939,
 			},
 		},
 		["Konobaricaa"] = {

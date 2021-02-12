@@ -8,11 +8,11 @@ VolumizerPresets = {
 				["enable"] = 1,
 				["volume"] = 0.6,
 			},
-			["loop"] = 0,
 			["master"] = {
 				["enable"] = 1,
 				["volume"] = 1,
 			},
+			["loop"] = 0,
 			["background"] = 0,
 			["sfx"] = {
 				["enable"] = 1,
@@ -35,11 +35,11 @@ VolumizerPresets = {
 				["enable"] = 1,
 				["volume"] = 0.6,
 			},
-			["loop"] = 0,
 			["master"] = {
 				["enable"] = 1,
 				["volume"] = 1,
 			},
+			["loop"] = 0,
 			["background"] = 0,
 			["sfx"] = {
 				["enable"] = 1,
@@ -62,11 +62,11 @@ VolumizerPresets = {
 				["enable"] = 1,
 				["volume"] = 0.6,
 			},
-			["loop"] = 0,
 			["master"] = {
 				["enable"] = 1,
 				["volume"] = 1,
 			},
+			["loop"] = 0,
 			["background"] = 0,
 			["sfx"] = {
 				["enable"] = 1,
@@ -89,11 +89,11 @@ VolumizerPresets = {
 				["enable"] = 1,
 				["volume"] = 0.6,
 			},
-			["loop"] = 0,
 			["master"] = {
 				["enable"] = 1,
 				["volume"] = 1,
 			},
+			["loop"] = 0,
 			["background"] = 0,
 			["sfx"] = {
 				["enable"] = 1,
@@ -116,11 +116,11 @@ VolumizerPresets = {
 				["enable"] = 1,
 				["volume"] = 0.6,
 			},
-			["loop"] = 0,
 			["master"] = {
 				["enable"] = 1,
 				["volume"] = 1,
 			},
+			["loop"] = 0,
 			["background"] = 0,
 			["sfx"] = {
 				["enable"] = 1,

@@ -8,3 +8,5 @@ TradeSkillMaster_Mailing: disabled
 LootRolls: enabled
 LootHog: disabled
 RollTracker: disabled
+TBag: enabled
+TellMeWhen: disabled

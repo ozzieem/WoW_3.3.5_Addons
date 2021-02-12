@@ -78,6 +78,10 @@ local function GetTalentTabPoints(i)
 	return pts;
 end
 
+function raid_browser.stats.get_short_gs(gs)
+	return (math.floor(gs / 100) + 1) / 10; -- convert to decimal and increase by 0.1 for rough round up
+end
+
 function raid_browser.stats.active_spec_index()
 	local indices = raid_browser.algorithm.transform({1, 2, 3}, GetTalentTabPoints)
 	local i, v = raid_browser.algorithm.max_of(indices);
@@ -104,9 +108,10 @@ end
 
 function raid_browser.stats.raid_lock_info(instance_name, size)
 	for i = 1, GetNumSavedInstances() do
-		local saved_name, _, reset, _, _, _, _, _, saved_size = GetSavedInstanceInfo(i);
+		local saved_name, _, reset, _, locked, _, _, _, saved_size = GetSavedInstanceInfo(i);
 		
-		if saved_name == instance_name and saved_size == size then
+		if saved_name == instance_name and saved_size == size and locked then
+			--print("Saved to " .. saved_name .. " " .. saved_size .. " Sec till Reset: " .. reset .. " Locked? " .. tostring(locked))
 			return true, reset;
 		end
 	end
@@ -156,11 +161,10 @@ function raid_browser.stats.save_secondary_raidset()
 end
 
 function raid_browser.stats.build_inv_string(raid_name)
-	local message = 'inv ';
+	local spec, gs = raid_browser.stats.current_raidset();
 	local class = UnitClass("player");
 	
-	local spec, gs = raid_browser.stats.current_raidset();
-	message = message .. gs .. 'gs ' .. spec .. ' ' .. class;
+	local message = spec .. ' ' .. class .. ' here. ' .. raid_browser.stats.get_short_gs(gs) .. 'k gs.' ;
 	
 	-- Remove difficulty and raid_name size from the string
 	raid_name = string.gsub(raid_name, '[1|2][0|5](%w+)', '');

@@ -1,0 +1,34 @@
+
+ZOMGBuffsPerCharDB = {
+	["global"] = {
+		["firstStartup"] = false,
+	},
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["hfbdone"] = true,
+			["notlearnable"] = {
+			},
+			["rebuff"] = {
+				["Hunger For Blood"] = 5,
+			},
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+		["Log"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+	},
+}

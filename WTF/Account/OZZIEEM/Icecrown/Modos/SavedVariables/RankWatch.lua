@@ -8,12 +8,31 @@ RankWatchSettings = {
 	["levels"] = 1,
 	["channel"] = 3,
 	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
 	["reports"] = {
 		["Zonnax"] = {
 			["Devotion Aura"] = {
 				["lowId"] = 643,
 				["time"] = 1565909855.996,
 				["maxId"] = 1032,
+			},
+		},
+		["Dutty"] = {
+			["Ferocious Bite"] = {
+				["lowId"] = 24248,
+				["time"] = 1612828955.073,
+				["maxId"] = 48576,
+			},
+			["Rake"] = {
+				["lowId"] = 27003,
+				["time"] = 1612828993.658,
+				["maxId"] = 48573,
+			},
+			["Swipe (Bear)"] = {
+				["lowId"] = 26997,
+				["time"] = 1612829042.304,
+				["maxId"] = 48561,
 			},
 		},
 		["Firespam"] = {
@@ -70,6 +89,33 @@ RankWatchSettings = {
 				["maxId"] = 9885,
 			},
 		},
+		["Druidikax"] = {
+			["Healing Touch"] = {
+				["lowId"] = 26978,
+				["time"] = 1594673632.486,
+				["maxId"] = 26979,
+			},
+			["Tranquility"] = {
+				["lowId"] = 9863,
+				["time"] = 1594673591.116,
+				["maxId"] = 26983,
+			},
+			["Rejuvenation"] = {
+				["lowId"] = 26981,
+				["time"] = 1594673637.189,
+				["maxId"] = 26982,
+			},
+			["Wild Growth"] = {
+				["lowId"] = 48438,
+				["time"] = 1594673613.532,
+				["maxId"] = 53248,
+			},
+			["Mark of the Wild"] = {
+				["lowId"] = 9885,
+				["time"] = 1594673126.401,
+				["maxId"] = 26990,
+			},
+		},
 		["Uribexx"] = {
 			["Plague Strike"] = {
 				["lowId"] = 49917,
@@ -109,15 +155,54 @@ RankWatchSettings = {
 				["time"] = 1582461273.156,
 				["maxId"] = 2048,
 			},
+			["Cleave"] = {
+				["lowId"] = 20569,
+				["time"] = 1582461798.425,
+				["maxId"] = 25231,
+			},
 			["Heroic Strike"] = {
 				["lowId"] = 25286,
 				["time"] = 1582461885.843,
 				["maxId"] = 30324,
 			},
-			["Cleave"] = {
-				["lowId"] = 20569,
-				["time"] = 1582461798.425,
-				["maxId"] = 25231,
+		},
+		["Gillthunder"] = {
+			["Rend"] = {
+				["lowId"] = 25208,
+				["time"] = 1594673400.75,
+				["maxId"] = 46845,
+			},
+		},
+		["Bonermonster"] = {
+			["Corruption"] = {
+				["lowId"] = 27216,
+				["time"] = 1612829576.828,
+				["maxId"] = 47812,
+			},
+			["Fel Armor"] = {
+				["lowId"] = 28176,
+				["time"] = 1612829564.049,
+				["maxId"] = 28189,
+			},
+			["Haunt"] = {
+				["lowId"] = 48181,
+				["time"] = 1612829553.302,
+				["maxId"] = 59161,
+			},
+			["Drain Life"] = {
+				["lowId"] = 27219,
+				["time"] = 1612829565.069,
+				["maxId"] = 27220,
+			},
+			["Unstable Affliction"] = {
+				["lowId"] = 30404,
+				["time"] = 1612829569.307,
+				["maxId"] = 30405,
+			},
+			["Shadow Bolt"] = {
+				["lowId"] = 25307,
+				["time"] = 1612829543.623,
+				["maxId"] = 27209,
 			},
 		},
 		["Spoogly"] = {
@@ -160,6 +245,185 @@ RankWatchSettings = {
 				["maxId"] = 20924,
 			},
 		},
+		["Empsydemic"] = {
+			["Renew"] = {
+				["lowId"] = 25222,
+				["time"] = 1612828723.597,
+				["maxId"] = 48067,
+			},
+			["Holy Fire"] = {
+				["lowId"] = 25384,
+				["time"] = 1612829064.589,
+				["maxId"] = 48134,
+			},
+			["Flash Heal"] = {
+				["lowId"] = 25235,
+				["time"] = 1612829224.015,
+				["maxId"] = 48070,
+			},
+			["Holy Nova"] = {
+				["lowId"] = 25331,
+				["time"] = 1612828985.189,
+				["maxId"] = 48077,
+			},
+			["Binding Heal"] = {
+				["lowId"] = 32546,
+				["time"] = 1612828940.779,
+				["maxId"] = 48119,
+			},
+			["Prayer of Mending"] = {
+				["lowId"] = 33076,
+				["time"] = 1612829203.35,
+				["maxId"] = 48112,
+			},
+			["Mind Blast"] = {
+				["lowId"] = 25375,
+				["time"] = 1612829059.442,
+				["maxId"] = 48126,
+			},
+			["Devouring Plague"] = {
+				["lowId"] = 25467,
+				["time"] = 1612829193.641,
+				["maxId"] = 48299,
+			},
+			["Power Word: Shield"] = {
+				["lowId"] = 25218,
+				["time"] = 1612828400.956,
+				["maxId"] = 48065,
+			},
+			["Smite"] = {
+				["lowId"] = 25364,
+				["time"] = 1612829142.706,
+				["maxId"] = 48122,
+			},
+			["Shadow Word: Pain"] = {
+				["lowId"] = 25368,
+				["time"] = 1612829186.078,
+				["maxId"] = 48124,
+			},
+			["Inner Fire"] = {
+				["lowId"] = 25431,
+				["time"] = 1612828378.418,
+				["maxId"] = 48040,
+			},
+		},
+		["Modos"] = {
+			["Regrowth"] = {
+				["lowId"] = 26980,
+				["time"] = 1585506017.086,
+				["maxId"] = 48442,
+			},
+			["Ferocious Bite"] = {
+				["lowId"] = 31018,
+				["time"] = 1581706064.461,
+				["maxId"] = 24248,
+			},
+			["Wild Growth"] = {
+				["lowId"] = 48438,
+				["time"] = 1585506894.753,
+				["maxId"] = 53248,
+			},
+			["Mark of the Wild"] = {
+				["lowId"] = 9885,
+				["time"] = 1582463969.675,
+				["maxId"] = 26990,
+			},
+			["Maul"] = {
+				["lowId"] = 9881,
+				["time"] = 1582463289.266,
+				["maxId"] = 26996,
+			},
+			["Mangle (Bear)"] = {
+				["lowId"] = 33986,
+				["time"] = 1582463290.714,
+				["maxId"] = 33987,
+			},
+			["Demoralizing Roar"] = {
+				["lowId"] = 9898,
+				["time"] = 1581706131.492,
+				["maxId"] = 26998,
+			},
+			["Gift of the Wild"] = {
+				["lowId"] = 21850,
+				["time"] = 1582461773.985,
+				["maxId"] = 26991,
+			},
+			["Swipe (Bear)"] = {
+				["lowId"] = 9908,
+				["time"] = 1581706161.589,
+				["maxId"] = 26997,
+			},
+			["Starfire"] = {
+				["lowId"] = 25298,
+				["time"] = 1582463366.033,
+				["maxId"] = 26986,
+			},
+			["Rip"] = {
+				["lowId"] = 27008,
+				["time"] = 1585506443.821,
+				["maxId"] = 49799,
+			},
+			["Tiger's Fury"] = {
+				["lowId"] = 9846,
+				["time"] = 1585506489.129,
+				["maxId"] = 50212,
+			},
+			["Nature's Grasp"] = {
+				["lowId"] = 17329,
+				["time"] = 1582463347.897,
+				["maxId"] = 27009,
+			},
+			["Rebirth"] = {
+				["lowId"] = 20747,
+				["time"] = 1581261106.226,
+				["maxId"] = 20748,
+			},
+			["Shred"] = {
+				["lowId"] = 27001,
+				["time"] = 1582462495,
+				["maxId"] = 27002,
+			},
+			["Rejuvenation"] = {
+				["lowId"] = 26981,
+				["time"] = 1582463981.103,
+				["maxId"] = 26982,
+			},
+			["Ravage"] = {
+				["lowId"] = 6785,
+				["time"] = 1565911903.803,
+				["maxId"] = 6787,
+			},
+			["Tranquility"] = {
+				["lowId"] = 9862,
+				["time"] = 1581260298.983,
+				["maxId"] = 9863,
+			},
+			["Rake"] = {
+				["lowId"] = 9904,
+				["time"] = 1581706064.259,
+				["maxId"] = 27003,
+			},
+			["Revive"] = {
+				["lowId"] = 50765,
+				["time"] = 1582463779.091,
+				["maxId"] = 50764,
+			},
+			["Claw"] = {
+				["lowId"] = 5201,
+				["time"] = 1565911921.335,
+				["maxId"] = 9849,
+			},
+			["Mangle (Cat)"] = {
+				["lowId"] = 33982,
+				["time"] = 1582463642.478,
+				["maxId"] = 33983,
+			},
+			["Thorns"] = {
+				["lowId"] = 9756,
+				["time"] = 1567762017.181,
+				["maxId"] = 9910,
+			},
+		},
 		["Lifeofcomrad"] = {
 			["Desperate Prayer"] = {
 				["lowId"] = 19238,
@@ -196,15 +460,49 @@ RankWatchSettings = {
 				["time"] = 1565908312.814,
 				["maxId"] = 2791,
 			},
+			["Dispel Magic"] = {
+				["lowId"] = 527,
+				["time"] = 1565908732.9,
+				["maxId"] = 988,
+			},
 			["Resurrection"] = {
 				["lowId"] = 2010,
 				["time"] = 1565908033.125,
 				["maxId"] = 10880,
 			},
-			["Dispel Magic"] = {
-				["lowId"] = 527,
-				["time"] = 1565908732.9,
-				["maxId"] = 988,
+		},
+		["Samgar"] = {
+			["Ambush"] = {
+				["lowId"] = 48689,
+				["time"] = 1594673363.87,
+				["maxId"] = 48690,
+			},
+			["Instant Poison VII"] = {
+				["lowId"] = 26890,
+				["time"] = 1594673633.062,
+				["maxId"] = 57964,
+			},
+			["Sinister Strike"] = {
+				["lowId"] = 26862,
+				["time"] = 1594673633.062,
+				["maxId"] = 48637,
+			},
+			["Deadly Poison VII"] = {
+				["lowId"] = 27187,
+				["time"] = 1594673639.07,
+				["maxId"] = 57972,
+			},
+		},
+		["Anvorguesa"] = {
+			["Mend Pet"] = {
+				["lowId"] = 3661,
+				["time"] = 1565908038.965,
+				["maxId"] = 3662,
+			},
+			["Arcane Shot"] = {
+				["lowId"] = 14282,
+				["time"] = 1565908832.864,
+				["maxId"] = 14284,
 			},
 		},
 		["Windeh"] = {
@@ -229,31 +527,21 @@ RankWatchSettings = {
 				["maxId"] = 20569,
 			},
 		},
-		["Vladush"] = {
-			["Mongoose Bite"] = {
-				["lowId"] = 14269,
-				["time"] = 1582461626.325,
-				["maxId"] = 53339,
+		["Lockasaurus"] = {
+			["Corruption"] = {
+				["lowId"] = 27216,
+				["time"] = 1594673456.595,
+				["maxId"] = 47812,
 			},
-			["Explosive Trap"] = {
-				["lowId"] = 27025,
-				["time"] = 1582461793.493,
-				["maxId"] = 49067,
+			["Create Soulstone"] = {
+				["lowId"] = 20757,
+				["time"] = 1594673106.1,
+				["maxId"] = 27238,
 			},
-			["Mend Pet"] = {
-				["lowId"] = 48989,
-				["time"] = 1582461916.047,
-				["maxId"] = 48990,
-			},
-			["Multi-Shot"] = {
-				["lowId"] = 27021,
-				["time"] = 1582461784.661,
-				["maxId"] = 49048,
-			},
-			["Volley"] = {
-				["lowId"] = 14295,
-				["time"] = 1582461786.175,
-				["maxId"] = 58434,
+			["Soul Fire"] = {
+				["lowId"] = 27211,
+				["time"] = 1594673398.025,
+				["maxId"] = 30545,
 			},
 		},
 		["Brismax"] = {
@@ -297,41 +585,21 @@ RankWatchSettings = {
 				["maxId"] = 25306,
 			},
 		},
-		["Mambaleyla"] = {
-			["Fireball"] = {
-				["lowId"] = 10149,
-				["time"] = 1581199797.304,
-				["maxId"] = 10150,
+		["Huahuo"] = {
+			["Renew"] = {
+				["lowId"] = 25315,
+				["time"] = 1582460189.121,
+				["maxId"] = 25221,
 			},
-			["Pyroblast"] = {
-				["lowId"] = 12525,
-				["time"] = 1581199909.665,
-				["maxId"] = 12526,
+			["Power Word: Shield"] = {
+				["lowId"] = 10901,
+				["time"] = 1582460164.673,
+				["maxId"] = 25217,
 			},
-			["Frost Nova"] = {
-				["lowId"] = 6131,
-				["time"] = 1581199679.677,
-				["maxId"] = 10230,
-			},
-			["Blizzard"] = {
-				["lowId"] = 10185,
-				["time"] = 1581199978.211,
-				["maxId"] = 10186,
-			},
-			["Scorch"] = {
-				["lowId"] = 10205,
-				["time"] = 1581199989.457,
-				["maxId"] = 10206,
-			},
-			["Cone of Cold"] = {
-				["lowId"] = 10159,
-				["time"] = 1581199958.09,
-				["maxId"] = 10160,
-			},
-			["Fire Blast"] = {
-				["lowId"] = 10197,
-				["time"] = 1581199909.777,
-				["maxId"] = 10199,
+			["Flash Heal"] = {
+				["lowId"] = 10917,
+				["time"] = 1582459911.1,
+				["maxId"] = 25233,
 			},
 		},
 		["Saxone"] = {
@@ -350,20 +618,20 @@ RankWatchSettings = {
 				["time"] = 1581261309.87,
 				["maxId"] = 14287,
 			},
-			["Mend Pet"] = {
-				["lowId"] = 13542,
-				["time"] = 1581259185.8,
-				["maxId"] = 13544,
-			},
-			["Hunter's Mark"] = {
-				["lowId"] = 14324,
-				["time"] = 1581261306.78,
-				["maxId"] = 14325,
+			["Serpent Sting"] = {
+				["lowId"] = 13553,
+				["time"] = 1581261311.591,
+				["maxId"] = 25295,
 			},
 			["Aimed Shot"] = {
 				["lowId"] = 20902,
 				["time"] = 1581261311.591,
 				["maxId"] = 20904,
+			},
+			["Hunter's Mark"] = {
+				["lowId"] = 14324,
+				["time"] = 1581261306.78,
+				["maxId"] = 14325,
 			},
 			["Mongoose Bite"] = {
 				["lowId"] = 1495,
@@ -375,27 +643,47 @@ RankWatchSettings = {
 				["time"] = 1581261247.994,
 				["maxId"] = 25294,
 			},
-			["Serpent Sting"] = {
-				["lowId"] = 13553,
-				["time"] = 1581261311.591,
-				["maxId"] = 25295,
+			["Mend Pet"] = {
+				["lowId"] = 13542,
+				["time"] = 1581259185.8,
+				["maxId"] = 13544,
 			},
 		},
-		["Huahuo"] = {
-			["Renew"] = {
-				["lowId"] = 25315,
-				["time"] = 1582460189.121,
-				["maxId"] = 25221,
+		["Mambaleyla"] = {
+			["Fireball"] = {
+				["lowId"] = 10149,
+				["time"] = 1581199797.304,
+				["maxId"] = 10150,
 			},
-			["Power Word: Shield"] = {
-				["lowId"] = 10901,
-				["time"] = 1582460164.673,
-				["maxId"] = 25217,
+			["Pyroblast"] = {
+				["lowId"] = 12525,
+				["time"] = 1581199909.665,
+				["maxId"] = 12526,
 			},
-			["Flash Heal"] = {
-				["lowId"] = 10917,
-				["time"] = 1582459911.1,
-				["maxId"] = 25233,
+			["Blizzard"] = {
+				["lowId"] = 10185,
+				["time"] = 1581199978.211,
+				["maxId"] = 10186,
+			},
+			["Frost Nova"] = {
+				["lowId"] = 6131,
+				["time"] = 1581199679.677,
+				["maxId"] = 10230,
+			},
+			["Scorch"] = {
+				["lowId"] = 10205,
+				["time"] = 1581199989.457,
+				["maxId"] = 10206,
+			},
+			["Cone of Cold"] = {
+				["lowId"] = 10159,
+				["time"] = 1581199958.09,
+				["maxId"] = 10160,
+			},
+			["Fire Blast"] = {
+				["lowId"] = 10197,
+				["time"] = 1581199909.777,
+				["maxId"] = 10199,
 			},
 		},
 		["Xdxdxdxdxd"] = {
@@ -456,175 +744,70 @@ RankWatchSettings = {
 				["maxId"] = 27071,
 			},
 		},
-		["Modos"] = {
-			["Regrowth"] = {
-				["lowId"] = 26980,
-				["time"] = 1585506017.086,
-				["maxId"] = 48442,
+		["Circunsicion"] = {
+			["Blessing of Wisdom"] = {
+				["lowId"] = 19852,
+				["time"] = 1565823507.874,
+				["maxId"] = 19853,
 			},
-			["Ferocious Bite"] = {
-				["lowId"] = 31018,
-				["time"] = 1581706064.461,
-				["maxId"] = 24248,
+			["Devotion Aura"] = {
+				["lowId"] = 10291,
+				["time"] = 1565823850.244,
+				["maxId"] = 1032,
 			},
-			["Wild Growth"] = {
-				["lowId"] = 48438,
-				["time"] = 1585506894.753,
-				["maxId"] = 53248,
+			["Hand of Protection"] = {
+				["lowId"] = 1022,
+				["time"] = 1565823743.16,
+				["maxId"] = 10278,
 			},
-			["Mark of the Wild"] = {
-				["lowId"] = 9885,
-				["time"] = 1582463969.675,
-				["maxId"] = 26990,
-			},
-			["Maul"] = {
-				["lowId"] = 9881,
-				["time"] = 1582463289.266,
-				["maxId"] = 26996,
-			},
-			["Mangle (Bear)"] = {
-				["lowId"] = 33986,
-				["time"] = 1582463290.714,
-				["maxId"] = 33987,
-			},
-			["Demoralizing Roar"] = {
-				["lowId"] = 9898,
-				["time"] = 1581706131.492,
-				["maxId"] = 26998,
-			},
-			["Gift of the Wild"] = {
-				["lowId"] = 21850,
-				["time"] = 1582461773.985,
-				["maxId"] = 26991,
-			},
-			["Thorns"] = {
-				["lowId"] = 9756,
-				["time"] = 1567762017.181,
-				["maxId"] = 9910,
-			},
-			["Starfire"] = {
-				["lowId"] = 25298,
-				["time"] = 1582463366.033,
-				["maxId"] = 26986,
-			},
-			["Rip"] = {
-				["lowId"] = 27008,
-				["time"] = 1585506443.821,
-				["maxId"] = 49799,
-			},
-			["Tiger's Fury"] = {
-				["lowId"] = 9846,
-				["time"] = 1585506489.129,
-				["maxId"] = 50212,
-			},
-			["Nature's Grasp"] = {
-				["lowId"] = 17329,
-				["time"] = 1582463347.897,
-				["maxId"] = 27009,
-			},
-			["Rebirth"] = {
-				["lowId"] = 20747,
-				["time"] = 1581261106.226,
-				["maxId"] = 20748,
-			},
-			["Mangle (Cat)"] = {
-				["lowId"] = 33982,
-				["time"] = 1582463642.478,
-				["maxId"] = 33983,
-			},
-			["Claw"] = {
-				["lowId"] = 5201,
-				["time"] = 1565911921.335,
-				["maxId"] = 9849,
-			},
-			["Revive"] = {
-				["lowId"] = 50765,
-				["time"] = 1582463779.091,
-				["maxId"] = 50764,
-			},
-			["Rake"] = {
-				["lowId"] = 9904,
-				["time"] = 1581706064.259,
-				["maxId"] = 27003,
-			},
-			["Tranquility"] = {
-				["lowId"] = 9862,
-				["time"] = 1581260298.983,
-				["maxId"] = 9863,
-			},
-			["Ravage"] = {
-				["lowId"] = 6785,
-				["time"] = 1565911903.803,
-				["maxId"] = 6787,
-			},
-			["Rejuvenation"] = {
-				["lowId"] = 26981,
-				["time"] = 1582463981.103,
-				["maxId"] = 26982,
-			},
-			["Shred"] = {
-				["lowId"] = 27001,
-				["time"] = 1582462495,
-				["maxId"] = 27002,
-			},
-			["Swipe (Bear)"] = {
-				["lowId"] = 9908,
-				["time"] = 1581706161.589,
-				["maxId"] = 26997,
+			["Exorcism"] = {
+				["lowId"] = 5615,
+				["time"] = 1565823761.168,
+				["maxId"] = 10312,
 			},
 		},
 		["Jaerha"] = {
-			["Arcane Shot"] = {
-				["lowId"] = 14286,
-				["time"] = 1581814508.772,
-				["maxId"] = 14287,
-			},
-			["Hunter's Mark"] = {
-				["lowId"] = 14324,
-				["time"] = 1581814483.943,
-				["maxId"] = 14325,
-			},
-			["Aimed Shot"] = {
-				["lowId"] = 20903,
-				["time"] = 1581814517.783,
-				["maxId"] = 20904,
+			["Serpent Sting"] = {
+				["lowId"] = 13554,
+				["time"] = 1581814518.193,
+				["maxId"] = 25295,
 			},
 			["Aspect of the Hawk"] = {
 				["lowId"] = 14322,
 				["time"] = 1581814451.595,
 				["maxId"] = 25296,
 			},
+			["Aimed Shot"] = {
+				["lowId"] = 20903,
+				["time"] = 1581814517.783,
+				["maxId"] = 20904,
+			},
 			["Mend Pet"] = {
 				["lowId"] = 13542,
 				["time"] = 1581814247.227,
 				["maxId"] = 13544,
 			},
-			["Serpent Sting"] = {
-				["lowId"] = 13554,
-				["time"] = 1581814518.193,
-				["maxId"] = 25295,
-			},
-		},
-		["Maxxam"] = {
-			["Volley"] = {
-				["lowId"] = 1510,
-				["time"] = 1581199124.833,
-				["maxId"] = 14294,
-			},
-			["Mend Pet"] = {
-				["lowId"] = 13542,
-				["time"] = 1581199118.729,
-				["maxId"] = 13543,
-			},
-			["Serpent Sting"] = {
-				["lowId"] = 13553,
-				["time"] = 1581199125.544,
-				["maxId"] = 13554,
+			["Hunter's Mark"] = {
+				["lowId"] = 14324,
+				["time"] = 1581814483.943,
+				["maxId"] = 14325,
 			},
 			["Arcane Shot"] = {
-				["lowId"] = 14285,
-				["time"] = 1581199143.125,
-				["maxId"] = 14286,
+				["lowId"] = 14286,
+				["time"] = 1581814508.772,
+				["maxId"] = 14287,
+			},
+		},
+		["Felota"] = {
+			["Frost Armor"] = {
+				["lowId"] = 7301,
+				["time"] = 1565970601.12,
+				["maxId"] = 10219,
+			},
+			["Fire Blast"] = {
+				["lowId"] = 10197,
+				["time"] = 1565973346.71,
+				["maxId"] = 10199,
 			},
 		},
 		["Paralyzed"] = {
@@ -633,20 +816,20 @@ RankWatchSettings = {
 				["time"] = 1582062619.563,
 				["maxId"] = 27216,
 			},
-			["Shadow Bolt"] = {
-				["lowId"] = 11661,
-				["time"] = 1582062622.323,
-				["maxId"] = 25307,
+			["Curse of Agony"] = {
+				["lowId"] = 11713,
+				["time"] = 1582062563.176,
+				["maxId"] = 27218,
 			},
 			["Death Coil"] = {
 				["lowId"] = 17926,
 				["time"] = 1582062618.712,
 				["maxId"] = 27223,
 			},
-			["Curse of Agony"] = {
-				["lowId"] = 11713,
-				["time"] = 1582062563.176,
-				["maxId"] = 27218,
+			["Shadow Bolt"] = {
+				["lowId"] = 11661,
+				["time"] = 1582062622.323,
+				["maxId"] = 25307,
 			},
 		},
 		["Spartacous"] = {
@@ -655,30 +838,30 @@ RankWatchSettings = {
 				["time"] = 1582460187.541,
 				["maxId"] = 25311,
 			},
-			["Curse of the Elements"] = {
-				["lowId"] = 11721,
-				["time"] = 1582460152.286,
-				["maxId"] = 11722,
-			},
-			["Immolate"] = {
-				["lowId"] = 11667,
-				["time"] = 1582460187.047,
-				["maxId"] = 25309,
-			},
-			["Create Soulstone"] = {
-				["lowId"] = 20756,
-				["time"] = 1582459391.989,
-				["maxId"] = 20757,
+			["Shadow Bolt"] = {
+				["lowId"] = 11660,
+				["time"] = 1582460180.732,
+				["maxId"] = 11661,
 			},
 			["Demon Armor"] = {
 				["lowId"] = 11734,
 				["time"] = 1582459180.536,
 				["maxId"] = 11735,
 			},
-			["Shadow Bolt"] = {
-				["lowId"] = 11660,
-				["time"] = 1582460180.732,
-				["maxId"] = 11661,
+			["Create Soulstone"] = {
+				["lowId"] = 20756,
+				["time"] = 1582459391.989,
+				["maxId"] = 20757,
+			},
+			["Immolate"] = {
+				["lowId"] = 11667,
+				["time"] = 1582460187.047,
+				["maxId"] = 25309,
+			},
+			["Curse of the Elements"] = {
+				["lowId"] = 11721,
+				["time"] = 1582460152.286,
+				["maxId"] = 11722,
 			},
 		},
 		["Emberfrost"] = {
@@ -704,10 +887,10 @@ RankWatchSettings = {
 			},
 		},
 		["Raegel"] = {
-			["Prayer of Mending"] = {
-				["lowId"] = 33076,
-				["time"] = 1582461882.055,
-				["maxId"] = 48112,
+			["Flash Heal"] = {
+				["lowId"] = 25235,
+				["time"] = 1582461880.609,
+				["maxId"] = 48070,
 			},
 			["Greater Heal"] = {
 				["lowId"] = 25213,
@@ -719,10 +902,10 @@ RankWatchSettings = {
 				["time"] = 1582461185.734,
 				["maxId"] = 48119,
 			},
-			["Flash Heal"] = {
-				["lowId"] = 25235,
-				["time"] = 1582461880.609,
-				["maxId"] = 48070,
+			["Prayer of Mending"] = {
+				["lowId"] = 33076,
+				["time"] = 1582461882.055,
+				["maxId"] = 48112,
 			},
 		},
 		["Dezboomsrb"] = {
@@ -731,10 +914,10 @@ RankWatchSettings = {
 				["time"] = 1581764822.918,
 				["maxId"] = 34120,
 			},
-			["Serpent Sting"] = {
-				["lowId"] = 13554,
-				["time"] = 1581765525.411,
-				["maxId"] = 25295,
+			["Arcane Shot"] = {
+				["lowId"] = 14286,
+				["time"] = 1581765527.531,
+				["maxId"] = 14287,
 			},
 			["Volley"] = {
 				["lowId"] = 14294,
@@ -761,27 +944,22 @@ RankWatchSettings = {
 				["time"] = 1581764980.148,
 				["maxId"] = 25294,
 			},
-			["Arcane Shot"] = {
-				["lowId"] = 14286,
-				["time"] = 1581765527.531,
-				["maxId"] = 14287,
+			["Serpent Sting"] = {
+				["lowId"] = 13554,
+				["time"] = 1581765525.411,
+				["maxId"] = 25295,
 			},
 		},
-		["Twinkletoe"] = {
-			["Fireball"] = {
-				["lowId"] = 10149,
-				["time"] = 1581199694.782,
-				["maxId"] = 10150,
+		["Redflamingo"] = {
+			["Shield Slam"] = {
+				["lowId"] = 23925,
+				["time"] = 1581814510.542,
+				["maxId"] = 25258,
 			},
-			["Frost Nova"] = {
-				["lowId"] = 6131,
-				["time"] = 1581199693.232,
-				["maxId"] = 10230,
-			},
-			["Fire Blast"] = {
-				["lowId"] = 10197,
-				["time"] = 1581199989.251,
-				["maxId"] = 10199,
+			["Thunder Clap"] = {
+				["lowId"] = 11581,
+				["time"] = 1581814517.619,
+				["maxId"] = 25264,
 			},
 		},
 		["Apolelm"] = {
@@ -806,50 +984,75 @@ RankWatchSettings = {
 				["maxId"] = 27070,
 			},
 		},
-		["Redflamingo"] = {
-			["Shield Slam"] = {
-				["lowId"] = 23925,
-				["time"] = 1581814510.542,
-				["maxId"] = 25258,
+		["Twinkletoe"] = {
+			["Fireball"] = {
+				["lowId"] = 10149,
+				["time"] = 1581199694.782,
+				["maxId"] = 10150,
 			},
-			["Thunder Clap"] = {
-				["lowId"] = 11581,
-				["time"] = 1581814517.619,
-				["maxId"] = 25264,
-			},
-		},
-		["Circunsicion"] = {
-			["Exorcism"] = {
-				["lowId"] = 5615,
-				["time"] = 1565823761.168,
-				["maxId"] = 10312,
-			},
-			["Devotion Aura"] = {
-				["lowId"] = 10291,
-				["time"] = 1565823850.244,
-				["maxId"] = 1032,
-			},
-			["Blessing of Wisdom"] = {
-				["lowId"] = 19852,
-				["time"] = 1565823507.874,
-				["maxId"] = 19853,
-			},
-			["Hand of Protection"] = {
-				["lowId"] = 1022,
-				["time"] = 1565823743.16,
-				["maxId"] = 10278,
-			},
-		},
-		["Felota"] = {
-			["Frost Armor"] = {
-				["lowId"] = 7301,
-				["time"] = 1565970601.12,
-				["maxId"] = 10219,
+			["Frost Nova"] = {
+				["lowId"] = 6131,
+				["time"] = 1581199693.232,
+				["maxId"] = 10230,
 			},
 			["Fire Blast"] = {
 				["lowId"] = 10197,
-				["time"] = 1565973346.71,
+				["time"] = 1581199989.251,
 				["maxId"] = 10199,
+			},
+		},
+		["Maxxam"] = {
+			["Volley"] = {
+				["lowId"] = 1510,
+				["time"] = 1581199124.833,
+				["maxId"] = 14294,
+			},
+			["Mend Pet"] = {
+				["lowId"] = 13542,
+				["time"] = 1581199118.729,
+				["maxId"] = 13543,
+			},
+			["Arcane Shot"] = {
+				["lowId"] = 14285,
+				["time"] = 1581199143.125,
+				["maxId"] = 14286,
+			},
+			["Serpent Sting"] = {
+				["lowId"] = 13553,
+				["time"] = 1581199125.544,
+				["maxId"] = 13554,
+			},
+		},
+		["Nosorojka"] = {
+			["Aspect of the Hawk"] = {
+				["lowId"] = 27044,
+				["time"] = 1612829362.821,
+				["maxId"] = 61846,
+			},
+			["Serpent Sting"] = {
+				["lowId"] = 27016,
+				["time"] = 1612829068.86,
+				["maxId"] = 49000,
+			},
+			["Volley"] = {
+				["lowId"] = 27022,
+				["time"] = 1612828952.032,
+				["maxId"] = 58431,
+			},
+			["Mend Pet"] = {
+				["lowId"] = 27046,
+				["time"] = 1612829563.976,
+				["maxId"] = 48989,
+			},
+			["Multi-Shot"] = {
+				["lowId"] = 27021,
+				["time"] = 1612829069.98,
+				["maxId"] = 49047,
+			},
+			["Arcane Shot"] = {
+				["lowId"] = 27019,
+				["time"] = 1612829571.883,
+				["maxId"] = 49044,
 			},
 		},
 		["Anatolievich"] = {
@@ -858,15 +1061,15 @@ RankWatchSettings = {
 				["time"] = 1581706011.726,
 				["maxId"] = 25311,
 			},
-			["Shadow Bolt"] = {
-				["lowId"] = 11660,
-				["time"] = 1581706006.623,
-				["maxId"] = 25307,
+			["Curse of the Elements"] = {
+				["lowId"] = 11721,
+				["time"] = 1581705829.67,
+				["maxId"] = 11722,
 			},
-			["Create Soulstone"] = {
-				["lowId"] = 20756,
-				["time"] = 1581705509.397,
-				["maxId"] = 20757,
+			["Unstable Affliction"] = {
+				["lowId"] = 30108,
+				["time"] = 1581706011.179,
+				["maxId"] = 30404,
 			},
 			["Demon Armor"] = {
 				["lowId"] = 11734,
@@ -878,42 +1081,42 @@ RankWatchSettings = {
 				["time"] = 1581706011.726,
 				["maxId"] = 27219,
 			},
-			["Unstable Affliction"] = {
-				["lowId"] = 30108,
-				["time"] = 1581706011.179,
-				["maxId"] = 30404,
+			["Create Soulstone"] = {
+				["lowId"] = 20756,
+				["time"] = 1581705509.397,
+				["maxId"] = 20757,
 			},
-			["Curse of the Elements"] = {
-				["lowId"] = 11721,
-				["time"] = 1581705829.67,
-				["maxId"] = 11722,
+			["Shadow Bolt"] = {
+				["lowId"] = 11660,
+				["time"] = 1581706006.623,
+				["maxId"] = 25307,
 			},
 		},
 		["Shamky"] = {
-			["Ancestral Spirit"] = {
-				["lowId"] = 20610,
-				["time"] = 1565969070.924,
-				["maxId"] = 20776,
+			["Chain Lightning"] = {
+				["lowId"] = 930,
+				["time"] = 1565969595.838,
+				["maxId"] = 2860,
 			},
 			["Nature Resistance Totem"] = {
 				["lowId"] = 10595,
 				["time"] = 1565969549.477,
 				["maxId"] = 10600,
 			},
+			["Stoneskin Totem"] = {
+				["lowId"] = 10406,
+				["time"] = 1565969549.477,
+				["maxId"] = 10407,
+			},
 			["Water Shield"] = {
 				["lowId"] = 52134,
 				["time"] = 1565969571.22,
 				["maxId"] = 52136,
 			},
-			["Chain Lightning"] = {
-				["lowId"] = 930,
-				["time"] = 1565969595.838,
-				["maxId"] = 2860,
-			},
-			["Stoneskin Totem"] = {
-				["lowId"] = 10406,
-				["time"] = 1565969549.477,
-				["maxId"] = 10407,
+			["Ancestral Spirit"] = {
+				["lowId"] = 20610,
+				["time"] = 1565969070.924,
+				["maxId"] = 20776,
 			},
 		},
 		["Rusvodka"] = {
@@ -933,19 +1136,32 @@ RankWatchSettings = {
 				["maxId"] = 10299,
 			},
 		},
-		["Anvorguesa"] = {
-			["Arcane Shot"] = {
-				["lowId"] = 14282,
-				["time"] = 1565908832.864,
-				["maxId"] = 14284,
+		["Vladush"] = {
+			["Explosive Trap"] = {
+				["lowId"] = 27025,
+				["time"] = 1582461793.493,
+				["maxId"] = 49067,
+			},
+			["Volley"] = {
+				["lowId"] = 14295,
+				["time"] = 1582461786.175,
+				["maxId"] = 58434,
 			},
 			["Mend Pet"] = {
-				["lowId"] = 3661,
-				["time"] = 1565908038.965,
-				["maxId"] = 3662,
+				["lowId"] = 48989,
+				["time"] = 1582461916.047,
+				["maxId"] = 48990,
+			},
+			["Multi-Shot"] = {
+				["lowId"] = 27021,
+				["time"] = 1582461784.661,
+				["maxId"] = 49048,
+			},
+			["Mongoose Bite"] = {
+				["lowId"] = 14269,
+				["time"] = 1582461626.325,
+				["maxId"] = 53339,
 			},
 		},
 	},
-	["delay"] = 3,
-	["whisperAllLevels"] = false,
 }

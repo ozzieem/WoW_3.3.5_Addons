@@ -2,22 +2,103 @@ MACRO 3 "." Ability_Druid_ManaTree
 #showtooltip Charger
 /cast [nocombat, nomounted] !Crusader Aura; [mounted] !Retribution Aura;
 /cast [nocombat, nomounted] Swift Green Gryphon;
-/cast [nocombat, nomounted] Charger;
+/cast [nocombat, nomounted] Swift White Steed;
 /dismount [mounted]
 END
 MACRO 2 "adsad" INV_Misc_QuestionMark
 /tar [nodead] Nexus Drake
 END
+MACRO 13 "BF" INV_Misc_QuestionMark
+/use Firecracker Salmon
+.buff
+/use Drums of Forgotten Kings
+END
+MACRO 10 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] Remove Curse;  [target=mouseover,exists,mod:ctrl] Abolish Poison; [target=mouseover,exists,mod:shift] Cyclone
+END
 MACRO 1 "dsrfrt" INV_Misc_QuestionMark
 /run LoadAddOn"Blizzard_TrainerUI" f=ClassTrainerTrainButton f.e = 0 f:SetScript("OnUpdate", function(f,e) f.e=f.e+e if f.e>.01 then f.e=0 f:Click() end end)
 END
-MACRO 5 "mount" INV_Misc_QuestionMark
-/cast Ebon Gryphon
-/cast Swift Mistsaber
+MACRO 9 "EL" INV_Misc_QuestionMark
+#showtooltip Eternal Life
 END
-MACRO 6 "removeqsts" INV_Misc_QuestionMark
-/run for i=1,GetNumQuestLogEntries() do SelectQuestLogEntry(i); SetAbandonQuest(); AbandonQuest(); end
+MACRO 16 "FC" Ability_CheapShot
+/script SetRaidTarget("Anthar Forgemender",8)
+/script SetRaidTarget("Saamul",9)
+/script SetRaidTarget("Melador Valestrider",10)
+/script SetRaidTarget("Velanaa",11)
+END
+MACRO 20 "framestack" INV_Misc_QuestionMark
+/framestack # to show the name of the buttons in macro language
+END
+MACRO 15 "icc" INV_Misc_QuestionMark
+/targetexact Wooster Junior
+/script SelectGossipOption(20)
+/script SelectGossipOption(8)
+/click StaticPopup1Button1
+END
+MACRO 14 "IS" INV_Misc_QuestionMark
+/targetexact Ice Sphere
+/cast Chain Lightning
+/targetexact Lich King
+END
+MACRO 6 "kiss sara" INV_Misc_QuestionMark
+/target Sara
+/kiss
+END
+MACRO 8 "milling" INV_Misc_QuestionMark
+/cast Milling
+/use Tiger Lily
+/use Talandra's Rose
+/use Goldclover
+/use Lichbloom
+/use Icethorn
+/use Adder's Tongue
+END
+MACRO 12 "morph" INV_Misc_QuestionMark
+/use Book of Powers
+/stopcasting
+/script  SelectGossipOption(1)
+END
+MACRO 5 "mount" INV_Misc_QuestionMark
+END
+MACRO 7 "open satchel" INV_Misc_QuestionMark
+#showtooltip Abandoned Adventurer's Satchel
+/use Abandoned Adventurer's Satchel
+/use Crystallized Life
+/use Crystallized Earth
+/use Crystallized Fire
+/use Crystallized Water
+/use Crystallized Shadow
+/use Crystallized Air
+END
+MACRO 18 "PI" INV_Misc_QuestionMark
+/script  SelectGossipOption(4)
+/click StaticPopup1Button1
+/target Velenren Silentbane
+END
+MACRO 11 "PP" INV_Misc_QuestionMark
+/use Pocket Portal
+/stopcasting
+/print GetGossipOptions()
+/targetexact Wooster Junior
+/script SelectGossipOption(1)
+/stopmacro [@target,noexists]
+/script InteractWithTarget()
+END
+MACRO 19 "toc" INV_Misc_QuestionMark
+/targetexact Wooster Junior
+/script SelectGossipOption(20)
+/script SelectGossipOption(5)
+/click StaticPopup1Button1
 END
 MACRO 4 "ty" INV_Misc_QuestionMark
 /p ty
+END
+MACRO 17 "voa" INV_Misc_QuestionMark
+/targetexact Wooster Junior
+/script SelectGossipOption(20)
+/script SelectGossipOption(20)
+/click StaticPopup1Button1
 END

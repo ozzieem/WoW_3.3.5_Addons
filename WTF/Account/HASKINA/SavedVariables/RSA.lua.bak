@@ -1,0 +1,13 @@
+
+RSADB = {
+	["profileKeys"] = {
+		["Pala - Frozen Nexus [Custom]"] = "Pala - Frozen Nexus [Custom]",
+	},
+	["profiles"] = {
+		["Pala - Frozen Nexus [Custom]"] = {
+			["General"] = {
+				["Class"] = "PALADIN",
+			},
+		},
+	},
+}

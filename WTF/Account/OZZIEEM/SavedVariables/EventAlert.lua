@@ -3,7 +3,7 @@ EA_Config = {
 	["ShowFlash"] = true,
 	["ShowFrame"] = true,
 	["DoAlertSound"] = false,
-	["ChangeTimer"] = false,
+	["ChangeTimer"] = true,
 	["ShowSpellInfo"] = false,
 	["AlertSoundValue"] = 3,
 	["AllowAltAlerts"] = false,
@@ -110,14 +110,14 @@ EA_Items = {
 		[35099] = true,
 	},
 	["DRUID"] = {
-		[16870] = true,
 		[48517] = true,
+		[69369] = true,
 		[64823] = true,
 		[16886] = true,
 		[48391] = true,
 		[48518] = true,
 		[46833] = true,
-		[69369] = true,
+		[16870] = true,
 	},
 	["SHAMAN"] = {
 		[53817] = true,
@@ -186,6 +186,8 @@ EA_CustomItems = {
 	["WARRIOR"] = {
 	},
 	["PALADIN"] = {
+		[75456] = true,
+		[57073] = true,
 	},
 	["MAGE"] = {
 	},
@@ -198,6 +200,14 @@ EA_CustomItems = {
 	["DRUID"] = {
 	},
 	["SHAMAN"] = {
+		[60492] = true,
+		[64701] = true,
+		[71564] = true,
+		[75495] = true,
+		[16166] = true,
+		[55637] = true,
+		[26297] = true,
+		[72416] = true,
 	},
 	["ROGUE"] = {
 	},

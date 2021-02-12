@@ -10,6 +10,7 @@ Overachiever_Tabs_Settings = {
 	["Version"] = "0.56",
 	["WatchedList"] = 0,
 	["AchFilters"] = {
+		["Overachiever_SuggestionsFrame"] = 1,
 	},
 	["WatchLists"] = {
 	},

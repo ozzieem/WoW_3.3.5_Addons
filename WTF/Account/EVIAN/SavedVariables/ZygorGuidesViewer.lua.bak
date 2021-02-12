@@ -1,0 +1,195 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Elendraa - Icecrown"] = {
+			["maint_fetchitemdata"] = true,
+			["taxis"] = {
+				[2] = true,
+				["Ironforge"] = true,
+			},
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Gnome (1-13)",
+			["maint_fetchquestdata"] = true,
+			["step"] = 89,
+			["starting"] = false,
+			["debuglog"] = {
+				"23:47:28> SkipStep 1 fast", -- [1]
+				"23:47:28> LastSkip 1", -- [2]
+				"23:47:28> FocusStep 80 (quiet)", -- [3]
+				"23:47:28> SkipStep 1 fast", -- [4]
+				"23:47:28> LastSkip 1", -- [5]
+				"23:47:28> FocusStep 81 (quiet)", -- [6]
+				"23:47:28> SkipStep 1 fast", -- [7]
+				"23:47:28> LastSkip 1", -- [8]
+				"23:47:28> FocusStep 82 (quiet)", -- [9]
+				"23:47:28> SkipStep 1 fast", -- [10]
+				"23:47:28> LastSkip 1", -- [11]
+				"23:47:28> FocusStep 83 (quiet)", -- [12]
+				"23:47:28> SkipStep 1 fast", -- [13]
+				"23:47:28> LastSkip 1", -- [14]
+				"23:47:28> FocusStep 84 (quiet)", -- [15]
+				"23:47:28> SkipStep 1 fast", -- [16]
+				"23:47:28> LastSkip 1", -- [17]
+				"23:47:28> FocusStep 85 (quiet)", -- [18]
+				"23:47:28> SkipStep 1 fast", -- [19]
+				"23:47:28> LastSkip 1", -- [20]
+				"23:47:28> FocusStep 86 (quiet)", -- [21]
+				"23:47:28> SkipStep 1 fast", -- [22]
+				"23:47:28> LastSkip 1", -- [23]
+				"23:47:28> FocusStep 87 (quiet)", -- [24]
+				"23:47:28> SkipStep 1 fast", -- [25]
+				"23:47:28> LastSkip 1", -- [26]
+				"23:47:28> FocusStep 88 (quiet)", -- [27]
+				"23:47:28> FocusStep 88", -- [28]
+				"23:47:28> Translated: accept/turnin Shimmer Stout", -- [29]
+				"23:47:29> frameNeedsUpdating, so updating.", -- [30]
+				"23:47:29> Skipping step: 88 (impossible)", -- [31]
+				"23:47:29> SkipStep 1 fast", -- [32]
+				"23:47:29> LastSkip 1", -- [33]
+				"23:47:29> FocusStep 89 (quiet)", -- [34]
+				"23:47:29> FocusStep 89", -- [35]
+				"23:47:29> frameNeedsUpdating, so updating.", -- [36]
+				"23:48:22> CacheQuestLog cached 1 quests", -- [37]
+				"23:48:23> CacheQuestLog cached 2 quests", -- [38]
+				"23:48:23> New Quest: Now This is Ram Racing... Almost. id 11318", -- [39]
+				"23:49:05> CacheQuestLog cached 2 quests", -- [40]
+				"23:49:17> CacheQuestLog cached 2 quests", -- [41]
+				"23:49:46> CacheQuestLog cached 2 quests", -- [42]
+				"23:50:06> CacheQuestLog cached 2 quests", -- [43]
+				"23:50:30> GetQuestId: id of quest 'Now This is Ram Racing... Almost.' = 11318", -- [44]
+				"23:50:30> Completed Quest: Now This is Ram Racing... Almost., id: 11318", -- [45]
+				"23:50:30> Got completed quests list", -- [46]
+				"23:50:30> CacheQuestLog cached 1 quests", -- [47]
+				"23:50:30> Lost Quest: Now This is Ram Racing... Almost., id: 11318, complete: true", -- [48]
+				"23:50:36> CacheQuestLog cached 1 quests", -- [49]
+				"23:50:36> CacheQuestLog cached 2 quests", -- [50]
+				"23:50:36> New Quest: Another Year, Another Souvenir. id 13932", -- [51]
+				"23:51:03> CacheQuestLog cached 3 quests", -- [52]
+				"23:51:03> New Quest: Catch the Wild Wolpertinger! id 11117", -- [53]
+				"23:51:03> CacheQuestLog cached 3 quests", -- [54]
+				"23:51:15> Got completed quests list", -- [55]
+				"23:51:15> GetQuestId: id of quest 'Welcome to Brewfest!' unknown!", -- [56]
+				"23:51:15> Completed Quest: Welcome to Brewfest!, id: nil", -- [57]
+				"23:51:15> Got completed quests list", -- [58]
+				"23:51:16> Got completed quests list", -- [59]
+				"23:51:16> Got completed quests list", -- [60]
+				"23:51:16> Got completed quests list", -- [61]
+				"23:51:16> Got completed quests list", -- [62]
+				"23:51:18> Got completed quests list", -- [63]
+				"23:51:49> CacheQuestLog cached 3 quests", -- [64]
+				"23:51:49> CacheQuestLog cached 4 quests", -- [65]
+				"23:51:49> New Quest: This One Time, When I Was Drunk... id 12020", -- [66]
+				"23:52:07> GetQuestId: id of quest 'Another Year, Another Souvenir.' = 13932", -- [67]
+				"23:52:07> Completed Quest: Another Year, Another Souvenir., id: 13932", -- [68]
+				"23:52:07> Got completed quests list", -- [69]
+				"23:52:07> CacheQuestLog cached 4 quests", -- [70]
+				"23:52:07> CacheQuestLog cached 3 quests", -- [71]
+				"23:52:07> Lost Quest: Another Year, Another Souvenir., id: 13932, complete: false", -- [72]
+				"23:52:31> CacheQuestLog cached 3 quests", -- [73]
+				"23:52:37> CacheQuestLog cached 3 quests", -- [74]
+				"23:52:44> CacheQuestLog cached 3 quests", -- [75]
+				"23:52:50> CacheQuestLog cached 3 quests", -- [76]
+				"23:52:56> CacheQuestLog cached 3 quests", -- [77]
+				"23:52:56> CacheQuestLog cached 3 quests", -- [78]
+				"23:53:01> GetQuestId: id of quest 'This One Time, When I Was Drunk...' = 12020", -- [79]
+				"23:53:01> Completed Quest: This One Time, When I Was Drunk..., id: 12020", -- [80]
+				"23:53:01> Got completed quests list", -- [81]
+				"23:53:01> CacheQuestLog cached 2 quests", -- [82]
+				"23:53:01> Lost Quest: This One Time, When I Was Drunk..., id: 12020, complete: false", -- [83]
+				"23:53:12> GetQuestId: id of quest 'Catch the Wild Wolpertinger!' = 11117", -- [84]
+				"23:53:12> Completed Quest: Catch the Wild Wolpertinger!, id: 11117", -- [85]
+				"23:53:12> CacheQuestLog cached 2 quests", -- [86]
+				"23:53:12> Got completed quests list", -- [87]
+				"23:53:12> CacheQuestLog cached 1 quests", -- [88]
+				"23:53:12> Lost Quest: Catch the Wild Wolpertinger!, id: 11117, complete: false", -- [89]
+				"23:54:30> ZONE_CHANGED_NEW_AREA (dead?)", -- [90]
+				"23:59:03> GetQuestId: id of quest 'Speak with Bink' = 1879", -- [91]
+				"23:59:03> Completed Quest: Speak with Bink, id: 1879", -- [92]
+				"23:59:03> Got completed quests list", -- [93]
+				"23:59:03> CacheQuestLog cached 0 quests", -- [94]
+				"23:59:03> Lost Quest: Speak with Bink, id: 1879, complete: false", -- [95]
+				"23:59:19> CacheQuestLog cached 0 quests", -- [96]
+				"23:59:19> CacheQuestLog cached 1 quests", -- [97]
+				"23:59:19> New Quest: Mage-tastic Gizmonitor id 1880", -- [98]
+				"23:59:19> CacheQuestLog cached 1 quests", -- [99]
+				"23:59:24> CacheQuestLog cached 1 quests", -- [100]
+			},
+			["guides_history"] = {
+				{
+					["short"] = "Gnome (1-13)",
+					["step"] = 89,
+					["full"] = "Zygor's Alliance Leveling Guides\\Gnome (1-13)",
+				}, -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Elendraa - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Elendraa - Icecrown"] = {
+			["arrowmeters"] = true,
+			["arrowfontsize"] = 11,
+			["skincolors"] = {
+				["back"] = {
+					0.09, -- [1]
+					0.2, -- [2]
+					0.07000000000000001, -- [3]
+				},
+				["text"] = {
+					0.5, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+				},
+			},
+			["fixblizzardautoaccept"] = true,
+			["fullheight"] = 400.0000054709792,
+			["goalcolorize"] = true,
+			["skipimpossible"] = true,
+			["autoturnin"] = true,
+			["fontsize"] = 12,
+			["arrowposx"] = 418.7720028933273,
+			["autoaccept"] = true,
+			["skin"] = "green",
+			["arrowcam"] = false,
+			["fontsecsize"] = 11,
+			["arrowposy"] = 353.2126862979532,
+			["audiocues"] = true,
+			["resizeup"] = true,
+			["arrowsmooth"] = true,
+			["contractmobs"] = true,
+		},
+		["Default"] = {
+			["arrowmeters"] = true,
+			["arrowfontsize"] = 11,
+			["skincolors"] = {
+				["text"] = {
+					0.5, -- [1]
+					1, -- [2]
+					0.5, -- [3]
+				},
+				["back"] = {
+					0.09, -- [1]
+					0.2, -- [2]
+					0.07000000000000001, -- [3]
+				},
+			},
+			["fixblizzardautoaccept"] = true,
+			["fullheight"] = 400.0000054709792,
+			["goalcolorize"] = true,
+			["skipimpossible"] = true,
+			["autoturnin"] = true,
+			["fontsize"] = 12,
+			["arrowposx"] = 845.4384536386832,
+			["autoaccept"] = true,
+			["skin"] = "green",
+			["arrowcam"] = false,
+			["fontsecsize"] = 11,
+			["arrowposy"] = 879.9615007196732,
+			["arrowsmooth"] = true,
+			["resizeup"] = true,
+			["audiocues"] = true,
+			["hideborder"] = true,
+			["contractmobs"] = true,
+		},
+	},
+}

@@ -9,8 +9,8 @@ CarboniteTransfer: enabled
 DrDamage: enabled
 Enchantrix: disabled
 Enchantrix-Barker: disabled
-Gatherer: enabled
-Gatherer_HUD: enabled
+Gatherer: disabled
+Gatherer_HUD: disabled
 GatherMate2: disabled
 RatingBuster: enabled
 AstrolabeQH: enabled
@@ -78,3 +78,9 @@ LibDualSpec-1.0: enabled
 MageNuggets: disabled
 MoveAnything: enabled
 BeanCounter: disabled
+TellMeWhen: disabled
+PallyPower: enabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled

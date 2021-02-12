@@ -1,0 +1,9 @@
+
+BagnonGlobalSettings = {
+	["version"] = "2.13.3",
+	["autoDisplayEvents"] = {
+		["inventory"] = {
+			["ah"] = true,
+		},
+	},
+}

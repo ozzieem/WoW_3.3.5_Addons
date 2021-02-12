@@ -1,0 +1,12 @@
+tag 078d14b46b3a0fe888db80bb56b18b17e40996a6 2018.07.30
+Author:	warbaby@163.com <aby_ui@163.com>
+Date:	Mon Jul 30 00:16:04 2018 +0800
+
+release for 8.0
+
+commit 778393aaca2b09129ffa2c607c736d13e9365287
+Author: warbaby@163.com <aby_ui@163.com>
+Date:   Mon Jul 30 00:09:56 2018 +0800
+
+    8.0 fix
+

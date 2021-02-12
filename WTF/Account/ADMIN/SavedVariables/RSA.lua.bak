@@ -1,0 +1,13 @@
+
+RSADB = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Myron - New Funserver",
+	},
+	["profiles"] = {
+		["Myron - New Funserver"] = {
+			["General"] = {
+				["Class"] = "DEATHKNIGHT",
+			},
+		},
+	},
+}

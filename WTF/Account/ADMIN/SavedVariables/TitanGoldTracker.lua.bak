@@ -1,0 +1,9 @@
+
+GoldArray = {
+	["DISPLAYGPH"] = true,
+	["VERSION2"] = true,
+	["SORTBYNAME"] = true,
+	["Myron_New Funserver::Horde"] = 21003008500,
+	["VIEWALL"] = true,
+	["INITIALIZED"] = true,
+}

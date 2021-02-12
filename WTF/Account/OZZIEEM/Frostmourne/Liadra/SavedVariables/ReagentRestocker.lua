@@ -1,6 +1,25 @@
 
 ReagentRestockerDB = {
 	["Items"] = {
+		[21177] = {
+			["item_sell"] = 37,
+			["item_rarity"] = 1,
+			["tocversion"] = 30300,
+			["tags"] = {
+				["Buy"] = true,
+			},
+			["low_warning"] = 50,
+			["item_link"] = "|cffffffff|Hitem:21177:0:0:0:0:0:0:0:80|h[Symbol of Kings]|h|r",
+			["item_texture"] = "Interface\\Icons\\INV_Misc_SymbolofKings_01",
+			["item_name"] = "Symbol of Kings",
+			["item_type"] = "Miscellaneous",
+			["item_stack_count"] = 100,
+			["item_euip_loc"] = "",
+			["item_min_level"] = 0,
+			["qty"] = 200,
+			["item_level"] = 60,
+			["item_sub_type"] = "Reagent",
+		},
 	},
 	["MapTable"] = {
 		["hide"] = true,
@@ -13,15 +32,15 @@ ReagentRestockerDB = {
 		["PullFromGuildBank"] = false,
 		["AutoSellQualityLevel"] = 0,
 		["AutoBuy"] = true,
-		["UpgradeWater"] = false,
+		["AutoSellFood"] = false,
 		["PullFromBank"] = false,
-		["UnusedNotification"] = true,
+		["UnusedNotification"] = false,
 		["DisableNewUI"] = false,
 		["Debug"] = false,
 		["AutoSellQuality"] = false,
 		["Reputation"] = 0,
 		["UseTextLDB"] = false,
-		["AutoSellFood"] = false,
+		["UpgradeWater"] = false,
 		["OverstockToBank"] = false,
 		["MapIcon"] = false,
 		["AutoSellWater"] = false,
@@ -33,6 +52,9 @@ ReagentRestockerDB = {
 		["KeepReceipts"] = false,
 	},
 	["Tags"] = {
+		["Buy"] = {
+			[21177] = 21177,
+		},
 	},
 	["Version"] = "8.1",
 	["DataVersion"] = 16,

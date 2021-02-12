@@ -1,0 +1,35 @@
+
+CooldownCountDB = {
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Default",
+		["Lanas - Frozen Nexus [Custom]"] = "Default",
+		["Suprema - Icecrown"] = "Default",
+		["Delras - Icecrown"] = "Default",
+		["Lawras - Icecrown"] = "Default",
+		["Themken - Icecrown"] = "Default",
+		["Maldira - Frosthold"] = "Default",
+		["Pala - Frozen Nexus [Custom]"] = "Default",
+		["Dranah - Lordaeron"] = "Default",
+		["Dranah - Frozen Nexus"] = "Default",
+		["Lawron - Lordaeron"] = "Default",
+		["Maulh - Icecrown"] = "Default",
+		["Tabinia - Icecrown"] = "Default",
+		["Elendraa - Icecrown"] = "Default",
+		["Lawras - Lordaeron"] = "Default",
+		["Warmat - Icecrown"] = "Default",
+		["Wilinia - Icecrown"] = "Default",
+		["Maldir - Icecrown"] = "Default",
+		["Mandatum - Icecrown"] = "Default",
+		["Modos - Icecrown"] = "Default",
+		["Allisone - Icecrown"] = "Default",
+		["Themken - Lordaeron"] = "Default",
+		["Liadra - Frostmourne"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimumDuration"] = 2.5,
+			["shine"] = true,
+			["shineScale"] = 10,
+		},
+	},
+}

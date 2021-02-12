@@ -1,0 +1,39 @@
+
+AucAdvancedConfig = {
+	["profile.Default"] = {
+		["util.automagic.uierrormsg"] = 1,
+		["matcherlist"] = {
+			"Undercut", -- [1]
+			"BeanCount", -- [2]
+		},
+		["util.mover.anchors"] = {
+			"TOPLEFT", -- [1]
+			nil, -- [2]
+			"TOPLEFT", -- [3]
+			0, -- [4]
+			-103.9999874167479, -- [5]
+		},
+		["stat.sales.ignoredsigs"] = {
+		},
+	},
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Icecrown"] = "Tabinia",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+			["configator.left"] = 392.7983411444099,
+			["configator.top"] = 724.0740948384663,
+		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

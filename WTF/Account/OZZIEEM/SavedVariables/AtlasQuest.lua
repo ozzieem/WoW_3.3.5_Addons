@@ -35,7 +35,22 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
+	["Fatty"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Hunty"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
 	["Suprema"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Riv"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -55,27 +70,12 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Hunty"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
 	["Liadra"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Delras"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
-	["Mandatum"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
-	["Themken"] = {
+	["Valakk"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -85,8 +85,12 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Version"] = "4.4.3",
-	["Pala"] = {
+	["Grona"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Themken"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -96,7 +100,8 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Shamanta"] = {
+	["Version"] = "4.4.3",
+	["Pala"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -108,7 +113,17 @@ AtlasQuest_Options = {
 		["AutoQuery"] = "yes",
 		["NoQuerySpam"] = "yes",
 	},
-	["Riv"] = {
+	["Shamanta"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Mandatum"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Delras"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",

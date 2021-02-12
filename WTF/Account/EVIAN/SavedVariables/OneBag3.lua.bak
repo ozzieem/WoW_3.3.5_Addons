@@ -1,0 +1,29 @@
+
+OneBag3DB = {
+	["namespaces"] = {
+		["SimpleSort"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+	},
+	["profiles"] = {
+		["Tabinia - Icecrown"] = {
+			["colors"] = {
+				["background"] = {
+					["a"] = 0.8100000023841858,
+				},
+			},
+			["position"] = {
+				["top"] = 448.6141283523168,
+				["left"] = 1114.591711699094,
+			},
+			["moved"] = true,
+			["appearance"] = {
+				["cols"] = 8,
+				["scale"] = 1.11,
+				["lowlevel"] = false,
+			},
+		},
+	},
+}

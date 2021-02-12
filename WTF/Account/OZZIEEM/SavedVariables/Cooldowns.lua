@@ -1,6 +1,6 @@
 
 YarkoCooldowns_SavedVars = {
-	["Outline"] = 1,
+	["Outline"] = 3,
 	["Tenths"] = "N",
 	["FlashColor"] = {
 		["b"] = 0,
@@ -10,7 +10,7 @@ YarkoCooldowns_SavedVars = {
 	["FontHeight"] = 18,
 	["FontFile"] = "FRIZQT__.TTF",
 	["Seconds"] = 60,
-	["BelowTwo"] = "N",
+	["BelowTwo"] = "Y",
 	["MainColor"] = {
 		["b"] = 0,
 		["g"] = 0.8196060657501221,

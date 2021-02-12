@@ -1,17 +1,12 @@
 
 GoGo_Prefs = {
-	["DruidClickForm"] = true,
-	["GlobalPrefMount"] = false,
-	["DruidFlightForm"] = false,
-	["DisableMountNotice"] = false,
-	["autodismount"] = true,
-	["DisableUpdateNotice"] = false,
-	["version"] = "0003030900",
-	["genericfastflyer"] = false,
+	["DruidClickForm"] = 1,
 	["GlobalPrefMounts"] = {
 	},
+	["autodismount"] = 1,
 	["UnknownMounts"] = {
 	},
+	["version"] = "0003030900",
 }
 GoGo_DebugLog = {
 }

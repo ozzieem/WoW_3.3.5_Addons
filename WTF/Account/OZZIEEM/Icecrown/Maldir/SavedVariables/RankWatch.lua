@@ -10,6 +10,13 @@ RankWatchSettings = {
 	["channel"] = 3,
 	["interval"] = 300,
 	["reports"] = {
+		["Megadeus"] = {
+			["Frost Nova"] = {
+				["lowId"] = 122,
+				["time"] = 1612910696.56,
+				["maxId"] = 42917,
+			},
+		},
 		["Aliosha"] = {
 			["Fire Nova"] = {
 				["lowId"] = 8498,
@@ -50,10 +57,10 @@ RankWatchSettings = {
 				["time"] = 1583793174.322,
 				["maxId"] = 25469,
 			},
-			["Flametongue Weapon"] = {
-				["lowId"] = 16342,
-				["time"] = 1583792405.535,
-				["maxId"] = 25489,
+			["Lightning Bolt"] = {
+				["lowId"] = 15208,
+				["time"] = 1583793187.554,
+				["maxId"] = 25448,
 			},
 			["Healing Wave"] = {
 				["lowId"] = 25357,
@@ -70,15 +77,15 @@ RankWatchSettings = {
 				["time"] = 1583791933.093,
 				["maxId"] = 25528,
 			},
-			["Lightning Bolt"] = {
-				["lowId"] = 15208,
-				["time"] = 1583793187.554,
-				["maxId"] = 25448,
-			},
 			["Mana Spring Totem"] = {
 				["lowId"] = 10497,
 				["time"] = 1583792700.026,
 				["maxId"] = 25570,
+			},
+			["Flametongue Weapon"] = {
+				["lowId"] = 16342,
+				["time"] = 1583792405.535,
+				["maxId"] = 25489,
 			},
 		},
 		["Buriedbelow"] = {
@@ -332,15 +339,15 @@ RankWatchSettings = {
 			},
 		},
 		["Psycow"] = {
+			["Mana Spring Totem"] = {
+				["lowId"] = 5675,
+				["time"] = 1583535015.128,
+				["maxId"] = 10495,
+			},
 			["Water Shield"] = {
 				["lowId"] = 52129,
 				["time"] = 1583534969.48,
 				["maxId"] = 52131,
-			},
-			["Flametongue Weapon"] = {
-				["lowId"] = 8030,
-				["time"] = 1583534783.089,
-				["maxId"] = 16339,
 			},
 			["Stoneskin Totem"] = {
 				["lowId"] = 8155,
@@ -362,10 +369,10 @@ RankWatchSettings = {
 				["time"] = 1583535027.646,
 				["maxId"] = 930,
 			},
-			["Mana Spring Totem"] = {
-				["lowId"] = 5675,
-				["time"] = 1583535015.128,
-				["maxId"] = 10495,
+			["Flametongue Weapon"] = {
+				["lowId"] = 8030,
+				["time"] = 1583534783.089,
+				["maxId"] = 16339,
 			},
 			["Flame Shock"] = {
 				["lowId"] = 8053,
@@ -386,30 +393,37 @@ RankWatchSettings = {
 			},
 		},
 		["Shammo"] = {
+			["Water Shield"] = {
+				["lowId"] = 52129,
+				["time"] = 1583526639.09,
+				["maxId"] = 52131,
+			},
 			["Flametongue Weapon"] = {
 				["lowId"] = 8030,
 				["time"] = 1583525231.269,
 				["maxId"] = 16339,
-			},
-			["Stoneskin Totem"] = {
-				["lowId"] = 8155,
-				["time"] = 1583526746.326,
-				["maxId"] = 10406,
 			},
 			["Mana Spring Totem"] = {
 				["lowId"] = 5675,
 				["time"] = 1583526746.326,
 				["maxId"] = 10495,
 			},
-			["Water Shield"] = {
-				["lowId"] = 52129,
-				["time"] = 1583526639.09,
-				["maxId"] = 52131,
+			["Stoneskin Totem"] = {
+				["lowId"] = 8155,
+				["time"] = 1583526746.326,
+				["maxId"] = 10406,
 			},
 			["Earth Shock"] = {
 				["lowId"] = 8046,
 				["time"] = 1583526751.616,
 				["maxId"] = 10412,
+			},
+		},
+		["Tarlizio"] = {
+			["Redemption"] = {
+				["lowId"] = 48949,
+				["time"] = 1612910458.567,
+				["maxId"] = 48950,
 			},
 		},
 		["Streiman"] = {
@@ -419,50 +433,6 @@ RankWatchSettings = {
 				["maxId"] = 27016,
 			},
 		},
-		["Silwanaa"] = {
-			["Death Coil"] = {
-				["lowId"] = 49893,
-				["time"] = 1586433110.83,
-				["maxId"] = 49895,
-			},
-			["Plague Strike"] = {
-				["lowId"] = 49919,
-				["time"] = 1586433114.369,
-				["maxId"] = 49921,
-			},
-			["Death Strike"] = {
-				["lowId"] = 45463,
-				["time"] = 1586433107.175,
-				["maxId"] = 49924,
-			},
-		},
-		["Precheur"] = {
-			["Mind Blast"] = {
-				["lowId"] = 10947,
-				["time"] = 1583863889.568,
-				["maxId"] = 25372,
-			},
-			["Greater Heal"] = {
-				["lowId"] = 25314,
-				["time"] = 1583863300.324,
-				["maxId"] = 25210,
-			},
-			["Power Word: Shield"] = {
-				["lowId"] = 10901,
-				["time"] = 1583863869.804,
-				["maxId"] = 25217,
-			},
-			["Shadow Word: Pain"] = {
-				["lowId"] = 10894,
-				["time"] = 1583863894.91,
-				["maxId"] = 25367,
-			},
-			["Holy Fire"] = {
-				["lowId"] = 15261,
-				["time"] = 1583863297.28,
-				["maxId"] = 25384,
-			},
-		},
 		["Quickcure"] = {
 			["Stoneskin Totem"] = {
 				["lowId"] = 25509,
@@ -470,57 +440,11 @@ RankWatchSettings = {
 				["maxId"] = 58753,
 			},
 		},
-		["Tetterian"] = {
-			["Fire Nova"] = {
-				["lowId"] = 25546,
-				["time"] = 1585174737.59,
-				["maxId"] = 25547,
-			},
-			["Searing Totem"] = {
-				["lowId"] = 25533,
-				["time"] = 1585174829.971,
-				["maxId"] = 58699,
-			},
-			["Mana Spring Totem"] = {
-				["lowId"] = 25570,
-				["time"] = 1585174829.971,
-				["maxId"] = 58771,
-			},
-			["Chain Lightning"] = {
-				["lowId"] = 25439,
-				["time"] = 1585174663.933,
-				["maxId"] = 25442,
-			},
-		},
 		["Catvinci"] = {
 			["Wild Growth"] = {
 				["lowId"] = 48438,
 				["time"] = 1585173492.704,
 				["maxId"] = 53248,
-			},
-		},
-		["Redemptionf"] = {
-			["Power Word: Fortitude"] = {
-				["lowId"] = 1244,
-				["time"] = 1567782918.653,
-				["maxId"] = 1245,
-			},
-			["Resurrection"] = {
-				["lowId"] = 2006,
-				["time"] = 1567783336.747,
-				["maxId"] = 2010,
-			},
-			["Power Word: Shield"] = {
-				["lowId"] = 600,
-				["time"] = 1567784152.405,
-				["maxId"] = 3747,
-			},
-		},
-		["Tomex"] = {
-			["Ambush"] = {
-				["lowId"] = 8676,
-				["time"] = 1567786569.408,
-				["maxId"] = 8724,
 			},
 		},
 		["Mudovaca"] = {
@@ -555,23 +479,26 @@ RankWatchSettings = {
 				["maxId"] = 48690,
 			},
 		},
-		["Itchimani"] = {
-			["Mind Blast"] = {
-				["lowId"] = 10947,
-				["time"] = 1583704594.902,
-				["maxId"] = 25372,
+		["Tetterian"] = {
+			["Fire Nova"] = {
+				["lowId"] = 25546,
+				["time"] = 1585174737.59,
+				["maxId"] = 25547,
 			},
-			["Renew"] = {
-				["lowId"] = 25315,
-				["time"] = 1583706094.343,
-				["maxId"] = 25221,
+			["Mana Spring Totem"] = {
+				["lowId"] = 25570,
+				["time"] = 1585174829.971,
+				["maxId"] = 58771,
 			},
-		},
-		["Tacafogo"] = {
-			["Fireball"] = {
-				["lowId"] = 145,
-				["time"] = 1567784150.333,
-				["maxId"] = 3140,
+			["Chain Lightning"] = {
+				["lowId"] = 25439,
+				["time"] = 1585174663.933,
+				["maxId"] = 25442,
+			},
+			["Searing Totem"] = {
+				["lowId"] = 25533,
+				["time"] = 1585174829.971,
+				["maxId"] = 58699,
 			},
 		},
 		["Jopopo"] = {
@@ -611,40 +538,28 @@ RankWatchSettings = {
 				["maxId"] = 48816,
 			},
 		},
-		["Zerokalorien"] = {
-			["Sinister Strike"] = {
-				["lowId"] = 1760,
-				["time"] = 1583582856.249,
-				["maxId"] = 8621,
+		["Redemptionf"] = {
+			["Power Word: Fortitude"] = {
+				["lowId"] = 1244,
+				["time"] = 1567782918.653,
+				["maxId"] = 1245,
 			},
-			["Eviscerate"] = {
-				["lowId"] = 8623,
-				["time"] = 1583582821.021,
-				["maxId"] = 8624,
+			["Resurrection"] = {
+				["lowId"] = 2006,
+				["time"] = 1567783336.747,
+				["maxId"] = 2010,
 			},
-		},
-		["Iprincess"] = {
-			["Holy Light"] = {
-				["lowId"] = 639,
-				["time"] = 1567785180.309,
-				["maxId"] = 647,
+			["Power Word: Shield"] = {
+				["lowId"] = 600,
+				["time"] = 1567784152.405,
+				["maxId"] = 3747,
 			},
 		},
-		["Wardaddy"] = {
-			["Hunter's Mark"] = {
-				["lowId"] = 1130,
-				["time"] = 1583516498.618,
-				["maxId"] = 14323,
-			},
-			["Raptor Strike"] = {
-				["lowId"] = 14261,
-				["time"] = 1583518458.405,
-				["maxId"] = 14262,
-			},
-			["Immolation Trap"] = {
-				["lowId"] = 13795,
-				["time"] = 1583518447.771,
-				["maxId"] = 14302,
+		["Tomex"] = {
+			["Ambush"] = {
+				["lowId"] = 8676,
+				["time"] = 1567786569.408,
+				["maxId"] = 8724,
 			},
 		},
 		["Doroteia"] = {
@@ -677,6 +592,75 @@ RankWatchSettings = {
 				["lowId"] = 2138,
 				["time"] = 1583522966.911,
 				["maxId"] = 8412,
+			},
+		},
+		["Itchimani"] = {
+			["Mind Blast"] = {
+				["lowId"] = 10947,
+				["time"] = 1583704594.902,
+				["maxId"] = 25372,
+			},
+			["Renew"] = {
+				["lowId"] = 25315,
+				["time"] = 1583706094.343,
+				["maxId"] = 25221,
+			},
+		},
+		["Tacafogo"] = {
+			["Fireball"] = {
+				["lowId"] = 145,
+				["time"] = 1567784150.333,
+				["maxId"] = 3140,
+			},
+		},
+		["Wardaddy"] = {
+			["Hunter's Mark"] = {
+				["lowId"] = 1130,
+				["time"] = 1583516498.618,
+				["maxId"] = 14323,
+			},
+			["Raptor Strike"] = {
+				["lowId"] = 14261,
+				["time"] = 1583518458.405,
+				["maxId"] = 14262,
+			},
+			["Immolation Trap"] = {
+				["lowId"] = 13795,
+				["time"] = 1583518447.771,
+				["maxId"] = 14302,
+			},
+		},
+		["Angster"] = {
+			["Kill Shot"] = {
+				["lowId"] = 61005,
+				["time"] = 1584231655.836,
+				["maxId"] = 61006,
+			},
+		},
+		["Iprincess"] = {
+			["Holy Light"] = {
+				["lowId"] = 639,
+				["time"] = 1567785180.309,
+				["maxId"] = 647,
+			},
+		},
+		["Zerokalorien"] = {
+			["Sinister Strike"] = {
+				["lowId"] = 1760,
+				["time"] = 1583582856.249,
+				["maxId"] = 8621,
+			},
+			["Eviscerate"] = {
+				["lowId"] = 8623,
+				["time"] = 1583582821.021,
+				["maxId"] = 8624,
+			},
+		},
+		["Shrekislive"] = {
+			["Holy Light"] = {
+				["lowId"] = 25292,
+				["time"] = 1583861637.752,
+				["maxId"] = 27135,
 			},
 		},
 		["Titmouse"] = {
@@ -718,11 +702,21 @@ RankWatchSettings = {
 				["maxId"] = 57977,
 			},
 		},
-		["Angster"] = {
-			["Kill Shot"] = {
-				["lowId"] = 61005,
-				["time"] = 1584231655.836,
-				["maxId"] = 61006,
+		["Hasansin"] = {
+			["Eviscerate"] = {
+				["lowId"] = 8624,
+				["time"] = 1583585535.091,
+				["maxId"] = 11299,
+			},
+			["Hemorrhage"] = {
+				["lowId"] = 16511,
+				["time"] = 1583585621.01,
+				["maxId"] = 17347,
+			},
+			["Wound Poison II"] = {
+				["lowId"] = 13222,
+				["time"] = 1583585626.666,
+				["maxId"] = 13223,
 			},
 		},
 		["Krenmar"] = {
@@ -776,11 +770,11 @@ RankWatchSettings = {
 				["maxId"] = 48658,
 			},
 		},
-		["Shrekislive"] = {
-			["Holy Light"] = {
-				["lowId"] = 25292,
-				["time"] = 1583861637.752,
-				["maxId"] = 27135,
+		["Spinacz"] = {
+			["Eviscerate"] = {
+				["lowId"] = 26865,
+				["time"] = 1583866273.159,
+				["maxId"] = 48667,
 			},
 		},
 		["Moostache"] = {
@@ -825,28 +819,53 @@ RankWatchSettings = {
 				["maxId"] = 9756,
 			},
 		},
-		["Hasansin"] = {
-			["Eviscerate"] = {
-				["lowId"] = 8624,
-				["time"] = 1583585535.091,
-				["maxId"] = 11299,
+		["Dktobrat"] = {
+			["Death Coil"] = {
+				["lowId"] = 49893,
+				["time"] = 1585399127.914,
+				["maxId"] = 49895,
 			},
-			["Hemorrhage"] = {
-				["lowId"] = 16511,
-				["time"] = 1583585621.01,
-				["maxId"] = 17347,
+			["Scourge Strike"] = {
+				["lowId"] = 55270,
+				["time"] = 1585399131.52,
+				["maxId"] = 55271,
 			},
-			["Wound Poison II"] = {
-				["lowId"] = 13222,
-				["time"] = 1583585626.666,
-				["maxId"] = 13223,
+			["Plague Strike"] = {
+				["lowId"] = 49919,
+				["time"] = 1585399121.075,
+				["maxId"] = 49921,
+			},
+			["Death and Decay"] = {
+				["lowId"] = 49937,
+				["time"] = 1585398645.461,
+				["maxId"] = 49938,
 			},
 		},
-		["Spinacz"] = {
-			["Eviscerate"] = {
-				["lowId"] = 26865,
-				["time"] = 1583866273.159,
-				["maxId"] = 48667,
+		["Precheur"] = {
+			["Mind Blast"] = {
+				["lowId"] = 10947,
+				["time"] = 1583863889.568,
+				["maxId"] = 25372,
+			},
+			["Greater Heal"] = {
+				["lowId"] = 25314,
+				["time"] = 1583863300.324,
+				["maxId"] = 25210,
+			},
+			["Power Word: Shield"] = {
+				["lowId"] = 10901,
+				["time"] = 1583863869.804,
+				["maxId"] = 25217,
+			},
+			["Shadow Word: Pain"] = {
+				["lowId"] = 10894,
+				["time"] = 1583863894.91,
+				["maxId"] = 25367,
+			},
+			["Holy Fire"] = {
+				["lowId"] = 15261,
+				["time"] = 1583863297.28,
+				["maxId"] = 25384,
 			},
 		},
 		["Swiftheal"] = {
@@ -895,35 +914,6 @@ RankWatchSettings = {
 				["maxId"] = 49929,
 			},
 		},
-		["Dktobrat"] = {
-			["Death Coil"] = {
-				["lowId"] = 49893,
-				["time"] = 1585399127.914,
-				["maxId"] = 49895,
-			},
-			["Scourge Strike"] = {
-				["lowId"] = 55270,
-				["time"] = 1585399131.52,
-				["maxId"] = 55271,
-			},
-			["Plague Strike"] = {
-				["lowId"] = 49919,
-				["time"] = 1585399121.075,
-				["maxId"] = 49921,
-			},
-			["Death and Decay"] = {
-				["lowId"] = 49937,
-				["time"] = 1585398645.461,
-				["maxId"] = 49938,
-			},
-		},
-		["Pakapok"] = {
-			["Flametongue Totem"] = {
-				["lowId"] = 16387,
-				["time"] = 1586433957.683,
-				["maxId"] = 58656,
-			},
-		},
 		["Shamjan"] = {
 			["Lesser Healing Wave"] = {
 				["lowId"] = 49275,
@@ -944,6 +934,13 @@ RankWatchSettings = {
 				["lowId"] = 25557,
 				["time"] = 1585171634.554,
 				["maxId"] = 58652,
+			},
+		},
+		["Pakapok"] = {
+			["Flametongue Totem"] = {
+				["lowId"] = 16387,
+				["time"] = 1586433957.683,
+				["maxId"] = 58656,
 			},
 		},
 		["Mutckso"] = {
@@ -979,10 +976,10 @@ RankWatchSettings = {
 			},
 		},
 		["Tepoop"] = {
-			["Death Coil"] = {
-				["lowId"] = 49892,
-				["time"] = 1585171717.875,
-				["maxId"] = 49893,
+			["Icy Touch"] = {
+				["lowId"] = 49896,
+				["time"] = 1585171713.368,
+				["maxId"] = 49904,
 			},
 			["Scourge Strike"] = {
 				["lowId"] = 55090,
@@ -994,15 +991,15 @@ RankWatchSettings = {
 				["time"] = 1585171176.012,
 				["maxId"] = 45463,
 			},
+			["Death Coil"] = {
+				["lowId"] = 49892,
+				["time"] = 1585171717.875,
+				["maxId"] = 49893,
+			},
 			["Blood Strike"] = {
 				["lowId"] = 49927,
 				["time"] = 1585171721.163,
 				["maxId"] = 49928,
-			},
-			["Icy Touch"] = {
-				["lowId"] = 49896,
-				["time"] = 1585171713.368,
-				["maxId"] = 49904,
 			},
 			["Plague Strike"] = {
 				["lowId"] = 49918,
@@ -1018,6 +1015,28 @@ RankWatchSettings = {
 				["lowId"] = 49939,
 				["time"] = 1585171357.136,
 				["maxId"] = 49940,
+			},
+		},
+		["Amaterrasu"] = {
+			["Corruption"] = {
+				["lowId"] = 11672,
+				["time"] = 1583788244.696,
+				["maxId"] = 27216,
+			},
+			["Demon Armor"] = {
+				["lowId"] = 11734,
+				["time"] = 1583787585.229,
+				["maxId"] = 11735,
+			},
+			["Unstable Affliction"] = {
+				["lowId"] = 30108,
+				["time"] = 1583788219.346,
+				["maxId"] = 30404,
+			},
+			["Shadow Bolt"] = {
+				["lowId"] = 11660,
+				["time"] = 1583788245.421,
+				["maxId"] = 25307,
 			},
 		},
 		["Syyd"] = {
@@ -1131,28 +1150,6 @@ RankWatchSettings = {
 				["maxId"] = 2589,
 			},
 		},
-		["Amaterrasu"] = {
-			["Corruption"] = {
-				["lowId"] = 11672,
-				["time"] = 1583788244.696,
-				["maxId"] = 27216,
-			},
-			["Demon Armor"] = {
-				["lowId"] = 11734,
-				["time"] = 1583787585.229,
-				["maxId"] = 11735,
-			},
-			["Unstable Affliction"] = {
-				["lowId"] = 30108,
-				["time"] = 1583788219.346,
-				["maxId"] = 30404,
-			},
-			["Shadow Bolt"] = {
-				["lowId"] = 11660,
-				["time"] = 1583788245.421,
-				["maxId"] = 25307,
-			},
-		},
 		["Darkzide"] = {
 			["Frost Armor"] = {
 				["lowId"] = 7301,
@@ -1178,6 +1175,23 @@ RankWatchSettings = {
 				["lowId"] = 10197,
 				["time"] = 1583705696.165,
 				["maxId"] = 27078,
+			},
+		},
+		["Silwanaa"] = {
+			["Death Coil"] = {
+				["lowId"] = 49893,
+				["time"] = 1586433110.83,
+				["maxId"] = 49895,
+			},
+			["Plague Strike"] = {
+				["lowId"] = 49919,
+				["time"] = 1586433114.369,
+				["maxId"] = 49921,
+			},
+			["Death Strike"] = {
+				["lowId"] = 45463,
+				["time"] = 1586433107.175,
+				["maxId"] = 49924,
 			},
 		},
 		["Blackhunt"] = {
@@ -1314,16 +1328,16 @@ RankWatchSettings = {
 				["maxId"] = 14285,
 			},
 		},
-		["Sigaro"] = {
-			["Lightning Bolt"] = {
-				["lowId"] = 10391,
-				["time"] = 1583580287.905,
-				["maxId"] = 10392,
+		["Rogoxox"] = {
+			["Rupture"] = {
+				["lowId"] = 8640,
+				["time"] = 1583580287.216,
+				["maxId"] = 11273,
 			},
-			["Lesser Healing Wave"] = {
-				["lowId"] = 8010,
-				["time"] = 1583579931.352,
-				["maxId"] = 10466,
+			["Backstab"] = {
+				["lowId"] = 8721,
+				["time"] = 1583580093.557,
+				["maxId"] = 11279,
 			},
 		},
 		["Andrut"] = {
@@ -1358,16 +1372,16 @@ RankWatchSettings = {
 				["maxId"] = 9885,
 			},
 		},
-		["Rogoxox"] = {
-			["Rupture"] = {
-				["lowId"] = 8640,
-				["time"] = 1583580287.216,
-				["maxId"] = 11273,
+		["Sigaro"] = {
+			["Lightning Bolt"] = {
+				["lowId"] = 10391,
+				["time"] = 1583580287.905,
+				["maxId"] = 10392,
 			},
-			["Backstab"] = {
-				["lowId"] = 8721,
-				["time"] = 1583580093.557,
-				["maxId"] = 11279,
+			["Lesser Healing Wave"] = {
+				["lowId"] = 8010,
+				["time"] = 1583579931.352,
+				["maxId"] = 10466,
 			},
 		},
 		["Astroteemo"] = {
@@ -1404,30 +1418,30 @@ RankWatchSettings = {
 			},
 		},
 		["Nomadwe"] = {
-			["Death Coil"] = {
-				["lowId"] = 49892,
-				["time"] = 1583875442.84,
-				["maxId"] = 49893,
+			["Blood Strike"] = {
+				["lowId"] = 49927,
+				["time"] = 1583875434.579,
+				["maxId"] = 49928,
 			},
 			["Scourge Strike"] = {
 				["lowId"] = 55090,
 				["time"] = 1583875436.047,
 				["maxId"] = 55265,
 			},
-			["Icy Touch"] = {
-				["lowId"] = 49896,
-				["time"] = 1583875428.822,
-				["maxId"] = 49903,
+			["Death Coil"] = {
+				["lowId"] = 49892,
+				["time"] = 1583875442.84,
+				["maxId"] = 49893,
 			},
 			["Death and Decay"] = {
 				["lowId"] = 43265,
 				["time"] = 1583874805.557,
 				["maxId"] = 49936,
 			},
-			["Blood Strike"] = {
-				["lowId"] = 49927,
-				["time"] = 1583875434.579,
-				["maxId"] = 49928,
+			["Icy Touch"] = {
+				["lowId"] = 49896,
+				["time"] = 1583875428.822,
+				["maxId"] = 49903,
 			},
 			["Plague Strike"] = {
 				["lowId"] = 49917,
@@ -1641,6 +1655,11 @@ RankWatchSettings = {
 			},
 		},
 		["Sakkeli"] = {
+			["Lightning Bolt"] = {
+				["lowId"] = 943,
+				["time"] = 1583520440.212,
+				["maxId"] = 6041,
+			},
 			["Water Shield"] = {
 				["lowId"] = 52129,
 				["time"] = 1583520346.516,
@@ -1650,11 +1669,6 @@ RankWatchSettings = {
 				["lowId"] = 8155,
 				["time"] = 1583520424.042,
 				["maxId"] = 10406,
-			},
-			["Lightning Bolt"] = {
-				["lowId"] = 943,
-				["time"] = 1583520440.212,
-				["maxId"] = 6041,
 			},
 			["Healing Wave"] = {
 				["lowId"] = 939,

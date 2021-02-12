@@ -4,11 +4,19 @@ RankWatchSettings = {
 	["explain"] = true,
 	["checkAllLevels"] = true,
 	["ignore"] = {
+		["zhurtaa"] = "Zhurtaa",
 	},
 	["levels"] = 2,
 	["channel"] = 3,
 	["interval"] = 300,
 	["reports"] = {
+		["Zhurtaa"] = {
+			["Chain Heal"] = {
+				["lowId"] = 25423,
+				["time"] = 1613007909.606,
+				["maxId"] = 55459,
+			},
+		},
 		["Ragnarokz"] = {
 			["Mind Blast"] = {
 				["lowId"] = 48126,
@@ -38,6 +46,13 @@ RankWatchSettings = {
 				["lowId"] = 19434,
 				["time"] = 1584559752.604,
 				["maxId"] = 49050,
+			},
+		},
+		["Astreria"] = {
+			["Moonfire"] = {
+				["lowId"] = 26988,
+				["time"] = 1612227641.678,
+				["maxId"] = 48463,
 			},
 		},
 		["Prostitutak"] = {
@@ -73,16 +88,11 @@ RankWatchSettings = {
 				["maxId"] = 55271,
 			},
 		},
-		["Fynnir"] = {
-			["Living Bomb"] = {
-				["lowId"] = 44457,
-				["time"] = 1586282570.167,
-				["maxId"] = 55360,
-			},
-			["Pyroblast"] = {
-				["lowId"] = 11366,
-				["time"] = 1586282575.33,
-				["maxId"] = 42891,
+		["Daequan"] = {
+			["Scourge Strike"] = {
+				["lowId"] = 55090,
+				["time"] = 1612914500.742,
+				["maxId"] = 55271,
 			},
 		},
 		["Varaell"] = {
@@ -122,6 +132,25 @@ RankWatchSettings = {
 				["lowId"] = 49000,
 				["time"] = 1585490362.564,
 				["maxId"] = 49001,
+			},
+		},
+		["Fynnir"] = {
+			["Living Bomb"] = {
+				["lowId"] = 44457,
+				["time"] = 1586282570.167,
+				["maxId"] = 55360,
+			},
+			["Pyroblast"] = {
+				["lowId"] = 11366,
+				["time"] = 1586282575.33,
+				["maxId"] = 42891,
+			},
+		},
+		["Imagus"] = {
+			["Arcane Barrage"] = {
+				["lowId"] = 44425,
+				["time"] = 1612914587.06,
+				["maxId"] = 44781,
 			},
 		},
 		["Youneedmetho"] = {

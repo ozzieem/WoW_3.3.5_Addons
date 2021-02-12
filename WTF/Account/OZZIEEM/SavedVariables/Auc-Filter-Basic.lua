@@ -16,13 +16,17 @@ AucAdvancedFilterBasic_IgnoreList = {
 		["Horde"] = {
 		},
 	},
+	["Frosthold"] = {
+		["Horde"] = {
+		},
+	},
 	["Icecrown"] = {
 		["Horde"] = {
 		},
 		["Alliance"] = {
 		},
 	},
-	["Frosthold"] = {
+	["Frozen Nexus [Custom]"] = {
 		["Horde"] = {
 		},
 	},

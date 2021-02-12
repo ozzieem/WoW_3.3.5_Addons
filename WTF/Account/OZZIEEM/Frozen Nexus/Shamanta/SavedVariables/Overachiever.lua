@@ -4,7 +4,12 @@ Overachiever_CharVars = {
 }
 Overachiever_CharVars_Consumed = {
 	["Drink"] = {
+		[33445] = true,
 	},
 	["Food"] = {
+		[6657] = true,
+		[34767] = true,
+		[34754] = true,
+		[42433] = true,
 	},
 }

@@ -227,6 +227,7 @@ local raid_list = {
 			'naxx?r?a?m?m?a?s?[%s-_,.]*10',
 			'naxx'..sep..'weekly',
 			'patchwerk'..sep..'must'..sep..'die!',
+			'anub*rekhan'..sep..'must'..sep..'die!',
 		},
 	},
 	
@@ -303,6 +304,15 @@ local raid_list = {
 		patterns = {
 			'ruins?'..sep..'*of?'..sep..'*ahn\'?'..sep..'*qiraj',
 			sep..'*aq[%s-_,.]*20'..sep..'*',
+		},
+	},
+
+	{
+		name = 'weekly',
+		instance_name = '',
+		size = 10,
+		patterns = {
+			'weekly?',
 		},
 	},
 }
@@ -558,7 +568,7 @@ local function is_lfm_channel(channel)
 	return channel == "CHAT_MSG_CHANNEL" or channel == "CHAT_MSG_YELL";
 end
 
-local function event_handler(self, event, message, sender)
+local function event_handler(self, event, message, sender,  _, _, _, _, _, _, _, _, _, sender_guid)
 	if is_lfm_channel(event) then
 		local raid_info, roles, gs = raid_browser.raid_info(message)
 		if raid_info and roles and gs then
@@ -569,7 +579,8 @@ local function event_handler(self, event, message, sender)
 				roles = roles, 
 				gs = gs, 
 				time = time(), 
-				message = message
+				message = message,
+				sender_guid = sender_guid
 			};
 			
 			raid_browser.gui.update_list();

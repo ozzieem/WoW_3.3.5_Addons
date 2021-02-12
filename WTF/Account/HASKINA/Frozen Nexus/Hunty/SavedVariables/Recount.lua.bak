@@ -1,0 +1,79 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Hunty"] = {
+			["GUID"] = "0x0000000000000796",
+			["type"] = "Self",
+			["TimeLast"] = {
+				["OVERALL"] = 1586987228,
+				["ManaGain"] = 1586987228,
+			},
+			["Owner"] = false,
+			["enClass"] = "HUNTER",
+			["TimeWindows"] = {
+				["ManaGain"] = {
+					343, -- [1]
+				},
+			},
+			["Name"] = "Hunty",
+			["LastActive"] = 1586987228,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ManaGain"] = 343,
+					["ManaGainedFrom"] = {
+						["Hunty"] = {
+							["Details"] = {
+								["Master Buff (Magic)"] = {
+									["count"] = 343,
+								},
+							},
+							["amount"] = 343,
+						},
+					},
+					["ManaGained"] = {
+						["Master Buff (Magic)"] = {
+							["Details"] = {
+								["Hunty"] = {
+									["count"] = 343,
+								},
+							},
+							["amount"] = 343,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ManaGain"] = 343,
+					["ManaGainedFrom"] = {
+						["Hunty"] = {
+							["Details"] = {
+								["Master Buff (Magic)"] = {
+									["count"] = 343,
+								},
+							},
+							["amount"] = 343,
+						},
+					},
+					["ManaGained"] = {
+						["Master Buff (Magic)"] = {
+							["Details"] = {
+								["Hunty"] = {
+									["count"] = 343,
+								},
+							},
+							["amount"] = 343,
+						},
+					},
+				},
+			},
+			["level"] = 80,
+			["UnitLockout"] = 1586987198,
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

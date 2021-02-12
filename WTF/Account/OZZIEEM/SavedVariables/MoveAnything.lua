@@ -3,26 +3,48 @@ MoveAnything_CustomFrames = {
 }
 MoveAnything_CharacterSettings = {
 	["default"] = {
+		["UIPanelMover1"] = {
+			["name"] = "UIPanelMover1",
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				0, -- [4]
+				-104.0000049238813, -- [5]
+			},
+		},
+		["MiniMapLFGFrame"] = {
+			["name"] = "MiniMapLFGFrame",
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"MinimapBackdrop", -- [2]
+				"TOPLEFT", -- [3]
+				16.57953535110799, -- [4]
+				-102.1052429008746, -- [5]
+			},
+		},
 	},
 }
 MoveAnything_UseCharacterSettings = nil
 MADB = {
+	["squareMM"] = 1,
 	["characters"] = {
 	},
-	["collapsed"] = true,
 	["frameListRows"] = 18,
+	["collapsed"] = true,
 	["profiles"] = {
 		["default"] = {
 			["name"] = "default",
 			["frames"] = {
-				["TargetFrame"] = {
-					["name"] = "TargetFrame",
+				["LootFrame"] = {
+					["scale"] = 1,
+					["name"] = "LootFrame",
 					["pos"] = {
-						"TOPLEFT", -- [1]
+						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						1005.006511080682, -- [4]
-						-718.141207476558, -- [5]
+						"BOTTOMLEFT", -- [3]
+						217.8985780309686, -- [4]
+						351.6680275499362, -- [5]
 					},
 				},
 				["PlayerFrame"] = {
@@ -35,15 +57,14 @@ MADB = {
 						-718.5614311972055, -- [5]
 					},
 				},
-				["LootFrame"] = {
-					["scale"] = 1,
-					["name"] = "LootFrame",
+				["TargetFrame"] = {
+					["name"] = "TargetFrame",
 					["pos"] = {
-						"BOTTOMLEFT", -- [1]
+						"TOPLEFT", -- [1]
 						"UIParent", -- [2]
-						"BOTTOMLEFT", -- [3]
-						217.8985780309686, -- [4]
-						351.6680275499362, -- [5]
+						"TOPLEFT", -- [3]
+						1005.006511080682, -- [4]
+						-718.141207476558, -- [5]
 					},
 				},
 			},

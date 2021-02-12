@@ -4,3 +4,15 @@ CLCRet: disabled
 BeanCounter: disabled
 Enchantrix: disabled
 Enchantrix-Barker: disabled
+TellMeWhen: disabled
+SexySound: disabled
+RSA: disabled
+PassLoot: disabled
+AdvancedTradeSkillWindow: disabled
+CantHealYou: enabled
+Carbonite: enabled
+CarboniteItems: enabled
+CarboniteNodes: enabled
+CarboniteTransfer: enabled
+QuestHelper: disabled
+DialogKey: disabled

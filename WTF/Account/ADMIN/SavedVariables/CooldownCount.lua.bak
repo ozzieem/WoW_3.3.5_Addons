@@ -1,0 +1,10 @@
+
+CooldownCountDB = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

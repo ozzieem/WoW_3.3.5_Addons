@@ -1,0 +1,9 @@
+
+GoldArray = {
+	["DISPLAYGPH"] = true,
+	["VERSION2"] = true,
+	["SORTBYNAME"] = true,
+	["Tabinia_Icecrown::Alliance"] = 613490,
+	["VIEWALL"] = true,
+	["INITIALIZED"] = true,
+}

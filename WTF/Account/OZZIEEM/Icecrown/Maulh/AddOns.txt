@@ -21,3 +21,9 @@ BeanCounter: disabled
 Parrot: disabled
 Cooldowns: enabled
 CooldownCount: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled

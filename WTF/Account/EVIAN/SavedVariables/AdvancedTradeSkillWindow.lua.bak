@@ -1,0 +1,86 @@
+
+atsw_orderby = {
+}
+atsw_bankitemlist = {
+}
+atsw_merchantlist = {
+}
+atsw_itemlist = {
+	["Icecrown"] = {
+		["Dranah"] = {
+			["Fine Thread"] = 11,
+			["Runed Titanium Rod"] = 1,
+			["Arcane Dust"] = 19,
+			["Tabard of the Explorer"] = 1,
+			["Argent Lance"] = 1,
+			["Potion of Speed"] = 5,
+			["Aquadynamic Fish Attractor"] = 1,
+			["Caged Worg Pup"] = 1,
+			["Heavy Frostweave Bandage"] = 20,
+			["Abyss Crystal"] = 22,
+			["Honey-Spiced Lichen"] = 1,
+			["Shriveled Heart"] = 1,
+			["Aspirant's Seal"] = 1,
+			["Lesser Cosmic Essence"] = 7,
+			["Titanium Lockbox"] = 1,
+			["Lovely Charm"] = 46,
+			["Infinite Dust"] = 21,
+			["Baby Spice"] = 11,
+			["Chilled Meat"] = 17,
+			["Monarch Topaz"] = 1,
+			["Rune Thread"] = 4,
+			["Bright Baubles"] = 7,
+			["Twisted Puzzle-Ring"] = 1,
+			["Runic Mana Potion"] = 1,
+			["Dream Shard"] = 18,
+			["Runic Healing Potion"] = 1,
+			["Hearthstone"] = 1,
+			["Direbrew's Remote"] = 1,
+			["Burning Skull Pendant"] = 1,
+			["Frost-Rimed Cloth Vest"] = 1,
+			["Bolt of Frostweave"] = 2,
+			["Relic of Ulduar"] = 24,
+			["Purified Lunar Dust"] = 1,
+			["Zabra's Gloves of Conquest"] = 1,
+			["Honeymint Tea"] = 16,
+			["Nerubian Chitin"] = 2,
+			["Vrykul Bones"] = 4,
+			["Valiant's Seal"] = 1,
+			["Frozen Orb"] = 6,
+			["Bolt of Imbued Frostweave"] = 15,
+			["Greater Cosmic Essence"] = 33,
+			["Thick Fur Clothing Scraps"] = 10,
+			["Illusion Dust"] = 2,
+			["Scroll of Strength VII"] = 1,
+			["Red Dye"] = 6,
+			["Book of Glyph Mastery"] = 2,
+			["Intravenous Healing Potion"] = 2,
+			["Frostweave Cloth"] = 14,
+			["Solid Stone"] = 1,
+			["Worg Haunch"] = 1,
+			["Warts-B-Gone Lip Balm"] = 1,
+			["Coin of Ancestry"] = 1,
+			["A Guide to Northern Cloth Scavenging"] = 1,
+			["Love's Prisoner"] = 1,
+			["Deeprock Salt"] = 1,
+			["Northern Spices"] = 27,
+			["Salted Venison"] = 3,
+			["Crystallized Air"] = 3,
+			["Devout Candle"] = 58,
+			["Scroll of Intellect VII"] = 1,
+			["Frostweave Bag"] = 1,
+			["Strong Fishing Pole"] = 1,
+			["Icicle Fang"] = 1,
+		},
+	},
+}
+atsw_customsorting = {
+}
+atsw_customheaders = {
+}
+atsw_disabled = {
+}
+atsw_savedqueue = {
+}
+atsw_savednecessaryitems = {
+}

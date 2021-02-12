@@ -1,0 +1,33 @@
+
+ZOMGBuffsPerCharDB = {
+	["namespaces"] = {
+		["Log"] = {
+		},
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+			},
+			["templates"] = {
+				["current"] = {
+					["modified"] = true,
+					["Aspect of the Cheetah"] = true,
+				},
+			},
+		},
+		["Portalz"] = {
+		},
+		["BlessingsManager"] = {
+		},
+	},
+	["global"] = {
+		["pos"] = {
+			["point"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				"BOTTOMRIGHT", -- [3]
+				-344.7018341662785, -- [4]
+				54.87730857368769, -- [5]
+			},
+		},
+		["firstStartup"] = false,
+	},
+}

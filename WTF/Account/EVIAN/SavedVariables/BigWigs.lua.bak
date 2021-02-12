@@ -1,0 +1,80 @@
+
+BigWigs3DB = {
+	["namespaces"] = {
+		["BigWigs_Bosses_Meathook"] = {
+		},
+		["BigWigs_Bosses_Trollgore"] = {
+		},
+		["BigWigs_Bosses_Drakos the Interrogator"] = {
+		},
+		["BigWigs_Bosses_Moorabi"] = {
+		},
+		["BigWigs_Bosses_Salramm the Fleshcrafter"] = {
+		},
+		["BigWigs_Bosses_Infinite Corruptor"] = {
+		},
+		["BigWigs_Plugins_Sounds"] = {
+		},
+		["BigWigs_Bosses_Varos Cloudstrider"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+		},
+		["BigWigs_Bosses_Keristrasza"] = {
+		},
+		["BigWigs_Bosses_Mage-Lord Urom"] = {
+		},
+		["BigWigs_Bosses_Grand Magus Telestra"] = {
+		},
+		["BigWigs_Bosses_The Prophet Tharon'ja"] = {
+		},
+		["BigWigs_Bosses_Ley-Guardian Eregos"] = {
+		},
+		["BigWigs_Bosses_Eck the Ferocious"] = {
+		},
+		["BigWigs_Bosses_Novos the Summoner"] = {
+		},
+		["BigWigs_Bosses_Drakkari Colossus"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsEmphasizeAnchor_width"] = 299.9999953496677,
+					["BigWigsAnchor_width"] = 200.0000027354896,
+				},
+			},
+		},
+		["BigWigs_Bosses_Anomalus"] = {
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Bosses_Slad'ran"] = {
+		},
+		["BigWigs_Bosses_Gal'darah"] = {
+		},
+		["BigWigs_Bosses_Chrono-Lord Epoch"] = {
+		},
+		["BigWigs_Bosses_King Dred"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
+		["BigWigs_Bosses_Ormorok the Tree-Shaper"] = {
+		},
+		["BigWigs_Bosses_Mal'Ganis"] = {
+		},
+		["BigWigs_Plugins_Tip of the Raid"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dranah - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BigWigs3IconDB = {
+}

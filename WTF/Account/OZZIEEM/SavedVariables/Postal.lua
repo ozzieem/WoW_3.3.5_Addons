@@ -16,14 +16,18 @@ Postal3DB = {
 				"Mandatum|Icecrown|Horde", -- [11]
 				"Maulh|Icecrown|Horde", -- [12]
 				"Modos|Icecrown|Alliance", -- [13]
-				"Pala|Frozen Nexus|Horde", -- [14]
-				"Riv|Frozen Nexus|Horde", -- [15]
-				"Shamanta|Frozen Nexus|Horde", -- [16]
-				"Suprema|Icecrown|Alliance", -- [17]
-				"Tabinia|Icecrown|Alliance", -- [18]
-				"Themken|Icecrown|Alliance", -- [19]
-				"Warmat|Icecrown|Alliance", -- [20]
-				"Wilinia|Icecrown|Alliance", -- [21]
+				"Pala|Frozen Nexus [Custom]|Horde", -- [14]
+				"Pala|Frozen Nexus|Horde", -- [15]
+				"Riv|Frozen Nexus [Custom]|Horde", -- [16]
+				"Riv|Frozen Nexus|Horde", -- [17]
+				"Shamanta|Frozen Nexus [Custom]|Horde", -- [18]
+				"Shamanta|Frozen Nexus|Horde", -- [19]
+				"Suprema|Icecrown|Alliance", -- [20]
+				"Tabinia|Icecrown|Alliance", -- [21]
+				"Themken|Icecrown|Alliance", -- [22]
+				"Valakk|Frostmourne|Horde", -- [23]
+				"Warmat|Icecrown|Alliance", -- [24]
+				"Wilinia|Icecrown|Alliance", -- [25]
 			},
 		},
 	},
@@ -35,15 +39,19 @@ Postal3DB = {
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
 		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Valakk - Frostmourne"] = "Valakk - Frostmourne",
+		["Riv - Frozen Nexus [Custom]"] = "Riv - Frozen Nexus [Custom]",
+		["Pala - Frozen Nexus [Custom]"] = "Pala - Frozen Nexus [Custom]",
+		["Shamanta - Frozen Nexus [Custom]"] = "Shamanta - Frozen Nexus [Custom]",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
 		["Lawron - Lordaeron"] = "Lawron - Lordaeron",
 		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
 		["Suprema - Icecrown"] = "Suprema - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Wilinia - Icecrown"] = "Wilinia - Icecrown",
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
@@ -54,8 +62,8 @@ Postal3DB = {
 		["Maldir - Icecrown"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Modos", -- [1]
-					"Mandatum", -- [2]
+					"Mandatum", -- [1]
+					"Modos", -- [2]
 					"Dranah", -- [3]
 					"Jianyang", -- [4]
 				},
@@ -99,6 +107,12 @@ Postal3DB = {
 			},
 		},
 		["Liadra - Frostmourne"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Valakk", -- [1]
+					"Tega", -- [2]
+				},
+			},
 		},
 		["Tabinia - Icecrown"] = {
 			["BlackBook"] = {
@@ -110,6 +124,25 @@ Postal3DB = {
 					"Allisone", -- [5]
 				},
 			},
+		},
+		["Valakk - Frostmourne"] = {
+		},
+		["Riv - Frozen Nexus [Custom]"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Resto", -- [1]
+					"Pala", -- [2]
+				},
+			},
+		},
+		["Pala - Frozen Nexus [Custom]"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Maeg", -- [1]
+				},
+			},
+		},
+		["Shamanta - Frozen Nexus [Custom]"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 		},
@@ -129,21 +162,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Dranah - Icecrown"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Maldir", -- [1]
-					"Modos", -- [2]
-					"Mandatum", -- [3]
-					"Lumu", -- [4]
-					"Splosion", -- [5]
-					"Salaction", -- [6]
-					"JianYang", -- [7]
-					"Maulh", -- [8]
-					"Warmat", -- [9]
-				},
-			},
-		},
 		["Shamanta - Frozen Nexus"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -151,10 +169,6 @@ Postal3DB = {
 					"Dranah", -- [2]
 				},
 			},
-		},
-		["Lawras - Lordaeron"] = {
-		},
-		["Suprema - Icecrown"] = {
 		},
 		["Warmat - Icecrown"] = {
 			["BlackBook"] = {
@@ -167,7 +181,26 @@ Postal3DB = {
 				},
 			},
 		},
+		["Lawras - Lordaeron"] = {
+		},
+		["Suprema - Icecrown"] = {
+		},
 		["Wilinia - Icecrown"] = {
+		},
+		["Dranah - Icecrown"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Mandatum", -- [1]
+					"Maldir", -- [2]
+					"Modos", -- [3]
+					"Lumu", -- [4]
+					"Splosion", -- [5]
+					"Salaction", -- [6]
+					"JianYang", -- [7]
+					"Maulh", -- [8]
+					"Warmat", -- [9]
+				},
+			},
 		},
 		["Mandatum - Icecrown"] = {
 			["BlackBook"] = {

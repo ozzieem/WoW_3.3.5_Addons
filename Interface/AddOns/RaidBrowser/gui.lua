@@ -66,6 +66,19 @@ local function format_seconds(seconds)
    return days_text .. hours_text .. minutes_text;
 end
 
+-- Call with gearscores in decimal, ie 5.2 for 5200 gearscore.
+local function getGsQualityColor(gs_decimal) 
+	
+	if not gs_decimal or not GearScore_GetQuality then
+		-- Default if GearScoreLite is not installed.
+		return HIGHLIGHT_FONT_COLOR.r, HIGHLIGHT_FONT_COLOR.g, HIGHLIGHT_FONT_COLOR.b;
+	end
+
+	-- Multiply with 1000 as the function requires in thousands.
+	-- Returns Red, Green, Blue, GS_Quality[( i + 1 ) * 1000].Description (GearScoreLite.lua)
+	return GearScore_GetQuality(gs_decimal * 1000) 
+end
+
 -- Setup tooltip and LFR button entry functionality.
 for i = 1, NUM_LFR_LIST_BUTTONS do
 	local button = _G["LFRBrowseFrameListButton"..i];
@@ -134,6 +147,7 @@ local function assign_lfr_button(button, host_name, lfm_info, index)
 
 	-- Update button text with raid host name , GS, Raid, and role information
 	button.name:SetText(host_name);
+
 	button.level:SetText(button.lfm_info.gs); -- Previously level, now GS
 
 	-- Raid name
@@ -164,8 +178,14 @@ local function assign_lfr_button(button, host_name, lfm_info, index)
 	end
 	
 	button:Enable();
-	button.name:SetTextColor(NORMAL_FONT_COLOR.r, NORMAL_FONT_COLOR.g, NORMAL_FONT_COLOR.b)
-	button.level:SetTextColor(HIGHLIGHT_FONT_COLOR.r, HIGHLIGHT_FONT_COLOR.g, HIGHLIGHT_FONT_COLOR.b);
+	
+	-- Get the class color of the one hosting the raid
+	local _, engClass = GetPlayerInfoByGUID(button.lfm_info.sender_guid)
+	local classColor = RAID_CLASS_COLORS[engClass]
+	button.name:SetTextColor(classColor.r, classColor.g, classColor.b)
+
+	local gsColorR, gsColorG, gsColorB = getGsQualityColor(tonumber(button.lfm_info.gs));
+	button.level:SetTextColor(gsColorR, gsColorG, gsColorB);
 
 	-- If the raid is saved, then color the raid text in the list as red
 	if button.raid_locked then

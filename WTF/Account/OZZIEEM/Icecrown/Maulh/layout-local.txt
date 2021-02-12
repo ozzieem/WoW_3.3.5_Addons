@@ -2,8 +2,8 @@ Version: 1
 Frame: InterfaceOptionsFrame
 FrameLevel: 15
 Anchor: CENTER
-X: -32
-Y: -25
+X: 0
+Y: 0
 W: 900
 H: 520
 Frame: WorldMapScreenAnchor
@@ -32,10 +32,10 @@ FrameLevel: 21
 Anchor: TOP
 X: -2
 Y: -88
-W: 119
-H: 36
+W: 127
+H: 40
 Frame: NxMap1
-FrameLevel: 9
+FrameLevel: 7
 Anchor: TOPLEFT
 X: 9
 Y: -34
@@ -73,7 +73,7 @@ Frame: DBMMinimapButton
 FrameLevel: 24
 Anchor: TOPRIGHT
 X: -8
-Y: -221
+Y: -193
 W: 32
 H: 32
 Frame: TomTomCrazyArrow
@@ -109,8 +109,8 @@ FrameLevel: 5
 Anchor: CENTER
 X: 135
 Y: 184
-W: 82
-H: 20
+W: 222
+H: 58
 Frame: XPerl_Party_Anchor
 FrameLevel: 1
 Anchor: LEFT
@@ -303,7 +303,7 @@ H: 60
 Frame: XPerl_PetTarget
 FrameLevel: 2
 Anchor: BOTTOM
-X: -532
-Y: 288
+X: -525
+Y: 269
 W: 160
 H: 60

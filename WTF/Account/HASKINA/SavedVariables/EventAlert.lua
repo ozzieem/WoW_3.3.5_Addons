@@ -1,27 +1,27 @@
 
 EA_Config = {
-	["ShowFlash"] = false,
+	["ShowFlash"] = true,
 	["ShowFrame"] = true,
-	["DoAlertSound"] = true,
+	["DoAlertSound"] = false,
 	["ChangeTimer"] = false,
-	["LockFrame"] = true,
-	["AlertSoundValue"] = 1,
-	["AllowESC"] = false,
+	["LockFrame"] = false,
+	["AlertSoundValue"] = 3,
+	["AllowESC"] = true,
 	["ShowName"] = true,
 	["Version"] = "4.3.6",
 	["ShowTimer"] = true,
 	["IconSize"] = 60,
-	["AlertSound"] = "Sound\\Spells\\ShaysBell.wav",
+	["AlertSound"] = "Sound\\Spells\\NetherwindFocusImpact.wav",
 	["AllowAltAlerts"] = false,
 	["ShowSpellInfo"] = false,
 }
 EA_Position = {
-	["xLoc"] = 0,
+	["xLoc"] = -213.3331553441448,
 	["relativePoint"] = "CENTER",
 	["Anchor"] = "CENTER",
-	["yLoc"] = 0,
-	["xOffset"] = 0,
-	["yOffset"] = 0,
+	["yLoc"] = -104.561301124676,
+	["xOffset"] = -20,
+	["yOffset"] = 1,
 }
 EA_Items = {
 	["DEATHKNIGHT"] = {
@@ -48,7 +48,7 @@ EA_Items = {
 		[74396] = true,
 		[54741] = true,
 		[44543] = true,
-		[12536] = true,
+		[12536] = false,
 		[44544] = true,
 		[44545] = true,
 		[48108] = true,
@@ -106,18 +106,18 @@ EA_Items = {
 	["ROGUE"] = {
 	},
 	["DRUID"] = {
-		[16870] = true,
 		[48517] = true,
+		[69369] = true,
 		[46833] = true,
 		[16886] = true,
 		[48391] = true,
 		[48518] = true,
 		[64823] = true,
-		[69369] = true,
+		[16870] = true,
 	},
 	["SHAMAN"] = {
 		[53817] = true,
-		[53390] = true,
+		[53390] = false,
 		[16246] = true,
 	},
 	["HUNTER"] = {
@@ -198,6 +198,7 @@ EA_CustomItems = {
 	["DRUID"] = {
 	},
 	["SHAMAN"] = {
+		[16246] = true,
 	},
 	["HUNTER"] = {
 	},

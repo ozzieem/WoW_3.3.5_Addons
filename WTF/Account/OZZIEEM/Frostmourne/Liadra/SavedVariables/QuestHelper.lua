@@ -1,8 +1,31 @@
 
 QuestHelper_KnownFlightRoutes = {
-	["Silvermoon City"] = true,
+	["Transitus Shield, Coldarra"] = true,
+	["Thrallmar, Hellfire Peninsula"] = true,
+	["Falcon Watch, Hellfire Peninsula"] = true,
+	["Undercity, Tirisfal"] = true,
 	["Grom'gol, Stranglethorn"] = true,
+	["Unu'pe, Borean Tundra"] = true,
+	["Silvermoon City"] = true,
+	["Dalaran"] = true,
 	["The Sepulcher, Silverpine Forest"] = true,
+	["Taunka'le Village, Borean Tundra"] = true,
+	["River's Heart, Sholazar Basin"] = true,
+	["Vengeance Landing, Howling Fjord"] = true,
+	["Nesingwary Base Camp, Sholazar Basin"] = true,
+	["Venomspite, Dragonblight"] = true,
+	["Conquest Hold, Grizzly Hills"] = true,
+	["The Argent Vanguard, Icecrown"] = true,
+	["Spinebreaker Ridge, Hellfire Peninsula"] = true,
+	["The Shadow Vault, Icecrown"] = true,
+	["Thorium Point, Searing Gorge"] = true,
+	["Orgrimmar, Durotar"] = true,
+	["New Agamand, Howling Fjord"] = true,
+	["Hellfire Peninsula, The Dark Portal, Horde"] = true,
+	["Wyrmrest Temple, Dragonblight"] = true,
+	["Zabra'jin, Zangarmarsh"] = true,
+	["Amber Ledge, Borean Tundra"] = true,
+	["Agmar's Hammer, Dragonblight"] = true,
 }
 QuestHelper_Home = nil
 QuestHelper_CharVersion = 1

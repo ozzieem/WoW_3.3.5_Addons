@@ -1,0 +1,40 @@
+MACRO 16777220 "." INV_Misc_QuestionMark
+#showtooltip Charger
+/cast [nocombat, nomounted] !Crusader Aura; [mounted] !Retribution Aura;
+END
+MACRO 16777223 "b" INV_Misc_QuestionMark
+/s .buff
+/use Scroll of Strength VIII
+/use "Bravado" Cologne
+/use "VICTORY" Perfume
+/use Mega Mammoth Meal
+END
+MACRO 16777221 "buff" INV_Misc_QuestionMark
+/s .buff
+/use Conjured Mana Strudel
+END
+MACRO 16777224 "eq" INV_Misc_QuestionMark
+/use Argent Lance
+/use Argent LanceBulwark of Smouldering Steel
+END
+MACRO 16777218 "FL" INV_Misc_QuestionMark
+/cast [target=Splosion] Flash of Light
+END
+MACRO 16777222 "HFL" INV_Misc_QuestionMark
+/cast [target=Maeg] Flash of Light
+END
+MACRO 16777217 "HL" INV_Misc_QuestionMark
+/cast [target=Splosion] Holy Light
+END
+MACRO 16777226 "Judge" INV_Misc_QuestionMark
+/cast Judgement of Wisdom
+/use Book of Powers
+/stopcasting
+/script  SelectGossipOption(1)
+END
+MACRO 16777225 "laugh" INV_Misc_QuestionMark
+/lol
+END
+MACRO 16777219 "LoH" INV_Misc_QuestionMark
+/cast [target=Splosion] Lay on Hands
+END

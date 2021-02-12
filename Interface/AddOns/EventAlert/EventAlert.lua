@@ -147,7 +147,10 @@ function EventAlert_OnEvent(event)
 				            	table.insert(EA_TempBuffsTable, arg9);
 								EventAlert_PositionFrames();
 				                EventAlert_DoAlert();
-							end
+                            end
+                        -- Hide Clearcasting
+                        elseif (arg9 == 16246) then
+				            	-- Do nothing...
                         -- All other spells
                         else
                         	table.insert(EA_TempBuffsTable, arg9);

@@ -1,0 +1,26 @@
+
+SOCD = {
+	["IsEnabled"] = true,
+	["log"] = {
+		"SOCD_MainFrame_OnLoad(self)", -- [1]
+		"SOCD = {};", -- [2]
+		"SOCD.IsEnabled = true", -- [3]
+		"CreateSortButton(ContainerFrame1SortCheck, parent, 42, -25, handler)", -- [4]
+		"CreateSortButton(ContainerFrame2SortCheck, parent, 42, -25, handler)", -- [5]
+		"CreateSortButton(ContainerFrame3SortCheck, parent, 42, -25, handler)", -- [6]
+		"CreateSortButton(ContainerFrame4SortCheck, parent, 42, -25, handler)", -- [7]
+		"CreateSortButton(ContainerFrame5SortCheck, parent, 42, -25, handler)", -- [8]
+		"CreateSortButton(ContainerFrame6SortCheck, parent, 42, -25, handler)", -- [9]
+		"CreateSortButton(ContainerFrame7SortCheck, parent, 42, -25, handler)", -- [10]
+		"CreateSortButton(ContainerFrame8SortCheck, parent, 42, -25, handler)", -- [11]
+		"CreateSortButton(ContainerFrame9SortCheck, parent, 42, -25, handler)", -- [12]
+		"CreateSortButton(ContainerFrame10SortCheck, parent, 42, -25, handler)", -- [13]
+		"CreateSortButton(ContainerFrame11SortCheck, parent, 42, -25, handler)", -- [14]
+		"CreateSortButton(ContainerFrame12SortCheck, parent, 42, -25, handler)", -- [15]
+		"CreateSortButton(ContainerFrame13SortCheck, parent, 42, -25, handler)", -- [16]
+		"CreateSortButton(ContainerFrame1SortButton, parent, 138, -28, handler)", -- [17]
+		"SOCD_OptionsPanel_OnLoad(panel)", -- [18]
+		"SOCD_MainFrame_OnEvent(self, VARIABLES_LOADED, ...)", -- [19]
+		"(event == VARIABLES_LOADED)", -- [20]
+	},
+}

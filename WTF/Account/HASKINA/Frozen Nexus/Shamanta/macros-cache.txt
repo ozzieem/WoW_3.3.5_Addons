@@ -1,0 +1,31 @@
+MACRO 16777218 "CD" INV_Misc_QuestionMark
+/cast Elemental Mastery
+/cast Berserking
+END
+MACRO 16777217 "FL" INV_Misc_QuestionMark
+/cast [target=Lichborne] Lesser Healing Wave
+/cast [target=Splosion] Lesser Healing Wave
+END
+MACRO 16777219 "FL" INV_Misc_QuestionMark
+/cast [target=Gigachad] Lesser Healing Wave
+END
+MACRO 16777221 "FO" INV_Misc_QuestionMark
+/targetexact Ice Sphere
+/cast Chain Lightning
+/targetexact The Lich King
+END
+MACRO 16777224 "HL" INV_Misc_QuestionMark
+/use Glowing Twilight Scale
+/cast Lesser Healing Wave
+END
+MACRO 16777220 "HL" INV_Misc_QuestionMark
+/cast [target=Lichborne] Healing Wave
+END
+MACRO 16777223 "RE" INV_Misc_QuestionMark
+#showtooltip Reincarnation
+END
+MACRO 16777222 "WS" INV_Misc_QuestionMark
+/stopcasting
+/cast Wind Shear
+/cast Purge
+END

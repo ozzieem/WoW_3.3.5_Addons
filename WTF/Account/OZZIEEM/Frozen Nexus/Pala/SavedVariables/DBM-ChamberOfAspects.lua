@@ -45,10 +45,10 @@ DBMChamberOfAspects_SavedVars = {
 		["BeaconIcon"] = true,
 	},
 	["Halion"] = {
-		["Flame Breath"] = false,
+		["WarnPhase3Soon"] = true,
 		["Meteor Strike"] = true,
 		["Soul Consumption - run away"] = true,
-		["WarnPhase3Soon"] = true,
+		["Flame Breath"] = false,
 		["HealthFrame"] = false,
 		["Timer77844Halion5"] = true,
 		["Timer77844Halion4"] = true,
@@ -75,8 +75,8 @@ DBMChamberOfAspects_SavedVars = {
 		["Timer74562Halion1"] = true,
 		["Soul Consumption on >%s<"] = true,
 		["Phase 3"] = true,
-		["WarnPhase2Soon"] = true,
 		["Announce"] = false,
+		["WarnPhase2Soon"] = true,
 	},
 	["Zarithrian"] = {
 		["Cleave Armor (%d)"] = true,

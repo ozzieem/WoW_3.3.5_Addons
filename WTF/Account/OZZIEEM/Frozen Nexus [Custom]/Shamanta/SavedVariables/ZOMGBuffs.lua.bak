@@ -1,0 +1,40 @@
+
+ZOMGBuffsPerCharDB = {
+	["global"] = {
+		["pos"] = {
+			["point"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				"BOTTOMRIGHT", -- [3]
+				-349.6140206424147, -- [4]
+				57.75361677883656, -- [5]
+			},
+		},
+		["firstStartup"] = false,
+	},
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+				["Water Shield"] = true,
+			},
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+		["Log"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+	},
+}

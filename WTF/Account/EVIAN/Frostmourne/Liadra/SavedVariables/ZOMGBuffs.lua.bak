@@ -1,0 +1,63 @@
+
+ZOMGBuffsPerCharDB = {
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+				["Seal of Corruption"] = true,
+				["Seal of Righteousness"] = true,
+				["Crusader Aura"] = true,
+				["Divine Plea"] = true,
+				["Seal of Justice"] = true,
+				["Holy Shield"] = true,
+				["Seal of Light"] = true,
+				["Seal of Command"] = true,
+				["Seal of Wisdom"] = true,
+				["Seal of Vengeance"] = true,
+			},
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+		["Log"] = {
+		},
+		["Portalz"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+			["rebuff"] = {
+				["SACRIFICE"] = 5,
+				["FREEDOM"] = 5,
+				["BEACON"] = 5,
+				["SACREDSHIELD"] = 5,
+			},
+		},
+		["Blessings"] = {
+			["selectedTemplate"] = "5-Man",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+	},
+	["global"] = {
+		["pos"] = {
+			["point"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				"BOTTOMRIGHT", -- [3]
+				-346.8076271741073, -- [4]
+				59.78911426967455, -- [5]
+			},
+		},
+		["sort"] = "CLASS",
+		["firstStartup"] = false,
+	},
+}

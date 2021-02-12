@@ -1,21 +1,21 @@
 
 ZOMGBuffsPerCharDB = {
 	["namespaces"] = {
-		["BlessingsManager"] = {
-		},
 		["Log"] = {
-		},
-		["Portalz"] = {
 		},
 		["SelfBuffs"] = {
 			["notlearnable"] = {
 			},
 			["templates"] = {
 				["current"] = {
-					["Aspect of the Viper"] = true,
 					["modified"] = true,
+					["Aspect of the Dragonhawk"] = true,
 				},
 			},
+		},
+		["Portalz"] = {
+		},
+		["BlessingsManager"] = {
 		},
 	},
 	["global"] = {

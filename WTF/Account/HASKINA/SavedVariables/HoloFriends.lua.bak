@@ -1,0 +1,277 @@
+
+HOLOFRIENDS_LIST = {
+	["version"] = 0.453,
+	["Icecrown"] = {
+		["Dranah"] = {
+			{
+				["group"] = "Friends",
+				["name"] = "1",
+				["lastuse"] = 1585927800,
+			}, -- [1]
+			{
+				["name"] = "Arcturiuss",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [2]
+			{
+				["name"] = "Calamitorc",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [3]
+			{
+				["name"] = "Durishtao",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [4]
+			{
+				["connected"] = true,
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+				["lc_class"] = "Warrior",
+				["name"] = "Gergeton",
+				["lastSeen"] = "2020-04-03 17:30 5",
+				["level"] = 80,
+				["class"] = "WARRIOR",
+				["area"] = "Drak'Tharon Keep",
+			}, -- [5]
+			{
+				["connected"] = true,
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+				["lc_class"] = "Warrior",
+				["lastSeen"] = "2020-04-03 17:30 5",
+				["name"] = "Gormassh",
+				["onstate"] = "<Away>",
+				["level"] = 80,
+				["class"] = "WARRIOR",
+				["area"] = "Icecrown",
+			}, -- [6]
+			{
+				["name"] = "Gromash",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [7]
+			{
+				["name"] = "Holybubblez",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+				["comment"] = "Ask if he got his CoT mount",
+			}, -- [8]
+			{
+				["name"] = "Kyx",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [9]
+			{
+				["name"] = "Lumu",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [10]
+			{
+				["connected"] = true,
+				["comment"] = "rogue that was apprently best at pvp in tbc",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+				["lc_class"] = "Rogue",
+				["name"] = "Mudovaca",
+				["lastSeen"] = "2020-04-03 17:30 5",
+				["level"] = 80,
+				["area"] = "Nagrand",
+			}, -- [11]
+			{
+				["name"] = "Multiacidus",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [12]
+			{
+				["name"] = "Pinaa",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [13]
+			{
+				["name"] = "Ploppe",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+				["comment"] = "Immortals of Sweden member",
+			}, -- [14]
+			{
+				["name"] = "Salaction",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [15]
+			{
+				["name"] = "Shasen",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [16]
+			{
+				["name"] = "Splosion",
+				["notify"] = true,
+				["group"] = "Friends",
+				["tmpadd"] = 1585927800,
+			}, -- [17]
+		},
+	},
+}
+HOLOFRIENDS_SHOW_OFFLINE_FRIENDS = 1
+HOLOIGNORE_LIST = {
+	["version"] = 0.453,
+	["Icecrown"] = {
+		["Dranah"] = {
+			{
+				["group"] = "Ignore",
+				["name"] = "1",
+				["lastuse"] = 1585927800,
+			}, -- [1]
+			{
+				["group"] = "Ignore",
+				["name"] = "Aqir",
+				["notify"] = true,
+			}, -- [2]
+			{
+				["group"] = "Ignore",
+				["name"] = "Aratama",
+				["notify"] = true,
+			}, -- [3]
+			{
+				["group"] = "Ignore",
+				["name"] = "Belaurel",
+				["notify"] = true,
+			}, -- [4]
+			{
+				["group"] = "Ignore",
+				["name"] = "Ccrysis",
+				["notify"] = true,
+			}, -- [5]
+			{
+				["group"] = "Ignore",
+				["name"] = "Coffin",
+				["notify"] = true,
+			}, -- [6]
+			{
+				["group"] = "Ignore",
+				["name"] = "Curseofcipa",
+				["notify"] = true,
+			}, -- [7]
+			{
+				["group"] = "Ignore",
+				["name"] = "Darugars",
+				["notify"] = true,
+			}, -- [8]
+			{
+				["group"] = "Ignore",
+				["name"] = "Dianira",
+				["notify"] = true,
+			}, -- [9]
+			{
+				["group"] = "Ignore",
+				["name"] = "Frugalt",
+				["notify"] = true,
+			}, -- [10]
+			{
+				["group"] = "Ignore",
+				["name"] = "Gymara",
+				["notify"] = true,
+			}, -- [11]
+			{
+				["group"] = "Ignore",
+				["name"] = "Lokifur",
+				["notify"] = true,
+			}, -- [12]
+			{
+				["group"] = "Ignore",
+				["name"] = "Overcautious",
+				["notify"] = true,
+			}, -- [13]
+			{
+				["group"] = "Ignore",
+				["name"] = "Poisonedd",
+				["notify"] = true,
+			}, -- [14]
+			{
+				["group"] = "Ignore",
+				["name"] = "Rayser",
+				["notify"] = true,
+			}, -- [15]
+			{
+				["group"] = "Ignore",
+				["name"] = "Retmonster",
+				["notify"] = true,
+			}, -- [16]
+			{
+				["group"] = "Ignore",
+				["name"] = "Sanuriq",
+				["notify"] = true,
+			}, -- [17]
+			{
+				["group"] = "Ignore",
+				["name"] = "Seprico",
+				["notify"] = true,
+			}, -- [18]
+			{
+				["group"] = "Ignore",
+				["name"] = "Thevipeerr",
+				["notify"] = true,
+			}, -- [19]
+		},
+	},
+}
+HOLOFRIENDS_OPTIONS = {
+	["MenuModP"] = true,
+	["ShowClassIcons"] = true,
+	["ShowGroups"] = true,
+	["NotesPriority"] = false,
+	["MarkRemove"] = true,
+	["NotesPriorityOff"] = false,
+	["ShowClassColor"] = true,
+	["MergeComments"] = true,
+	["TTDateFormat"] = "%A %m.%d.%Y %I:%M%p",
+	["MenuModF"] = true,
+	["ShowDropdownBG"] = true,
+	["MergeNotes"] = true,
+	["BNShowCharName"] = true,
+	["MenuModR"] = true,
+	["MsgIgnoredWhisper"] = true,
+	["NotesPriorityOn"] = false,
+	["MenuModT"] = true,
+	["SortOnline"] = false,
+	["ShowDropdownAllBG"] = false,
+	["SetDateFormat"] = false,
+	["ShowOnlineAtLogin"] = false,
+	["ShowLevel"] = false,
+}
+HOLOFRIENDS_FACTIONS = {
+	["Icecrown"] = {
+		["Horde"] = {
+			"Dranah", -- [1]
+		},
+		["unknown"] = {
+		},
+	},
+}
+HOLOFRIENDS_MYCHARS = {
+	["Icecrown"] = {
+		["Dranah"] = {
+			["lastSeen"] = "2020-04-03 17:30 5",
+			["area"] = "Dalaran",
+			["level"] = 80,
+			["class"] = "PRIEST",
+			["lc_class"] = "Priest",
+		},
+	},
+}

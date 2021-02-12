@@ -1,0 +1,1780 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Keein"] = {
+			["GUID"] = "0x0000000000000025",
+			["type"] = "Grouped",
+			["FightsSaved"] = 1,
+			["Owner"] = false,
+			["enClass"] = "MAGE",
+			["Name"] = "Keein",
+			["lazysync"] = true,
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+			},
+			["level"] = 80,
+			["UnitLockout"] = 1589822992,
+			["LastFightIn"] = 0,
+		},
+		["Myron"] = {
+			["GUID"] = "0x0000000000000006",
+			["LastEventHealth"] = {
+				"314793 (99%)", -- [1]
+				"314793 (99%)", -- [2]
+				"314793 (99%)", -- [3]
+				"314793 (99%)", -- [4]
+				"314793 (99%)", -- [5]
+				"314793 (99%)", -- [6]
+				"314793 (99%)", -- [7]
+				"314793 (99%)", -- [8]
+				"314793 (99%)", -- [9]
+				"314793 (99%)", -- [10]
+				"314793 (99%)", -- [11]
+				"314793 (99%)", -- [12]
+				"314793 (99%)", -- [13]
+				"314793 (99%)", -- [14]
+				"314793 (99%)", -- [15]
+				"314793 (99%)", -- [16]
+				"315859 (99%)", -- [17]
+				"315859 (99%)", -- [18]
+				"314793 (99%)", -- [19]
+				"314793 (99%)", -- [20]
+				"314793 (99%)", -- [21]
+				"314793 (99%)", -- [22]
+				"314793 (99%)", -- [23]
+				"314793 (99%)", -- [24]
+				"314793 (99%)", -- [25]
+				"314793 (99%)", -- [26]
+				"314793 (99%)", -- [27]
+				"314793 (99%)", -- [28]
+				"314793 (99%)", -- [29]
+				"314793 (99%)", -- [30]
+				"314793 (99%)", -- [31]
+				"314793 (99%)", -- [32]
+				"314793 (99%)", -- [33]
+				"314793 (99%)", -- [34]
+				"314793 (99%)", -- [35]
+				"314793 (99%)", -- [36]
+				"314793 (99%)", -- [37]
+				"314793 (99%)", -- [38]
+				"314793 (99%)", -- [39]
+				"314793 (99%)", -- [40]
+				"314793 (99%)", -- [41]
+				"314793 (99%)", -- [42]
+				"314793 (99%)", -- [43]
+				"314793 (99%)", -- [44]
+				"314793 (99%)", -- [45]
+				"314793 (99%)", -- [46]
+				"314793 (99%)", -- [47]
+				"314793 (99%)", -- [48]
+				"314793 (99%)", -- [49]
+				"314793 (99%)", -- [50]
+			},
+			["LastAttackedBy"] = "Servant of the Throne",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["ActiveTime"] = {
+					43.51, -- [1]
+				},
+				["DOT_Time"] = {
+					33, -- [1]
+				},
+				["TimeDamage"] = {
+					43.51, -- [1]
+				},
+				["DamageTaken"] = {
+					19148, -- [1]
+				},
+				["Damage"] = {
+					6091614, -- [1]
+				},
+			},
+			["enClass"] = "DEATHKNIGHT",
+			["unit"] = "Myron",
+			["level"] = 80,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 1,
+			["LastAbility"] = 260984.715,
+			["LastDamageTaken"] = 1066,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["DOT_Time"] = 1589823032,
+				["ActiveTime"] = 1589823033,
+				["TimeDamage"] = 1589823033,
+				["OVERALL"] = 1589823033,
+				["DamageTaken"] = 1589823018,
+				["Damage"] = 1589823033,
+			},
+			["NextEventNum"] = 17,
+			["LastEventHealthNum"] = {
+				99.07344753679931, -- [1]
+				99.07344753679931, -- [2]
+				99.07344753679931, -- [3]
+				99.07344753679931, -- [4]
+				99.07344753679931, -- [5]
+				99.07344753679931, -- [6]
+				99.07344753679931, -- [7]
+				99.07344753679931, -- [8]
+				99.07344753679931, -- [9]
+				99.07344753679931, -- [10]
+				99.07344753679931, -- [11]
+				99.07344753679931, -- [12]
+				99.07344753679931, -- [13]
+				99.07344753679931, -- [14]
+				99.07344753679931, -- [15]
+				99.07344753679931, -- [16]
+				99.40894513386857, -- [17]
+				99.40894513386857, -- [18]
+				99.07344753679931, -- [19]
+				99.07344753679931, -- [20]
+				99.07344753679931, -- [21]
+				99.07344753679931, -- [22]
+				99.07344753679931, -- [23]
+				99.07344753679931, -- [24]
+				99.07344753679931, -- [25]
+				99.07344753679931, -- [26]
+				99.07344753679931, -- [27]
+				99.07344753679931, -- [28]
+				99.07344753679931, -- [29]
+				99.07344753679931, -- [30]
+				99.07344753679931, -- [31]
+				99.07344753679931, -- [32]
+				99.07344753679931, -- [33]
+				99.07344753679931, -- [34]
+				99.07344753679931, -- [35]
+				99.07344753679931, -- [36]
+				99.07344753679931, -- [37]
+				99.07344753679931, -- [38]
+				99.07344753679931, -- [39]
+				99.07344753679931, -- [40]
+				99.07344753679931, -- [41]
+				99.07344753679931, -- [42]
+				99.07344753679931, -- [43]
+				99.07344753679931, -- [44]
+				99.07344753679931, -- [45]
+				99.07344753679931, -- [46]
+				99.07344753679931, -- [47]
+				99.07344753679931, -- [48]
+				99.07344753679931, -- [49]
+				99.07344753679931, -- [50]
+			},
+			["LastEvents"] = {
+				"Myron Melee Deathbound Ward Crit -11529 (Physical)", -- [1]
+				"Deathbound Ward Melee Myron Dodge", -- [2]
+				"Myron Melee Deathbound Ward Crit -161218 (Physical)", -- [3]
+				"Myron Melee Deathbound Ward Glancing -5510 (Physical)", -- [4]
+				"Myron Frost Fever (DoT) Deathbound Ward Tick -3587 (68 resisted) (Frost)", -- [5]
+				"Deathbound Ward Melee Myron Dodge", -- [6]
+				"Myron Melee Deathbound Ward Glancing -96744 (Physical)", -- [7]
+				"Myron Melee Deathbound Ward Glancing -5900 (Physical)", -- [8]
+				"Deathbound Ward Melee Myron Dodge", -- [9]
+				"Myron Melee Deathbound Ward Crit -206086 (Physical)", -- [10]
+				"Myron Melee Deathbound Ward Miss", -- [11]
+				"Myron Melee Deathbound Ward Glancing -157210 (Physical)", -- [12]
+				"Myron Melee Deathbound Ward Crit -13175 (Physical)", -- [13]
+				"Deathbound Ward Melee Myron Dodge", -- [14]
+				"Myron Frost Fever (DoT) Deathbound Ward Tick -3587 (68 resisted) (Frost)", -- [15]
+				"Myron Melee Deathbound Ward Crit -135594 (Physical)", -- [16]
+				"Myron Melee Deathbound Ward Glancing -147387 (Physical)", -- [17]
+				"Myron Melee Deathbound Ward Crit -12861 (Physical)", -- [18]
+				"Servant of the Throne Melee Myron Dodge", -- [19]
+				"Myron Melee Deathbound Ward Miss", -- [20]
+				"Myron Melee Deathbound Ward Crit -11280 (Physical)", -- [21]
+				"Ancient Skeletal Soldier Melee Myron Dodge", -- [22]
+				"Ancient Skeletal Soldier Melee Myron Dodge", -- [23]
+				"Deathbound Ward Melee Myron Dodge", -- [24]
+				"Myron Frost Fever (DoT) Deathbound Ward Tick -3587 (68 resisted) (Frost)", -- [25]
+				"Servant of the Throne Melee Myron Dodge", -- [26]
+				"Myron Melee Ancient Skeletal Soldier Crit -474946 (Physical)", -- [27]
+				"Deathbound Ward Melee Myron Dodge", -- [28]
+				"Servant of the Throne Melee Myron Dodge", -- [29]
+				"Ancient Skeletal Soldier Melee Myron Miss", -- [30]
+				"Myron Melee Ancient Skeletal Soldier Crit -345413 (Physical)", -- [31]
+				"Deathbound Ward Melee Myron Miss", -- [32]
+				"Servant of the Throne Melee Myron Dodge", -- [33]
+				"Myron Frost Fever (DoT) Deathbound Ward Tick -3587 (68 resisted) (Frost)", -- [34]
+				"Servant of the Throne Melee Myron Dodge", -- [35]
+				"Deathbound Ward Melee Myron Dodge", -- [36]
+				"Myron Melee Deathbound Ward Miss", -- [37]
+				"Myron Melee Deathbound Ward Miss", -- [38]
+				"Servant of the Throne Melee Myron Miss", -- [39]
+				"Deathbound Ward Melee Myron Dodge", -- [40]
+				"Myron Melee Servant of the Throne Miss", -- [41]
+				"Myron Melee Servant of the Throne Miss", -- [42]
+				"Servant of the Throne Melee Myron Dodge", -- [43]
+				"Myron Melee Servant of the Throne Crit -512670 (Physical)", -- [44]
+				"Deathbound Ward Melee Myron Dodge", -- [45]
+				"Myron Frost Fever (DoT) Deathbound Ward Tick -3587 (68 resisted) (Frost)", -- [46]
+				"Servant of the Throne Melee Myron Dodge", -- [47]
+				"Myron Melee Servant of the Throne Crit -496273 (Physical)", -- [48]
+				"Deathbound Ward Melee Myron Dodge", -- [49]
+				"Myron Melee Deathbound Ward Crit -217233 (Physical)", -- [50]
+			},
+			["Name"] = "Myron",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				false, -- [25]
+				true, -- [26]
+				false, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				false, -- [31]
+				true, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				false, -- [37]
+				false, -- [38]
+				true, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				260979.691, -- [1]
+				260980.195, -- [2]
+				260980.696, -- [3]
+				260980.697, -- [4]
+				260980.9, -- [5]
+				260981.4, -- [6]
+				260981.699, -- [7]
+				260981.7, -- [8]
+				260982.607, -- [9]
+				260982.706, -- [10]
+				260982.706, -- [11]
+				260983.706, -- [12]
+				260983.707, -- [13]
+				260983.808, -- [14]
+				260983.91, -- [15]
+				260984.715, -- [16]
+				260970.538, -- [17]
+				260970.538, -- [18]
+				260971.041, -- [19]
+				260971.547, -- [20]
+				260971.547, -- [21]
+				260971.75, -- [22]
+				260971.75, -- [23]
+				260971.75, -- [24]
+				260971.845, -- [25]
+				260972.55, -- [26]
+				260972.55, -- [27]
+				260972.95, -- [28]
+				260973.053, -- [29]
+				260973.755, -- [30]
+				260973.755, -- [31]
+				260974.156, -- [32]
+				260974.56, -- [33]
+				260974.865, -- [34]
+				260975.066, -- [35]
+				260975.365, -- [36]
+				260975.668, -- [37]
+				260975.668, -- [38]
+				260976.565, -- [39]
+				260976.565, -- [40]
+				260976.666, -- [41]
+				260976.667, -- [42]
+				260977.071, -- [43]
+				260977.671, -- [44]
+				260977.774, -- [45]
+				260977.868, -- [46]
+				260978.578, -- [47]
+				260978.676, -- [48]
+				260978.977, -- [49]
+				260979.69, -- [50]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["DOTs"] = {
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Ancient Skeletal Soldier"] = {
+									["count"] = 15,
+								},
+								["Deathbound Ward"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 33,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Shadow"] = 329,
+						["Frost"] = 1398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 6,
+								},
+								["Dodge"] = {
+									["count"] = 70,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 79,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 2944,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.51,
+					["ElementTaken"] = {
+						["Melee"] = 2944,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 33,
+					["Damage"] = 6091614,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 157210,
+									["min"] = 5223,
+									["count"] = 10,
+									["amount"] = 721569,
+								},
+								["Crit"] = {
+									["max"] = 512670,
+									["min"] = 11162,
+									["count"] = 33,
+									["amount"] = 5243472,
+								},
+								["Miss"] = {
+									["count"] = 20,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 63,
+							["amount"] = 5965041,
+						},
+						["Death Coil"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 246,
+									["min"] = 246,
+									["count"] = 1,
+									["amount"] = 246,
+								},
+								["Hit"] = {
+									["max"] = 17057,
+									["min"] = 17057,
+									["count"] = 1,
+									["amount"] = 17057,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 17303,
+						},
+						["Frost Fever"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 3655,
+									["min"] = 3587,
+									["count"] = 11,
+									["amount"] = 39797,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 39797,
+						},
+						["Icy Touch"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 11744,
+									["min"] = 11520,
+									["count"] = 4,
+									["amount"] = 46310,
+								},
+								["Hit"] = {
+									["max"] = 5872,
+									["min"] = 5763,
+									["count"] = 4,
+									["amount"] = 23163,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 69473,
+						},
+					},
+					["DamagedWho"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1008943,
+								},
+							},
+							["amount"] = 1008943,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 51857,
+								},
+								["Death Coil"] = {
+									["count"] = 17303,
+								},
+								["Melee"] = {
+									["count"] = 3726626,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 21522,
+								},
+							},
+							["amount"] = 3817308,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 17616,
+								},
+								["Melee"] = {
+									["count"] = 1229472,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 18275,
+								},
+							},
+							["amount"] = 1265363,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 11,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 33,
+								},
+								["Miss"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["TimeDamage"] = 43.51,
+					["WhoDamaged"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1917,
+								},
+							},
+							["amount"] = 1917,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1027,
+								},
+							},
+							["amount"] = 1027,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 109270,
+						["Melee"] = 5965041,
+						["Shadow"] = 17303,
+					},
+					["TimeSpent"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+					["TimeDamaging"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Ancient Skeletal Soldier"] = {
+									["count"] = 15,
+								},
+								["Deathbound Ward"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 33,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Shadow"] = 329,
+						["Frost"] = 1398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 6,
+								},
+								["Dodge"] = {
+									["count"] = 70,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 79,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 2944,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.51,
+					["ElementTaken"] = {
+						["Melee"] = 2944,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 33,
+					["Damage"] = 6091614,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 157210,
+									["min"] = 5223,
+									["count"] = 10,
+									["amount"] = 721569,
+								},
+								["Crit"] = {
+									["max"] = 512670,
+									["min"] = 11162,
+									["count"] = 33,
+									["amount"] = 5243472,
+								},
+								["Miss"] = {
+									["count"] = 20,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 63,
+							["amount"] = 5965041,
+						},
+						["Death Coil"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 246,
+									["min"] = 246,
+									["count"] = 1,
+									["amount"] = 246,
+								},
+								["Hit"] = {
+									["max"] = 17057,
+									["min"] = 17057,
+									["count"] = 1,
+									["amount"] = 17057,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 17303,
+						},
+						["Frost Fever"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 3655,
+									["min"] = 3587,
+									["count"] = 11,
+									["amount"] = 39797,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 39797,
+						},
+						["Icy Touch"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 11744,
+									["min"] = 11520,
+									["count"] = 4,
+									["amount"] = 46310,
+								},
+								["Hit"] = {
+									["max"] = 5872,
+									["min"] = 5763,
+									["count"] = 4,
+									["amount"] = 23163,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 69473,
+						},
+					},
+					["DamagedWho"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1008943,
+								},
+							},
+							["amount"] = 1008943,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 51857,
+								},
+								["Death Coil"] = {
+									["count"] = 17303,
+								},
+								["Melee"] = {
+									["count"] = 3726626,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 21522,
+								},
+							},
+							["amount"] = 3817308,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 17616,
+								},
+								["Melee"] = {
+									["count"] = 1229472,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 18275,
+								},
+							},
+							["amount"] = 1265363,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 11,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 33,
+								},
+								["Miss"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["TimeDamage"] = 43.51,
+					["WhoDamaged"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1917,
+								},
+							},
+							["amount"] = 1917,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1027,
+								},
+							},
+							["amount"] = 1027,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 109270,
+						["Melee"] = 5965041,
+						["Shadow"] = 17303,
+					},
+					["TimeSpent"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+					["TimeDamaging"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Ancient Skeletal Soldier"] = {
+									["count"] = 15,
+								},
+								["Deathbound Ward"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 33,
+						},
+					},
+					["ElementDoneResist"] = {
+						["Shadow"] = 329,
+						["Frost"] = 1398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 6,
+								},
+								["Dodge"] = {
+									["count"] = 70,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 79,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamageTaken"] = 19148,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 79,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 79,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 43.51,
+					["ElementTaken"] = {
+						["Melee"] = 2944,
+						["Physical"] = 16204,
+					},
+					["DOT_Time"] = 33,
+					["Damage"] = 6091614,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 157210,
+									["min"] = 5223,
+									["count"] = 10,
+									["amount"] = 721569,
+								},
+								["Crit"] = {
+									["max"] = 512670,
+									["min"] = 11162,
+									["count"] = 33,
+									["amount"] = 5243472,
+								},
+								["Miss"] = {
+									["count"] = 20,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 63,
+							["amount"] = 5965041,
+						},
+						["Death Coil"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 246,
+									["min"] = 246,
+									["count"] = 1,
+									["amount"] = 246,
+								},
+								["Hit"] = {
+									["max"] = 17057,
+									["min"] = 17057,
+									["count"] = 1,
+									["amount"] = 17057,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 17303,
+						},
+						["Frost Fever"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frost Fever (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 3655,
+									["min"] = 3587,
+									["count"] = 11,
+									["amount"] = 39797,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 39797,
+						},
+						["Icy Touch"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 11744,
+									["min"] = 11520,
+									["count"] = 4,
+									["amount"] = 46310,
+								},
+								["Hit"] = {
+									["max"] = 5872,
+									["min"] = 5763,
+									["count"] = 4,
+									["amount"] = 23163,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 69473,
+						},
+					},
+					["DamagedWho"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1008943,
+								},
+							},
+							["amount"] = 1008943,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 51857,
+								},
+								["Death Coil"] = {
+									["count"] = 17303,
+								},
+								["Melee"] = {
+									["count"] = 3726626,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 21522,
+								},
+							},
+							["amount"] = 3817308,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 17616,
+								},
+								["Melee"] = {
+									["count"] = 1229472,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 18275,
+								},
+							},
+							["amount"] = 1265363,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 11,
+								},
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 10,
+								},
+								["Crit"] = {
+									["count"] = 33,
+								},
+								["Miss"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 63,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["TimeDamage"] = 43.51,
+					["WhoDamaged"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1917,
+								},
+							},
+							["amount"] = 1917,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1027,
+								},
+							},
+							["amount"] = 1027,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 16204,
+								},
+							},
+							["amount"] = 16204,
+						},
+					},
+					["ElementDone"] = {
+						["Frost"] = 109270,
+						["Melee"] = 5965041,
+						["Shadow"] = 17303,
+					},
+					["TimeSpent"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+					["TimeDamaging"] = {
+						["Servant of the Throne"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.81,
+								},
+							},
+							["amount"] = 2.81,
+						},
+						["Deathbound Ward"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 25.26000000000001,
+								},
+								["Death Coil"] = {
+									["count"] = 0.41,
+								},
+								["Frost Fever"] = {
+									["count"] = 0,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 2.920000000000001,
+								},
+								["Icy Touch"] = {
+									["count"] = 1.66,
+								},
+							},
+							["amount"] = 30.25000000000001,
+						},
+						["Ancient Skeletal Soldier"] = {
+							["Details"] = {
+								["Icy Touch"] = {
+									["count"] = 2.93,
+								},
+								["Melee"] = {
+									["count"] = 6.520000000000001,
+								},
+								["Frost Fever (DoT)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 10.45,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1589822986,
+			["LastActive"] = 1589823033,
+		},
+	},
+	["FightNum"] = 1,
+	["CombatTimes"] = {
+		{
+			1589822992, -- [1]
+			1589823033, -- [2]
+			"19:29:53", -- [3]
+			"19:30:33", -- [4]
+			"Ancient Skeletal Soldier", -- [5]
+		}, -- [1]
+	},
+	["FoughtWho"] = {
+		"Ancient Skeletal Soldier 19:29:53-19:30:33", -- [1]
+	},
+}

@@ -4,6 +4,7 @@ RankWatchSettings = {
 	["explain"] = true,
 	["checkAllLevels"] = true,
 	["ignore"] = {
+		["khalahar"] = "Khalahar",
 	},
 	["levels"] = 2,
 	["channel"] = 1,
@@ -11,6 +12,82 @@ RankWatchSettings = {
 	["whisperAllLevels"] = false,
 	["delay"] = 3,
 	["reports"] = {
+		["Glamoria"] = {
+			["Aspect of the Hawk"] = {
+				["lowId"] = 27044,
+				["time"] = 1613003203.902,
+				["maxId"] = 61847,
+			},
+		},
+		["Rickroll"] = {
+			["Avenger's Shield"] = {
+				["lowId"] = 32699,
+				["time"] = 1612912643.43,
+				["maxId"] = 48827,
+			},
+		},
+		["Misakhi"] = {
+			["Devastate"] = {
+				["lowId"] = 20243,
+				["time"] = 1579540754.598,
+				["maxId"] = 47498,
+			},
+		},
+		["Cenarala"] = {
+			["Heart Strike"] = {
+				["lowId"] = 55050,
+				["time"] = 1585157245.633,
+				["maxId"] = 55262,
+			},
+		},
+		["Namelesshunt"] = {
+			["Aimed Shot"] = {
+				["lowId"] = 19434,
+				["time"] = 1582884296.355,
+				["maxId"] = 49050,
+			},
+		},
+		["Naninka"] = {
+			["Flash of Light"] = {
+				["lowId"] = 19941,
+				["time"] = 1581454729.604,
+				["maxId"] = 48785,
+			},
+			["Exorcism"] = {
+				["lowId"] = 10313,
+				["time"] = 1581454782.5,
+				["maxId"] = 48801,
+			},
+			["Hammer of Wrath"] = {
+				["lowId"] = 24274,
+				["time"] = 1581454799.557,
+				["maxId"] = 48806,
+			},
+			["Redemption"] = {
+				["lowId"] = 20772,
+				["time"] = 1581454585.327,
+				["maxId"] = 48950,
+			},
+		},
+		["Bredabritta"] = {
+			["Insect Swarm"] = {
+				["lowId"] = 5570,
+				["time"] = 1582742843.059,
+				["maxId"] = 48468,
+			},
+		},
+		["Suykun"] = {
+			["Flametongue Weapon"] = {
+				["lowId"] = 58789,
+				["time"] = 1582572095.064,
+				["maxId"] = 58790,
+			},
+			["Lightning Shield"] = {
+				["lowId"] = 49280,
+				["time"] = 1582572096.895,
+				["maxId"] = 49281,
+			},
+		},
 		["Delinqq"] = {
 			["Cone of Cold"] = {
 				["lowId"] = 27087,
@@ -60,32 +137,6 @@ RankWatchSettings = {
 				["maxId"] = 48817,
 			},
 		},
-		["Suykun"] = {
-			["Flametongue Weapon"] = {
-				["lowId"] = 58789,
-				["time"] = 1582572095.064,
-				["maxId"] = 58790,
-			},
-			["Lightning Shield"] = {
-				["lowId"] = 49280,
-				["time"] = 1582572096.895,
-				["maxId"] = 49281,
-			},
-		},
-		["Misakhi"] = {
-			["Devastate"] = {
-				["lowId"] = 20243,
-				["time"] = 1579540754.598,
-				["maxId"] = 47498,
-			},
-		},
-		["Galeidriel"] = {
-			["Water Shield"] = {
-				["lowId"] = 33736,
-				["time"] = 1582885017.774,
-				["maxId"] = 57960,
-			},
-		},
 		["Partunaxx"] = {
 			["Arcane Explosion"] = {
 				["lowId"] = 27082,
@@ -98,6 +149,13 @@ RankWatchSettings = {
 				["maxId"] = 42842,
 			},
 		},
+		["Niccolii"] = {
+			["Arcane Barrage"] = {
+				["lowId"] = 44425,
+				["time"] = 1565951640.983,
+				["maxId"] = 44781,
+			},
+		},
 		["Alcerow"] = {
 			["Living Bomb"] = {
 				["lowId"] = 44457,
@@ -105,11 +163,18 @@ RankWatchSettings = {
 				["maxId"] = 55360,
 			},
 		},
-		["Niccolii"] = {
-			["Arcane Barrage"] = {
-				["lowId"] = 44425,
-				["time"] = 1565951640.983,
-				["maxId"] = 44781,
+		["Porox"] = {
+			["Strength of Earth Totem"] = {
+				["lowId"] = 57622,
+				["time"] = 1586003000.302,
+				["maxId"] = 58643,
+			},
+		},
+		["Galeidriel"] = {
+			["Water Shield"] = {
+				["lowId"] = 33736,
+				["time"] = 1582885017.774,
+				["maxId"] = 57960,
 			},
 		},
 		["Shauand"] = {
@@ -119,54 +184,11 @@ RankWatchSettings = {
 				["maxId"] = 53201,
 			},
 		},
-		["Cenarala"] = {
-			["Heart Strike"] = {
-				["lowId"] = 55050,
-				["time"] = 1585157245.633,
-				["maxId"] = 55262,
-			},
-		},
-		["Namelesshunt"] = {
-			["Aimed Shot"] = {
-				["lowId"] = 19434,
-				["time"] = 1582884296.355,
-				["maxId"] = 49050,
-			},
-		},
-		["Naninka"] = {
-			["Flash of Light"] = {
-				["lowId"] = 19941,
-				["time"] = 1581454729.604,
-				["maxId"] = 48785,
-			},
-			["Exorcism"] = {
-				["lowId"] = 10313,
-				["time"] = 1581454782.5,
-				["maxId"] = 48801,
-			},
-			["Hammer of Wrath"] = {
-				["lowId"] = 24274,
-				["time"] = 1581454799.557,
-				["maxId"] = 48806,
-			},
-			["Redemption"] = {
-				["lowId"] = 20772,
-				["time"] = 1581454585.327,
-				["maxId"] = 48950,
-			},
-		},
-		["Bredabritta"] = {
-			["Insect Swarm"] = {
-				["lowId"] = 5570,
-				["time"] = 1582742843.059,
-				["maxId"] = 48468,
-			},
-		},
-		["Porox"] = {
-			["Strength of Earth Totem"] = {
-				["lowId"] = 57622,
-				["time"] = 1586003000.302,
-				["maxId"] = 58643,
+		["Khalahar"] = {
+			["Blizzard"] = {
+				["lowId"] = 6141,
+				["time"] = 1612224507.171,
+				["maxId"] = 42940,
 			},
 		},
 		["Lawras"] = {

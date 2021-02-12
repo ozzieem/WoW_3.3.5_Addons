@@ -1,0 +1,10 @@
+
+CollectinatorDB = {
+	["profileKeys"] = {
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+	},
+	["profiles"] = {
+		["Tabinia - Icecrown"] = {
+		},
+	},
+}

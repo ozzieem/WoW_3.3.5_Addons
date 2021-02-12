@@ -4,8 +4,13 @@ RankWatchSettings = {
 	["explain"] = true,
 	["checkAllLevels"] = true,
 	["ignore"] = {
-		[" susanvandyke"] = " Susanvandyke",
+		["gominasay"] = "Gominasay",
 		["susanvandyke"] = "Susanvandyke",
+		["lyili"] = "Lyili",
+		["yzes"] = "Yzes",
+		["zqx"] = "Zqx",
+		[" susanvandyke"] = " Susanvandyke",
+		["zqz"] = "Zqz",
 	},
 	["levels"] = 1,
 	["channel"] = 1,
@@ -90,6 +95,13 @@ RankWatchSettings = {
 				["maxId"] = 48468,
 			},
 		},
+		["Yzes"] = {
+			["Holy Shield"] = {
+				["lowId"] = 20925,
+				["time"] = 1612629775.917,
+				["maxId"] = 48952,
+			},
+		},
 		["Diisco"] = {
 			["Dispel Magic"] = {
 				["lowId"] = 527,
@@ -150,6 +162,90 @@ RankWatchSettings = {
 				["maxId"] = 48806,
 			},
 		},
+		["Zqx"] = {
+			["Flash of Light"] = {
+				["lowId"] = 27137,
+				["time"] = 1612225810.799,
+				["maxId"] = 48785,
+			},
+			["Exorcism"] = {
+				["lowId"] = 48800,
+				["time"] = 1612225831.34,
+				["maxId"] = 48801,
+			},
+			["Hammer of Wrath"] = {
+				["lowId"] = 48805,
+				["time"] = 1612225770.896,
+				["maxId"] = 48806,
+			},
+		},
+		["Lyili"] = {
+			["Lava Burst"] = {
+				["lowId"] = 51505,
+				["time"] = 1612900289.414,
+				["maxId"] = 60043,
+			},
+			["Healing Wave"] = {
+				["lowId"] = 49272,
+				["time"] = 1612900186.785,
+				["maxId"] = 49273,
+			},
+			["Lesser Healing Wave"] = {
+				["lowId"] = 49275,
+				["time"] = 1612900367.901,
+				["maxId"] = 49276,
+			},
+			["Earth Shield"] = {
+				["lowId"] = 974,
+				["time"] = 1612900256.605,
+				["maxId"] = 49284,
+			},
+			["Flame Shock"] = {
+				["lowId"] = 29228,
+				["time"] = 1612900304.884,
+				["maxId"] = 49233,
+			},
+			["Riptide"] = {
+				["lowId"] = 61295,
+				["time"] = 1612900299.348,
+				["maxId"] = 61301,
+			},
+			["Stoneskin Totem"] = {
+				["lowId"] = 25508,
+				["time"] = 1612900210.283,
+				["maxId"] = 58753,
+			},
+			["Mana Spring Totem"] = {
+				["lowId"] = 58771,
+				["time"] = 1612900210.295,
+				["maxId"] = 58774,
+			},
+			["Chain Heal"] = {
+				["lowId"] = 55458,
+				["time"] = 1612900343.353,
+				["maxId"] = 55459,
+			},
+			["Ancestral Spirit"] = {
+				["lowId"] = 25590,
+				["time"] = 1612900138.182,
+				["maxId"] = 49277,
+			},
+			["Flametongue Totem"] = {
+				["lowId"] = 58652,
+				["time"] = 1612900210.283,
+				["maxId"] = 58656,
+			},
+			["Water Shield"] = {
+				["lowId"] = 33736,
+				["time"] = 1612900281.074,
+				["maxId"] = 57960,
+			},
+			["Earthliving Weapon"] = {
+				["lowId"] = 51993,
+				["time"] = 1612900035.165,
+				["maxId"] = 51994,
+			},
+		},
 		["Eenasccos"] = {
 			["Fire Nova"] = {
 				["lowId"] = 25547,
@@ -196,6 +292,35 @@ RankWatchSettings = {
 				["maxId"] = 58656,
 			},
 		},
+		["Gominasay"] = {
+			["Aimed Shot"] = {
+				["lowId"] = 49049,
+				["time"] = 1612774564.375,
+				["maxId"] = 49050,
+			},
+			["Kill Shot"] = {
+				["lowId"] = 61005,
+				["time"] = 1612774502.121,
+				["maxId"] = 61006,
+			},
+			["Multi-Shot"] = {
+				["lowId"] = 49047,
+				["time"] = 1612774410.408,
+				["maxId"] = 49048,
+			},
+			["Aspect of the Dragonhawk"] = {
+				["lowId"] = 61846,
+				["time"] = 1612774802.828,
+				["maxId"] = 61847,
+			},
+		},
+		["Zipiss"] = {
+			["Lay on Hands"] = {
+				["lowId"] = 2800,
+				["time"] = 1612632466.875,
+				["maxId"] = 48788,
+			},
+		},
 		["Chromatix"] = {
 			["Scorch"] = {
 				["lowId"] = 8445,
@@ -229,13 +354,6 @@ RankWatchSettings = {
 				["maxId"] = 53312,
 			},
 		},
-		["Warpaddy"] = {
-			["Seed of Corruption"] = {
-				["lowId"] = 27243,
-				["time"] = 1581188260.391,
-				["maxId"] = 47835,
-			},
-		},
 		["Linnda"] = {
 			["Lay on Hands"] = {
 				["lowId"] = 2800,
@@ -248,6 +366,18 @@ RankWatchSettings = {
 				["lowId"] = 48440,
 				["time"] = 1581190494.876,
 				["maxId"] = 48441,
+			},
+		},
+		["Susanvandyke"] = {
+			["Sinister Strike"] = {
+				["lowId"] = 48637,
+				["time"] = 1581978267.414,
+				["maxId"] = 48638,
+			},
+			["Garrote"] = {
+				["lowId"] = 48675,
+				["time"] = 1581977528.797,
+				["maxId"] = 48676,
 			},
 		},
 		["Outworldsham"] = {
@@ -309,16 +439,11 @@ RankWatchSettings = {
 				["maxId"] = 55360,
 			},
 		},
-		["Susanvandyke"] = {
-			["Sinister Strike"] = {
-				["lowId"] = 48637,
-				["time"] = 1581978267.414,
-				["maxId"] = 48638,
-			},
-			["Garrote"] = {
-				["lowId"] = 48675,
-				["time"] = 1581977528.797,
-				["maxId"] = 48676,
+		["Warpaddy"] = {
+			["Seed of Corruption"] = {
+				["lowId"] = 27243,
+				["time"] = 1581188260.391,
+				["maxId"] = 47835,
 			},
 		},
 		["Tryheal"] = {

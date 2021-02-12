@@ -4,9 +4,9 @@ NxCData = {
 	["Taxi"] = {
 		["Shattrath"] = true,
 		["Sentinel Hill"] = true,
-		["Theramore"] = true,
 		["Honor Hold"] = true,
 		["Auberdine"] = true,
+		["Theramore"] = true,
 		["Rut'theran Village"] = true,
 	},
 }

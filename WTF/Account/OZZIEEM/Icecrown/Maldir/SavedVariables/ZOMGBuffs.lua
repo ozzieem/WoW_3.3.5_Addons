@@ -18,6 +18,7 @@ ZOMGBuffsPerCharDB = {
 				["current"] = {
 					["modified"] = true,
 					["Devotion Aura"] = true,
+					["Righteous Fury"] = true,
 				},
 			},
 		},
@@ -27,11 +28,13 @@ ZOMGBuffsPerCharDB = {
 			["templates"] = {
 				["current"] = {
 					["modified"] = true,
+					["SACREDSHIELD"] = true,
 					["limited"] = {
 						["SACREDSHIELD"] = {
 							["Maldir"] = true,
 						},
 					},
+					["FREEDOM"] = true,
 				},
 			},
 			["postracker"] = {
@@ -42,6 +45,15 @@ ZOMGBuffsPerCharDB = {
 						"LEFT", -- [3]
 						364.4561480846342, -- [4]
 						-13.33349399775457, -- [5]
+					},
+				},
+				["FREEDOM"] = {
+					["point"] = {
+						"LEFT", -- [1]
+						nil, -- [2]
+						"LEFT", -- [3]
+						389.7192915820574, -- [4]
+						159.2981762285819, -- [5]
 					},
 				},
 			},
@@ -63,16 +75,16 @@ ZOMGBuffsPerCharDB = {
 			["templates"] = {
 				["current"] = {
 					["HUNTER"] = "BOK",
-					["WARRIOR"] = "BOK",
+					["WARRIOR"] = "SAN",
 					["PALADIN"] = "SAN",
-					["MAGE"] = "BOW",
+					["MAGE"] = "SAN",
 					["Jopopo"] = "BOK",
 					["PRIEST"] = "BOW",
-					["WARLOCK"] = "BOW",
+					["WARLOCK"] = "BOK",
 					["DEATHKNIGHT"] = "BOK",
-					["SHAMAN"] = "BOW",
-					["DRUID"] = "BOM",
-					["ROGUE"] = "BOK",
+					["SHAMAN"] = "BOK",
+					["DRUID"] = "SAN",
+					["ROGUE"] = "SAN",
 					["modified"] = true,
 				},
 			},

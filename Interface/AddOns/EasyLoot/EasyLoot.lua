@@ -187,6 +187,7 @@ function EasyLoot_SetVariables()
 		EasyLootLootList.greed = {}
 		EasyLootLootList.greedkeep = {}
 		EasyLootLootList.destroy = {}
+		EasyLootLootList.autopass = {}
 	end
 end
 
@@ -239,7 +240,7 @@ function EasyLoot_HandleLoot()
 				end
 			end
 		end
-		if (itemLink and not itemLooted and EasyLoot_InTable(EasyLootLootList.ignore, lootName)) then
+		if (itemLink and not itemLooted and (EasyLoot_InTable(EasyLootLootList.ignore, lootName) or EasyLoot_InTable(EasyLootLootList.autopass, lootName))) then
 			itemLooted = true
 		end
 		if(itemLink and not itemLooted)  then
@@ -687,6 +688,22 @@ function EasyLoot_AutoLootScrollBar_Update()
 	local line
 	local lineplusoffset
 	FauxScrollFrame_Update(EasyLootFilterAutoLootScrollFrame, #(EasyLootLootList.autoloot), 5, 16)
+	for line=1,5 do
+		lineplusoffset = line + FauxScrollFrame_GetOffset(EasyLootFilterAutoLootScrollFrame)
+		if lineplusoffset <= #(EasyLootLootList.autoloot) then
+			text = EasyLoot_ShortenText(EasyLootLootList.autoloot[lineplusoffset], _G["EasyLootAutoLootEntry"..line])
+			_G["EasyLootAutoLootEntry"..line]:SetText(text)
+			_G["EasyLootAutoLootEntry"..line]:Show()
+		else
+			_G["EasyLootAutoLootEntry"..line]:Hide()
+		end
+	end
+end
+
+function EasyLoot_AutoPassScrollBar_Update()
+	local line
+	local lineplusoffset
+	FauxScrollFrame_Update(EasyLootFilterAutoLootScrollFrame, #(EasyLootLootList.autopass), 5, 16)
 	for line=1,5 do
 		lineplusoffset = line + FauxScrollFrame_GetOffset(EasyLootFilterAutoLootScrollFrame)
 		if lineplusoffset <= #(EasyLootLootList.autoloot) then

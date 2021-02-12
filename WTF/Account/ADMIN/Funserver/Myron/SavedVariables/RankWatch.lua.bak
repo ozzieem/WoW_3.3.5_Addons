@@ -1,0 +1,32 @@
+
+RankWatchSettings = {
+	["enabled"] = true,
+	["explain"] = true,
+	["checkAllLevels"] = true,
+	["ignore"] = {
+	},
+	["levels"] = 2,
+	["channel"] = 3,
+	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
+	["reports"] = {
+		["Myron"] = {
+			["Blood Strike"] = {
+				["lowId"] = 45902,
+				["time"] = 1589823013.643,
+				["maxId"] = 49930,
+			},
+			["Death Coil"] = {
+				["lowId"] = 47541,
+				["time"] = 1589823014.055,
+				["maxId"] = 49895,
+			},
+			["Icy Touch"] = {
+				["lowId"] = 45477,
+				["time"] = 1589823018.755,
+				["maxId"] = 49909,
+			},
+		},
+	},
+}

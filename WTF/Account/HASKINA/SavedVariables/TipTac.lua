@@ -10,7 +10,7 @@ TipTac_Config = {
 	["aurasAtBottom"] = false,
 	["backdropEdgeSize"] = 2.5,
 	["showTarget"] = "last",
-	["powerBar"] = false,
+	["powerBar"] = true,
 	["tipColor"] = {
 		0.09, -- [1]
 		0.09, -- [2]
@@ -19,7 +19,7 @@ TipTac_Config = {
 	},
 	["hideDefaultBar"] = true,
 	["healthBar"] = true,
-	["healthBarText"] = "value",
+	["healthBarText"] = "auto",
 	["tipBorderColor"] = {
 		0.6, -- [1]
 		0.6, -- [2]
@@ -33,17 +33,17 @@ TipTac_Config = {
 	["iconCombat"] = false,
 	["classification_rare"] = "%s|r (Rare) ",
 	["manaBarText"] = "value",
-	["powerBarText"] = "none",
+	["powerBarText"] = "auto",
 	["hideWorldTips"] = true,
 	["reactColoredBackdrop"] = false,
-	["left"] = 1486.82326788287,
-	["optionsLeft"] = 629.9204518262847,
+	["left"] = 1585.770784164333,
+	["optionsLeft"] = 657.2884429463384,
 	["backdropInsets"] = 0,
 	["colorNameByClass"] = false,
 	["barFontFace"] = "Fonts\\ARIALN.TTF",
 	["classColoredBorder"] = true,
-	["top"] = 122.9322713980424,
-	["manaBar"] = false,
+	["top"] = 121.5285494498896,
+	["manaBar"] = true,
 	["gradientColor"] = {
 		0.8, -- [1]
 		0.8, -- [2]
@@ -61,7 +61,7 @@ TipTac_Config = {
 	["targetYouText"] = "|cffff0000<<YOU>>",
 	["fadeTime"] = 0.1,
 	["showGuildRank"] = true,
-	["optionsBottom"] = 343.4858937299228,
+	["optionsBottom"] = 406.643752473481,
 	["gradientTip"] = true,
 	["colRace"] = "|cffffffff",
 	["classification_worldboss"] = "%s|r (Boss) ",

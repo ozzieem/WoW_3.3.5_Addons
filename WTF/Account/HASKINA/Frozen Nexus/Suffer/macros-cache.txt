@@ -1,0 +1,17 @@
+MACRO 16777220 "gg" INV_Misc_QuestionMark
+/cast Revenge
+/cast Heroic Strike
+END
+MACRO 16777218 "mount" INV_Misc_QuestionMark
+/cast Golden Gryphon
+/cast Swift White Steed
+END
+MACRO 16777219 "Reg" INV_Misc_QuestionMark
+#showtooltip Enraged Regeneration
+/cast Bloodrage
+/cast Enraged Regeneration
+END
+MACRO 16777217 "Stance" INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:1] Defensive Stance; Battle Stance
+END

@@ -1,0 +1,85 @@
+
+BeanCounterDB = {
+	["Icecrown"] = {
+		["Tabinia"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+				["5576"] = {
+					["item:5576:0:0:0:0:0:0:0:80"] = {
+						"1;19999;Shinega;boolean true;4;1506450851;", -- [1]
+					},
+				},
+				["30420"] = {
+					["item:30420:0:0:0:0:0:0:0:80"] = {
+						"1;25000;Zankem;boolean true;4;1506450805;", -- [1]
+					},
+				},
+				["2821"] = {
+					["item:2821:0:0:0:0:0:0:0:80"] = {
+					},
+				},
+			},
+			["completedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 46984,
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["version"] = 2.12,
+			["faction"] = "Alliance",
+			["completedBidsBuyouts"] = {
+				["2821"] = {
+					["item:2821:0:0:0:0:0:0:0:80"] = {
+						"1;0;;0;55555;55555;Whitefire;1506450787;;A", -- [1]
+					},
+				},
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["mailbox"] = {
+				{
+					["read"] = 2,
+					["sender"] = "Stormwind Auction House",
+					["time"] = 29.99759292602539,
+					["subject"] = "Auction won: Large Brown Sack",
+				}, -- [1]
+				{
+					["read"] = 0,
+					["sender"] = "Stormwind Auction House",
+					["time"] = 29.99707221984863,
+					["subject"] = "Auction won: Heavy Jade Ring",
+				}, -- [2]
+				{
+					["read"] = 1,
+					["sender"] = "Alliance Auction House",
+					["time"] = 29.99685096740723,
+					["subject"] = "Auction won: Mo'grosh Masher",
+				}, -- [3]
+			},
+		},
+	},
+	["ItemIDArray"] = {
+		["5576:0"] = "cffffffff;Large Brown Sack",
+		["2821:0"] = "cff1eff00;Mo'grosh Masher",
+		["30420:0"] = "cff1eff00;Heavy Jade Ring",
+	},
+	["settings"] = {
+		["profile.Default"] = {
+			["configator.left"] = 442.7984337407321,
+			["configator.top"] = 699.0740485403052,
+		},
+	},
+}
+BeanCounterAccountDB = nil

@@ -1,0 +1,4 @@
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+TidyPlates: enabled
+TellMeWhen: disabled

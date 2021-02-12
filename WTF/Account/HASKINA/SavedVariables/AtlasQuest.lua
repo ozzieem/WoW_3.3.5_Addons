@@ -5,6 +5,11 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
+	["Suffer"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
 	["Modos"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
@@ -15,12 +20,22 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Gnomdk"] = {
+	["Rivina"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Maulh"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
 	["Tabinia"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Resto"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -35,7 +50,27 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
+	["Lock"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Fatty"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Hunty"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
 	["Suprema"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Delras"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
@@ -55,55 +90,65 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Delras"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
-	["Teleprter"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
 	["Themken"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Lawras"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
-	["Sufjan"] = {
-		["ShownSide"] = "Left",
-		["AtlasAutoShow"] = 1,
-		["NoQuerySpam"] = "yes",
-	},
 	["Version"] = "4.4.3",
-	["Rivina"] = {
+	["Dud"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Jianyang"] = {
+	["Grona"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Liadra"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Ashur"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Maldira"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Pala"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Mandatum"] = {
+		["ShownSide"] = "Left",
+		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
+	},
+	["Shamanta"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
 	["Dranah"] = {
 		["ShownSide"] = "Left",
-		["NoQuerySpam"] = "yes",
+		["AtlasAutoShow"] = 1,
 		["CompareTooltip"] = "yes",
 		["AutoQuery"] = "yes",
-		["AtlasAutoShow"] = 1,
+		["NoQuerySpam"] = "yes",
 	},
-	["Assabrook"] = {
+	["Riv"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Asdadsaasdad"] = {
+	["Lawras"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",

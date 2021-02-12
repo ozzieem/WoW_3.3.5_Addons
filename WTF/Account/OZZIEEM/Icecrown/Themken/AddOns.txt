@@ -5,8 +5,8 @@ Carbonite: enabled
 DrDamage: enabled
 Enchantrix: disabled
 Enchantrix-Barker: disabled
-Gatherer: enabled
-Gatherer_HUD: enabled
+Gatherer: disabled
+Gatherer_HUD: disabled
 GatherMate2: enabled
 RatingBuster: enabled
 XPerl: enabled
@@ -43,3 +43,10 @@ XPerl_RaidPets: enabled
 ZygorGuidesViewer: disabled
 BeanCounter: disabled
 Parrot: disabled
+SexySound: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+TipTac: enabled
+TipTacItemRef: enabled
+TipTacTalents: enabled
+TipTacOptions: enabled

@@ -1,0 +1,18 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["FogClear"] = {
+		},
+		["Coords"] = {
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

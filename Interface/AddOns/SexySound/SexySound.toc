@@ -1,0 +1,10 @@
+## Interface: 40000
+## Title: SexySound
+## Author: ChrisHopeless
+## Version: 1.0 beta
+## Notes: This addon will notify you the cool down of important spell
+## eMail: chris820313@yahoo.com.cn
+## DefaultState: Enabled
+## LoadOnDemand: 0
+SoundConfiguration.lua
+SexySound.lua

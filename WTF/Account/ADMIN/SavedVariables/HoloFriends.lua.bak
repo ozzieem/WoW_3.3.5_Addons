@@ -1,0 +1,70 @@
+
+HOLOFRIENDS_LIST = {
+	["version"] = 0.453,
+	["New Funserver"] = {
+		["Myron"] = {
+			{
+				["group"] = "Friends",
+				["name"] = "1",
+				["lastuse"] = 1589760579,
+			}, -- [1]
+		},
+	},
+}
+HOLOFRIENDS_SHOW_OFFLINE_FRIENDS = 1
+HOLOIGNORE_LIST = {
+	["version"] = 0.453,
+	["New Funserver"] = {
+		["Myron"] = {
+			{
+				["group"] = "Ignore",
+				["name"] = "1",
+				["lastuse"] = 1589760467,
+			}, -- [1]
+		},
+	},
+}
+HOLOFRIENDS_OPTIONS = {
+	["MenuModP"] = true,
+	["ShowClassIcons"] = true,
+	["ShowGroups"] = true,
+	["NotesPriority"] = false,
+	["MarkRemove"] = true,
+	["NotesPriorityOff"] = false,
+	["ShowClassColor"] = true,
+	["MergeComments"] = true,
+	["TTDateFormat"] = "%A %m.%d.%Y %I:%M%p",
+	["MenuModF"] = true,
+	["ShowDropdownBG"] = true,
+	["MergeNotes"] = true,
+	["BNShowCharName"] = true,
+	["MenuModR"] = true,
+	["MsgIgnoredWhisper"] = true,
+	["NotesPriorityOn"] = false,
+	["MenuModT"] = true,
+	["SortOnline"] = false,
+	["ShowDropdownAllBG"] = false,
+	["SetDateFormat"] = false,
+	["ShowOnlineAtLogin"] = false,
+	["ShowLevel"] = false,
+}
+HOLOFRIENDS_FACTIONS = {
+	["New Funserver"] = {
+		["Horde"] = {
+			"Myron", -- [1]
+		},
+		["unknown"] = {
+		},
+	},
+}
+HOLOFRIENDS_MYCHARS = {
+	["New Funserver"] = {
+		["Myron"] = {
+			["lastSeen"] = "2020-05-18 02:14 1",
+			["area"] = "Dalaran",
+			["level"] = 80,
+			["class"] = "DEATHKNIGHT",
+			["lc_class"] = "Death Knight",
+		},
+	},
+}

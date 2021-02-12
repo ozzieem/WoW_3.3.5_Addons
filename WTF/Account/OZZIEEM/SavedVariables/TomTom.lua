@@ -1,26 +1,33 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Fatty - Frozen Nexus [Custom]"] = "Default",
 		["Dranah - Icecrown"] = "Default",
 		["Elendraa - Icecrown"] = "Default",
 		["Pala - Frozen Nexus"] = "Default",
-		["Riv - Frozen Nexus"] = "Default",
-		["Maldira - Frosthold"] = "Default",
-		["Liadra - Frostmourne"] = "Default",
-		["Dranah - Frozen Nexus"] = "Default",
-		["Themken - Icecrown"] = "Default",
-		["Maulh - Icecrown"] = "Default",
-		["Shamanta - Frozen Nexus"] = "Default",
-		["Dud - Frozen Nexus"] = "Default",
-		["Lawras - Lordaeron"] = "Default",
-		["Maldir - Icecrown"] = "Default",
-		["Warmat - Icecrown"] = "Default",
-		["Hunty - Frozen Nexus"] = "Default",
-		["Mandatum - Icecrown"] = "Default",
-		["Modos - Icecrown"] = "Default",
-		["Tabinia - Icecrown"] = "Default",
-		["Lock - Frozen Nexus"] = "Default",
 		["Lawras - Icecrown"] = "Default",
+		["Lock - Frozen Nexus"] = "Default",
+		["Riv - Frozen Nexus"] = "Default",
+		["Riv - Frozen Nexus [Custom]"] = "Default",
+		["Grona - Frozen Nexus [Custom]"] = "Default",
+		["Mandatum - Icecrown"] = "Default",
+		["Dud - Frozen Nexus [Custom]"] = "Default",
+		["Tabinia - Icecrown"] = "Default",
+		["Shamanta - Frozen Nexus [Custom]"] = "Default",
+		["Dranah - Frozen Nexus"] = "Default",
+		["Pala - Frozen Nexus [Custom]"] = "Default",
+		["Maulh - Icecrown"] = "Default",
+		["Maldir - Icecrown"] = "Default",
+		["Dud - Frozen Nexus"] = "Default",
+		["Shamanta - Frozen Nexus"] = "Default",
+		["Lawras - Lordaeron"] = "Default",
+		["Warmat - Icecrown"] = "Default",
+		["Maldira - Frosthold"] = "Default",
+		["Hunty - Frozen Nexus"] = "Default",
+		["Modos - Icecrown"] = "Default",
+		["Valakk - Frostmourne"] = "Default",
+		["Themken - Icecrown"] = "Default",
+		["Liadra - Frostmourne"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -29,67 +36,88 @@ TomTomDB = {
 }
 TomTomWaypoints = {
 	["profileKeys"] = {
+		["Fatty - Frozen Nexus [Custom]"] = "Fatty - Frozen Nexus [Custom]",
 		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
-		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Maldira - Frosthold"] = "Maldira - Frosthold",
-		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
-		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
-		["Themken - Icecrown"] = "Themken - Icecrown",
-		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
-		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
-		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
-		["Modos - Icecrown"] = "Modos - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
-		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
 		["Lawras - Icecrown"] = "Lawras - Icecrown",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
+		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
+		["Riv - Frozen Nexus [Custom]"] = "Riv - Frozen Nexus [Custom]",
+		["Grona - Frozen Nexus [Custom]"] = "Grona - Frozen Nexus [Custom]",
+		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
+		["Dud - Frozen Nexus [Custom]"] = "Dud - Frozen Nexus [Custom]",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Shamanta - Frozen Nexus [Custom]"] = "Shamanta - Frozen Nexus [Custom]",
+		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
+		["Pala - Frozen Nexus [Custom]"] = "Pala - Frozen Nexus [Custom]",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Maldira - Frosthold"] = "Maldira - Frosthold",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
+		["Modos - Icecrown"] = "Modos - Icecrown",
+		["Valakk - Frostmourne"] = "Valakk - Frostmourne",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 	},
 	["profiles"] = {
+		["Fatty - Frozen Nexus [Custom]"] = {
+		},
 		["Dranah - Icecrown"] = {
 		},
 		["Elendraa - Icecrown"] = {
 		},
 		["Pala - Frozen Nexus"] = {
 		},
-		["Riv - Frozen Nexus"] = {
-		},
-		["Maldira - Frosthold"] = {
-		},
-		["Liadra - Frostmourne"] = {
-		},
-		["Dranah - Frozen Nexus"] = {
-		},
-		["Themken - Icecrown"] = {
-		},
-		["Maulh - Icecrown"] = {
-		},
-		["Shamanta - Frozen Nexus"] = {
-		},
-		["Dud - Frozen Nexus"] = {
-		},
-		["Lawras - Lordaeron"] = {
-		},
-		["Maldir - Icecrown"] = {
-		},
-		["Warmat - Icecrown"] = {
-		},
-		["Hunty - Frozen Nexus"] = {
-		},
-		["Mandatum - Icecrown"] = {
-		},
-		["Modos - Icecrown"] = {
-		},
-		["Tabinia - Icecrown"] = {
+		["Lawras - Icecrown"] = {
 		},
 		["Lock - Frozen Nexus"] = {
 		},
-		["Lawras - Icecrown"] = {
+		["Riv - Frozen Nexus"] = {
+		},
+		["Riv - Frozen Nexus [Custom]"] = {
+		},
+		["Grona - Frozen Nexus [Custom]"] = {
+		},
+		["Mandatum - Icecrown"] = {
+		},
+		["Dud - Frozen Nexus [Custom]"] = {
+		},
+		["Tabinia - Icecrown"] = {
+		},
+		["Shamanta - Frozen Nexus [Custom]"] = {
+		},
+		["Dranah - Frozen Nexus"] = {
+		},
+		["Pala - Frozen Nexus [Custom]"] = {
+		},
+		["Maulh - Icecrown"] = {
+		},
+		["Maldir - Icecrown"] = {
+		},
+		["Dud - Frozen Nexus"] = {
+		},
+		["Shamanta - Frozen Nexus"] = {
+		},
+		["Lawras - Lordaeron"] = {
+		},
+		["Warmat - Icecrown"] = {
+		},
+		["Maldira - Frosthold"] = {
+		},
+		["Hunty - Frozen Nexus"] = {
+		},
+		["Modos - Icecrown"] = {
+		},
+		["Valakk - Frostmourne"] = {
+		},
+		["Themken - Icecrown"] = {
+		},
+		["Liadra - Frostmourne"] = {
 		},
 	},
 }

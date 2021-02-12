@@ -1,39 +1,60 @@
 
 LightHeadedDB = {
 	["profileKeys"] = {
+		["Fatty - Frozen Nexus [Custom]"] = "Fatty - Frozen Nexus [Custom]",
 		["Dranah - Icecrown"] = "Dranah - Icecrown",
 		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
 		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
 		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
-		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
-		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Valakk - Frostmourne"] = "Valakk - Frostmourne",
+		["Riv - Frozen Nexus [Custom]"] = "Riv - Frozen Nexus [Custom]",
+		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
+		["Dud - Frozen Nexus [Custom]"] = "Dud - Frozen Nexus [Custom]",
+		["Pala - Frozen Nexus [Custom]"] = "Pala - Frozen Nexus [Custom]",
+		["Shamanta - Frozen Nexus [Custom]"] = "Shamanta - Frozen Nexus [Custom]",
 		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
 		["Maldir - Icecrown"] = "Maldir - Icecrown",
 		["Maulh - Icecrown"] = "Maulh - Icecrown",
-		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
-		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
 		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
-		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
 		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
-		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
-		["Modos - Icecrown"] = "Modos - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
 		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
-		["Lawras - Icecrown"] = "Lawras - Icecrown",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
+		["Modos - Icecrown"] = "Modos - Icecrown",
+		["Grona - Frozen Nexus [Custom]"] = "Grona - Frozen Nexus [Custom]",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
 	},
 	["profiles"] = {
+		["Fatty - Frozen Nexus [Custom]"] = {
+		},
 		["Dranah - Icecrown"] = {
 		},
 		["Elendraa - Icecrown"] = {
 		},
 		["Pala - Frozen Nexus"] = {
 		},
+		["Lawras - Icecrown"] = {
+		},
+		["Tabinia - Icecrown"] = {
+		},
 		["Riv - Frozen Nexus"] = {
 		},
-		["Liadra - Frostmourne"] = {
+		["Valakk - Frostmourne"] = {
 		},
-		["Themken - Icecrown"] = {
+		["Riv - Frozen Nexus [Custom]"] = {
+		},
+		["Mandatum - Icecrown"] = {
+		},
+		["Dud - Frozen Nexus [Custom]"] = {
+		},
+		["Pala - Frozen Nexus [Custom]"] = {
+		},
+		["Shamanta - Frozen Nexus [Custom]"] = {
 		},
 		["Dranah - Frozen Nexus"] = {
 		},
@@ -41,27 +62,27 @@ LightHeadedDB = {
 		},
 		["Maulh - Icecrown"] = {
 		},
-		["Lawras - Lordaeron"] = {
+		["Shamanta - Frozen Nexus"] = {
 		},
 		["Dud - Frozen Nexus"] = {
 		},
-		["Shamanta - Frozen Nexus"] = {
-		},
-		["Hunty - Frozen Nexus"] = {
-		},
-		["Warmat - Icecrown"] = {
+		["Lawras - Lordaeron"] = {
 		},
 		["Dranah - Lordaeron"] = {
 		},
-		["Mandatum - Icecrown"] = {
-		},
-		["Modos - Icecrown"] = {
-		},
-		["Tabinia - Icecrown"] = {
+		["Warmat - Icecrown"] = {
 		},
 		["Lock - Frozen Nexus"] = {
 		},
-		["Lawras - Icecrown"] = {
+		["Hunty - Frozen Nexus"] = {
+		},
+		["Modos - Icecrown"] = {
+		},
+		["Grona - Frozen Nexus [Custom]"] = {
+		},
+		["Themken - Icecrown"] = {
+		},
+		["Liadra - Frostmourne"] = {
 		},
 	},
 }

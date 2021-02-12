@@ -1,0 +1,8 @@
+
+SmartMount_Config = {
+	["profiles"] = {
+		["Default"] = {
+			["ConfigVersion"] = "CV2",
+		},
+	},
+}

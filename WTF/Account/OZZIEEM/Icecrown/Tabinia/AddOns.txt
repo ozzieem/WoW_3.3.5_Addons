@@ -6,8 +6,8 @@ Carbonite: enabled
 DrDamage: enabled
 Enchantrix: disabled
 Enchantrix-Barker: disabled
-Gatherer: enabled
-Gatherer_HUD: enabled
+Gatherer: disabled
+Gatherer_HUD: disabled
 GatherMate2: enabled
 RatingBuster: enabled
 XPerl_Options: enabled
@@ -143,3 +143,6 @@ MageNuggets: disabled
 LibBabble-Class-3.0: enabled
 Prat-3.0: disabled
 Prat-3.0_Libraries: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+TimeToDie: enabled

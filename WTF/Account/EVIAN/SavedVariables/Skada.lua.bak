@@ -1,0 +1,28 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Lawras - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["threatsound"] = true,
+				["threatflash"] = true,
+				["threatsoundname"] = "Fel Nova",
+			},
+			["windows"] = {
+				{
+					["scale"] = 1,
+					["point"] = "BOTTOMLEFT",
+					["name"] = ".",
+					["x"] = 0,
+					["enablebackground"] = true,
+					["y"] = 87.12688370086573,
+					["title"] = {
+						["texture"] = "Aluminium",
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

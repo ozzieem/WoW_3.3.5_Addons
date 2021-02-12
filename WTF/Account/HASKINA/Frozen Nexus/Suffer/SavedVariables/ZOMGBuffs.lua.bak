@@ -1,0 +1,41 @@
+
+ZOMGBuffsPerCharDB = {
+	["global"] = {
+		["pos"] = {
+			["point"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				"BOTTOMRIGHT", -- [3]
+				-345.4035900975551, -- [4]
+				60.49061197073491, -- [5]
+			},
+		},
+		["firstStartup"] = false,
+	},
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+				["Bloodrage"] = true,
+				["Berserker Rage"] = true,
+			},
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+		["Log"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+	},
+}

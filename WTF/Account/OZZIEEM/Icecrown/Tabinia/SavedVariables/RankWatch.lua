@@ -9,8 +9,6 @@ RankWatchSettings = {
 	["levels"] = 2,
 	["channel"] = 1,
 	["interval"] = 300,
-	["whisperAllLevels"] = false,
-	["delay"] = 3,
 	["reports"] = {
 		["Noino"] = {
 			["Dash"] = {
@@ -24,6 +22,13 @@ RankWatchSettings = {
 				["maxId"] = 53312,
 			},
 		},
+		["Rumpz"] = {
+			["Thorns"] = {
+				["lowId"] = 26992,
+				["time"] = 1612102031.904,
+				["maxId"] = 53307,
+			},
+		},
 		["Papagangsta"] = {
 			["Vampiric Touch"] = {
 				["lowId"] = 34914,
@@ -32,15 +37,15 @@ RankWatchSettings = {
 			},
 		},
 		["Marouso"] = {
-			["Heal"] = {
-				["lowId"] = 6064,
-				["time"] = 1581362076.837,
-				["maxId"] = 48063,
-			},
 			["Resurrection"] = {
 				["lowId"] = 25435,
 				["time"] = 1581362807.104,
 				["maxId"] = 48171,
+			},
+			["Heal"] = {
+				["lowId"] = 6064,
+				["time"] = 1581362076.837,
+				["maxId"] = 48063,
 			},
 		},
 		["Ipokerl"] = {
@@ -103,6 +108,25 @@ RankWatchSettings = {
 				["maxId"] = 10278,
 			},
 		},
+		["Koiter"] = {
+			["Scourge Strike"] = {
+				["lowId"] = 55090,
+				["time"] = 1585472002.082,
+				["maxId"] = 55271,
+			},
+		},
+		["Kdp"] = {
+			["Commanding Shout"] = {
+				["lowId"] = 47439,
+				["time"] = 1583099539.328,
+				["maxId"] = 47440,
+			},
+			["Demoralizing Shout"] = {
+				["lowId"] = 25203,
+				["time"] = 1583099722.786,
+				["maxId"] = 47437,
+			},
+		},
 		["Whitewizzard"] = {
 			["Exorcism"] = {
 				["lowId"] = 10314,
@@ -127,28 +151,47 @@ RankWatchSettings = {
 				["maxId"] = 48819,
 			},
 		},
-		["Visserya"] = {
-			["Earth Shield"] = {
-				["lowId"] = 974,
-				["time"] = 1565949727.212,
-				["maxId"] = 49284,
-			},
-			["Riptide"] = {
-				["lowId"] = 61295,
-				["time"] = 1565949765.151,
-				["maxId"] = 61301,
+		["Ahrk"] = {
+			["Shadow Word: Death"] = {
+				["lowId"] = 48157,
+				["time"] = 1567683887.827,
+				["maxId"] = 48158,
 			},
 		},
-		["Annh"] = {
-			["Starfire"] = {
-				["lowId"] = 26986,
-				["time"] = 1565600141.977,
-				["maxId"] = 48465,
+		["Barrelrider"] = {
+			["Lesser Heal"] = {
+				["lowId"] = 2053,
+				["time"] = 1582889355.82,
+				["maxId"] = 48063,
 			},
-			["Thorns"] = {
-				["lowId"] = 26992,
-				["time"] = 1565599622.049,
-				["maxId"] = 53307,
+		},
+		["Kajmakaza"] = {
+			["Mortal Strike"] = {
+				["lowId"] = 47485,
+				["time"] = 1612627402.749,
+				["maxId"] = 47486,
+			},
+		},
+		["Tabinia"] = {
+			["Flametongue Weapon"] = {
+				["lowId"] = 58789,
+				["time"] = 1565818306.158,
+				["maxId"] = 58790,
+			},
+			["Strength of Earth Totem"] = {
+				["lowId"] = 57622,
+				["time"] = 1565818282.378,
+				["maxId"] = 58643,
+			},
+			["Chain Lightning"] = {
+				["lowId"] = 25442,
+				["time"] = 1565950464.132,
+				["maxId"] = 49271,
+			},
+			["Earthliving Weapon"] = {
+				["lowId"] = 51992,
+				["time"] = 1565567193.661,
+				["maxId"] = 51994,
 			},
 		},
 		["Prostipute"] = {
@@ -168,26 +211,28 @@ RankWatchSettings = {
 				["maxId"] = 48168,
 			},
 		},
-		["Tabinia"] = {
-			["Chain Lightning"] = {
-				["lowId"] = 25442,
-				["time"] = 1565950464.132,
-				["maxId"] = 49271,
+		["Deaznamm"] = {
+			["Fire Ward"] = {
+				["lowId"] = 27128,
+				["time"] = 1612627164.875,
+				["maxId"] = 43010,
 			},
-			["Strength of Earth Totem"] = {
-				["lowId"] = 57622,
-				["time"] = 1565818282.378,
-				["maxId"] = 58643,
+			["Frost Ward"] = {
+				["lowId"] = 28609,
+				["time"] = 1612627312.966,
+				["maxId"] = 43012,
 			},
-			["Flametongue Weapon"] = {
-				["lowId"] = 58789,
-				["time"] = 1565818306.158,
-				["maxId"] = 58790,
+		},
+		["Visserya"] = {
+			["Earth Shield"] = {
+				["lowId"] = 974,
+				["time"] = 1565949727.212,
+				["maxId"] = 49284,
 			},
-			["Earthliving Weapon"] = {
-				["lowId"] = 51992,
-				["time"] = 1565567193.661,
-				["maxId"] = 51994,
+			["Riptide"] = {
+				["lowId"] = 61295,
+				["time"] = 1565949765.151,
+				["maxId"] = 61301,
 			},
 		},
 		["Tbean"] = {
@@ -197,38 +242,26 @@ RankWatchSettings = {
 				["maxId"] = 48938,
 			},
 		},
-		["Barrelrider"] = {
-			["Lesser Heal"] = {
-				["lowId"] = 2053,
-				["time"] = 1582889355.82,
-				["maxId"] = 48063,
+		["Annh"] = {
+			["Starfire"] = {
+				["lowId"] = 26986,
+				["time"] = 1565600141.977,
+				["maxId"] = 48465,
+			},
+			["Thorns"] = {
+				["lowId"] = 26992,
+				["time"] = 1565599622.049,
+				["maxId"] = 53307,
 			},
 		},
-		["Ahrk"] = {
-			["Shadow Word: Death"] = {
-				["lowId"] = 48157,
-				["time"] = 1567683887.827,
-				["maxId"] = 48158,
-			},
-		},
-		["Kdp"] = {
-			["Commanding Shout"] = {
-				["lowId"] = 47439,
-				["time"] = 1583099539.328,
-				["maxId"] = 47440,
-			},
-			["Demoralizing Shout"] = {
-				["lowId"] = 25203,
-				["time"] = 1583099722.786,
-				["maxId"] = 47437,
-			},
-		},
-		["Koiter"] = {
-			["Scourge Strike"] = {
-				["lowId"] = 55090,
-				["time"] = 1585472002.082,
-				["maxId"] = 55271,
+		["Srd"] = {
+			["Hammer of Wrath"] = {
+				["lowId"] = 48805,
+				["time"] = 1612627409.535,
+				["maxId"] = 48806,
 			},
 		},
 	},
+	["delay"] = 3,
+	["whisperAllLevels"] = false,
 }

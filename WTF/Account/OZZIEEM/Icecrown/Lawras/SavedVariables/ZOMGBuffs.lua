@@ -5,7 +5,7 @@ ZOMGBuffsPerCharDB = {
 			["templates2"] = {
 				["current"] = {
 					["modified"] = true,
-					["Frost Resistance Aura"] = true,
+					["Retribution Aura"] = true,
 				},
 			},
 			["notlearnable"] = {
@@ -22,6 +22,8 @@ ZOMGBuffsPerCharDB = {
 			},
 			["templates"] = {
 				["current"] = {
+					["modified"] = true,
+					["Retribution Aura"] = true,
 				},
 			},
 		},
@@ -30,6 +32,13 @@ ZOMGBuffsPerCharDB = {
 		["BuffTehRaid"] = {
 			["templates"] = {
 				["current"] = {
+					["modified"] = true,
+					["limited"] = {
+						["FREEDOM"] = {
+							["Lawras"] = true,
+						},
+					},
+					["FREEDOM"] = true,
 				},
 			},
 			["postracker"] = {
@@ -73,8 +82,8 @@ ZOMGBuffsPerCharDB = {
 				["Default"] = {
 				},
 				["current"] = {
-					["SACRIFICE"] = true,
 					["modified"] = true,
+					["SACRIFICE"] = true,
 					["limited"] = {
 					},
 					["BEACON"] = true,
@@ -82,9 +91,9 @@ ZOMGBuffsPerCharDB = {
 			},
 			["firstRun"] = true,
 		},
-		["BlessingsManager"] = {
-		},
 		["Portalz"] = {
+		},
+		["BlessingsManager"] = {
 		},
 		["Blessings"] = {
 			["templates2"] = {
@@ -102,18 +111,18 @@ ZOMGBuffsPerCharDB = {
 				},
 				["current"] = {
 					["HUNTER"] = "BOM",
-					["WARRIOR"] = "BOM",
+					["WARRIOR"] = "BOK",
 					["ROGUE"] = "BOM",
 					["MAGE"] = "BOK",
+					["Rickroll"] = "BOK",
 					["PRIEST"] = "BOW",
 					["DEATHKNIGHT"] = "BOM",
-					["PALADIN"] = "BOK",
 					["WARLOCK"] = "BOW",
-					["modified"] = true,
+					["PALADIN"] = "BOW",
 					["PET"] = "BOM",
-					["DRUID"] = "BOK",
+					["DRUID"] = "BOW",
+					["modified"] = true,
 					["SHAMAN"] = "BOW",
-					["Lawras"] = "BOW",
 				},
 				["Kings"] = {
 					["HUNTER"] = "BOK",
@@ -145,14 +154,15 @@ ZOMGBuffsPerCharDB = {
 				["current"] = {
 					["HUNTER"] = "BOM",
 					["WARRIOR"] = "BOK",
-					["PALADIN"] = "BOW",
-					["MAGE"] = "BOW",
+					["PALADIN"] = "BOK",
+					["MAGE"] = "BOK",
 					["PRIEST"] = "BOW",
 					["WARLOCK"] = "BOW",
 					["ROGUE"] = "BOM",
+					["SHAMAN"] = "BOK",
 					["DRUID"] = "BOM",
-					["SHAMAN"] = "BOW",
 					["DEATHKNIGHT"] = "BOM",
+					["modified"] = true,
 				},
 			},
 			["selectedTemplate2"] = "5-Man",

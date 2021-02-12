@@ -100,7 +100,7 @@ local function on_raidset_save()
 	end
 	
 	local spec, gs = raid_browser.stats.current_raidset();
-	raid_browser:Print('Raidset saved: ' .. spec .. ' ' .. gs .. 'gs');
+	raid_browser:Print('Raidset saved: ' .. spec .. ' ' .. gs .. 'gs (' .. raid_browser.stats.get_short_gs(gs) .. 'k)');
 	set_selection(current_selection);
 end
 

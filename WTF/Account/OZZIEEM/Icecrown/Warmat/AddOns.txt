@@ -5,7 +5,7 @@ AtlasLoot_Loader: disabled
 TitanSpeed: disabled
 TitanXP: enabled
 TitanMail: disabled
-Gatherer: enabled
+Gatherer: disabled
 GatherMate2: enabled
 GearScoreLite: enabled
 AutoCrusaderAura: disabled
@@ -21,7 +21,7 @@ CarboniteTransfer: enabled
 CLCRet: disabled
 CLCRet_Options: disabled
 DrDamage: enabled
-Gatherer_HUD: enabled
+Gatherer_HUD: disabled
 SatrinaBuffFrame: disabled
 SBFOptions: disabled
 MageNuggets: disabled
@@ -34,3 +34,9 @@ ZygorGuidesViewer: disabled
 BeanCounter: disabled
 Parrot: disabled
 LootRolls: enabled
+TellMeWhen: disabled
+PallyPower: disabled
+TipTac: enabled
+TipTacItemRef: enabled
+TipTacTalents: enabled
+TipTacOptions: enabled

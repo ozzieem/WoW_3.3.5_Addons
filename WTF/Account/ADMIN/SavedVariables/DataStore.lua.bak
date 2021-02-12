@@ -1,0 +1,14 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Myron - New Funserver",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.New Funserver.Myron"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+	},
+}

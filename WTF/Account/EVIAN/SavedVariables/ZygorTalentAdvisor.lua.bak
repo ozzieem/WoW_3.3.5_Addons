@@ -1,0 +1,40 @@
+
+ZygorTalentAdvisorSettings = {
+	["char"] = {
+		["Elendraa - Icecrown"] = {
+			["debuglog"] = {
+				"23:39:38> Viewer started. ---------------------------", -- [1]
+				"23:39:38> PLAYER_ALIVE", -- [2]
+				"23:40:43> CHARACTER_POINTS_CHANGED 1", -- [3]
+				"23:40:43> On New Talents nil", -- [4]
+				"23:40:43> ZygorTalentAdvisorPopout_Update", -- [5]
+				"23:40:43> ZygorTalentAdvisorPopout hidden, not updating", -- [6]
+				"23:44:15> CHARACTER_POINTS_CHANGED 1", -- [7]
+				"23:44:15> On New Talents nil", -- [8]
+				"23:44:15> ZygorTalentAdvisorPopout_Update", -- [9]
+				"23:44:15> ZygorTalentAdvisorPopout hidden, not updating", -- [10]
+				"23:58:54> playtalented", -- [11]
+				"23:58:54> playtalented", -- [12]
+				"23:58:55> playtalented", -- [13]
+				"23:58:55> CHARACTER_POINTS_CHANGED -1", -- [14]
+				"23:58:55> ZygorTalentAdvisorPopout_Update", -- [15]
+				"23:58:55> ZygorTalentAdvisorPopout hidden, not updating", -- [16]
+				"23:58:55> playtalented", -- [17]
+				"23:58:55> CHARACTER_POINTS_CHANGED -1", -- [18]
+				"23:58:55> ZygorTalentAdvisorPopout_Update", -- [19]
+				"23:58:55> ZygorTalentAdvisorPopout hidden, not updating", -- [20]
+				"00:00:01> playtalented", -- [21]
+				"00:00:01> playtalented", -- [22]
+				"00:00:03> playtalented", -- [23]
+				"00:00:03> playtalented", -- [24]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+	},
+	["profiles"] = {
+		["Elendraa - Icecrown"] = {
+		},
+	},
+}

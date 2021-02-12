@@ -1,5 +1,7 @@
 
 atsw_prescanned = {
+	["Tailoring"] = "12340enUS",
+	["Enchanting"] = "12340enUS",
 }
 atsw_multicount = true
 atsw_considerbank = false

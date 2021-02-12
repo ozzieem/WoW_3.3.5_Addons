@@ -1,0 +1,10 @@
+
+SunnArt3DB = {
+	["profileKeys"] = {
+		["Lawras - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

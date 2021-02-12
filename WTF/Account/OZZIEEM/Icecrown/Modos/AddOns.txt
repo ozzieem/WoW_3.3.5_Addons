@@ -14,8 +14,8 @@ CarboniteTransfer: enabled
 CLCRet: disabled
 CLCRet_Options: disabled
 DrDamage: enabled
-Gatherer: enabled
-Gatherer_HUD: enabled
+Gatherer: disabled
+Gatherer_HUD: disabled
 GatherMate2: enabled
 MageNuggets: disabled
 MoveAnything: enabled
@@ -26,3 +26,9 @@ XPerl_RaidPets: enabled
 ZygorGuidesViewer: disabled
 BeanCounter: disabled
 Parrot: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled

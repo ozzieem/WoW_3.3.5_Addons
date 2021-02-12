@@ -1,0 +1,45 @@
+
+BeanCounterDB = {
+	["New Funserver"] = {
+		["Myron"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["wealth"] = 2100300850,
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["version"] = 2.12,
+			["faction"] = "Horde",
+			["completedBidsBuyouts"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["mailbox"] = {
+			},
+		},
+	},
+	["ItemIDArray"] = {
+	},
+	["settings"] = {
+		["profile.Default"] = {
+			["configator.left"] = 498.2455907498326,
+			["configator.top"] = 730.2631465748491,
+		},
+	},
+}
+BeanCounterAccountDB = nil

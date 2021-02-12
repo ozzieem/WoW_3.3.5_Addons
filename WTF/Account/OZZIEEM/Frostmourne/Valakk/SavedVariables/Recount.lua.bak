@@ -1,0 +1,4884 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Valakk"] = {
+			["GUID"] = "0x0B0000000007BB36",
+			["LastEventHealth"] = {
+				"133 (96%)", -- [1]
+				"132 (95%)", -- [2]
+				"112 (94%)", -- [3]
+				"112 (94%)", -- [4]
+				"132 (95%)", -- [5]
+				"132 (95%)", -- [6]
+				"132 (95%)", -- [7]
+				"131 (94%)", -- [8]
+				"131 (94%)", -- [9]
+				"130 (94%)", -- [10]
+				"130 (94%)", -- [11]
+				"129 (93%)", -- [12]
+				"129 (93%)", -- [13]
+				"138 (100%)", -- [14]
+				"137 (99%)", -- [15]
+				"137 (99%)", -- [16]
+				"137 (99%)", -- [17]
+				"136 (98%)", -- [18]
+				"136 (98%)", -- [19]
+				"135 (97%)", -- [20]
+				"138 (100%)", -- [21]
+				"138 (100%)", -- [22]
+				"137 (99%)", -- [23]
+				"136 (98%)", -- [24]
+				"138 (100%)", -- [25]
+				"138 (100%)", -- [26]
+				"137 (99%)", -- [27]
+				"136 (98%)", -- [28]
+				"138 (100%)", -- [29]
+				"135 (97%)", -- [30]
+				"135 (97%)", -- [31]
+				"132 (95%)", -- [32]
+				"132 (95%)", -- [33]
+				"129 (93%)", -- [34]
+				"129 (93%)", -- [35]
+				"138 (100%)", -- [36]
+				"135 (97%)", -- [37]
+				"135 (97%)", -- [38]
+				"131 (94%)", -- [39]
+				"131 (94%)", -- [40]
+				"127 (92%)", -- [41]
+				"127 (92%)", -- [42]
+				"1 (0%)", -- [43]
+				"0 (0%)", -- [44]
+				"136 (98%)", -- [45]
+				"136 (98%)", -- [46]
+				"135 (97%)", -- [47]
+				"135 (97%)", -- [48]
+				"134 (97%)", -- [49]
+				"134 (97%)", -- [50]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"MISC", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["DOT_Time"] = {
+					87, -- [1]
+				},
+				["ActiveTime"] = {
+					189.26, -- [1]
+				},
+				["TimeDamage"] = {
+					189.26, -- [1]
+				},
+				["ManaGain"] = {
+					14, -- [1]
+				},
+				["DamageTaken"] = {
+					182, -- [1]
+				},
+				["Damage"] = {
+					1271, -- [1]
+				},
+			},
+			["enClass"] = "WARLOCK",
+			["unit"] = "Valakk",
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						false, -- [1]
+						true, -- [2]
+						false, -- [3]
+						true, -- [4]
+						false, -- [5]
+						false, -- [6]
+						true, -- [7]
+						true, -- [8]
+					},
+					["Messages"] = {
+						"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [1]
+						"Arcane Wraith Melee Valakk Hit -4 (Physical)", -- [2]
+						"Valakk Shadow Bolt Arcane Wraith Hit -29 (Shadow)", -- [3]
+						"Arcane Wraith Melee Valakk Hit -4 (Physical)", -- [4]
+						"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [5]
+						"Valakk Shadow Bolt Arcane Wraith Hit -26 (Shadow)", -- [6]
+						"Environment Falling Valakk Hit -118 (Physical)", -- [7]
+						"Valakk dies.", -- [8]
+					},
+					["DeathAt"] = 1592817515,
+					["HealthNum"] = {
+						97.82608695652174, -- [1]
+						97.82608695652174, -- [2]
+						94.92753623188406, -- [3]
+						94.92753623188406, -- [4]
+						92.02898550724638, -- [5]
+						92.02898550724638, -- [6]
+						0.847457627118644, -- [7]
+						0, -- [8]
+					},
+					["MessageTimes"] = {
+						-14.19600000002538, -- [1]
+						-13.66400000001886, -- [2]
+						-12.72900000002119, -- [3]
+						-11.67500000001746, -- [4]
+						-11.18900000001304, -- [5]
+						-9.990000000019791, -- [6]
+						-0.02600000001257286, -- [7]
+						0, -- [8]
+					},
+					["KilledBy"] = "Environment",
+					["Health"] = {
+						"135 (97%)", -- [1]
+						"135 (97%)", -- [2]
+						"131 (94%)", -- [3]
+						"131 (94%)", -- [4]
+						"127 (92%)", -- [5]
+						"127 (92%)", -- [6]
+						"1 (0%)", -- [7]
+						"0 (0%)", -- [8]
+					},
+					["EventNum"] = {
+						0, -- [1]
+						2.898550724637681, -- [2]
+						0, -- [3]
+						2.898550724637681, -- [4]
+						0, -- [5]
+						0, -- [6]
+						100, -- [7]
+						0, -- [8]
+					},
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"MISC", -- [8]
+					},
+				}, -- [1]
+			},
+			["LastAbility"] = 142921.946,
+			["LastDamageTaken"] = 118,
+			["level"] = 1,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 22,
+			["LastEventNum"] = {
+				0.7246376811594203, -- [1]
+				[14] = 0.7246376811594203,
+				[29] = 2.173913043478261,
+				[7] = 0.7246376811594203,
+				[31] = 2.173913043478261,
+				[33] = 2.173913043478261,
+				[17] = 0.7246376811594203,
+				[36] = 2.173913043478261,
+				[9] = 0.7246376811594203,
+				[19] = 0.7246376811594203,
+				[40] = 2.898550724637681,
+				[43] = 100,
+				[22] = 0.7246376811594203,
+				[11] = 0.7246376811594203,
+				[23] = 0.7246376811594203,
+				[48] = 0.7246376811594203,
+				[50] = 0.7246376811594203,
+				[26] = 0.7246376811594203,
+				[27] = 0.7246376811594203,
+				[38] = 2.898550724637681,
+				[46] = 0.7246376811594203,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["Jaknip"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140026F6A009E76",
+					},
+				},
+			},
+			["TimeLast"] = {
+				["DOT_Time"] = 1592817502,
+				["DeathCount"] = 1592817513,
+				["ManaGain"] = 1592815272,
+				["ActiveTime"] = 1592817503,
+				["TimeDamage"] = 1592817503,
+				["OVERALL"] = 1592817513,
+				["DamageTaken"] = 1592817513,
+				["Damage"] = 1592817503,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Jaknip <Valakk>", -- [1]
+			},
+			["NextEventNum"] = 45,
+			["LastEventHealthNum"] = {
+				96.37681159420291, -- [1]
+				95.65217391304348, -- [2]
+				94.91525423728814, -- [3]
+				94.91525423728814, -- [4]
+				95.65217391304348, -- [5]
+				95.65217391304348, -- [6]
+				95.65217391304348, -- [7]
+				94.92753623188406, -- [8]
+				94.92753623188406, -- [9]
+				94.20289855072464, -- [10]
+				94.20289855072464, -- [11]
+				93.47826086956522, -- [12]
+				93.47826086956522, -- [13]
+				100, -- [14]
+				99.27536231884058, -- [15]
+				99.27536231884058, -- [16]
+				99.27536231884058, -- [17]
+				98.55072463768116, -- [18]
+				98.55072463768116, -- [19]
+				97.82608695652174, -- [20]
+				100, -- [21]
+				100, -- [22]
+				99.27536231884058, -- [23]
+				98.55072463768116, -- [24]
+				100, -- [25]
+				100, -- [26]
+				99.27536231884058, -- [27]
+				98.55072463768116, -- [28]
+				100, -- [29]
+				97.82608695652174, -- [30]
+				97.82608695652174, -- [31]
+				95.65217391304348, -- [32]
+				95.65217391304348, -- [33]
+				93.47826086956522, -- [34]
+				93.47826086956522, -- [35]
+				100, -- [36]
+				97.82608695652174, -- [37]
+				97.82608695652174, -- [38]
+				94.92753623188406, -- [39]
+				94.92753623188406, -- [40]
+				92.02898550724638, -- [41]
+				92.02898550724638, -- [42]
+				0.847457627118644, -- [43]
+				0, -- [44]
+				98.55072463768116, -- [45]
+				98.55072463768116, -- [46]
+				97.82608695652174, -- [47]
+				97.82608695652174, -- [48]
+				97.10144927536231, -- [49]
+				97.10144927536231, -- [50]
+			},
+			["LastEvents"] = {
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [1]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [2]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [3]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [4]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [5]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [6]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [7]
+				"Valakk Melee Springpaw Lynx Hit -3 (Physical)", -- [8]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [9]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [10]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [11]
+				"Valakk Melee Springpaw Lynx Hit -5 (Physical)", -- [12]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [13]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [14]
+				"Valakk Melee Arcane Wraith Hit -5 (Physical)", -- [15]
+				"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [16]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [17]
+				"Valakk Shadow Bolt Arcane Wraith Hit -25 (Shadow)", -- [18]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [19]
+				"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [20]
+				"Valakk Shadow Bolt Arcane Wraith Hit -26 (Shadow)", -- [21]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [22]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [23]
+				"Valakk Shadow Bolt Arcane Wraith Hit -29 (Shadow)", -- [24]
+				"Valakk Shadow Bolt Arcane Wraith Hit -27 (Shadow)", -- [25]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [26]
+				"Arcane Wraith Melee Valakk Hit -1 (Physical)", -- [27]
+				"Valakk Shadow Bolt Arcane Wraith Hit -29 (Shadow)", -- [28]
+				"Tainted Arcane Wraith Melee Valakk Hit -3 (Physical)", -- [29]
+				"Valakk Corruption (DoT) Tainted Arcane Wraith Tick -10 (Shadow)", -- [30]
+				"Tainted Arcane Wraith Melee Valakk Hit -3 (Physical)", -- [31]
+				"Valakk Shadow Bolt Tainted Arcane Wraith Hit -26 (Shadow)", -- [32]
+				"Tainted Arcane Wraith Melee Valakk Hit -3 (Physical)", -- [33]
+				"Valakk Corruption (DoT) Tainted Arcane Wraith Tick -10 (Shadow)", -- [34]
+				"Valakk Shadow Bolt Tainted Arcane Wraith Crit -37 (Shadow)", -- [35]
+				"Arcane Wraith Melee Valakk Hit -3 (Physical)", -- [36]
+				"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [37]
+				"Arcane Wraith Melee Valakk Hit -4 (Physical)", -- [38]
+				"Valakk Shadow Bolt Arcane Wraith Hit -29 (Shadow)", -- [39]
+				"Arcane Wraith Melee Valakk Hit -4 (Physical)", -- [40]
+				"Valakk Corruption (DoT) Arcane Wraith Tick -10 (Shadow)", -- [41]
+				"Valakk Shadow Bolt Arcane Wraith Hit -26 (Shadow)", -- [42]
+				"Environment Falling Valakk Hit -118 (Physical)", -- [43]
+				"Valakk dies.", -- [44]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [45]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [46]
+				"Valakk Corruption (DoT) Springpaw Lynx Tick -10 (Shadow)", -- [47]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [48]
+				"Valakk Shadow Bolt Springpaw Lynx Hit -25 (Shadow)", -- [49]
+				"Springpaw Lynx Melee Valakk Hit -1 (Physical)", -- [50]
+			},
+			["Name"] = "Valakk",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				true, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				true, -- [11]
+				false, -- [12]
+				false, -- [13]
+				true, -- [14]
+				false, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				false, -- [25]
+				true, -- [26]
+				true, -- [27]
+				false, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				false, -- [32]
+				true, -- [33]
+				false, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				false, -- [41]
+				false, -- [42]
+				true, -- [43]
+				true, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				142687.977, -- [1]
+				142688.998, -- [2]
+				142691.992, -- [3]
+				142692.164, -- [4]
+				142695.02, -- [5]
+				142695.193, -- [6]
+				142695.454, -- [7]
+				142696.964, -- [8]
+				142697.476, -- [9]
+				142698.172, -- [10]
+				142699.457, -- [11]
+				142699.882, -- [12]
+				142701.222, -- [13]
+				142803.874, -- [14]
+				142803.975, -- [15]
+				142805.17, -- [16]
+				142805.876, -- [17]
+				142807.478, -- [18]
+				142807.893, -- [19]
+				142808.207, -- [20]
+				142831.029, -- [21]
+				142831.523, -- [22]
+				142833.498, -- [23]
+				142833.677, -- [24]
+				142847.501, -- [25]
+				142847.52, -- [26]
+				142849.535, -- [27]
+				142850.569, -- [28]
+				142904.09, -- [29]
+				142905.525, -- [30]
+				142906.112, -- [31]
+				142907.072, -- [32]
+				142908.137, -- [33]
+				142908.503, -- [34]
+				142909.8, -- [35]
+				142916.249, -- [36]
+				142917.74, -- [37]
+				142918.272, -- [38]
+				142919.207, -- [39]
+				142920.261, -- [40]
+				142920.747, -- [41]
+				142921.946, -- [42]
+				142931.91, -- [43]
+				142931.936, -- [44]
+				142678.77, -- [45]
+				142679.882, -- [46]
+				142681.758, -- [47]
+				142681.875, -- [48]
+				142683.244, -- [49]
+				142685.968, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Arcane Wraith"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 6,
+					["Damage"] = 50,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 5,
+						["Shadow"] = 45,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 20,
+								},
+								["Melee"] = {
+									["count"] = 5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 50,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 1.93,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 2.31,
+								},
+							},
+							["amount"] = 7.74,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.74,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10,
+									["min"] = 10,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 5,
+									["count"] = 1,
+									["amount"] = 5,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 5,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 25,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 25,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 25,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.74,
+					["TimeDamaging"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 1.93,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 2.31,
+								},
+							},
+							["amount"] = 7.74,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tainted Arcane Wraith"] = {
+									["count"] = 6,
+								},
+								["Springpaw Cub"] = {
+									["count"] = 0,
+								},
+								["Springpaw Lynx"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 9,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 9,
+					},
+					["DOT_Time"] = 6,
+					["Damage"] = 83,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Shadow"] = 83,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 63,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 83,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.85,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 4.93,
+								},
+							},
+							["amount"] = 7.779999999999999,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.779999999999999,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 37,
+									["min"] = 37,
+									["count"] = 1,
+									["amount"] = 37,
+								},
+								["Hit"] = {
+									["max"] = 26,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 26,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 63,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.779999999999999,
+					["TimeDamaging"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.85,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 4.93,
+								},
+							},
+							["amount"] = 7.779999999999999,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Springpaw Lynx"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 1,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Shadow"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 56,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Shadow"] = 56,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 56,
+								},
+							},
+							["amount"] = 56,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+						["Valakk"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Valakk"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 6.57,
+								},
+							},
+							["amount"] = 6.57,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 6.57,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 56,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 56,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 6.57,
+					["TimeDamaging"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 6.57,
+								},
+							},
+							["amount"] = 6.57,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 55,
+						},
+					},
+					["TimeSpent"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 6.15,
+								},
+							},
+							["amount"] = 6.15,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 2,
+					["WhoDamaged"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Shadow"] = 55,
+					},
+					["ElementHitsDone"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DamagedWho"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 55,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 6.15,
+					["TimeDamaging"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 6.15,
+								},
+							},
+							["amount"] = 6.15,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["ActiveTime"] = 6.15,
+					["Damage"] = 55,
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Springpaw Lynx"] = {
+									["count"] = 0,
+								},
+								["Arcane Wraith"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 11,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 11,
+					},
+					["DOT_Time"] = 6,
+					["Damage"] = 75,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Shadow"] = 75,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 55,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.67,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 5.04,
+								},
+							},
+							["amount"] = 7.71,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.71,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 55,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.71,
+					["TimeDamaging"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.67,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 5.04,
+								},
+							},
+							["amount"] = 7.71,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Springpaw Lynx"] = {
+									["count"] = 0,
+								},
+								["Arcane Wraith"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 11,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 11,
+					},
+					["DOT_Time"] = 6,
+					["Damage"] = 75,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Shadow"] = 75,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 55,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 75,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.67,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 5.04,
+								},
+							},
+							["amount"] = 7.71,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.71,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 55,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.71,
+					["TimeDamaging"] = {
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.67,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 5.04,
+								},
+							},
+							["amount"] = 7.71,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tainted Arcane Wraith"] = {
+									["count"] = 6,
+								},
+								["Springpaw Cub"] = {
+									["count"] = 30,
+								},
+								["Springpaw Lynx"] = {
+									["count"] = 39,
+								},
+								["Arcane Wraith"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 87,
+						},
+					},
+					["TimeSpent"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.85,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 4.93,
+								},
+							},
+							["amount"] = 7.779999999999999,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 13.78,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 8.15,
+								},
+							},
+							["amount"] = 21.93,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 6.97,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 17.7,
+								},
+							},
+							["amount"] = 28.17,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 25.13000000000001,
+								},
+								["Melee"] = {
+									["count"] = 4.28,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 1.49,
+								},
+							},
+							["amount"] = 30.90000000000001,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.9,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 96.58,
+								},
+							},
+							["amount"] = 100.48,
+						},
+					},
+					["DamageTaken"] = 182,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 51,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 51,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+						["Arcane Torrent"] = {
+							["Details"] = {
+								["Valakk"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 51,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 51,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 189.26,
+					["ElementTaken"] = {
+						["Melee"] = 64,
+						["Physical"] = 118,
+					},
+					["DOT_Time"] = 87,
+					["Damage"] = 1271,
+					["DeathCount"] = 1,
+					["ManaGainedFrom"] = {
+						["Valakk"] = {
+							["Details"] = {
+								["Arcane Torrent"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["Attacks"] = {
+						["Corruption (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10,
+									["min"] = 10,
+									["count"] = 29,
+									["amount"] = 290,
+								},
+							},
+							["count"] = 29,
+							["amount"] = 290,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 3,
+									["count"] = 6,
+									["amount"] = 25,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 25,
+						},
+						["Shadow Bolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 37,
+									["min"] = 21,
+									["count"] = 2,
+									["amount"] = 58,
+								},
+								["Hit"] = {
+									["max"] = 29,
+									["min"] = 12,
+									["count"] = 52,
+									["amount"] = 898,
+								},
+							},
+							["count"] = 56,
+							["amount"] = 956,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 25,
+						["Shadow"] = 1246,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 46,
+								},
+							},
+							["amount"] = 51,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DamagedWho"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 63,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 83,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 100,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 74,
+								},
+							},
+							["amount"] = 174,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 40,
+								},
+								["Melee"] = {
+									["count"] = 5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 191,
+								},
+							},
+							["amount"] = 236,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 130,
+								},
+								["Melee"] = {
+									["count"] = 11,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 166,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 603,
+								},
+							},
+							["amount"] = 612,
+						},
+					},
+					["TimeDamage"] = 189.26,
+					["TimeDamaging"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Shadow Bolt"] = {
+									["count"] = 2.85,
+								},
+								["Corruption (DoT)"] = {
+									["count"] = 4.93,
+								},
+							},
+							["amount"] = 7.779999999999999,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 13.78,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 8.15,
+								},
+							},
+							["amount"] = 21.93,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 6.97,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 17.7,
+								},
+							},
+							["amount"] = 28.17,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Corruption (DoT)"] = {
+									["count"] = 25.13000000000001,
+								},
+								["Melee"] = {
+									["count"] = 4.28,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 1.49,
+								},
+							},
+							["amount"] = 30.90000000000001,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.9,
+								},
+								["Shadow Bolt"] = {
+									["count"] = 96.58,
+								},
+							},
+							["amount"] = 100.48,
+						},
+					},
+					["ManaGain"] = 14,
+					["WhoDamaged"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 17,
+								},
+							},
+							["amount"] = 17,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 18,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Mana Wyrm"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 11,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 29,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 52,
+								},
+							},
+							["amount"] = 85,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1592815157,
+			["LastActive"] = 1592817513,
+		},
+		["Jaknip <Valakk>"] = {
+			["GUID"] = "0xF140026F6A009E76",
+			["LastEventHealth"] = {
+				"348 (100%)", -- [1]
+				"348 (100%)", -- [2]
+				"346 (99%)", -- [3]
+				"346 (99%)", -- [4]
+				"344 (98%)", -- [5]
+				"344 (98%)", -- [6]
+				"343 (98%)", -- [7]
+				"343 (98%)", -- [8]
+				"341 (97%)", -- [9]
+				"341 (97%)", -- [10]
+				"346 (99%)", -- [11]
+				"348 (100%)", -- [12]
+				"348 (100%)", -- [13]
+				"348 (100%)", -- [14]
+				"348 (100%)", -- [15]
+				"348 (100%)", -- [16]
+				"348 (100%)", -- [17]
+				"348 (100%)", -- [18]
+				"348 (100%)", -- [19]
+				"348 (100%)", -- [20]
+				"348 (100%)", -- [21]
+				"348 (100%)", -- [22]
+				"347 (99%)", -- [23]
+				"347 (99%)", -- [24]
+				"346 (99%)", -- [25]
+				"348 (100%)", -- [26]
+				"348 (100%)", -- [27]
+				"348 (100%)", -- [28]
+				"348 (100%)", -- [29]
+				"348 (100%)", -- [30]
+				"348 (100%)", -- [31]
+				"348 (100%)", -- [32]
+				"348 (100%)", -- [33]
+				"348 (100%)", -- [34]
+				"348 (100%)", -- [35]
+				"348 (100%)", -- [36]
+				"348 (100%)", -- [37]
+				"348 (100%)", -- [38]
+				"348 (100%)", -- [39]
+				"348 (100%)", -- [40]
+				"348 (100%)", -- [41]
+				"348 (100%)", -- [42]
+			},
+			["LastAttackedBy"] = "Springpaw Lynx",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					84.54000000000001, -- [1]
+				},
+				["Damage"] = {
+					260, -- [1]
+				},
+				["DamageTaken"] = {
+					10, -- [1]
+				},
+				["ActiveTime"] = {
+					84.54000000000001, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "Jaknip",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 21,
+			["LastEventNum"] = {
+				[10] = 0.2873563218390804,
+				[6] = 0.2873563218390804,
+				[2] = 0.5747126436781609,
+				[24] = 0.2873563218390804,
+				[22] = 0.2873563218390804,
+				[4] = 0.5747126436781609,
+				[8] = 0.5747126436781609,
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 1,
+			["TimeLast"] = {
+				["ActiveTime"] = 1592817502,
+				["TimeDamage"] = 1592817502,
+				["OVERALL"] = 1592817502,
+				["DamageTaken"] = 1592817275,
+				["Damage"] = 1592817502,
+			},
+			["Owner"] = "Valakk",
+			["LastAbility"] = 142921.087,
+			["NextEventNum"] = 43,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				99.42528735632185, -- [3]
+				99.42528735632185, -- [4]
+				98.85057471264368, -- [5]
+				98.85057471264368, -- [6]
+				98.56321839080459, -- [7]
+				98.56321839080459, -- [8]
+				97.98850574712644, -- [9]
+				97.98850574712644, -- [10]
+				99.42528735632185, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				99.71264367816092, -- [23]
+				99.71264367816092, -- [24]
+				99.42528735632185, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+			},
+			["LastEvents"] = {
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -9 (Fire)", -- [1]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -2 (Physical)", -- [2]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -8 (Fire)", -- [3]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -2 (Physical)", -- [4]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -9 (Fire)", -- [5]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -1 (Physical)", -- [6]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Crit -13 (Fire)", -- [7]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -2 (Physical)", -- [8]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -8 (Fire)", -- [9]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -1 (Physical)", -- [10]
+				"Jaknip <Valakk> Firebolt Springpaw Cub Hit -7 (Fire)", -- [11]
+				"Jaknip <Valakk> Firebolt Springpaw Cub Evade (Fire)", -- [12]
+				"Jaknip <Valakk> Firebolt Springpaw Cub Hit -7 (Fire)", -- [13]
+				"Jaknip <Valakk> Firebolt Springpaw Cub Hit -8 (Fire)", -- [14]
+				"Jaknip <Valakk> Firebolt Springpaw Cub Hit -8 (Fire)", -- [15]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -7 (Fire)", -- [16]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Evade (Fire)", -- [17]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -9 (Fire)", -- [18]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -9 (Fire)", -- [19]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -7 (Fire)", -- [20]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -7 (Fire)", -- [21]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -1 (Physical)", -- [22]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -8 (Fire)", -- [23]
+				"Springpaw Lynx Melee Jaknip <Valakk> Hit -1 (Physical)", -- [24]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -8 (Fire)", -- [25]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -7 (Fire)", -- [26]
+				"Jaknip <Valakk> Firebolt Springpaw Lynx Hit -9 (Fire)", -- [27]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -9 (Fire)", -- [28]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -8 (Fire)", -- [29]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [30]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Miss (Fire)", -- [31]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [32]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -9 (Fire)", -- [33]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [34]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -9 (Fire)", -- [35]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [36]
+				"Jaknip <Valakk> Firebolt Tainted Arcane Wraith Hit -7 (Fire)", -- [37]
+				"Jaknip <Valakk> Firebolt Tainted Arcane Wraith Hit -7 (Fire)", -- [38]
+				"Jaknip <Valakk> Firebolt Tainted Arcane Wraith Crit -13 (Fire)", -- [39]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [40]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -8 (Fire)", -- [41]
+				"Jaknip <Valakk> Firebolt Arcane Wraith Hit -7 (Fire)", -- [42]
+			},
+			["Name"] = "Jaknip",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				false, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+			},
+			["LastEventTimes"] = {
+				142645.957, -- [1]
+				142646.32, -- [2]
+				142647.536, -- [3]
+				142648.297, -- [4]
+				142649.602, -- [5]
+				142650.331, -- [6]
+				142651.604, -- [7]
+				142652.326, -- [8]
+				142653.611, -- [9]
+				142654.295, -- [10]
+				142656.738, -- [11]
+				142660.116, -- [12]
+				142660.867, -- [13]
+				142663.215, -- [14]
+				142665.549, -- [15]
+				142676.746, -- [16]
+				142679.307, -- [17]
+				142681.024, -- [18]
+				142683.092, -- [19]
+				142688.877, -- [20]
+				142690.776, -- [21]
+				142691.335, -- [22]
+				142691.993, -- [23]
+				142693.359, -- [24]
+				142693.997, -- [25]
+				142697.582, -- [26]
+				142699.643, -- [27]
+				142804.662, -- [28]
+				142806.22, -- [29]
+				142808.167, -- [30]
+				142827.997, -- [31]
+				142830.862, -- [32]
+				142832.645, -- [33]
+				142846.762, -- [34]
+				142848.515, -- [35]
+				142850.519, -- [36]
+				142904.882, -- [37]
+				142906.855, -- [38]
+				142908.862, -- [39]
+				142917.06, -- [40]
+				142919.106, -- [41]
+				142921.087, -- [42]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 24,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 24,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 24,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.010000000000001,
+								},
+							},
+							["amount"] = 7.010000000000001,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.010000000000001,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 3,
+									["amount"] = 24,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 24,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.010000000000001,
+					["TimeDamaging"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.010000000000001,
+								},
+							},
+							["amount"] = 7.010000000000001,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+								["Hit"] = {
+									["max"] = 7,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 14,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 27,
+						},
+					},
+					["TimeSpent"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.48,
+								},
+							},
+							["amount"] = 7.48,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["WhoDamaged"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 27,
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DamagedWho"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 7.48,
+					["TimeDamaging"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.48,
+								},
+							},
+							["amount"] = 7.48,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["ActiveTime"] = 7.48,
+					["Damage"] = 27,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 23,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 23,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 23,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.25,
+								},
+							},
+							["amount"] = 7.25,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.25,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 3,
+									["amount"] = 23,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 23,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.25,
+					["TimeDamaging"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.25,
+								},
+							},
+							["amount"] = 7.25,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 16,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 16,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 4.64,
+								},
+							},
+							["amount"] = 4.64,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.64,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 2,
+									["amount"] = 16,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 16,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.64,
+					["TimeDamaging"] = {
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 4.64,
+								},
+							},
+							["amount"] = 4.64,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 22,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 22,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.529999999999999,
+								},
+							},
+							["amount"] = 7.529999999999999,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.529999999999999,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 22,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.529999999999999,
+					["TimeDamaging"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.529999999999999,
+								},
+							},
+							["amount"] = 7.529999999999999,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 22,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 22,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 22,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.529999999999999,
+								},
+							},
+							["amount"] = 7.529999999999999,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7.529999999999999,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 22,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7.529999999999999,
+					["TimeDamaging"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.529999999999999,
+								},
+							},
+							["amount"] = 7.529999999999999,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Firebolt"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 13,
+									["count"] = 2,
+									["amount"] = 26,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 30,
+									["amount"] = 234,
+								},
+							},
+							["count"] = 35,
+							["amount"] = 260,
+						},
+					},
+					["TimeSpent"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.48,
+								},
+							},
+							["amount"] = 7.48,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 11.94,
+								},
+							},
+							["amount"] = 11.94,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 35.19,
+								},
+							},
+							["amount"] = 35.19,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 29.93,
+								},
+							},
+							["amount"] = 29.93,
+						},
+					},
+					["DamageTaken"] = 10,
+					["WhoDamaged"] = {
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 260,
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 35,
+						},
+					},
+					["DamagedWho"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 30,
+								},
+							},
+							["amount"] = 30,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 118,
+								},
+							},
+							["amount"] = 118,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 85,
+								},
+							},
+							["amount"] = 85,
+						},
+					},
+					["TimeDamage"] = 84.54000000000001,
+					["TimeDamaging"] = {
+						["Tainted Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 7.48,
+								},
+							},
+							["amount"] = 7.48,
+						},
+						["Springpaw Cub"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 11.94,
+								},
+							},
+							["amount"] = 11.94,
+						},
+						["Springpaw Lynx"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 35.19,
+								},
+							},
+							["amount"] = 35.19,
+						},
+						["Arcane Wraith"] = {
+							["Details"] = {
+								["Firebolt"] = {
+									["count"] = 29.93,
+								},
+							},
+							["amount"] = 29.93,
+						},
+					},
+					["ElementTaken"] = {
+						["Melee"] = 10,
+					},
+					["ActiveTime"] = 84.54000000000001,
+					["Damage"] = 260,
+				},
+			},
+			["UnitLockout"] = 1592817227,
+			["LastActive"] = 1592817502,
+		},
+	},
+	["FightNum"] = 22,
+	["CombatTimes"] = {
+		{
+			1592815157, -- [1]
+			1592815161, -- [2]
+			"10:39:17", -- [3]
+			"10:39:21", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [1]
+		{
+			1592815168, -- [1]
+			1592815172, -- [2]
+			"10:39:28", -- [3]
+			"10:39:32", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [2]
+		{
+			1592815180, -- [1]
+			1592815185, -- [2]
+			"10:39:40", -- [3]
+			"10:39:45", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [3]
+		{
+			1592815192, -- [1]
+			1592815196, -- [2]
+			"10:39:52", -- [3]
+			"10:39:56", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [4]
+		{
+			1592815205, -- [1]
+			1592815209, -- [2]
+			"10:40:05", -- [3]
+			"10:40:09", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [5]
+		{
+			1592815213, -- [1]
+			1592815217, -- [2]
+			"10:40:13", -- [3]
+			"10:40:17", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [6]
+		{
+			1592815222, -- [1]
+			1592815226, -- [2]
+			"10:40:22", -- [3]
+			"10:40:26", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [7]
+		{
+			1592815270, -- [1]
+			1592815283, -- [2]
+			"10:41:10", -- [3]
+			"10:41:23", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [8]
+		{
+			1592815288, -- [1]
+			1592815292, -- [2]
+			"10:41:28", -- [3]
+			"10:41:32", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [9]
+		{
+			1592815294, -- [1]
+			1592815298, -- [2]
+			"10:41:34", -- [3]
+			"10:41:38", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [10]
+		{
+			1592815303, -- [1]
+			1592815307, -- [2]
+			"10:41:43", -- [3]
+			"10:41:47", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [11]
+		{
+			1592815318, -- [1]
+			1592815324, -- [2]
+			"10:41:58", -- [3]
+			"10:42:04", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [12]
+		{
+			1592815337, -- [1]
+			1592815341, -- [2]
+			"10:42:17", -- [3]
+			"10:42:21", -- [4]
+			"Mana Wyrm", -- [5]
+		}, -- [13]
+		{
+			1592815468, -- [1]
+			1592815474, -- [2]
+			"10:44:28", -- [3]
+			"10:44:34", -- [4]
+			"Springpaw Cub", -- [5]
+		}, -- [14]
+		{
+			1592817227, -- [1]
+			1592817247, -- [2]
+			"11:13:47", -- [3]
+			"11:14:07", -- [4]
+			"Springpaw Lynx", -- [5]
+		}, -- [15]
+		{
+			1592817257, -- [1]
+			1592817266, -- [2]
+			"11:14:17", -- [3]
+			"11:14:26", -- [4]
+			"Springpaw Lynx", -- [5]
+		}, -- [16]
+		{
+			1592817267, -- [1]
+			1592817283, -- [2]
+			"11:14:27", -- [3]
+			"11:14:43", -- [4]
+			"Springpaw Lynx", -- [5]
+		}, -- [17]
+		{
+			1592817385, -- [1]
+			1592817390, -- [2]
+			"11:16:25", -- [3]
+			"11:16:30", -- [4]
+			"Arcane Wraith", -- [5]
+		}, -- [18]
+		{
+			1592817412, -- [1]
+			1592817416, -- [2]
+			"11:16:52", -- [3]
+			"11:16:56", -- [4]
+			"Arcane Wraith", -- [5]
+		}, -- [19]
+		{
+			1592817428, -- [1]
+			1592817433, -- [2]
+			"11:17:08", -- [3]
+			"11:17:13", -- [4]
+			"Arcane Wraith", -- [5]
+		}, -- [20]
+		{
+			1592817485, -- [1]
+			1592817492, -- [2]
+			"11:18:06", -- [3]
+			"11:18:12", -- [4]
+			"Tainted Arcane Wraith", -- [5]
+		}, -- [21]
+		{
+			1592817498, -- [1]
+			1592817504, -- [2]
+			"11:18:18", -- [3]
+			"11:18:24", -- [4]
+			"Arcane Wraith", -- [5]
+		}, -- [22]
+	},
+	["FoughtWho"] = {
+		"Arcane Wraith 11:18:18-11:18:24", -- [1]
+		"Tainted Arcane Wraith 11:18:06-11:18:12", -- [2]
+		"Arcane Wraith 11:17:08-11:17:13", -- [3]
+		"Arcane Wraith 11:16:52-11:16:56", -- [4]
+		"Arcane Wraith 11:16:25-11:16:30", -- [5]
+	},
+}

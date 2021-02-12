@@ -1,0 +1,13 @@
+
+SmartMount_Config = {
+	["profiles"] = {
+		["Default"] = {
+			["CV2"] = {
+				["SummonMiniPet"] = true,
+				["ExitVehicle"] = true,
+				["key1"] = "B",
+			},
+			["ConfigVersion"] = "CV2",
+		},
+	},
+}

@@ -50,3 +50,11 @@ CantHealYou: disabled
 CooldownCount: disabled
 LootRolls: enabled
 Skada: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+TipTac: enabled
+TipTacItemRef: enabled
+TipTacTalents: enabled
+TipTacOptions: enabled
+TimeToDie: enabled
+GridBuffIcons: disabled

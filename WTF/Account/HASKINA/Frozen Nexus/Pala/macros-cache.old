@@ -1,0 +1,9 @@
+MACRO 16777218 "FL" INV_Misc_QuestionMark
+/cast [target=Splosion] Flash of Light
+END
+MACRO 16777217 "HL" INV_Misc_QuestionMark
+/cast [target=Splosion] Holy Light
+END
+MACRO 16777219 "LoH" INV_Misc_QuestionMark
+/cast [target=Splosion] Lay on Hands
+END

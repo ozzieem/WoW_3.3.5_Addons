@@ -4,7 +4,7 @@ XPerl_Admin = {
 	["ResistSort"] = "fr",
 	["SavedRosters"] = {
 	},
-	["AutoHideShow"] = 1,
+	["AutoHideShow"] = 0,
 }
 XPerl_CheckItems = {
 	{

@@ -1,64 +1,108 @@
 
 DrDamageDB = {
 	["profileKeys"] = {
-		["Maldir - Icecrown"] = "Maldir - Icecrown",
-		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+		["Fatty - Frozen Nexus [Custom]"] = "Fatty - Frozen Nexus [Custom]",
+		["Pala - Frozen Nexus [Custom]"] = "Pala - Frozen Nexus [Custom]",
+		["Pala - Frozen Nexus"] = "Pala - Frozen Nexus",
 		["Delras - Icecrown"] = "Delras - Icecrown",
-		["Gnomdk - Icecrown"] = "Gnomdk - Icecrown",
-		["Lawras - Icecrown"] = "Lawras - Icecrown",
-		["Themken - Icecrown"] = "Themken - Icecrown",
-		["Assabrook - WoW Circle 3.3.5a x100"] = "Assabrook - WoW Circle 3.3.5a x100",
+		["Dud - Frozen Nexus [Custom]"] = "Dud - Frozen Nexus [Custom]",
+		["Shamanta - Frozen Nexus [Custom]"] = "Shamanta - Frozen Nexus [Custom]",
 		["Salaction - Icecrown"] = "Salaction - Icecrown",
-		["Teleprter - Icecrown"] = "Teleprter - Icecrown",
-		["Asdadsaasdad - Icecrown"] = "Asdadsaasdad - Icecrown",
-		["Dranah - Icecrown"] = "Dranah - Icecrown",
-		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
-		["Warmat - Icecrown"] = "Warmat - Icecrown",
-		["Jianyang - Icecrown"] = "Jianyang - Icecrown",
-		["Sufjan - Icecrown"] = "Sufjan - Icecrown",
 		["Modos - Icecrown"] = "Modos - Icecrown",
 		["Allisone - Icecrown"] = "Allisone - Icecrown",
-		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Lock - Frozen Nexus"] = "Lock - Frozen Nexus",
+		["Liadra - Frostmourne"] = "Liadra - Frostmourne",
+		["Dranah - Icecrown"] = "Dranah - Icecrown",
+		["Grona - Frozen Nexus [Custom]"] = "Grona - Frozen Nexus [Custom]",
+		["Riv - Frozen Nexus [Custom]"] = "Riv - Frozen Nexus [Custom]",
+		["Riv - Frozen Nexus"] = "Riv - Frozen Nexus",
 		["Rivina - Icecrown"] = "Rivina - Icecrown",
+		["Maldira - Frosthold"] = "Maldira - Frosthold",
+		["Tabinia - Icecrown"] = "Tabinia - Icecrown",
+		["Maldir - Icecrown"] = "Maldir - Icecrown",
+		["Dranah - Frozen Nexus"] = "Dranah - Frozen Nexus",
+		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+		["Hunty - Frozen Nexus"] = "Hunty - Frozen Nexus",
+		["Themken - Lordaeron"] = "Themken - Lordaeron",
+		["Dud - Frozen Nexus"] = "Dud - Frozen Nexus",
+		["Lawras - Lordaeron"] = "Lawras - Lordaeron",
+		["Warmat - Icecrown"] = "Warmat - Icecrown",
+		["Ashur - Frostmourne"] = "Ashur - Frostmourne",
+		["Dranah - Lordaeron"] = "Dranah - Lordaeron",
+		["Mandatum - Icecrown"] = "Mandatum - Icecrown",
+		["Shamanta - Frozen Nexus"] = "Shamanta - Frozen Nexus",
+		["Maulh - Icecrown"] = "Maulh - Icecrown",
+		["Themken - Icecrown"] = "Themken - Icecrown",
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
 	},
 	["profiles"] = {
-		["Maldir - Icecrown"] = {
+		["Fatty - Frozen Nexus [Custom]"] = {
 		},
-		["Elendraa - Icecrown"] = {
+		["Pala - Frozen Nexus [Custom]"] = {
+		},
+		["Pala - Frozen Nexus"] = {
 		},
 		["Delras - Icecrown"] = {
 		},
-		["Gnomdk - Icecrown"] = {
+		["Dud - Frozen Nexus [Custom]"] = {
 		},
-		["Lawras - Icecrown"] = {
-		},
-		["Themken - Icecrown"] = {
-		},
-		["Assabrook - WoW Circle 3.3.5a x100"] = {
+		["Shamanta - Frozen Nexus [Custom]"] = {
 		},
 		["Salaction - Icecrown"] = {
-		},
-		["Teleprter - Icecrown"] = {
-		},
-		["Asdadsaasdad - Icecrown"] = {
-		},
-		["Dranah - Icecrown"] = {
-		},
-		["Tabinia - Icecrown"] = {
-		},
-		["Warmat - Icecrown"] = {
-		},
-		["Jianyang - Icecrown"] = {
-		},
-		["Sufjan - Icecrown"] = {
 		},
 		["Modos - Icecrown"] = {
 		},
 		["Allisone - Icecrown"] = {
 		},
-		["Themken - Lordaeron"] = {
+		["Lock - Frozen Nexus"] = {
+		},
+		["Liadra - Frostmourne"] = {
+		},
+		["Dranah - Icecrown"] = {
+		},
+		["Grona - Frozen Nexus [Custom]"] = {
+		},
+		["Riv - Frozen Nexus [Custom]"] = {
+			["DisplayType_M2"] = "PowerCost",
+			["DisplayType_M"] = "AvgHit",
+		},
+		["Riv - Frozen Nexus"] = {
 		},
 		["Rivina - Icecrown"] = {
+		},
+		["Maldira - Frosthold"] = {
+		},
+		["Tabinia - Icecrown"] = {
+		},
+		["Maldir - Icecrown"] = {
+		},
+		["Dranah - Frozen Nexus"] = {
+		},
+		["Elendraa - Icecrown"] = {
+		},
+		["Hunty - Frozen Nexus"] = {
+		},
+		["Themken - Lordaeron"] = {
+		},
+		["Dud - Frozen Nexus"] = {
+		},
+		["Lawras - Lordaeron"] = {
+		},
+		["Warmat - Icecrown"] = {
+		},
+		["Ashur - Frostmourne"] = {
+		},
+		["Dranah - Lordaeron"] = {
+		},
+		["Mandatum - Icecrown"] = {
+		},
+		["Shamanta - Frozen Nexus"] = {
+		},
+		["Maulh - Icecrown"] = {
+		},
+		["Themken - Icecrown"] = {
+		},
+		["Lawras - Icecrown"] = {
 		},
 	},
 }

@@ -1,0 +1,29 @@
+
+RankWatchSettings = {
+	["enabled"] = true,
+	["explain"] = true,
+	["checkAllLevels"] = true,
+	["ignore"] = {
+	},
+	["levels"] = 2,
+	["channel"] = 3,
+	["interval"] = 300,
+	["whisperAllLevels"] = false,
+	["delay"] = 3,
+	["reports"] = {
+		["Rockeeyy"] = {
+			["Holy Wrath"] = {
+				["lowId"] = 48816,
+				["time"] = 1565607213.143,
+				["maxId"] = 48817,
+			},
+		},
+		["Exor"] = {
+			["Drain Soul"] = {
+				["lowId"] = 27217,
+				["time"] = 1565607262.768,
+				["maxId"] = 47855,
+			},
+		},
+	},
+}

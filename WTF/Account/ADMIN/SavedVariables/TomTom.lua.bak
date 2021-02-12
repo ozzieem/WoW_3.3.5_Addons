@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Myron - New Funserver",
+	},
+	["profiles"] = {
+		["Myron - New Funserver"] = {
+		},
+	},
+}

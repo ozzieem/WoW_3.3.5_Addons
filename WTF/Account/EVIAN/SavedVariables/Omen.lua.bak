@@ -1,0 +1,14 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Elendraa - Icecrown"] = "Elendraa - Icecrown",
+	},
+	["profiles"] = {
+		["Elendraa - Icecrown"] = {
+			["PositionW"] = 200.0000027354896,
+			["PositionH"] = 82.00001600261403,
+			["PositionY"] = 82.00001600261403,
+			["PositionX"] = 1394.66053606979,
+		},
+	},
+}

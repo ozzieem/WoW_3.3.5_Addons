@@ -1,0 +1,8 @@
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+Quartz: enabled
+QuestHelper: disabled
+AstrolabeQH: enabled
+ChatThrottleLib: enabled
+CLCRet: disabled
+CLCRet_Options: disabled

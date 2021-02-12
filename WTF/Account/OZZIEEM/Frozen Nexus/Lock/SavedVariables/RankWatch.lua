@@ -8,8 +8,15 @@ RankWatchSettings = {
 	["levels"] = 2,
 	["channel"] = 3,
 	["interval"] = 300,
-	["whisperAllLevels"] = false,
-	["delay"] = 3,
 	["reports"] = {
+		["Lock"] = {
+			["Frost Armor"] = {
+				["lowId"] = 168,
+				["time"] = 1590443871.995,
+				["maxId"] = 43008,
+			},
+		},
 	},
+	["delay"] = 3,
+	["whisperAllLevels"] = false,
 }

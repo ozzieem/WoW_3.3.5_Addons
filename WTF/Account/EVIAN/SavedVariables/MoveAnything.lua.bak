@@ -1,0 +1,43 @@
+
+MoveAnything_CustomFrames = {
+}
+MoveAnything_CharacterSettings = {
+	["default"] = {
+		["TargetFrame"] = {
+			["name"] = "TargetFrame",
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				907.5601264370638, -- [4]
+				-719.073549860555, -- [5]
+			},
+		},
+		["PlayerFrame"] = {
+			["name"] = "PlayerFrame",
+			["pos"] = {
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				430.9398019273029, -- [4]
+				-718.5614136900721, -- [5]
+			},
+		},
+		["LootFrame"] = {
+			["name"] = "LootFrame",
+			["scale"] = 1,
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				217.8985780309686, -- [4]
+				351.6680275499362, -- [5]
+			},
+		},
+	},
+}
+MoveAnything_UseCharacterSettings = nil
+MADB = {
+	["frameListRows"] = 18,
+	["collapsed"] = true,
+}

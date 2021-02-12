@@ -8,7 +8,7 @@ TidyPlatesOptions = {
 	["FourthSpecProfile"] = "Damage",
 	["ThirdSpecProfile"] = "Damage",
 	["ActiveTheme"] = "Neon",
-	["secondary"] = "Neon/DPS",
-	["WelcomeShown"] = false,
 	["FirstSpecProfile"] = "Damage",
+	["WelcomeShown"] = false,
+	["secondary"] = "Neon/DPS",
 }

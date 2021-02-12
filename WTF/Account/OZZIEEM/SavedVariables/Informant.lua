@@ -30,10 +30,13 @@ InformantLocalUpdates = {
 		[42898] = {
 			["merchants"] = "26325",
 		},
+		[40915] = {
+			["merchants"] = "26324",
+		},
 		[43154] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 8000,
+			["buy"] = 9000,
 		},
 		[39188] = {
 			["merchants"] = "14242",
@@ -44,25 +47,41 @@ InformantLocalUpdates = {
 		[20753] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 3200,
+			["buy"] = 3600,
+		},
+		[22832] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 16000,
 		},
 		[18866] = {
 			["merchants"] = "12794",
 		},
+		[6263] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100000,
+		},
 		[29165] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1767964,
+			["buy"] = 1871962,
 		},
 		[29197] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 850000,
+			["buy"] = 900000,
 		},
 		[40020] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 91228,
+		},
+		[44242] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 170177,
 		},
 		[50447] = {
 			["merchants"] = "14711",
@@ -75,10 +94,21 @@ InformantLocalUpdates = {
 		[44690] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000000,
+			["buy"] = 19000000,
+		},
+		[6367] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 500000,
 		},
 		[29613] = {
 			["merchants"] = "12795",
+		},
+		[43155] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 8500,
 		},
 		[39189] = {
 			["merchants"] = "14242",
@@ -86,7 +116,7 @@ InformantLocalUpdates = {
 		[4400] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 1800,
 		},
 		[27854] = {
 			["merchants"] = "601026",
@@ -103,15 +133,18 @@ InformantLocalUpdates = {
 		[10940] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 800,
+			["buy"] = 720,
 		},
 		[8925] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 2500,
+			["buy"] = 2250,
 		},
 		[8957] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 3800,
 		},
 		[11020] = {
 			["stack"] = 1,
@@ -126,7 +159,12 @@ InformantLocalUpdates = {
 		[44179] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 321889,
+			["buy"] = 302954,
+		},
+		[44243] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 298381,
 		},
 		[44435] = {
 			["stack"] = 1,
@@ -137,7 +175,7 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 950,
+			["buy"] = 900,
 		},
 		[54798] = {
 			["stack"] = 1,
@@ -148,7 +186,7 @@ InformantLocalUpdates = {
 		[28462] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[9149] = {
 			["stack"] = 1,
@@ -160,18 +198,23 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 125,
+			["buy"] = 112,
 		},
 		[30637] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 85000,
+			["buy"] = 90000,
 		},
 		[4608] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
 			["buy"] = 2000,
+		},
+		[43156] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 8500,
 		},
 		[37079] = {
 			["merchants"] = "26306",
@@ -188,13 +231,13 @@ InformantLocalUpdates = {
 		[3372] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 200,
+			["buy"] = 180,
 		},
 		[422] = {
 			["quantity"] = 5,
 			["merchants"] = "601026",
 			["stack"] = 20,
-			["buy"] = 500,
+			["buy"] = 450,
 		},
 		[37719] = {
 			["merchants"] = "72",
@@ -207,12 +250,12 @@ InformantLocalUpdates = {
 		[44180] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 344581,
+			["buy"] = 324312,
 		},
 		[44244] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 716501,
+			["buy"] = 806064,
 		},
 		[44308] = {
 			["merchants"] = "14242",
@@ -220,12 +263,12 @@ InformantLocalUpdates = {
 		[1708] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 950,
+			["buy"] = 1000,
 		},
 		[34201] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 136000,
+			["buy"] = 144000,
 		},
 		[3424] = {
 			["stack"] = 1,
@@ -235,7 +278,12 @@ InformantLocalUpdates = {
 		[44692] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 637498,
+			["buy"] = 599998,
+		},
+		[44820] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 12000,
 		},
 		[29614] = {
 			["merchants"] = "12795",
@@ -243,7 +291,7 @@ InformantLocalUpdates = {
 		[43157] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 8500,
+			["buy"] = 8000,
 		},
 		[47315] = {
 			["merchants"] = "15223",
@@ -255,7 +303,10 @@ InformantLocalUpdates = {
 			["merchants"] = "14242",
 		},
 		[27855] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 5040,
 		},
 		[45780] = {
 			["merchants"] = "26331",
@@ -274,7 +325,7 @@ InformantLocalUpdates = {
 		[44245] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 431533,
+			["buy"] = 485475,
 		},
 		[50450] = {
 			["merchants"] = "14711",
@@ -285,12 +336,12 @@ InformantLocalUpdates = {
 		[28463] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[44693] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 170000,
+			["buy"] = 160000,
 		},
 		[42902] = {
 			["merchants"] = "26325",
@@ -331,12 +382,12 @@ InformantLocalUpdates = {
 		[29167] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 473495,
+			["buy"] = 501348,
 		},
 		[44182] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 392127,
+			["buy"] = 369060,
 		},
 		[44310] = {
 			["merchants"] = "14242",
@@ -352,7 +403,7 @@ InformantLocalUpdates = {
 		[44694] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 212500,
+			["buy"] = 200000,
 		},
 		[1850] = {
 			["stack"] = 1,
@@ -365,7 +416,7 @@ InformantLocalUpdates = {
 		[8766] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 3800,
+			["buy"] = 4000,
 		},
 		[33052] = {
 			["merchants"] = "26304",
@@ -377,18 +428,21 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 5600,
+			["buy"] = 5040,
 		},
 		[25873] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 67,
+			["buy"] = 71,
 		},
 		[45782] = {
 			["merchants"] = "26331",
 		},
 		[8926] = {
+			["quantity"] = 1,
 			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 450,
 		},
 		[33692] = {
 			["merchants"] = "33939",
@@ -396,15 +450,21 @@ InformantLocalUpdates = {
 		[43991] = {
 			["merchants"] = "14201",
 		},
+		[33820] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1000000,
+		},
 		[44183] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 306458,
+			["buy"] = 288431,
 		},
 		[44247] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 303748,
+			["buy"] = 341716,
 		},
 		[44311] = {
 			["merchants"] = "14242",
@@ -415,12 +475,15 @@ InformantLocalUpdates = {
 		[38426] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 30000,
+			["buy"] = 27000,
 		},
 		[28464] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
+		},
+		[40921] = {
+			["merchants"] = "26324",
 		},
 		[22547] = {
 			["stack"] = 1,
@@ -463,17 +526,17 @@ InformantLocalUpdates = {
 		[29168] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 149559,
+			["buy"] = 158356,
 		},
 		[29232] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 68000,
+			["buy"] = 72000,
 		},
 		[44248] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 261832,
+			["buy"] = 294561,
 		},
 		[50453] = {
 			["merchants"] = "14711",
@@ -511,10 +574,18 @@ InformantLocalUpdates = {
 			["merchants"] = "14242",
 		},
 		[27857] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 5040,
 		},
 		[43545] = {
 			["merchants"] = "33251",
+		},
+		[41562] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 17000,
 		},
 		[5976] = {
 			["stack"] = 1,
@@ -541,6 +612,11 @@ InformantLocalUpdates = {
 		[43993] = {
 			["merchants"] = "14201",
 		},
+		[2024] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 5775,
+		},
 		[2026] = {
 			["stack"] = 1,
 			["quantity"] = 1,
@@ -559,7 +635,7 @@ InformantLocalUpdates = {
 		[40411] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 50000,
+			["buy"] = 45000,
 		},
 		[40475] = {
 			["merchants"] = "12038",
@@ -567,7 +643,16 @@ InformantLocalUpdates = {
 		[28465] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
+		},
+		[18294] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 10000,
+		},
+		[40923] = {
+			["merchants"] = "26324",
 		},
 		[40987] = {
 			["merchants"] = "32832",
@@ -584,7 +669,7 @@ InformantLocalUpdates = {
 		[29009] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 180,
+			["buy"] = 190,
 		},
 		[22900] = {
 			["stack"] = 1,
@@ -598,13 +683,19 @@ InformantLocalUpdates = {
 		},
 		[6256] = {
 			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 2500,
+			["buy"] = 20,
 		},
 		[29169] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 158356,
+		},
+		[44250] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 639340,
 		},
 		[4289] = {
 			["stack"] = 20,
@@ -619,12 +710,12 @@ InformantLocalUpdates = {
 		[44698] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 22950,
+			["buy"] = 21600,
 		},
 		[6368] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 340,
+			["buy"] = 380,
 		},
 		[29617] = {
 			["merchants"] = "12795",
@@ -655,7 +746,7 @@ InformantLocalUpdates = {
 		[25875] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 180,
+			["buy"] = 190,
 		},
 		[43611] = {
 			["merchants"] = "14242",
@@ -669,7 +760,7 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 700,
+			["buy"] = 630,
 		},
 		[43995] = {
 			["merchants"] = "14201",
@@ -696,7 +787,10 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 125,
+			["buy"] = 112,
+		},
+		[38366] = {
+			["merchants"] = "26324",
 		},
 		[44571] = {
 			["stack"] = 20,
@@ -706,16 +800,19 @@ InformantLocalUpdates = {
 		[28466] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[4593] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 475,
 		},
 		[4601] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 1900,
+			["buy"] = 1800,
 		},
 		[42972] = {
 			["merchants"] = "26329",
@@ -737,7 +834,7 @@ InformantLocalUpdates = {
 		[20758] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 400,
+			["buy"] = 450,
 		},
 		[43612] = {
 			["merchants"] = "14242",
@@ -745,7 +842,7 @@ InformantLocalUpdates = {
 		[29010] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 720,
+			["buy"] = 760,
 		},
 		[20918] = {
 			["stack"] = 1,
@@ -776,7 +873,12 @@ InformantLocalUpdates = {
 		[44636] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 124082,
+			["buy"] = 155103,
+		},
+		[2429] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9632,
 		},
 		[38879] = {
 			["merchants"] = "26302",
@@ -807,7 +909,7 @@ InformantLocalUpdates = {
 		[25876] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 720,
+			["buy"] = 760,
 		},
 		[2473] = {
 			["stack"] = 1,
@@ -822,12 +924,12 @@ InformantLocalUpdates = {
 		[2489] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 325,
+			["buy"] = 343,
 		},
 		[2493] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 665,
+			["buy"] = 701,
 		},
 		[2505] = {
 			["stack"] = 1,
@@ -842,12 +944,12 @@ InformantLocalUpdates = {
 		[2521] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 30896,
+			["buy"] = 29351,
 		},
 		[2525] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 23841,
+			["buy"] = 25165,
 		},
 		[2529] = {
 			["stack"] = 1,
@@ -862,7 +964,7 @@ InformantLocalUpdates = {
 		[28467] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[42910] = {
 			["merchants"] = "26325",
@@ -874,7 +976,7 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 4000,
+			["buy"] = 3600,
 		},
 		[39200] = {
 			["merchants"] = "14242",
@@ -923,7 +1025,7 @@ InformantLocalUpdates = {
 		[44638] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 125012,
+			["buy"] = 156265,
 		},
 		[23574] = {
 			["stack"] = 1,
@@ -933,11 +1035,16 @@ InformantLocalUpdates = {
 		[36962] = {
 			["merchants"] = "26309",
 		},
+		[23638] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 54000,
+		},
 		[43231] = {
 			["merchants"] = "26329",
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 4500,
+			["buy"] = 4050,
 		},
 		[33124] = {
 			["stack"] = 1,
@@ -947,7 +1054,7 @@ InformantLocalUpdates = {
 		[27860] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 5440,
+			["buy"] = 6080,
 		},
 		[5441] = {
 			["stack"] = 1,
@@ -957,7 +1064,7 @@ InformantLocalUpdates = {
 		[33444] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 8500,
+			["buy"] = 6800,
 		},
 		[45790] = {
 			["merchants"] = "26332",
@@ -971,7 +1078,7 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 800,
+			["buy"] = 720,
 		},
 		[39905] = {
 			["merchants"] = "26303",
@@ -987,7 +1094,10 @@ InformantLocalUpdates = {
 		[44639] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 156853,
+			["buy"] = 196067,
+		},
+		[5633] = {
+			["merchants"] = "26324",
 		},
 		[45087] = {
 			["merchants"] = "40160",
@@ -996,7 +1106,7 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 4500,
+			["buy"] = 4050,
 		},
 		[39394] = {
 			["merchants"] = "14242",
@@ -1004,7 +1114,7 @@ InformantLocalUpdates = {
 		[33445] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 11000,
+			["buy"] = 8800,
 		},
 		[20856] = {
 			["stack"] = 1,
@@ -1022,21 +1132,34 @@ InformantLocalUpdates = {
 			["buy"] = 0,
 		},
 		[2893] = {
+			["quantity"] = 1,
 			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 135,
+		},
+		[44256] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 130630,
 		},
 		[2901] = {
 			["stack"] = 1,
 			["merchants"] = "70",
 			["quantity"] = 1,
-			["buy"] = 64,
+			["buy"] = 81,
 		},
 		[44448] = {
 			["merchants"] = "26325",
 		},
+		[44512] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 42500,
+		},
 		[44640] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 157442,
+			["buy"] = 196803,
 		},
 		[38883] = {
 			["merchants"] = "26302",
@@ -1045,7 +1168,7 @@ InformantLocalUpdates = {
 			["merchants"] = "26329",
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4500,
 		},
 		[39267] = {
 			["merchants"] = "14242",
@@ -1074,7 +1197,7 @@ InformantLocalUpdates = {
 		[3033] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 270,
+			["buy"] = 285,
 		},
 		[44641] = {
 			["stack"] = 1,
@@ -1096,7 +1219,7 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 3500,
+			["buy"] = 3150,
 		},
 		[39396] = {
 			["merchants"] = "14242",
@@ -1104,12 +1227,12 @@ InformantLocalUpdates = {
 		[6217] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 124,
+			["buy"] = 111,
 		},
 		[29013] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 800,
+			["buy"] = 720,
 		},
 		[20857] = {
 			["stack"] = 20,
@@ -1138,17 +1261,31 @@ InformantLocalUpdates = {
 			["buy"] = 150,
 		},
 		[787] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 23,
+		},
+		[44258] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 148787,
 		},
 		[21177] = {
 			["stack"] = 100,
 			["quantity"] = 20,
-			["buy"] = 3000,
+			["buy"] = 2400,
+		},
+		[792] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000,
 		},
 		[44642] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 126883,
+			["buy"] = 158604,
 		},
 		[42723] = {
 			["merchants"] = "26327",
@@ -1165,13 +1302,18 @@ InformantLocalUpdates = {
 			["merchants"] = "26329",
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 4000,
+			["buy"] = 3600,
 		},
 		[35175] = {
 			["merchants"] = "12788",
 		},
 		[39397] = {
 			["merchants"] = "14242",
+		},
+		[33448] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 19200,
 		},
 		[21913] = {
 			["stack"] = 1,
@@ -1199,24 +1341,30 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 500,
+			["buy"] = 450,
 		},
 		[28470] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[42724] = {
 			["merchants"] = "26327",
 		},
+		[40741] = {
+			["merchants"] = "28995",
+		},
 		[4594] = {
+			["quantity"] = 5,
 			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 950,
 		},
 		[4602] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 2000,
+			["buy"] = 1800,
 		},
 		[18427] = {
 			["merchants"] = "12793",
@@ -1255,10 +1403,15 @@ InformantLocalUpdates = {
 		[42021] = {
 			["merchants"] = "32383",
 		},
+		[851] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1921,
+		},
 		[17020] = {
 			["stack"] = 100,
 			["quantity"] = 1,
-			["buy"] = 1000,
+			["buy"] = 800,
 		},
 		[853] = {
 			["stack"] = 1,
@@ -1303,7 +1456,7 @@ InformantLocalUpdates = {
 		[43237] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 4000,
+			["buy"] = 3600,
 		},
 		[39271] = {
 			["merchants"] = "14242",
@@ -1331,6 +1484,9 @@ InformantLocalUpdates = {
 		[28247] = {
 			["merchants"] = "12793",
 		},
+		[46372] = {
+			["merchants"] = "26324",
+		},
 		[34218] = {
 			["stack"] = 1,
 			["quantity"] = 1,
@@ -1342,7 +1498,12 @@ InformantLocalUpdates = {
 		[44645] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 160354,
+			["buy"] = 200443,
+		},
+		[44709] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 20000000,
 		},
 		[42726] = {
 			["merchants"] = "26327",
@@ -1384,10 +1545,15 @@ InformantLocalUpdates = {
 		[42023] = {
 			["merchants"] = "32383",
 		},
+		[44198] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 448981,
+		},
 		[17021] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 700,
+			["buy"] = 560,
 		},
 		[42407] = {
 			["merchants"] = "26328",
@@ -1400,6 +1566,11 @@ InformantLocalUpdates = {
 			["merchants"] = "29478,29716",
 			["quantity"] = 1,
 			["buy"] = 8000,
+		},
+		[923] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 8306,
 		},
 		[924] = {
 			["stack"] = 1,
@@ -1465,6 +1636,11 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 48547,
 		},
+		[44199] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 643715,
+		},
 		[15199] = {
 			["merchants"] = "5188,12793",
 		},
@@ -1475,7 +1651,7 @@ InformantLocalUpdates = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
 		[44647] = {
 			["stack"] = 1,
@@ -1515,6 +1691,12 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 58,
 		},
+		[45991] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 25000000,
+		},
 		[20988] = {
 			["stack"] = 1,
 			["quantity"] = 1,
@@ -1527,7 +1709,12 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 16000,
+			["buy"] = 14400,
+		},
+		[44200] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 120004,
 		},
 		[40426] = {
 			["merchants"] = "14201,14242",
@@ -1573,12 +1760,24 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 8500,
+			["buy"] = 6800,
+		},
+		[25978] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 10000000,
 		},
 		[21916] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 48000,
+		},
+		[45992] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000000,
 		},
 		[42026] = {
 			["merchants"] = "32383",
@@ -1587,7 +1786,7 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 8500,
+			["buy"] = 7650,
 		},
 		[54436] = {
 			["stack"] = 1,
@@ -1629,22 +1828,27 @@ InformantLocalUpdates = {
 		[10290] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 2250,
+			["buy"] = 2375,
 		},
 		[2070] = {
 			["quantity"] = 5,
 			["merchants"] = "601026",
 			["stack"] = 20,
-			["buy"] = 25,
+			["buy"] = 22,
 		},
 		[39276] = {
 			["merchants"] = "14242",
 		},
 		[43434] = {
-			["merchants"] = "26329",
+			["merchants"] = "26329,26324",
 		},
 		[43498] = {
 			["merchants"] = "26306",
+		},
+		[43626] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 4000,
 		},
 		[35566] = {
 			["stack"] = 1,
@@ -1665,7 +1869,7 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 16000,
+			["buy"] = 12800,
 		},
 		[54437] = {
 			["stack"] = 1,
@@ -1673,15 +1877,25 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 80000,
 		},
+		[6330] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1140,
+		},
 		[4291] = {
 			["stack"] = 20,
 			["quantity"] = 1,
 			["buy"] = 450,
 		},
+		[44714] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4000000,
+		},
 		[25531] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1000000,
+			["buy"] = 850000,
 		},
 		[4363] = {
 			["stack"] = 20,
@@ -1697,7 +1911,7 @@ InformantLocalUpdates = {
 			["merchants"] = "14242",
 		},
 		[43435] = {
-			["merchants"] = "26329",
+			["merchants"] = "26329,26324",
 		},
 		[39405] = {
 			["merchants"] = "14242",
@@ -1712,8 +1926,9 @@ InformantLocalUpdates = {
 		},
 		[6530] = {
 			["stack"] = 20,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 90,
 		},
 		[42092] = {
 			["stack"] = 1,
@@ -1733,7 +1948,7 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 1000,
+			["buy"] = 900,
 		},
 		[40429] = {
 			["merchants"] = "14201",
@@ -1750,7 +1965,7 @@ InformantLocalUpdates = {
 			["merchants"] = "14242",
 		},
 		[43436] = {
-			["merchants"] = "26329",
+			["merchants"] = "26329,26324",
 		},
 		[41517] = {
 			["merchants"] = "26330",
@@ -1758,7 +1973,7 @@ InformantLocalUpdates = {
 		[1179] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 118,
+			["buy"] = 125,
 		},
 		[2370] = {
 			["stack"] = 1,
@@ -1774,7 +1989,12 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 16000,
+			["buy"] = 12800,
+		},
+		[44204] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 243660,
 		},
 		[1197] = {
 			["stack"] = 1,
@@ -1804,7 +2024,12 @@ InformantLocalUpdates = {
 		[25532] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1000000,
+			["buy"] = 850000,
+		},
+		[2434] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4907,
 		},
 		[2438] = {
 			["stack"] = 1,
@@ -1814,7 +2039,7 @@ InformantLocalUpdates = {
 		[32882] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 4250,
+			["buy"] = 4500,
 		},
 		[41134] = {
 			["merchants"] = "32832",
@@ -1826,7 +2051,7 @@ InformantLocalUpdates = {
 			["merchants"] = "14242",
 		},
 		[43437] = {
-			["merchants"] = "26329",
+			["merchants"] = "26329,26324",
 		},
 		[39407] = {
 			["merchants"] = "14242",
@@ -1847,12 +2072,12 @@ InformantLocalUpdates = {
 		[2490] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 513,
+			["buy"] = 540,
 		},
 		[2494] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 381,
+			["buy"] = 402,
 		},
 		[39919] = {
 			["merchants"] = "26303",
@@ -1860,7 +2085,7 @@ InformantLocalUpdates = {
 		[44141] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1275000,
+			["buy"] = 1200000,
 		},
 		[2510] = {
 			["stack"] = 1,
@@ -1878,13 +2103,13 @@ InformantLocalUpdates = {
 		[2530] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 52220,
+			["buy"] = 49609,
 		},
 		[48683] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
 		[38576] = {
 			["stack"] = 1,
@@ -1896,6 +2121,11 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 22,
+		},
+		[30746] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 95000,
 		},
 		[32883] = {
 			["stack"] = 1000,
@@ -1946,7 +2176,7 @@ InformantLocalUpdates = {
 		[44654] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 153909,
+			["buy"] = 192387,
 		},
 		[5347] = {
 			["stack"] = 1,
@@ -1956,12 +2186,12 @@ InformantLocalUpdates = {
 		[2678] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 10,
+			["buy"] = 9,
 		},
 		[25533] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1000000,
+			["buy"] = 850000,
 		},
 		[42991] = {
 			["quantity"] = 1,
@@ -1984,7 +2214,7 @@ InformantLocalUpdates = {
 		[41584] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 3000,
+			["buy"] = 2700,
 		},
 		[21919] = {
 			["stack"] = 1,
@@ -1995,7 +2225,7 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["merchants"] = "601026",
 			["stack"] = 20,
-			["buy"] = 4000,
+			["buy"] = 3600,
 		},
 		[8948] = {
 			["merchants"] = "601026",
@@ -2003,11 +2233,17 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 4000,
 		},
+		[36019] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000,
+		},
 		[48685] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
 		[44655] = {
 			["stack"] = 1,
@@ -2022,6 +2258,11 @@ InformantLocalUpdates = {
 			["merchants"] = "31580,601704,31582",
 			["stack"] = 1,
 			["buy"] = 0,
+		},
+		[30747] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 114000,
 		},
 		[45167] = {
 			["merchants"] = "14706",
@@ -2054,7 +2295,7 @@ InformantLocalUpdates = {
 		[17026] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 1000,
+			["buy"] = 800,
 		},
 		[42417] = {
 			["merchants"] = "26328",
@@ -2091,12 +2332,18 @@ InformantLocalUpdates = {
 		[28061] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 3000,
+			["buy"] = 2700,
 		},
 		[23999] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 9000,
+		},
+		[19969] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1000000,
 		},
 		[42098] = {
 			["stack"] = 1,
@@ -2111,13 +2358,18 @@ InformantLocalUpdates = {
 		[3030] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 270,
+			["buy"] = 285,
 		},
 		[48687] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
+		},
+		[30748] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 133000,
 		},
 		[36981] = {
 			["merchants"] = "26309",
@@ -2206,7 +2458,18 @@ InformantLocalUpdates = {
 		[24000] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 51000,
+			["buy"] = 54000,
+		},
+		[43955] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 17000000,
+		},
+		[19970] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 150000000,
 		},
 		[44083] = {
 			["merchants"] = "15248",
@@ -2214,19 +2477,19 @@ InformantLocalUpdates = {
 		[1645] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 1900,
+			["buy"] = 2000,
 		},
 		[4540] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 23,
+			["buy"] = 22,
 		},
 		[48689] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
 		[4604] = {
 			["merchants"] = "601026",
@@ -2237,10 +2500,16 @@ InformantLocalUpdates = {
 		[11284] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 900,
+			["buy"] = 950,
 		},
 		[36983] = {
 			["merchants"] = "26301",
+		},
+		[3342] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 550,
 		},
 		[37111] = {
 			["merchants"] = "26300",
@@ -2256,6 +2525,11 @@ InformantLocalUpdates = {
 		[35320] = {
 			["merchants"] = "12788",
 		},
+		[37431] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 4000,
+		},
 		[41589] = {
 			["merchants"] = "12788",
 		},
@@ -2264,16 +2538,22 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 144000,
 		},
+		[6811] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 7500,
+		},
 		[17028] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 700,
+			["buy"] = 560,
 		},
 		[1707] = {
 			["quantity"] = 5,
 			["merchants"] = "601026",
 			["stack"] = 20,
-			["buy"] = 1000,
+			["buy"] = 900,
 		},
 		[3422] = {
 			["stack"] = 1,
@@ -2313,7 +2593,7 @@ InformantLocalUpdates = {
 		[25824] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 97563,
+			["buy"] = 103302,
 		},
 		[39415] = {
 			["merchants"] = "14242",
@@ -2327,28 +2607,58 @@ InformantLocalUpdates = {
 		[41718] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 34000,
+			["buy"] = 32000,
+		},
+		[16082] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 250000,
 		},
 		[24001] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 42500,
+			["buy"] = 45000,
+		},
+		[19971] = {
+			["stack"] = 5,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100000,
+		},
+		[44149] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1275000,
 		},
 		[32445] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 9500,
 		},
+		[12164] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4400,
+		},
 		[48691] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
 		[30622] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 90000,
+		},
+		[36921] = {
+			["merchants"] = "31582",
+		},
+		[3594] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 5222,
 		},
 		[45237] = {
 			["merchants"] = "14706",
@@ -2396,12 +2706,12 @@ InformantLocalUpdates = {
 		[44214] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 418804,
+			["buy"] = 471155,
 		},
 		[31358] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 102000,
+			["buy"] = 108000,
 		},
 		[21219] = {
 			["stack"] = 1,
@@ -2452,18 +2762,29 @@ InformantLocalUpdates = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 23,
+			["buy"] = 25,
 		},
 		[8950] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 3800,
+			["buy"] = 3600,
+		},
+		[19972] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 250000,
 		},
 		[22147] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4000,
+		},
+		[42360] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 440000,
 		},
 		[44599] = {
 			["stack"] = 10,
@@ -2479,6 +2800,9 @@ InformantLocalUpdates = {
 		[20388] = {
 			["merchants"] = "26304",
 		},
+		[43543] = {
+			["merchants"] = "33251",
+		},
 		[22531] = {
 			["stack"] = 1,
 			["quantity"] = 1,
@@ -2487,7 +2811,20 @@ InformantLocalUpdates = {
 		[11285] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 900,
+			["buy"] = 950,
+		},
+		[50452] = {
+			["merchants"] = "14711",
+		},
+		[3593] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 5204,
+		},
+		[28461] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 18000,
 		},
 		[39226] = {
 			["merchants"] = "14242",
@@ -2500,15 +2837,45 @@ InformantLocalUpdates = {
 		[39354] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 15,
+			["buy"] = 12,
+		},
+		[2325] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 900,
+		},
+		[41073] = {
+			["merchants"] = "32383",
 		},
 		[22851] = {
 			["merchants"] = "26304",
 		},
+		[41721] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 34000,
+		},
+		[3890] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9690,
+		},
+		[45858] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 15000000,
+		},
+		[6529] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100,
+		},
 		[29152] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1359986,
+			["buy"] = 1439985,
 		},
 		[18949] = {
 			["stack"] = 1,
@@ -2518,36 +2885,88 @@ InformantLocalUpdates = {
 		[33853] = {
 			["merchants"] = "12788",
 		},
+		[44152] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1275000,
+		},
 		[44216] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 168730,
+			["buy"] = 189821,
 		},
 		[31359] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 51000,
+			["buy"] = 54000,
 		},
 		[17062] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 2090,
 		},
+		[42361] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 380000,
+		},
+		[3024] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 7098,
+		},
+		[43548] = {
+			["merchants"] = "33251",
+		},
+		[25847] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 108000,
+		},
+		[36918] = {
+			["merchants"] = "31582",
+		},
+		[42729] = {
+			["merchants"] = "26327",
+		},
 		[25474] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 500000,
+			["buy"] = 425000,
 		},
 		[27553] = {
 			["merchants"] = "26329",
 		},
+		[44138] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1275000,
+		},
+		[44197] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 211135,
+		},
 		[36860] = {
 			["merchants"] = "40160",
+		},
+		[36924] = {
+			["merchants"] = "31582",
 		},
 		[23619] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 54000,
+		},
+		[11362] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 900,
+		},
+		[15904] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 20622,
 		},
 		[35133] = {
 			["merchants"] = "12788",
@@ -2566,38 +2985,127 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["merchants"] = "70",
 			["quantity"] = 1,
-			["buy"] = 14,
+			["buy"] = 18,
 		},
 		[45624] = {
 			["merchants"] = "601705",
 		},
-		[21892] = {
+		[45688] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 36000,
+			["buy"] = 10000000,
+		},
+		[15905] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2023,
+		},
+		[41722] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 34000,
+		},
+		[5996] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 2500,
 		},
 		[24003] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 51000,
+			["buy"] = 54000,
+		},
+		[35413] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 143910,
+		},
+		[50166] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 24000,
+		},
+		[34861] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000,
 		},
 		[33918] = {
 			["merchants"] = "12788",
+		},
+		[44306] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 440091,
 		},
 		[2025] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 5039,
 		},
+		[2027] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 3625,
+		},
 		[2029] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 4199,
 		},
+		[3889] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 7526,
+		},
+		[4496] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 450,
+		},
 		[44601] = {
 			["stack"] = 10,
 			["quantity"] = 1,
 			["buy"] = 2400,
+		},
+		[2469] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 6018,
+		},
+		[1827] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 6412,
+		},
+		[15907] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 7825,
+		},
+		[15903] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 7712,
+		},
+		[15906] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2031,
+		},
+		[41004] = {
+			["merchants"] = "32832",
+		},
+		[20990] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 49,
+		},
+		[28378] = {
+			["merchants"] = "12793",
 		},
 		[36989] = {
 			["merchants"] = "26309",
@@ -2605,13 +3113,18 @@ InformantLocalUpdates = {
 		[37053] = {
 			["merchants"] = "26308",
 		},
+		[922] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 11437,
+		},
 		[39228] = {
 			["merchants"] = "14242",
 		},
 		[16583] = {
 			["stack"] = 5,
 			["quantity"] = 1,
-			["buy"] = 10000,
+			["buy"] = 8000,
 		},
 		[43450] = {
 			["merchants"] = "26330",
@@ -2624,28 +3137,92 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 1800,
 		},
+		[45689] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
+		[45601] = {
+			["merchants"] = "26324",
+		},
+		[38360] = {
+			["merchants"] = "26324",
+		},
+		[48120] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 400000,
+		},
 		[6260] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 45,
+			["buy"] = 47,
 		},
 		[29153] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 1926866,
 		},
+		[50167] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 64000,
+		},
+		[46006] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000,
+		},
 		[33919] = {
 			["merchants"] = "12788",
+		},
+		[51560] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
 		},
 		[17031] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 1000,
+			["buy"] = 800,
+		},
+		[51558] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
+		[42363] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 420000,
+		},
+		[18877] = {
+			["merchants"] = "12794",
+		},
+		[42727] = {
+			["merchants"] = "26327",
+		},
+		[44602] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 3800000,
+		},
+		[6372] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 5000,
+		},
+		[44176] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 211001,
 		},
 		[25475] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 500000,
+			["buy"] = 425000,
 		},
 		[29601] = {
 			["merchants"] = "12795",
@@ -2654,6 +3231,9 @@ InformantLocalUpdates = {
 			["stack"] = 10,
 			["quantity"] = 1,
 			["buy"] = 450,
+		},
+		[45741] = {
+			["merchants"] = "26327",
 		},
 		[4357] = {
 			["stack"] = 20,
@@ -2665,8 +3245,19 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 9500,
 		},
+		[2207] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2271,
+		},
 		[41148] = {
 			["merchants"] = "32832",
+		},
+		[21829] = {
+			["merchants"] = "6929,4603",
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 100,
 		},
 		[39229] = {
 			["merchants"] = "14242",
@@ -2683,44 +3274,108 @@ InformantLocalUpdates = {
 		[41532] = {
 			["merchants"] = "26330",
 		},
-		[21829] = {
-			["merchants"] = "6929,4603",
+		[45690] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 10000000,
+		},
+		[50449] = {
+			["merchants"] = "14711",
+		},
+		[6947] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 22,
+		},
+		[50287] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 2500000,
 		},
 		[24004] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 9500,
+			["buy"] = 9000,
+		},
+		[50168] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 64000,
 		},
 		[6532] = {
 			["stack"] = 20,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 500,
+			["buy"] = 225,
 		},
 		[22053] = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 1000,
+			["buy"] = 900,
+		},
+		[51557] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
+		[4509] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 13970,
 		},
 		[44283] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 227986,
+			["buy"] = 256484,
+		},
+		[13443] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 1280,
+		},
+		[20752] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2700,
 		},
 		[4541] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 118,
+			["buy"] = 112,
+		},
+		[38365] = {
+			["merchants"] = "26324",
+		},
+		[18871] = {
+			["merchants"] = "12794",
+		},
+		[33443] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 6800,
 		},
 		[2287] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 118,
+			["buy"] = 125,
+		},
+		[45493] = {
+			["merchants"] = "14706",
+		},
+		[45107] = {
+			["merchants"] = "14706",
+		},
+		[44822] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 400000,
 		},
 		[4605] = {
 			["merchants"] = "601026",
@@ -2728,15 +3383,27 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 125,
 		},
+		[41041] = {
+			["merchants"] = "32832",
+		},
+		[36927] = {
+			["merchants"] = "31582",
+		},
+		[9228] = {
+			["stack"] = 1,
+			["merchants"] = "655000",
+			["quantity"] = 1,
+			["buy"] = 0,
+		},
 		[30817] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 20,
+			["buy"] = 23,
 		},
 		[18567] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 120000,
+			["buy"] = 150000,
 		},
 		[39230] = {
 			["merchants"] = "14242",
@@ -2750,8 +3417,36 @@ InformantLocalUpdates = {
 		[39422] = {
 			["merchants"] = "14242",
 		},
+		[23193] = {
+			["stack"] = 1,
+			["merchants"] = "72",
+			["quantity"] = 1,
+			["buy"] = 0,
+		},
+		[45691] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
 		[45755] = {
 			["merchants"] = "26328",
+		},
+		[41725] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 34000,
+		},
+		[3770] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 500,
+		},
+		[41591] = {
+			["merchants"] = "12788",
+		},
+		[35176] = {
+			["merchants"] = "12788",
 		},
 		[2371] = {
 			["stack"] = 1,
@@ -2763,10 +3458,28 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 1800,
 		},
+		[33447] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 19200,
+		},
+		[35163] = {
+			["merchants"] = "12788",
+		},
 		[17032] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 1600,
+		},
+		[28460] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 18000,
+		},
+		[42365] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 360000,
 		},
 		[2399] = {
 			["stack"] = 1,
@@ -2779,13 +3492,40 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 160000,
 		},
+		[20987] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 23,
+		},
+		[33151] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 90000,
+		},
+		[2463] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 13010,
+		},
 		[25476] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 500000,
+			["buy"] = 425000,
 		},
-		[29602] = {
-			["merchants"] = "12795",
+		[48954] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
+		[2467] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 8958,
+		},
+		[2431] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9704,
 		},
 		[2435] = {
 			["stack"] = 1,
@@ -2797,11 +3537,14 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 9500,
 		},
+		[50444] = {
+			["merchants"] = "14711",
+		},
 		[47291] = {
 			["merchants"] = "15223",
 		},
-		[6948] = {
-			["merchants"] = "70",
+		[43261] = {
+			["merchants"] = "26324",
 		},
 		[39231] = {
 			["merchants"] = "14242",
@@ -2822,32 +3565,43 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 16188,
 		},
-		[41598] = {
-			["merchants"] = "70",
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 180000,
+		[19783] = {
+			["merchants"] = "26327",
+		},
+		[29600] = {
+			["merchants"] = "12795",
 		},
 		[41726] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 32000,
+			["buy"] = 36000,
+		},
+		[44093] = {
+			["merchants"] = "601704",
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 100,
 		},
 		[2491] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 459,
+			["buy"] = 484,
 		},
 		[2495] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 479,
+			["buy"] = 505,
 		},
-		[22054] = {
+		[2535] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["merchants"] = "35642",
-			["stack"] = 20,
-			["buy"] = 1500,
+			["buy"] = 58479,
+		},
+		[7052] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 250000,
 		},
 		[2507] = {
 			["stack"] = 1,
@@ -2862,42 +3616,54 @@ InformantLocalUpdates = {
 		[2515] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 45,
+			["buy"] = 47,
 		},
 		[2519] = {
 			["stack"] = 1000,
 			["quantity"] = 200,
-			["buy"] = 45,
+			["buy"] = 47,
 		},
 		[2523] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 28286,
+			["buy"] = 26871,
 		},
 		[42430] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 6800,
+			["buy"] = 8075,
 		},
 		[2531] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 53361,
 		},
-		[44605] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 5000,
+		[40511] = {
+			["merchants"] = "12038",
+		},
+		[28119] = {
+			["merchants"] = "12793",
 		},
 		[34498] = {
+			["sell"] = 7500,
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 40000,
 		},
+		[1843] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 689,
+		},
+		[48955] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
 		[159] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 23,
+			["buy"] = 25,
 		},
 		[34754] = {
 			["stack"] = 20,
@@ -2908,13 +3674,21 @@ InformantLocalUpdates = {
 		[14341] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4500,
 		},
 		[41023] = {
 			["merchants"] = "32832",
 		},
 		[36993] = {
 			["merchants"] = "26300",
+		},
+		[44605] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 4000,
+		},
+		[43262] = {
+			["merchants"] = "26324",
 		},
 		[39232] = {
 			["merchants"] = "14242",
@@ -2927,24 +3701,38 @@ InformantLocalUpdates = {
 		[43454] = {
 			["merchants"] = "26330",
 		},
-		[2595] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 2000,
+		[39424] = {
+			["merchants"] = "14242",
+		},
+		[43260] = {
+			["merchants"] = "26329,26324",
 		},
 		[22854] = {
 			["merchants"] = "26304",
+		},
+		[40042] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 1500,
+		},
+		[41596] = {
+			["merchants"] = "40160",
+		},
+		[33209] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 38000,
 		},
 		[5237] = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 40,
+			["buy"] = 36,
 		},
 		[29155] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1832650,
+			["buy"] = 1940453,
 		},
 		[29187] = {
 			["stack"] = 1,
@@ -2956,33 +3744,45 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 3600,
 		},
+		[39505] = {
+			["stack"] = 1,
+			["merchants"] = "70",
+			["quantity"] = 1,
+			["buy"] = 600,
+		},
 		[23142] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 54000,
 		},
-		[17033] = {
-			["stack"] = 5,
+		[31362] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 108000,
+		},
+		[18429] = {
+			["merchants"] = "12793",
+		},
+		[7348] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100000,
 		},
 		[42431] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 12800,
+			["buy"] = 15200,
+		},
+		[17033] = {
+			["stack"] = 5,
+			["quantity"] = 1,
+			["buy"] = 1600,
 		},
 		[44606] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 2000000,
-		},
-		[25477] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 1000000,
-		},
-		[29603] = {
-			["merchants"] = "12795",
 		},
 		[42943] = {
 			["quantity"] = 1,
@@ -2990,16 +3790,39 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
+		[35155] = {
+			["merchants"] = "12788",
+		},
+		[25477] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 850000,
+		},
+		[29603] = {
+			["merchants"] = "12795",
+		},
 		[31778] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 9500,
+		},
+		[40896] = {
+			["merchants"] = "26324",
+		},
+		[39425] = {
+			["merchants"] = "14242",
+		},
+		[36930] = {
+			["merchants"] = "31582",
 		},
 		[36994] = {
 			["merchants"] = "26309",
 		},
 		[37058] = {
 			["merchants"] = "26306",
+		},
+		[43263] = {
+			["merchants"] = "26324",
 		},
 		[39233] = {
 			["merchants"] = "14242",
@@ -3020,7 +3843,7 @@ InformantLocalUpdates = {
 		[39489] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4000,
 		},
 		[19784] = {
 			["merchants"] = "26329",
@@ -3037,37 +3860,85 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 1500,
+			["buy"] = 1350,
 		},
 		[24006] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 1700,
+			["buy"] = 1800,
 		},
 		[8952] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 3800,
+			["buy"] = 4000,
+		},
+		[2763] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1203,
 		},
 		[44095] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
 		[44159] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1275000,
+			["buy"] = 1200000,
+		},
+		[43421] = {
+			["merchants"] = "26332",
+		},
+		[37865] = {
+			["merchants"] = "12793",
+		},
+		[46398] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 400000,
+		},
+		[42368] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 400000,
 		},
 		[5565] = {
 			["stack"] = 5,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4000,
+		},
+		[42959] = {
+			["merchants"] = "26329",
+		},
+		[46778] = {
+			["stack"] = 1,
+			["merchants"] = "72",
+			["quantity"] = 1,
+			["buy"] = 0,
+		},
+		[41047] = {
+			["merchants"] = "32383",
 		},
 		[44735] = {
 			["merchants"] = "26309",
+		},
+		[40489] = {
+			["merchants"] = "12038",
+		},
+		[48957] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 10000000,
+		},
+		[23102] = {
+			["stack"] = 1,
+			["merchants"] = "655000",
+			["quantity"] = 1,
+			["buy"] = 0,
 		},
 		[42944] = {
 			["quantity"] = 1,
@@ -3075,8 +3946,22 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
+		[41078] = {
+			["merchants"] = "32832",
+		},
+		[44622] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 300000,
+		},
+		[36988] = {
+			["merchants"] = "26308",
+		},
 		[45247] = {
 			["merchants"] = "14706",
+		},
+		[43264] = {
+			["merchants"] = "26324",
 		},
 		[39234] = {
 			["merchants"] = "14242",
@@ -3090,26 +3975,105 @@ InformantLocalUpdates = {
 		[13446] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 3400,
+			["buy"] = 3200,
+		},
+		[25529] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 800000,
+		},
+		[35134] = {
+			["merchants"] = "12788",
+		},
+		[50255] = {
+			["merchants"] = "601704",
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 100,
+		},
+		[6369] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2090,
+		},
+		[20914] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 37,
+		},
+		[42914] = {
+			["merchants"] = "26325",
 		},
 		[29156] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 1810357,
 		},
+		[2375] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 165,
+		},
 		[44096] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
+		},
+		[42973] = {
+			["merchants"] = "26329",
+		},
+		[5208] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 3173,
 		},
 		[17034] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 200,
+			["buy"] = 160,
+		},
+		[35160] = {
+			["merchants"] = "12788",
+		},
+		[42369] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 280000,
+		},
+		[43433] = {
+			["merchants"] = "26329,26324",
+		},
+		[35951] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 16000,
+		},
+		[39408] = {
+			["merchants"] = "14242",
+		},
+		[20815] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 640,
+		},
+		[44181] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 203420,
+		},
+		[28123] = {
+			["merchants"] = "12793",
 		},
 		[29604] = {
 			["merchants"] = "12795",
+		},
+		[7996] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100000,
 		},
 		[42945] = {
 			["quantity"] = 1,
@@ -3117,22 +4081,40 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
+		[43457] = {
+			["merchants"] = "26330",
+		},
 		[31779] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 9500,
 		},
+		[15909] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 21001,
+		},
 		[37060] = {
 			["merchants"] = "26309",
+		},
+		[43265] = {
+			["merchants"] = "26324",
 		},
 		[39235] = {
 			["merchants"] = "14242",
 		},
-		[39299] = {
-			["merchants"] = "14242",
+		[51581] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 0,
 		},
-		[43457] = {
-			["merchants"] = "26330",
+		[45504] = {
+			["merchants"] = "14706",
+		},
+		[37201] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 400,
 		},
 		[41538] = {
 			["merchants"] = "26330",
@@ -3140,10 +4122,18 @@ InformantLocalUpdates = {
 		[19785] = {
 			["merchants"] = "26325",
 		},
+		[42112] = {
+			["merchants"] = "32383",
+		},
 		[21896] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 36000,
+		},
+		[20917] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 34,
 		},
 		[24007] = {
 			["stack"] = 20,
@@ -3153,11 +4143,16 @@ InformantLocalUpdates = {
 		[43969] = {
 			["merchants"] = "26328,26331",
 		},
+		[29014] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 720,
+		},
 		[44097] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
 		[33926] = {
 			["stack"] = 1,
@@ -3175,36 +4170,48 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 5714,
 		},
-		[39141] = {
-			["merchants"] = "14242",
+		[29722] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 108000,
+		},
+		[42370] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 220000,
 		},
 		[44481] = {
 			["stack"] = 10,
 			["quantity"] = 1,
 			["buy"] = 3600,
 		},
-		[39424] = {
-			["merchants"] = "14242",
+		[33771] = {
+			["merchants"] = "33939",
 		},
-		[50449] = {
-			["merchants"] = "14711",
-		},
-		[28461] = {
+		[30483] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 32000,
 		},
-		[18877] = {
-			["merchants"] = "12794",
+		[40752] = {
+			["merchants"] = "601705",
 		},
-		[18874] = {
-			["merchants"] = "12794",
+		[2506] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 256,
+		},
+		[44452] = {
+			["stack"] = 1,
+			["merchants"] = "70",
+			["quantity"] = 1,
+			["buy"] = 160000,
 		},
 		[16341] = {
 			["merchants"] = "12793",
 		},
-		[18871] = {
-			["merchants"] = "12794",
+		[24551] = {
+			["merchants"] = "12793",
 		},
 		[34758] = {
 			["stack"] = 20,
@@ -3217,17 +4224,17 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 2000000,
 		},
-		[18868] = {
-			["merchants"] = "12794",
+		[36933] = {
+			["merchants"] = "31582",
 		},
-		[43260] = {
-			["merchants"] = "26329",
+		[42459] = {
+			["merchants"] = "26331",
 		},
 		[37061] = {
 			["merchants"] = "26305",
 		},
-		[18835] = {
-			["merchants"] = "12794",
+		[43266] = {
+			["merchants"] = "26324",
 		},
 		[39236] = {
 			["merchants"] = "14242",
@@ -3235,37 +4242,45 @@ InformantLocalUpdates = {
 		[41347] = {
 			["merchants"] = "26332,33251,26327",
 		},
-		[33767] = {
-			["merchants"] = "33939",
+		[33223] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1000000,
 		},
-		[45493] = {
-			["merchants"] = "14706",
-		},
-		[1205] = {
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 475,
-		},
-		[20987] = {
+		[44621] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 23,
+			["buy"] = 60000,
 		},
-		[18826] = {
-			["merchants"] = "12794",
+		[20824] = {
+			["stack"] = 1,
+			["merchants"] = "70",
+			["quantity"] = 1,
+			["buy"] = 25000,
 		},
 		[39684] = {
 			["stack"] = 10,
 			["quantity"] = 1,
 			["buy"] = 9000,
 		},
-		[37929] = {
-			["merchants"] = "12788",
+		[2524] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 18232,
+		},
+		[18826] = {
+			["merchants"] = "12794",
+		},
+		[29221] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9000,
 		},
 		[6261] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 900,
+			["buy"] = 950,
 		},
 		[43970] = {
 			["merchants"] = "26328,26331",
@@ -3280,56 +4295,54 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 3600,
 		},
-		[29600] = {
-			["merchants"] = "12795",
-		},
 		[44226] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 7500000,
+			["buy"] = 7125000,
+		},
+		[50367] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1425000,
 		},
 		[17035] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 400,
+			["buy"] = 320,
 		},
-		[45504] = {
-			["merchants"] = "14706",
+		[28927] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9000,
 		},
-		[41591] = {
-			["merchants"] = "12788",
+		[42371] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 200000,
 		},
 		[44482] = {
 			["stack"] = 5,
 			["quantity"] = 1,
 			["buy"] = 2400,
 		},
-		[37927] = {
-			["merchants"] = "12788",
+		[44173] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 592967,
 		},
 		[44610] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 68000,
 		},
-		[35178] = {
-			["merchants"] = "12788",
+		[46009] = {
+			["merchants"] = "14706",
 		},
 		[6365] = {
 			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
 			["buy"] = 50000,
-		},
-		[29605] = {
-			["merchants"] = "12795",
-		},
-		[23464] = {
-			["merchants"] = "12794",
-		},
-		[4342] = {
-			["stack"] = 10,
-			["quantity"] = 1,
-			["buy"] = 2250,
 		},
 		[42947] = {
 			["quantity"] = 1,
@@ -3337,8 +4350,19 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
-		[35176] = {
-			["merchants"] = "12788",
+		[29605] = {
+			["merchants"] = "12795",
+		},
+		[4342] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 2250,
+		},
+		[40900] = {
+			["merchants"] = "26324",
+		},
+		[45274] = {
+			["merchants"] = "14706",
 		},
 		[31780] = {
 			["stack"] = 1,
@@ -3360,20 +4384,25 @@ InformantLocalUpdates = {
 		[37254] = {
 			["merchants"] = "15210",
 		},
-		[35163] = {
-			["merchants"] = "12788",
-		},
-		[35161] = {
-			["merchants"] = "12788",
-		},
-		[41540] = {
-			["merchants"] = "26330",
+		[846] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1379,
 		},
 		[21833] = {
 			["merchants"] = "6929,4603",
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 100,
+		},
+		[41540] = {
+			["merchants"] = "26330",
+		},
+		[10920] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 135,
 		},
 		[45762] = {
 			["merchants"] = "26329",
@@ -3383,20 +4412,23 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 36000,
 		},
-		[35160] = {
-			["merchants"] = "12788",
+		[24008] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 4050,
 		},
 		[4470] = {
-			["merchants"] = "26720,30438,32477,32642,32641,16826,32639,16602,27026",
+			["merchants"] = "26720,30438,32477,32642,32641,16826,32639,16602,27026,28692,28691,19315,19562,27022,27021",
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 38,
+			["buy"] = 34,
 		},
 		[43971] = {
 			["merchants"] = "26328,26331",
 		},
 		[6533] = {
 			["stack"] = 20,
+			["merchants"] = "601005",
 			["quantity"] = 1,
 			["buy"] = 2500,
 		},
@@ -3404,53 +4436,68 @@ InformantLocalUpdates = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
-		[35140] = {
-			["merchants"] = "12788",
+		[50451] = {
+			["merchants"] = "14711",
 		},
 		[50368] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1350000,
+			["buy"] = 1425000,
 		},
-		[35135] = {
-			["merchants"] = "12788",
+		[39426] = {
+			["merchants"] = "14242",
 		},
-		[35134] = {
-			["merchants"] = "12788",
+		[24002] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 54000,
 		},
-		[35132] = {
-			["merchants"] = "12788",
+		[42372] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 240000,
 		},
 		[4542] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 475,
+			["buy"] = 450,
 		},
-		[35131] = {
-			["merchants"] = "12788",
-		},
-		[35130] = {
-			["merchants"] = "12788",
-		},
-		[37865] = {
-			["merchants"] = "12793",
-		},
-		[28378] = {
-			["merchants"] = "12793",
-		},
-		[6369] = {
+		[42094] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2090,
+			["buy"] = 49604,
 		},
-		[8984] = {
-			["merchants"] = "35642",
+		[2526] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 18369,
 		},
-		[28123] = {
-			["merchants"] = "12793",
+		[50816] = {
+			["stack"] = 5,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 50000,
+		},
+		[15809] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 13956,
+		},
+		[25740] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 144000,
+		},
+		[10648] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 100,
+		},
+		[39193] = {
+			["merchants"] = "14242",
 		},
 		[4606] = {
 			["merchants"] = "601026",
@@ -3458,56 +4505,64 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 500,
 		},
-		[28119] = {
-			["merchants"] = "12793",
+		[36944] = {
+			["merchants"] = "26309",
 		},
-		[24551] = {
-			["merchants"] = "12793",
+		[35953] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 12800,
 		},
-		[18429] = {
-			["merchants"] = "12793",
+		[4592] = {
+			["quantity"] = 5,
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 19,
 		},
-		[41024] = {
-			["merchants"] = "32832",
+		[42429] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 15200,
 		},
-		[44176] = {
+		[2533] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 224189,
+			["buy"] = 58052,
 		},
-		[23102] = {
-			["stack"] = 1,
-			["merchants"] = "655000",
-			["quantity"] = 1,
-			["buy"] = 0,
+		[39419] = {
+			["merchants"] = "14242",
 		},
 		[41349] = {
 			["merchants"] = "26332,33251,26327",
 		},
-		[42112] = {
-			["merchants"] = "32383",
+		[35947] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 16000,
 		},
-		[36988] = {
-			["merchants"] = "26308",
+		[42964] = {
+			["merchants"] = "26329",
 		},
-		[41073] = {
-			["merchants"] = "32383",
+		[39392] = {
+			["merchants"] = "14242",
 		},
 		[3371] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 20,
+			["buy"] = 18,
 		},
-		[6529] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 100,
+		[28053] = {
+			["stack"] = 1000,
+			["quantity"] = 200,
+			["buy"] = 1520,
 		},
-		[42110] = {
-			["merchants"] = "32383",
+		[43438] = {
+			["merchants"] = "26329,26324",
 		},
-		[42914] = {
-			["merchants"] = "26325",
+		[43988] = {
+			["merchants"] = "14201",
 		},
 		[33673] = {
 			["merchants"] = "33939",
@@ -3518,31 +4573,33 @@ InformantLocalUpdates = {
 		[29190] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 850000,
+			["buy"] = 900000,
 		},
 		[44100] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
-		[2506] = {
+		[31401] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 256,
+			["buy"] = 114000,
 		},
-		[41068] = {
-			["merchants"] = "32383",
+		[50369] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1350000,
 		},
 		[17036] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 800,
+			["buy"] = 640,
 		},
-		[20752] = {
+		[42373] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2400,
+			["buy"] = 260000,
 		},
 		[3419] = {
 			["stack"] = 1,
@@ -3554,32 +4611,33 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 18000,
 		},
-		[41047] = {
-			["merchants"] = "32383",
+		[22905] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 45000,
 		},
 		[44612] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 68000,
 		},
-		[40489] = {
-			["merchants"] = "12038",
-		},
-		[39900] = {
-			["merchants"] = "26303",
-		},
-		[2527] = {
+		[44092] = {
+			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 26420,
+			["buy"] = 100,
+		},
+		[54343] = {
+			["stack"] = 1,
+			["merchants"] = "29478,29716",
+			["quantity"] = 1,
+			["buy"] = 320000,
+		},
+		[33809] = {
+			["merchants"] = "72",
 		},
 		[23465] = {
 			["merchants"] = "12794",
-		},
-		[28469] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 20000,
 		},
 		[42949] = {
 			["quantity"] = 1,
@@ -3587,16 +4645,21 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
-		[39239] = {
-			["merchants"] = "14242",
+		[40902] = {
+			["merchants"] = "26324",
 		},
 		[31781] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 9500,
 		},
-		[41041] = {
+		[41030] = {
 			["merchants"] = "32832",
+		},
+		[42436] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 85500,
 		},
 		[37064] = {
 			["merchants"] = "26300",
@@ -3604,16 +4667,17 @@ InformantLocalUpdates = {
 		[45316] = {
 			["merchants"] = "14706",
 		},
-		[35145] = {
-			["merchants"] = "12788",
+		[39239] = {
+			["merchants"] = "14242",
 		},
 		[41350] = {
 			["merchants"] = "26332,33251,26327",
 		},
-		[5208] = {
+		[44091] = {
+			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 3173,
+			["buy"] = 100,
 		},
 		[23817] = {
 			["stack"] = 1,
@@ -3623,8 +4687,10 @@ InformantLocalUpdates = {
 		[41542] = {
 			["merchants"] = "26330",
 		},
-		[44447] = {
-			["merchants"] = "26325",
+		[15810] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 9637,
 		},
 		[7005] = {
 			["stack"] = 1,
@@ -3632,13 +4698,13 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 73,
 		},
-		[39408] = {
-			["merchants"] = "14242",
+		[35145] = {
+			["merchants"] = "12788",
 		},
-		[20917] = {
-			["stack"] = 1,
+		[22829] = {
+			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 34,
+			["buy"] = 16000,
 		},
 		[33674] = {
 			["merchants"] = "33939",
@@ -3656,87 +4722,83 @@ InformantLocalUpdates = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
 		[16166] = {
 			["stack"] = 20,
 			["quantity"] = 5,
 			["buy"] = 22,
 		},
-		[20914] = {
+		[50370] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 37,
+			["buy"] = 1350000,
 		},
-		[40042] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 1500,
+		[49295] = {
+			["merchants"] = "14699",
 		},
-		[42973] = {
-			["merchants"] = "26329",
+		[43547] = {
+			["merchants"] = "33251",
 		},
-		[28460] = {
+		[42374] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 300000,
 		},
-		[22250] = {
+		[42438] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1000,
+			["buy"] = 171000,
 		},
-		[2470] = {
+		[44613] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 32254,
+			["buy"] = 128000,
 		},
 		[40519] = {
 			["merchants"] = "12038",
 		},
-		[21894] = {
+		[3563] = {
 			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 36000,
+			["buy"] = 2788,
 		},
-		[1849] = {
-			["stack"] = 1,
+		[40428] = {
+			["merchants"] = "14201",
+		},
+		[8985] = {
 			["quantity"] = 1,
-			["buy"] = 1318,
-		},
-		[2375] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 165,
-		},
-		[35947] = {
-			["merchants"] = "601026",
+			["merchants"] = "35642",
 			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 16000,
+			["buy"] = 225,
 		},
-		[43423] = {
-			["merchants"] = "26332",
-		},
-		[42950] = {
-			["quantity"] = 1,
-			["merchants"] = "31580,601704,31582",
+		[12248] = {
 			["stack"] = 1,
-			["buy"] = 0,
+			["quantity"] = 1,
+			["buy"] = 30428,
+		},
+		[41165] = {
+			["merchants"] = "26325",
+			["stack"] = 1000,
+			["quantity"] = 200,
+			["buy"] = 1000,
+		},
+		[40903] = {
+			["merchants"] = "26324",
 		},
 		[3587] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 13598,
 		},
-		[20824] = {
+		[852] = {
 			["stack"] = 1,
-			["merchants"] = "70",
 			["quantity"] = 1,
-			["buy"] = 22500,
+			["buy"] = 1652,
 		},
-		[39240] = {
-			["merchants"] = "14242",
+		[35146] = {
+			["merchants"] = "12788",
 		},
 		[37065] = {
 			["merchants"] = "26309",
@@ -3744,8 +4806,8 @@ InformantLocalUpdates = {
 		[41223] = {
 			["merchants"] = "32383",
 		},
-		[35146] = {
-			["merchants"] = "12788",
+		[39240] = {
+			["merchants"] = "14242",
 		},
 		[41351] = {
 			["merchants"] = "26332,33251,26327",
@@ -3753,21 +4815,25 @@ InformantLocalUpdates = {
 		[47556] = {
 			["merchants"] = "40160",
 		},
-		[50452] = {
-			["merchants"] = "14711",
+		[33675] = {
+			["merchants"] = "33939",
 		},
-		[24008] = {
+		[10393] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4750,
+		},
+		[4607] = {
+			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 4050,
+			["buy"] = 1000,
 		},
-		[19783] = {
-			["merchants"] = "26327",
-		},
-		[22148] = {
-			["stack"] = 20,
+		[44102] = {
+			["merchants"] = "601704",
+			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 1500,
+			["buy"] = 100,
 		},
 		[18828] = {
 			["merchants"] = "12794",
@@ -3783,18 +4849,18 @@ InformantLocalUpdates = {
 		[43974] = {
 			["merchants"] = "26328,26331",
 		},
-		[42055] = {
-			["merchants"] = "32383",
-		},
-		[29223] = {
+		[42183] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 90000,
+			["buy"] = 42500,
+		},
+		[42055] = {
+			["merchants"] = "32383",
 		},
 		[44166] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 560690,
+			["buy"] = 527708,
 		},
 		[21099] = {
 			["stack"] = 1,
@@ -3804,52 +4870,53 @@ InformantLocalUpdates = {
 		[17037] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 1400,
+			["buy"] = 1120,
 		},
-		[44452] = {
+		[43448] = {
+			["merchants"] = "26330,26325",
+		},
+		[42375] = {
 			["stack"] = 1,
-			["merchants"] = "70",
 			["quantity"] = 1,
-			["buy"] = 160000,
-		},
-		[50451] = {
-			["merchants"] = "14711",
+			["buy"] = 280000,
 		},
 		[42439] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 13600,
+			["buy"] = 16150,
 		},
-		[39505] = {
+		[24316] = {
 			["stack"] = 1,
-			["merchants"] = "70",
 			["quantity"] = 1,
-			["buy"] = 750,
+			["buy"] = 32000,
 		},
 		[44614] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 7000,
+			["buy"] = 5600,
 		},
 		[44678] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 40000,
 		},
-		[46009] = {
-			["merchants"] = "14706",
-		},
-		[44092] = {
-			["merchants"] = "601704",
+		[15811] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 25776,
+		},
+		[3857] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 500,
 		},
 		[23466] = {
 			["merchants"] = "12794",
 		},
-		[45274] = {
-			["merchants"] = "14706",
+		[44934] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 68000000,
 		},
 		[42951] = {
 			["quantity"] = 1,
@@ -3857,24 +4924,26 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
-		[35155] = {
-			["merchants"] = "12788",
+		[5210] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 5517,
 		},
 		[27688] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 17000,
 		},
-		[28927] = {
-			["stack"] = 1,
+		[40533] = {
+			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 9000,
+			["buy"] = 50000,
 		},
 		[41160] = {
 			["merchants"] = "32832",
 		},
-		[40752] = {
-			["merchants"] = "601705",
+		[43271] = {
+			["merchants"] = "26324",
 		},
 		[39241] = {
 			["merchants"] = "14242",
@@ -3885,99 +4954,104 @@ InformantLocalUpdates = {
 		[39369] = {
 			["merchants"] = "14242",
 		},
-		[39193] = {
-			["merchants"] = "14242",
+		[42950] = {
+			["quantity"] = 1,
+			["merchants"] = "31580,601704,31582",
+			["stack"] = 1,
+			["buy"] = 0,
 		},
-		[10921] = {
+		[6949] = {
+			["quantity"] = 1,
 			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 45,
 		},
 		[21835] = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 1500,
+			["buy"] = 1350,
 		},
-		[28399] = {
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 5600,
+		[43990] = {
+			["merchants"] = "14201",
 		},
-		[42959] = {
-			["merchants"] = "26329",
+		[42188] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 40000,
 		},
-		[41030] = {
-			["merchants"] = "32832",
+		[42056] = {
+			["merchants"] = "32383",
 		},
 		[3771] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 950,
+			["buy"] = 1000,
 		},
 		[3775] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 70,
+			["buy"] = 63,
 		},
-		[42094] = {
+		[42060] = {
+			["merchants"] = "32383",
+		},
+		[44103] = {
+			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 49604,
-		},
-		[42056] = {
-			["merchants"] = "32383",
+			["buy"] = 100,
 		},
 		[236] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 2655,
 		},
-		[44103] = {
-			["merchants"] = "601704",
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 0,
+		[45975] = {
+			["merchants"] = "14706",
 		},
 		[44295] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 489903,
+			["buy"] = 551141,
 		},
-		[38368] = {
-			["merchants"] = "26330",
+		[33672] = {
+			["merchants"] = "33939",
+		},
+		[42376] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 340000,
 		},
 		[237] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 2665,
 		},
-		[22905] = {
-			["stack"] = 1,
+		[42946] = {
 			["quantity"] = 1,
-			["buy"] = 45000,
-		},
-		[44622] = {
+			["merchants"] = "31580,601704,31582",
 			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 300000,
+			["buy"] = 0,
 		},
 		[44615] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 1600,
 		},
-		[44679] = {
+		[40585] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 80000,
+			["buy"] = 68000000,
 		},
-		[43449] = {
-			["merchants"] = "26330,26325",
+		[33671] = {
+			["merchants"] = "33939",
 		},
-		[11362] = {
+		[44935] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 900,
+			["buy"] = 68000000,
 		},
 		[40777] = {
 			["stack"] = 1,
@@ -3996,106 +5070,106 @@ InformantLocalUpdates = {
 			["stack"] = 1,
 			["buy"] = 0,
 		},
-		[39419] = {
-			["merchants"] = "14242",
-		},
-		[4592] = {
-			["merchants"] = "601026",
-		},
-		[17029] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 1000,
-		},
-		[42964] = {
-			["merchants"] = "26329",
-		},
-		[33165] = {
+		[35471] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 28500,
+			["buy"] = 101447,
+		},
+		[238] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 2006,
+		},
+		[43975] = {
+			["merchants"] = "26328,26331",
+		},
+		[2208] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 3468,
+		},
+		[39309] = {
+			["merchants"] = "14242",
 		},
 		[39242] = {
 			["merchants"] = "14242",
 		},
-		[41353] = {
-			["merchants"] = "26332,33251,26327",
+		[39306] = {
+			["merchants"] = "14242",
 		},
-		[5210] = {
-			["stack"] = 1,
+		[4399] = {
+			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 5517,
+			["buy"] = 180,
 		},
 		[28936] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 90000,
 		},
-		[43988] = {
-			["merchants"] = "14201",
+		[45322] = {
+			["merchants"] = "14706",
 		},
-		[3857] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 400,
+		[35148] = {
+			["merchants"] = "12788",
 		},
 		[20844] = {
 			["quantity"] = 1,
 			["merchants"] = "35642",
 			["stack"] = 20,
-			["buy"] = 300,
+			["buy"] = 270,
 		},
 		[13512] = {
 			["merchants"] = "26304",
 		},
-		[2533] = {
+		[33165] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 54997,
+			["buy"] = 28500,
 		},
-		[35953] = {
+		[33449] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 16000,
+			["buy"] = 6800,
 		},
 		[37835] = {
 			["merchants"] = "14242",
-		},
-		[42057] = {
-			["merchants"] = "32383",
 		},
 		[29224] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 90000,
 		},
-		[44093] = {
-			["merchants"] = "601704",
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 0,
+		[42057] = {
+			["merchants"] = "32383",
 		},
-		[20815] = {
-			["stack"] = 1,
+		[34767] = {
+			["stack"] = 20,
+			["merchants"] = "26304",
 			["quantity"] = 1,
-			["buy"] = 720,
+			["buy"] = 2000,
 		},
-		[44296] = {
+		[42185] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 429369,
+			["buy"] = 42500,
+		},
+		[17038] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 1600,
 		},
 		[3927] = {
 			["quantity"] = 5,
 			["merchants"] = "601026",
 			["stack"] = 20,
-			["buy"] = 2000,
+			["buy"] = 1800,
 		},
-		[43088] = {
+		[42377] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 32000,
+			["buy"] = 360000,
 		},
 		[38347] = {
 			["merchants"] = "70",
@@ -4103,60 +5177,57 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 220000,
 		},
-		[42084] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 31896,
+		[29448] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 7600,
 		},
 		[44616] = {
 			["stack"] = 20,
 			["quantity"] = 1,
 			["buy"] = 1200,
 		},
-		[24002] = {
+		[40586] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 51000,
+			["buy"] = 68000000,
 		},
-		[43415] = {
-			["merchants"] = "26332",
+		[39388] = {
+			["merchants"] = "14242",
 		},
-		[37201] = {
-			["stack"] = 20,
+		[10918] = {
 			["quantity"] = 1,
-			["buy"] = 500,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 45,
 		},
 		[23467] = {
 			["merchants"] = "12794",
 		},
-		[28468] = {
+		[10647] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 2000,
+		},
+		[40906] = {
+			["merchants"] = "26324",
+		},
+		[29222] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 9000,
 		},
-		[43543] = {
-			["merchants"] = "33251",
-		},
-		[22307] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 4800,
-		},
-		[24316] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 32000,
+		[39295] = {
+			["merchants"] = "14242",
 		},
 		[41098] = {
 			["merchants"] = "26327",
 		},
-		[39291] = {
-			["merchants"] = "14242",
+		[45709] = {
+			["merchants"] = "14706",
 		},
-		[25738] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 102000,
+		[43273] = {
+			["merchants"] = "26324",
 		},
 		[39243] = {
 			["merchants"] = "14242",
@@ -4164,48 +5235,53 @@ InformantLocalUpdates = {
 		[41354] = {
 			["merchants"] = "26332,33251,26327",
 		},
-		[51580] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 0,
-		},
-		[39296] = {
+		[39139] = {
 			["merchants"] = "14242",
 		},
-		[45704] = {
-			["merchants"] = "14706",
+		[22307] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4800,
+		},
+		[4536] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 22,
 		},
 		[35469] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 201429,
 		},
-		[25823] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 295220,
+		[19789] = {
+			["merchants"] = "26328",
 		},
-		[2475] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 16433,
-		},
-		[44105] = {
-			["merchants"] = "601704",
+		[51573] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 0,
 		},
-		[44621] = {
+		[44234] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 60000,
+			["buy"] = 190000000,
 		},
-		[42122] = {
-			["merchants"] = "32383",
+		[44170] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 206400,
 		},
-		[44429] = {
-			["merchants"] = "12788",
+		[3420] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 4500,
+		},
+		[9017] = {
+			["merchants"] = "655000",
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 0,
 		},
 		[42058] = {
 			["merchants"] = "32383",
@@ -4215,82 +5291,76 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 112,
 		},
-		[28363] = {
-			["merchants"] = "12793",
+		[35624] = {
+			["merchants"] = "40160",
 		},
 		[44297] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 286718,
+			["buy"] = 322558,
 		},
-		[43448] = {
-			["merchants"] = "26330,26325",
+		[42122] = {
+			["merchants"] = "32383",
 		},
-		[49295] = {
-			["merchants"] = "14699",
-		},
-		[39404] = {
-			["merchants"] = "14242",
-		},
-		[44173] = {
+		[42378] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 630027,
+			["buy"] = 320000,
+		},
+		[2605] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 95,
+		},
+		[41228] = {
+			["merchants"] = "32383",
 		},
 		[44617] = {
 			["stack"] = 20,
 			["quantity"] = 1,
 			["buy"] = 1600,
 		},
-		[2723] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 50,
+		[38898] = {
+			["merchants"] = "26302",
 		},
-		[43990] = {
-			["merchants"] = "14201",
-		},
-		[44094] = {
-			["merchants"] = "601704",
+		[2534] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 43159,
 		},
-		[41586] = {
-			["stack"] = 1000,
-			["quantity"] = 200,
-			["buy"] = 3000,
+		[36947] = {
+			["merchants"] = "26301",
 		},
-		[33449] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 8500,
-		},
-		[40428] = {
+		[43992] = {
 			["merchants"] = "14201",
 		},
-		[42436] = {
+		[10922] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 720,
+		},
+		[25738] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 72000,
+			["buy"] = 108000,
 		},
-		[43975] = {
-			["merchants"] = "26328,26331",
+		[39296] = {
+			["merchants"] = "14242",
+		},
+		[2376] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 425,
 		},
 		[41099] = {
 			["merchants"] = "26327",
 		},
-		[22055] = {
-			["quantity"] = 1,
-			["merchants"] = "35642",
-			["stack"] = 20,
-			["buy"] = 900,
+		[39140] = {
+			["merchants"] = "14242",
 		},
-		[44139] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 1200000,
+		[40430] = {
+			["merchants"] = "14201",
 		},
 		[39244] = {
 			["merchants"] = "14242",
@@ -4298,117 +5368,121 @@ InformantLocalUpdates = {
 		[39308] = {
 			["merchants"] = "14242",
 		},
-		[3420] = {
+		[42948] = {
+			["quantity"] = 1,
+			["merchants"] = "31580,601704,31582",
+			["stack"] = 1,
+			["buy"] = 0,
+		},
+		[45704] = {
+			["merchants"] = "14706",
+		},
+		[35406] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 4500,
-		},
-		[2605] = {
-			["stack"] = 10,
-			["quantity"] = 1,
-			["buy"] = 90,
-		},
-		[29222] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 9000,
+			["buy"] = 203401,
 		},
 		[35470] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 151621,
 		},
-		[25740] = {
+		[29220] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 136000,
+			["buy"] = 9000,
 		},
-		[35627] = {
-			["merchants"] = "40160",
+		[33769] = {
+			["merchants"] = "33939",
 		},
 		[43850] = {
 			["merchants"] = "26325",
 		},
-		[41107] = {
-			["merchants"] = "26327",
+		[37096] = {
+			["merchants"] = "26308",
 		},
-		[36944] = {
-			["merchants"] = "26309",
+		[39393] = {
+			["merchants"] = "14242",
 		},
-		[44234] = {
+		[44105] = {
+			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 200000000,
+			["buy"] = 100,
 		},
 		[42059] = {
 			["merchants"] = "32383",
 		},
-		[44170] = {
+		[19022] = {
 			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 219300,
+			["buy"] = 5000000,
 		},
 		[42187] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 40000,
+			["buy"] = 45000,
 		},
-		[9017] = {
-			["merchants"] = "655000",
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 0,
+		[39307] = {
+			["merchants"] = "14242",
 		},
-		[38364] = {
-			["merchants"] = "26327",
+		[42428] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 8075,
 		},
 		[6326] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 34,
 		},
-		[8985] = {
-			["quantity"] = 1,
-			["merchants"] = "35642",
-			["stack"] = 20,
-			["buy"] = 250,
+		[38364] = {
+			["merchants"] = "26327",
 		},
 		[29449] = {
+			["quantity"] = 5,
 			["merchants"] = "23603",
+			["stack"] = 20,
+			["buy"] = 7600,
 		},
 		[44618] = {
 			["stack"] = 20,
 			["quantity"] = 1,
 			["buy"] = 8000,
 		},
-		[45709] = {
-			["merchants"] = "14706",
+		[35627] = {
+			["merchants"] = "40160",
 		},
-		[17038] = {
-			["stack"] = 20,
+		[6366] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 1000000,
 		},
-		[40430] = {
-			["merchants"] = "14201",
+		[44167] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 158908,
 		},
 		[23468] = {
 			["merchants"] = "12794",
 		},
-		[37050] = {
-			["merchants"] = "26309",
-		},
-		[34767] = {
-			["stack"] = 20,
-			["merchants"] = "26304",
+		[2475] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 16433,
 		},
-		[41228] = {
-			["merchants"] = "32383",
+		[40908] = {
+			["merchants"] = "26324",
 		},
-		[39245] = {
-			["merchants"] = "14242",
+		[44296] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 483040,
+		},
+		[41107] = {
+			["merchants"] = "26327",
 		},
 		[47241] = {
 			["merchants"] = "601705",
@@ -4419,140 +5493,141 @@ InformantLocalUpdates = {
 			["quantity"] = 200,
 			["buy"] = 1000,
 		},
-		[45322] = {
-			["merchants"] = "14706",
-		},
-		[4399] = {
-			["stack"] = 10,
+		[25739] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 200,
+			["buy"] = 144000,
+		},
+		[39245] = {
+			["merchants"] = "14242",
 		},
 		[45450] = {
 			["merchants"] = "14706",
 		},
-		[44167] = {
-			["stack"] = 1,
+		[8827] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 168840,
+			["buy"] = 10000,
 		},
-		[31401] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 114000,
+		[41353] = {
+			["merchants"] = "26332,33251,26327",
 		},
 		[39501] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 1250,
+			["buy"] = 1000,
 		},
-		[35471] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 101447,
+		[19790] = {
+			["merchants"] = "26324",
 		},
 		[10938] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 800,
+			["buy"] = 720,
 		},
-		[39309] = {
+		[41586] = {
+			["stack"] = 1000,
+			["quantity"] = 200,
+			["buy"] = 2700,
+		},
+		[44679] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 80000,
+		},
+		[44139] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1350000,
+		},
+		[39404] = {
 			["merchants"] = "14242",
 		},
-		[42946] = {
-			["quantity"] = 1,
-			["merchants"] = "31580,601704,31582",
+		[35623] = {
+			["merchants"] = "40160",
+		},
+		[44107] = {
+			["merchants"] = "601704",
 			["stack"] = 1,
-			["buy"] = 0,
-		},
-		[10918] = {
-			["merchants"] = "35642",
-		},
-		[54343] = {
-			["stack"] = 1,
-			["merchants"] = "29478,29716",
 			["quantity"] = 1,
-			["buy"] = 320000,
-		},
-		[33809] = {
-			["merchants"] = "72",
-		},
-		[42060] = {
-			["merchants"] = "32383",
+			["buy"] = 100,
 		},
 		[44171] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 265310,
+			["buy"] = 249704,
 		},
-		[42188] = {
+		[44235] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 42500,
-		},
-		[3466] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 1600,
+			["buy"] = 160000000,
 		},
 		[39297] = {
 			["merchants"] = "14242",
 		},
+		[10921] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 225,
+		},
 		[28362] = {
 			["merchants"] = "12793",
 		},
-		[2534] = {
+		[43088] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 45431,
+			["buy"] = 32000,
 		},
-		[39307] = {
-			["merchants"] = "14242",
+		[37050] = {
+			["merchants"] = "26309",
 		},
 		[28458] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
-		[25739] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 136000,
-		},
-		[10647] = {
-			["stack"] = 10,
-			["quantity"] = 1,
-			["buy"] = 2000,
-		},
-		[29220] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 9000,
-		},
-		[4607] = {
-			["merchants"] = "601026",
+		[17029] = {
 			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 1000,
+			["quantity"] = 1,
+			["buy"] = 800,
+		},
+		[46725] = {
+			["sell"] = 1,
+			["quantity"] = 1,
+			["stack"] = 1,
+		},
+		[24009] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 4050,
+		},
+		[29223] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 90000,
 		},
 		[4599] = {
 			["merchants"] = "601026",
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 1900,
+			["buy"] = 2000,
 		},
 		[42956] = {
 			["merchants"] = "26329",
 		},
-		[2535] = {
-			["stack"] = 1,
+		[34832] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 55401,
+			["buy"] = 5000,
 		},
-		[41165] = {
-			["merchants"] = "26325",
-			["stack"] = 1000,
-			["quantity"] = 200,
-			["buy"] = 1000,
+		[8953] = {
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 3600,
 		},
 		[41101] = {
 			["merchants"] = "26327",
@@ -4565,7 +5640,7 @@ InformantLocalUpdates = {
 		[2324] = {
 			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 22,
+			["buy"] = 25,
 		},
 		[39246] = {
 			["merchants"] = "14242",
@@ -4573,39 +5648,46 @@ InformantLocalUpdates = {
 		[39310] = {
 			["merchants"] = "14242",
 		},
-		[35624] = {
-			["merchants"] = "40160",
+		[22250] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 900,
 		},
-		[43548] = {
-			["merchants"] = "33251",
+		[39146] = {
+			["merchants"] = "14242",
 		},
 		[39502] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 5000,
+			["buy"] = 4000,
 		},
-		[37096] = {
-			["merchants"] = "26308",
+		[19979] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1000000,
 		},
-		[33769] = {
-			["merchants"] = "33939",
+		[22055] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 810,
 		},
 		[18831] = {
 			["merchants"] = "12794",
 		},
-		[39139] = {
-			["merchants"] = "14242",
-		},
-		[44235] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 160000000,
-		},
-		[44107] = {
-			["merchants"] = "601704",
+		[51580] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 0,
+		},
+		[25823] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 312586,
+		},
+		[43994] = {
+			["merchants"] = "14201",
 		},
 		[2372] = {
 			["stack"] = 1,
@@ -4615,30 +5697,26 @@ InformantLocalUpdates = {
 		[42061] = {
 			["merchants"] = "32383",
 		},
-		[2376] = {
+		[45435] = {
+			["merchants"] = "14706",
+		},
+		[28363] = {
+			["merchants"] = "12793",
+		},
+		[28468] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 425,
-		},
-		[4536] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 25,
-		},
-		[39295] = {
-			["merchants"] = "14242",
+			["buy"] = 18000,
 		},
 		[1196] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 2103,
 		},
-		[10922] = {
+		[1198] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["merchants"] = "35642",
-			["stack"] = 20,
-			["buy"] = 800,
+			["buy"] = 2543,
 		},
 		[2400] = {
 			["stack"] = 1,
@@ -4648,52 +5726,56 @@ InformantLocalUpdates = {
 		[29450] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 6400,
+			["buy"] = 7600,
 		},
 		[40526] = {
 			["merchants"] = "12038",
 		},
-		[42428] = {
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 6800,
-		},
-		[39388] = {
+		[39291] = {
 			["merchants"] = "14242",
 		},
-		[33671] = {
-			["merchants"] = "33939",
+		[28056] = {
+			["stack"] = 1000,
+			["quantity"] = 200,
+			["buy"] = 2700,
+		},
+		[44225] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 6000000,
 		},
 		[23469] = {
 			["merchants"] = "12794",
 		},
-		[42948] = {
-			["quantity"] = 1,
-			["merchants"] = "31580,601704,31582",
+		[43415] = {
+			["merchants"] = "26332",
+		},
+		[2432] = {
 			["stack"] = 1,
-			["buy"] = 0,
+			["quantity"] = 1,
+			["buy"] = 7306,
 		},
-		[36947] = {
-			["merchants"] = "26301",
-		},
-		[39393] = {
-			["merchants"] = "14242",
+		[38367] = {
+			["merchants"] = "26330",
 		},
 		[2440] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 13394,
 		},
-		[39140] = {
-			["merchants"] = "14242",
+		[43447] = {
+			["merchants"] = "26330,26325",
 		},
-		[51573] = {
+		[42084] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 31896,
 		},
 		[6950] = {
+			["quantity"] = 1,
 			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 135,
 		},
 		[39247] = {
 			["merchants"] = "14242",
@@ -4701,43 +5783,47 @@ InformantLocalUpdates = {
 		[39311] = {
 			["merchants"] = "14242",
 		},
-		[38898] = {
-			["merchants"] = "26302",
+		[2464] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 6528,
 		},
-		[45975] = {
-			["merchants"] = "14706",
+		[2468] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 5995,
 		},
 		[2472] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 32501,
 		},
-		[31362] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 102000,
+		[43449] = {
+			["merchants"] = "26330,26325",
 		},
-		[35623] = {
-			["merchants"] = "40160",
+		[19786] = {
+			["merchants"] = "26330",
 		},
-		[43992] = {
-			["merchants"] = "14201",
+		[39900] = {
+			["merchants"] = "26303",
 		},
 		[2488] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 509,
+			["buy"] = 536,
 		},
 		[2492] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 270,
+			["buy"] = 285,
 		},
-		[6949] = {
-			["merchants"] = "35642",
+		[28399] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 5600,
 		},
-		[39425] = {
-			["merchants"] = "14242",
+		[23464] = {
+			["merchants"] = "12794",
 		},
 		[2504] = {
 			["stack"] = 1,
@@ -4762,100 +5848,91 @@ InformantLocalUpdates = {
 		[2520] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 24629,
+			["buy"] = 23397,
 		},
-		[2524] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 17272,
+		[44429] = {
+			["merchants"] = "12788",
 		},
 		[2528] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 51836,
+			["buy"] = 49244,
 		},
 		[2532] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 47347,
+			["buy"] = 49977,
 		},
 		[28459] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
 		[18256] = {
 			["stack"] = 20,
 			["quantity"] = 5,
-			["buy"] = 20000,
+			["buy"] = 18000,
 		},
-		[24009] = {
-			["stack"] = 20,
-			["quantity"] = 1,
-			["buy"] = 3825,
+		[38368] = {
+			["merchants"] = "26330",
 		},
-		[28053] = {
-			["stack"] = 1000,
-			["quantity"] = 200,
-			["buy"] = 1440,
+		[43423] = {
+			["merchants"] = "26332",
 		},
-		[19789] = {
-			["merchants"] = "26328",
-		},
-		[40533] = {
-			["stack"] = 10,
-			["quantity"] = 1,
-			["buy"] = 50000,
-		},
-		[44091] = {
-			["merchants"] = "601704",
+		[12250] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 40342,
 		},
-		[42727] = {
-			["merchants"] = "26327",
+		[22148] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 1200,
+		},
+		[43439] = {
+			["merchants"] = "26329,26324",
+		},
+		[28469] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 18000,
 		},
 		[43086] = {
 			["stack"] = 20,
 			["quantity"] = 5,
 			["buy"] = 6800,
 		},
-		[3770] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 475,
+		[39292] = {
+			["merchants"] = "14242",
 		},
-		[8953] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 4000,
+		[21894] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 36000,
 		},
-		[33672] = {
-			["merchants"] = "33939",
+		[35140] = {
+			["merchants"] = "12788",
 		},
 		[39248] = {
 			["merchants"] = "14242",
 		},
-		[852] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 1652,
+		[39299] = {
+			["merchants"] = "14242",
 		},
-		[15810] = {
-			["stack"] = 1,
+		[17030] = {
+			["stack"] = 10,
 			["quantity"] = 1,
-			["buy"] = 9637,
+			["buy"] = 1600,
 		},
 		[2596] = {
 			["stack"] = 20,
 			["quantity"] = 1,
 			["buy"] = 120,
 		},
-		[39146] = {
-			["merchants"] = "14242",
+		[2527] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 27888,
 		},
 		[2604] = {
 			["stack"] = 10,
@@ -4868,8 +5945,10 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 120000,
 		},
-		[43994] = {
-			["merchants"] = "14201",
+		[1849] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1318,
 		},
 		[20911] = {
 			["stack"] = 1,
@@ -4886,10 +5965,10 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 2375,
 		},
-		[15811] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 25776,
+		[28060] = {
+			["stack"] = 1000,
+			["quantity"] = 200,
+			["buy"] = 1520,
 		},
 		[33875] = {
 			["merchants"] = "601026",
@@ -4900,208 +5979,209 @@ InformantLocalUpdates = {
 		[44174] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 790347,
+			["buy"] = 743856,
 		},
-		[35148] = {
-			["merchants"] = "12788",
+		[44447] = {
+			["merchants"] = "26325",
 		},
-		[39306] = {
-			["merchants"] = "14242",
+		[44302] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 158972,
 		},
-		[39392] = {
-			["merchants"] = "14242",
+		[41024] = {
+			["merchants"] = "32832",
 		},
-		[6947] = {
-			["merchants"] = "35642",
+		[2470] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 32254,
 		},
-		[28056] = {
-			["stack"] = 1000,
-			["quantity"] = 200,
-			["buy"] = 3000,
+		[42110] = {
+			["merchants"] = "32383",
 		},
 		[29451] = {
 			["merchants"] = "23605",
 			["quantity"] = 5,
 			["stack"] = 20,
-			["buy"] = 6800,
+			["buy"] = 8000,
 		},
 		[48716] = {
-			["merchants"] = "601704",
+			["merchants"] = "601704,31582",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
-		[238] = {
+		[35131] = {
+			["merchants"] = "12788",
+		},
+		[43613] = {
+			["merchants"] = "14242",
+		},
+		[27532] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 500000,
+		},
+		[31361] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2006,
+			["buy"] = 54000,
 		},
-		[44225] = {
+		[48956] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 6000000,
-		},
-		[42729] = {
-			["merchants"] = "26327",
-		},
-		[40511] = {
-			["merchants"] = "12038",
-		},
-		[42429] = {
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 12800,
+			["buy"] = 10000000,
 		},
 		[38865] = {
 			["merchants"] = "26302",
 		},
-		[2526] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 19336,
+		[18835] = {
+			["merchants"] = "12794",
 		},
-		[10648] = {
+		[35161] = {
+			["merchants"] = "12788",
+		},
+		[8984] = {
+			["quantity"] = 1,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 180,
+		},
+		[2723] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 125,
+			["buy"] = 50,
 		},
-		[10920] = {
-			["merchants"] = "35642",
-		},
-		[43547] = {
-			["merchants"] = "33251",
-		},
-		[33675] = {
-			["merchants"] = "33939",
+		[44313] = {
+			["merchants"] = "14242",
 		},
 		[39249] = {
 			["merchants"] = "14242",
 		},
-		[20990] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 49,
+		[43445] = {
+			["merchants"] = "26330,26325",
 		},
 		[5439] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 90,
 		},
-		[29014] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 800,
+		[35178] = {
+			["merchants"] = "12788",
 		},
 		[41552] = {
 			["merchants"] = "26330",
 		},
-		[33771] = {
-			["merchants"] = "33939",
-		},
-		[38367] = {
-			["merchants"] = "26330",
-		},
-		[44102] = {
+		[44094] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 100,
 		},
-		[43447] = {
-			["merchants"] = "26330,26325",
+		[35132] = {
+			["merchants"] = "12788",
 		},
-		[45435] = {
-			["merchants"] = "14706",
+		[35130] = {
+			["merchants"] = "12788",
 		},
-		[15809] = {
+		[21914] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 13956,
+			["buy"] = 48000,
 		},
-		[39426] = {
+		[2595] = {
+			["stack"] = 20,
+			["quantity"] = 1,
+			["buy"] = 2000,
+		},
+		[39141] = {
 			["merchants"] = "14242",
 		},
-		[42459] = {
-			["merchants"] = "26331",
+		[33767] = {
+			["merchants"] = "33939",
 		},
-		[2403] = {
-			["stack"] = 1,
+		[22054] = {
 			["quantity"] = 1,
-			["buy"] = 209,
+			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 1350,
+		},
+		[37928] = {
+			["merchants"] = "12788",
 		},
 		[44239] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 369473,
+			["buy"] = 415657,
 		},
-		[50444] = {
-			["merchants"] = "14711",
-		},
-		[17030] = {
-			["stack"] = 10,
+		[44303] = {
+			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 2000,
+			["buy"] = 415350,
+		},
+		[41598] = {
+			["merchants"] = "70",
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 180000,
 		},
 		[44431] = {
 			["merchants"] = "12788",
 		},
-		[43439] = {
-			["merchants"] = "26329",
+		[6948] = {
+			["merchants"] = "70",
 		},
-		[44613] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 128000,
+		[29602] = {
+			["merchants"] = "12795",
 		},
 		[44623] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 80000,
 		},
-		[42438] = {
+		[2403] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 144000,
+			["buy"] = 209,
 		},
-		[43438] = {
-			["merchants"] = "26329",
+		[35135] = {
+			["merchants"] = "12788",
 		},
-		[846] = {
-			["stack"] = 1,
+		[45927] = {
+			["merchants"] = "14706",
+		},
+		[1205] = {
+			["stack"] = 20,
+			["quantity"] = 5,
+			["buy"] = 500,
+		},
+		[38802] = {
+			["stack"] = 5,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 1379,
+			["buy"] = 10000,
 		},
-		[43433] = {
-			["merchants"] = "26329",
+		[45468] = {
+			["merchants"] = "14706",
 		},
-		[2325] = {
-			["stack"] = 10,
+		[34836] = {
+			["stack"] = 5,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 900,
-		},
-		[29221] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 9000,
-		},
-		[9228] = {
-			["stack"] = 1,
-			["merchants"] = "655000",
-			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 50000,
 		},
 		[11291] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 4500,
+			["buy"] = 4050,
 		},
 		[41105] = {
 			["merchants"] = "26327",
 		},
-		[28060] = {
-			["stack"] = 1000,
-			["quantity"] = 200,
-			["buy"] = 1440,
+		[40497] = {
+			["merchants"] = "12038",
 		},
 		[41233] = {
 			["merchants"] = "32383",
@@ -5109,48 +6189,41 @@ InformantLocalUpdates = {
 		[39250] = {
 			["merchants"] = "14242",
 		},
-		[25529] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 800000,
+		[18837] = {
+			["merchants"] = "12794",
 		},
-		[41004] = {
-			["merchants"] = "32832",
+		[37927] = {
+			["merchants"] = "12788",
 		},
 		[43536] = {
 			["merchants"] = "33251",
 		},
-		[30483] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 32000,
+		[18874] = {
+			["merchants"] = "12794",
 		},
-		[29722] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 108000,
+		[18868] = {
+			["merchants"] = "12794",
 		},
 		[45775] = {
 			["merchants"] = "26330",
 		},
-		[35951] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 16000,
+		[37929] = {
+			["merchants"] = "12788",
 		},
 		[20912] = {
 			["stack"] = 1,
 			["quantity"] = 1,
 			["buy"] = 79,
 		},
-		[39292] = {
-			["merchants"] = "14242",
+		[43352] = {
+			["stack"] = 10,
+			["quantity"] = 1,
+			["buy"] = 4000,
 		},
 		[2880] = {
 			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 80,
+			["buy"] = 100,
 		},
 		[29196] = {
 			["stack"] = 1,
@@ -5163,48 +6236,55 @@ InformantLocalUpdates = {
 			["buy"] = 90560,
 		},
 		[2892] = {
+			["quantity"] = 1,
 			["merchants"] = "35642",
+			["stack"] = 20,
+			["buy"] = 90,
 		},
 		[44240] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 370903,
+			["buy"] = 417266,
 		},
-		[41078] = {
-			["merchants"] = "32832",
+		[49426] = {
+			["merchants"] = "601705",
 		},
-		[19786] = {
-			["merchants"] = "26330",
+		[18229] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 500000,
 		},
-		[51581] = {
+		[12225] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 10000,
+		},
+		[41068] = {
+			["merchants"] = "32383",
+		},
+		[49633] = {
+			["sell"] = 100,
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 0,
-		},
-		[43421] = {
-			["merchants"] = "26332",
-		},
-		[44181] = {
-			["stack"] = 1,
-			["quantity"] = 1,
-			["buy"] = 216133,
 		},
 		[48718] = {
 			["merchants"] = "601704",
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 0,
 		},
-		[31361] = {
+		[44050] = {
 			["stack"] = 1,
+			["merchants"] = "601005",
 			["quantity"] = 1,
-			["buy"] = 51000,
+			["buy"] = 150000000,
 		},
-		[50255] = {
-			["merchants"] = "601704",
-			["stack"] = 1,
+		[3466] = {
+			["stack"] = 20,
 			["quantity"] = 1,
-			["buy"] = 100,
+			["buy"] = 2000,
 		},
 		[34581] = {
 			["stack"] = 1000,
@@ -5214,30 +6294,41 @@ InformantLocalUpdates = {
 		[29612] = {
 			["merchants"] = "12795",
 		},
-		[21914] = {
+		[51559] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 48000,
+			["buy"] = 10000000,
 		},
 		[42961] = {
 			["merchants"] = "26329",
 		},
-		[43445] = {
-			["merchants"] = "26330,26325",
-		},
-		[21552] = {
-			["merchants"] = "601026",
-		},
-		[43613] = {
-			["merchants"] = "14242",
-		},
-		[44313] = {
-			["merchants"] = "14242",
-		},
-		[33151] = {
+		[44188] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 85000,
+			["buy"] = 174137,
+		},
+		[21552] = {
+			["quantity"] = 5,
+			["merchants"] = "601026",
+			["stack"] = 20,
+			["buy"] = 1900,
+		},
+		[2465] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 11853,
+		},
+		[16083] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 100000,
+		},
+		[7307] = {
+			["stack"] = 20,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 30000,
 		},
 		[39251] = {
 			["merchants"] = "14242",
@@ -5255,36 +6346,44 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 72000,
 		},
-		[37928] = {
-			["merchants"] = "12788",
+		[37460] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 6000,
 		},
-		[45107] = {
-			["merchants"] = "14706",
+		[21892] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 36000,
 		},
 		[21872] = {
 			["merchants"] = "26331",
 		},
-		[33443] = {
-			["merchants"] = "601026",
-			["stack"] = 20,
-			["quantity"] = 5,
-			["buy"] = 8500,
+		[50406] = {
+			["stack"] = 1,
+			["merchants"] = "601005",
+			["quantity"] = 1,
+			["buy"] = 1000000,
 		},
-		[1843] = {
+		[44257] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 689,
+			["buy"] = 296242,
 		},
-		[40497] = {
-			["merchants"] = "12038",
-		},
-		[33209] = {
+		[44249] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 38000,
+			["buy"] = 796362,
 		},
-		[45927] = {
-			["merchants"] = "14706",
+		[2209] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 6760,
+		},
+		[44205] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 570699,
 		},
 		[40019] = {
 			["stack"] = 1,
@@ -5296,31 +6395,35 @@ InformantLocalUpdates = {
 			["quantity"] = 5,
 			["buy"] = 900,
 		},
-		[3024] = {
+		[44241] = {
 			["stack"] = 1,
 			["quantity"] = 1,
-			["buy"] = 7098,
+			["buy"] = 565148,
 		},
-		[18837] = {
-			["merchants"] = "12794",
-		},
-		[45741] = {
-			["merchants"] = "26327",
-		},
-		[45468] = {
-			["merchants"] = "14706",
-		},
-		[23193] = {
+		[44305] = {
 			["stack"] = 1,
-			["merchants"] = "72",
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 502121,
 		},
-		[46778] = {
+		[44196] = {
 			["stack"] = 1,
-			["merchants"] = "72",
 			["quantity"] = 1,
-			["buy"] = 0,
+			["buy"] = 119540,
+		},
+		[44201] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 315592,
+		},
+		[44187] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 578289,
+		},
+		[44203] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 202300,
 		},
 		[44625] = {
 			["stack"] = 1,
@@ -5332,11 +6435,15 @@ InformantLocalUpdates = {
 			["quantity"] = 1,
 			["buy"] = 16000000,
 		},
-		[49426] = {
-			["merchants"] = "601705",
+		[44202] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 241835,
 		},
-		[41596] = {
-			["merchants"] = "40160",
+		[44140] = {
+			["stack"] = 1,
+			["quantity"] = 1,
+			["buy"] = 1275000,
 		},
 	},
 	["vendor"] = {
@@ -5396,20 +6503,28 @@ InformantLocalUpdates = {
 			["name"] = "Conqueror Chiz'zem",
 			["faction"] = "Neutral",
 		},
-		[15210] = {
-			["name"] = "Conqueror Brod'drudoir",
-			["faction"] = "Neutral",
-		},
 		[26308] = {
 			["name"] = "Necks Vendor",
 			["faction"] = "Neutral",
 		},
-		[26325] = {
-			["name"] = "Hunter Trainer",
+		[15210] = {
+			["name"] = "Conqueror Brod'drudoir",
 			["faction"] = "Neutral",
 		},
-		[14711] = {
-			["name"] = "Conqueror Kaiz'zoria",
+		[26332] = {
+			["name"] = "Warrior Trainer",
+			["faction"] = "Neutral",
+		},
+		[26324] = {
+			["name"] = "Druid Trainer",
+			["faction"] = "Neutral",
+		},
+		[601005] = {
+			["name"] = "John the Fisherman",
+			["faction"] = "Neutral",
+		},
+		[70] = {
+			["name"] = "Gozart Fasthead",
 			["faction"] = "Neutral",
 		},
 		[26327] = {
@@ -5428,45 +6543,45 @@ InformantLocalUpdates = {
 			["name"] = "Shaman Trainer",
 			["faction"] = "Neutral",
 		},
-		[33251] = {
-			["name"] = "Death Knight Trainer",
+		[26331] = {
+			["name"] = "Warlock Trainer",
 			["faction"] = "Neutral",
 		},
-		[26332] = {
-			["name"] = "Warrior Trainer",
+		[14711] = {
+			["name"] = "Conqueror Kaiz'zoria",
 			["faction"] = "Neutral",
 		},
-		[70] = {
-			["name"] = "Gozart Fasthead",
-			["faction"] = "Neutral",
-		},
-		[15248] = {
-			["name"] = "Conqueror Kergucr'ayd",
+		[655000] = {
+			["name"] = "Darriel Tinderblood",
 			["faction"] = "Neutral",
 		},
 		[32383] = {
 			["name"] = "Sergeant Thunderhorn",
 			["faction"] = "Horde",
 		},
-		[655000] = {
-			["name"] = "Darriel Tinderblood",
-			["faction"] = "Neutral",
-		},
-		[601704] = {
-			["name"] = "Karlee Sweet",
+		[15248] = {
+			["name"] = "Conqueror Kergucr'ayd",
 			["faction"] = "Neutral",
 		},
 		[601026] = {
 			["name"] = "White Fang",
 			["faction"] = "Neutral",
 		},
-		[601705] = {
-			["name"] = "Sirina Warmluck",
+		[601704] = {
+			["name"] = "Karlee Sweet",
 			["faction"] = "Neutral",
 		},
 		[12794] = {
 			["name"] = "Stone Guard Zarg",
 			["faction"] = "Horde",
+		},
+		[14242] = {
+			["name"] = "Conqueror M'unierth",
+			["faction"] = "Neutral",
+		},
+		[12038] = {
+			["name"] = "Conqueror Qumri'a",
+			["faction"] = "Neutral",
 		},
 		[72] = {
 			["name"] = "Antaris the Trader",
@@ -5476,20 +6591,20 @@ InformantLocalUpdates = {
 			["name"] = "Blood Guard Zar'shi",
 			["faction"] = "Horde",
 		},
-		[12038] = {
-			["name"] = "Conqueror Qumri'a",
-			["faction"] = "Neutral",
-		},
-		[14242] = {
-			["name"] = "Conqueror M'unierth",
+		[601705] = {
+			["name"] = "Sirina Warmluck",
 			["faction"] = "Neutral",
 		},
 		[15351] = {
 			["name"] = "Alliance Brigadier General",
 			["faction"] = "Alliance",
 		},
-		[26331] = {
-			["name"] = "Warlock Trainer",
+		[33251] = {
+			["name"] = "Death Knight Trainer",
+			["faction"] = "Neutral",
+		},
+		[26325] = {
+			["name"] = "Hunter Trainer",
 			["faction"] = "Neutral",
 		},
 		[14706] = {

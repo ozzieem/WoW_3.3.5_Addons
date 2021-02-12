@@ -1,0 +1,13 @@
+CLCRet: disabled
+CLCRet_Options: disabled
+Gatherer_HUD: enabled
+Gatherer: enabled
+GatherMate2: enabled
+GoGoMount: disabled
+MoveAnything: disabled
+Mapster: disabled
+OneBag3: disabled
+SatrinaBuffFrame: disabled
+SBFOptions: disabled
+ZygorTalentAdvisor: disabled
+RandomMount: disabled

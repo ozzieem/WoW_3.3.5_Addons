@@ -1,0 +1,18 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["FogClear"] = {
+		},
+		["Coords"] = {
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Lawras - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

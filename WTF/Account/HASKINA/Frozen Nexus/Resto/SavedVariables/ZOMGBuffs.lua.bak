@@ -1,0 +1,35 @@
+
+ZOMGBuffsPerCharDB = {
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+				["Tiger's Fury"] = true,
+				["Nature's Grasp"] = true,
+				["Omen of Clarity"] = true,
+				["Barkskin"] = true,
+			},
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+		["Log"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+					["modified"] = true,
+				},
+			},
+		},
+	},
+	["global"] = {
+		["firstStartup"] = false,
+	},
+}

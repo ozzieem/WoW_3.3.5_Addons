@@ -1,0 +1,17 @@
+MACRO 16777218 "CD" INV_Misc_QuestionMark
+/cast Elemental Mastery
+/cast Berserking
+END
+MACRO 16777217 "FL" INV_Misc_QuestionMark
+/cast [target=Lichborne] Lesser Healing Wave
+END
+MACRO 16777219 "FL" INV_Misc_QuestionMark
+/cast [target=Gigachad] Lesser Healing Wave
+END
+MACRO 16777221 "FO" INV_Misc_QuestionMark
+/targetexact Ice Sphere
+/cast Chain Lightning
+END
+MACRO 16777220 "HL" INV_Misc_QuestionMark
+/cast [target=Lichborne] Healing Wave
+END

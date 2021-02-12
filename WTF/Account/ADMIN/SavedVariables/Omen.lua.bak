@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Myron - New Funserver"] = "Myron - New Funserver",
+	},
+	["profiles"] = {
+		["Myron - New Funserver"] = {
+			["PositionY"] = 580.2631489000152,
+			["PositionX"] = 785.7456329789529,
+		},
+	},
+}

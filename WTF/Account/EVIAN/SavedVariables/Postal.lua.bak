@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Lawras|Icecrown|Alliance", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Lawras - Icecrown"] = "Lawras - Icecrown",
+	},
+	["profiles"] = {
+		["Lawras - Icecrown"] = {
+		},
+	},
+}

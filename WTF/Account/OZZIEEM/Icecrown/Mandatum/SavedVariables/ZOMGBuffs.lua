@@ -1,6 +1,7 @@
 
 ZOMGBuffsPerCharDB = {
 	["global"] = {
+		["firstStartup"] = false,
 		["pos"] = {
 			["point"] = {
 				"BOTTOMRIGHT", -- [1]
@@ -10,7 +11,6 @@ ZOMGBuffsPerCharDB = {
 				62.88969760598842, -- [5]
 			},
 		},
-		["firstStartup"] = false,
 	},
 	["namespaces"] = {
 		["SelfBuffs"] = {
@@ -20,6 +20,8 @@ ZOMGBuffsPerCharDB = {
 			},
 			["templates"] = {
 				["current"] = {
+					["modified"] = true,
+					["Demon Skin"] = true,
 				},
 			},
 			["reagents"] = {
@@ -27,19 +29,19 @@ ZOMGBuffsPerCharDB = {
 				["Infernal Stone"] = 5,
 			},
 		},
-		["Log"] = {
-		},
-		["BlessingsManager"] = {
-		},
-		["Portalz"] = {
-		},
 		["BuffTehRaid"] = {
-			["firstRun"] = true,
 			["selectedTemplate"] = "Default",
 			["templates"] = {
 				["current"] = {
 				},
 			},
+			["firstRun"] = true,
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["Log"] = {
 		},
 	},
 }

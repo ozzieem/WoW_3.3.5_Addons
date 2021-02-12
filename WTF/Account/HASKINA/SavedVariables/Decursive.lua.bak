@@ -1,0 +1,30 @@
+
+DecursiveDB = {
+	["global"] = {
+		["LastExpirationAlert"] = 1587365320,
+	},
+	["class"] = {
+		["PALADIN"] = {
+			["CureOrder"] = {
+				1, -- [1]
+				-14, -- [2]
+				nil, -- [3]
+				-15, -- [4]
+				[32] = -16,
+				[16] = 3,
+				[8] = 2,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Pala - Frozen Nexus [Custom]"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["MainBarX"] = 682.6666711723217,
+			["MainBarY"] = -95.99999730725244,
+			["DebuffsFrame_y"] = -153.5999956916039,
+			["DebuffsFrame_x"] = 1024.000006758482,
+		},
+	},
+}

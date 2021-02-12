@@ -1,0 +1,5 @@
+XPerl_Options: enabled
+XPerl_TeamSpeak: disabled
+CLCRet: disabled
+TellMeWhen: disabled
+SexySound: disabled

@@ -1,0 +1,47 @@
+
+ZOMGBuffsPerCharDB = {
+	["global"] = {
+		["pos"] = {
+			["point"] = {
+				"BOTTOMRIGHT", -- [1]
+				nil, -- [2]
+				"BOTTOMRIGHT", -- [3]
+				-346.806856860242, -- [4]
+				63.29838412578985, -- [5]
+			},
+		},
+		["firstStartup"] = false,
+	},
+	["namespaces"] = {
+		["SelfBuffs"] = {
+			["notlearnable"] = {
+				["Shadow Ward"] = true,
+				["Soul Link"] = true,
+			},
+			["templates"] = {
+				["current"] = {
+					["modified"] = true,
+					["Demon Skin"] = true,
+				},
+			},
+			["reagents"] = {
+				["Demonic Figurine"] = 5,
+				["Infernal Stone"] = 5,
+			},
+		},
+		["Log"] = {
+		},
+		["BlessingsManager"] = {
+		},
+		["Portalz"] = {
+		},
+		["BuffTehRaid"] = {
+			["firstRun"] = true,
+			["selectedTemplate"] = "Default",
+			["templates"] = {
+				["current"] = {
+				},
+			},
+		},
+	},
+}

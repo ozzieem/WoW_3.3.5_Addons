@@ -11,3 +11,11 @@ ZygorGuidesViewer: disabled
 BeanCounter: disabled
 AutoCrusaderAura: disabled
 Parrot: disabled
+TellMeWhen: disabled
+PallyPower: disabled
+Gatherer: disabled
+Gatherer_HUD: disabled
+TipTac: disabled
+TipTacItemRef: disabled
+TipTacTalents: disabled
+TipTacOptions: disabled

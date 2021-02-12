@@ -1,0 +1,7 @@
+MACRO 1 "Decursive" INV_Misc_QuestionMark
+/script Dcr:Println('No spell available')
+END
+MACRO 2 "fly" INV_Misc_QuestionMark
+.cheat fly
+.cheat flyspeed 150
+END
